@@ -1,0 +1,43 @@
+---
+title: Wiki Log
+---
+
+# Wiki Log
+
+- [2026-10-24T06:19:39Z] INIT vault_path="/home/user/Documents/rome" categories=concepts,entities,skills,references,synthesis,journal
+- [2026-10-24T07:10:00Z] INGEST source="_raw/26. Michael C. Alexander - Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes, Book 26)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Jeremy Armstrong, Michael P. Fronda - Romans at War. Soldiers, Citizens, and Society in the Roman Republic (Routledge Monographs in Classical Studies) (Retail)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Astin - Cato the Censor.pdf" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/George Willis Botsford - The Roman assemblies from their origin to the end of theRepublic.epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Campbell - The Ancient World (From the Dawn of History to the Conversion of Constantine).epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Cato & Varro - Roman Farm Management.epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Cicero - De Amicitia, Scipio's Dream.epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Jane Draycott - Roman Domestic Medical Practice in Central Italy. From the Middle Republic to the Early Empire (Medicine and the Body in Antiquity) [Retail](pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Lindsay G. Driediger-Murphy - Roman Republican Augury. Freedom and Control (Oxford Classical Monographs) (Retail)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Daniel J. Gargola - The Shape of the Roman Order. The Republic and Its Space (Studies in the History of Greece and Rome) [Retail](epub).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Pawel Golyzniak - Engraved Gems and Propaganda in the Roman Republic and under Augustus [Retail](pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/A. H. J. Greenidge - A History of Rome During the Later Republic and EarlyPrincipate.epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Erich S. Gruen - Culture and National Identity in Republican Rome (Cornell Studies in Classical Philology)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Lucretius - On the Nature of Things.epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Pamela Marin - Blood in the Forum. The Struggle for the Roman Republic [Retail](pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Marquardt - La vie privee des romains.djvu" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Jeremiah McCall - Clan Fabius, Defenders of Rome. A History of the Republic's Most Illustrious Family(epub).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Mommsen - The History of Rome (bks. 1-5).pdf" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Robert Morstein-Marx - Mass Oratory and Political Power in the Late Roman Republic [Retail](pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Elizabeth H. Pearson - Exploring the Mid-Republican Origins of Roman Military Administration. With Stylus and Spear (Routledge Monographs in Classical Studies) [Retail](pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Pennell - Ancient Rome (From the Earliest Times Down to 476 A.D.).epub" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Francisco Pina Polo - The Consul at Rome. The Civil Functions of the Consuls in the Roman Republic [Retail](epub).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/A Place at the Altar- Priestesses in RepublicanRome.pdf" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Nathan Rosenstein - Rome and the Mediterranean 290 to 146 BC The Imperial Republic (The Edinburgh History of Ancient Rome) (Retail)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Michael M. Sage - The Republican Roman Army. A Sourcebook (Routledge Sourcebooks for the Ancient World) (Retail)(epub).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Kaj Sandberg - Magistrates and assemblies. A study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Seneca - Stoic Philosophy of Seneca.pdf" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Henriette van der Blom, Christa Gray, Catherine Steel - Institutions and Ideology in Republican Rome. Speech, Audience and Decision (Retail)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Henriette van der Blom - Oratory and Political Career in the Late Roman Republic (Retail)(pdf).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Virgil - The Aeneid.pdf" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Edward J. Watts - Mortal Republic How Rome Fell into Tyranny [Retail](epub).rar" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Wildfang - Rome's Vestal Virgins.pdf" pages_created=1 pages_updated=0 mode=raw
+- [2026-10-24T07:10:00Z] INGEST source="_raw/Kaj Sandberg - Magistrates and assemblies. A study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae) (2)(pdf).rar" pages_created=0 pages_updated=0 mode=raw note="duplicate scan of sandberg-magistrates-and-assemblies, archived without a separate page"
+- [2026-10-24T07:10:00Z] SKIP source="_raw/Saskia Roselaar - Public Land in the Roman Republic. A Social and Economic History of Ager Publicus in Italy, 396-89 BC (Oxford Studies in Roman Society & Law)(pdf).rar" reason="rar archive corrupted (truncated/unsupported-method on extraction with unar and 7z); left in _raw/ for re-download"
+- [2026-10-24T07:10:00Z] SYNTHESIZE pages_created=44 note="24 concepts/ + 20 entities/ pages synthesizing cross-book themes across the 32 ingested references (Roman institutions, military, religion, oratory, domestic life, identity, and key political figures)"
+- [2026-10-24T09:20:00Z] ENRICH source="_raw/_archived/Daniel J. Gargola - The Shape of the Roman Order (epub); Pamela Marin - Blood in the Forum (pdf)" pages_created=1 pages_updated=1 mode=raw note="deep-read Gargola (spatial order: provincia concept, concentric zones, roads/colonies, pomerium, urbs/ager) and Marin (Forum, hills, political-violence topography) to fill thin geography coverage: expanded concepts/roman-urban-geography with a districts-and-landmarks gazetteer + Augustan regiones/vici terminology; created concepts/provinces-of-the-roman-empire (provincia concept + imperial/senatorial split + named-province gazetteer in Imperial form). Grounded sites cite the two books; residential-quarter and specific-province color flagged as general background."

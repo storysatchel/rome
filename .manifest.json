@@ -1,0 +1,404 @@
+{
+  "version": 1,
+  "sources": {
+    "/home/user/Documents/rome/_raw/A. H. J. Greenidge - A History of Rome During the Later Republic and EarlyPrincipate.epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 630294,
+      "modified_at": "2026-10-24T06:29:15Z",
+      "content_hash": "sha256:16b3e9256623c38c787e651de0cc5c48d91de8be7114b520850fe1e1c0276f32",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/greenidge-history-of-rome-later-republic.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Campbell - The Ancient World (From the Dawn of History to the Conversion of Constantine).epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 7568440,
+      "modified_at": "2026-10-24T06:15:11Z",
+      "content_hash": "sha256:d64135827da08babc7bd382ed6ec4db3b7ceea2dc3d8f53848c7a1b32ddc2058",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/campbell-the-ancient-world.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Edward J. Watts - Mortal Republic How Rome Fell into Tyranny [Retail](epub).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 30526425,
+      "modified_at": "2026-10-24T06:33:30Z",
+      "content_hash": "sha256:1334850b7b4321580478e02ef0fabeec4abffde2c86cce0e15555b2621ab7b72",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/watts-mortal-republic.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Mommsen - The History of Rome (bks. 1-5).pdf": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 44764219,
+      "modified_at": "2026-10-24T06:15:07Z",
+      "content_hash": "sha256:4afbc904153abd8503ea1be35d89c3a3f56985c050b7a4f31bd6e57fa1367c42",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/mommsen-history-of-rome.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Pennell - Ancient Rome (From the Earliest Times Down to 476 A.D.).epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 168127,
+      "modified_at": "2026-10-24T06:15:07Z",
+      "content_hash": "sha256:d563d5b2aec05bee3f3039864be24c4ed3c45c37e628aeffab11f58e7471919d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/pennell-ancient-rome.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Daniel J. Gargola - The Shape of the Roman Order. The Republic and Its Space (Studies in the History of Greece and Rome) [Retail](epub).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 3283617,
+      "modified_at": "2026-10-24T06:31:55Z",
+      "content_hash": "sha256:27ed93bacc0ce3334e9ef5511187dddaef5fee037f85e26403c45508b525cedb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/gargola-shape-of-the-roman-order.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Francisco Pina Polo - The Consul at Rome. The Civil Functions of the Consuls in the Roman Republic [Retail](epub).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 1230197,
+      "modified_at": "2026-10-24T06:28:48Z",
+      "content_hash": "sha256:5c33654e43850acdf1e273b54117130c5b59625682232fe7edff3f7b1f5841be",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/pina-polo-the-consul-at-rome.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/George Willis Botsford - The Roman assemblies from their origin to the end of theRepublic.epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 1003807,
+      "modified_at": "2026-10-24T06:36:07Z",
+      "content_hash": "sha256:6a52df5eade8355c5dab79f0c1199413e87f7d70eaea300615a20d4f6b71c283",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/botsford-roman-assemblies.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Kaj Sandberg - Magistrates and assemblies. A study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 3504370,
+      "modified_at": "2026-10-24T06:29:56Z",
+      "content_hash": "sha256:43a81c1c6e817573285fe847392d19fc3cc8d7365b1d2bbffa87a653c1eb6d36",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/sandberg-magistrates-and-assemblies.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Cicero - De Amicitia, Scipio's Dream.epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 67943,
+      "modified_at": "2026-10-24T06:15:03Z",
+      "content_hash": "sha256:f514c2ca13d90e40a2ea1879b1cd68bf68770958c97766a15845826861f97758",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/cicero-de-amicitia-scipios-dream.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Henriette van der Blom, Christa Gray, Catherine Steel - Institutions and Ideology in Republican Rome. Speech, Audience and Decision (Retail)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 3047394,
+      "modified_at": "2026-10-24T06:29:39Z",
+      "content_hash": "sha256:fdcedba8dbd033b4b86f456d6d55ff8f893d15a7e24675a0d4d24a4ca9165345",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/vanderblom-gray-steel-institutions-ideology.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Henriette van der Blom - Oratory and Political Career in the Late Roman Republic (Retail)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 4142379,
+      "modified_at": "2026-10-24T06:36:16Z",
+      "content_hash": "sha256:8f50f10b4e78fea7614e0b7a6b7956c6f44723e7da5152943302bbb8f39b7ae4",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/vanderblom-oratory-political-career.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Robert Morstein-Marx - Mass Oratory and Political Power in the Late Roman Republic [Retail](pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 1686286,
+      "modified_at": "2026-10-24T06:38:40Z",
+      "content_hash": "sha256:84f1fff7f7e40732540127bc92facce6251e6b88e6e3c3a733884c1ec6ed8725",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/morsteinmarx-mass-oratory.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/26. Michael C. Alexander - Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes, Book 26)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 7323315,
+      "modified_at": "2026-10-24T06:35:17Z",
+      "content_hash": "sha256:6d005cbda37a3b9f84215902127b0b9ceda62fd0b189ce3ae6ff320dc6718a64",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/alexander-trials-late-roman-republic.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/A Place at the Altar- Priestesses in RepublicanRome.pdf": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 29492459,
+      "modified_at": "2026-10-24T06:28:35Z",
+      "content_hash": "sha256:0ca35fdc678a99c732d1c0acd9ce809b984d17e0c7ac9dfc76127952ef163c8e",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/place-at-the-altar-priestesses.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Lindsay G. Driediger-Murphy - Roman Republican Augury. Freedom and Control (Oxford Classical Monographs) (Retail)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 1371791,
+      "modified_at": "2026-10-24T06:37:20Z",
+      "content_hash": "sha256:1c2e7d5161c427ca05897cbd27319a71930e4e373e8f6075376aa66716f1583f",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/driedigermurphy-roman-republican-augury.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Wildfang - Rome's Vestal Virgins.pdf": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 1344021,
+      "modified_at": "2026-10-24T06:15:08Z",
+      "content_hash": "sha256:22074585bced4f17ede1d88d943755173539103a0d7c22ed2cc59ffd5925d848",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/wildfang-romes-vestal-virgins.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Elizabeth H. Pearson - Exploring the Mid-Republican Origins of Roman Military Administration. With Stylus and Spear (Routledge Monographs in Classical Studies) [Retail](pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 6304500,
+      "modified_at": "2026-10-24T06:35:52Z",
+      "content_hash": "sha256:646233d572f843349f9b922c5acd0405e8367cf76071111af9a4203b40b49dd0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/pearson-mid-republican-military-administration.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Jeremy Armstrong, Michael P. Fronda - Romans at War. Soldiers, Citizens, and Society in the Roman Republic (Routledge Monographs in Classical Studies) (Retail)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 9228208,
+      "modified_at": "2026-10-24T06:36:55Z",
+      "content_hash": "sha256:203a7656849642ca2066d4d0d6774c88c1f5bef1c9205c6678041879b10c94ab",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/armstrong-fronda-romans-at-war.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Michael M. Sage - The Republican Roman Army. A Sourcebook (Routledge Sourcebooks for the Ancient World) (Retail)(epub).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 748928,
+      "modified_at": "2026-10-24T06:37:53Z",
+      "content_hash": "sha256:6482c30490c19cfa6056cfa9aab78b18d1938c3fd604577a1352184e292003e5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/sage-republican-roman-army-sourcebook.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Nathan Rosenstein - Rome and the Mediterranean 290 to 146 BC The Imperial Republic (The Edinburgh History of Ancient Rome) (Retail)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 4213245,
+      "modified_at": "2026-10-24T06:30:27Z",
+      "content_hash": "sha256:51e09161adcad3626e6372e77b2a2b96db5980e565b06dc71372603eec0efa03",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/rosenstein-rome-and-the-mediterranean.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Astin - Cato the Censor.pdf": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 6731837,
+      "modified_at": "2026-10-24T06:15:05Z",
+      "content_hash": "sha256:58fda0eebae9a3e996376a98b61563f13da5cdf601a6cb93a7ea4457b990b242",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/astin-cato-the-censor.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Erich S. Gruen - Culture and National Identity in Republican Rome (Cornell Studies in Classical Philology)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 16329434,
+      "modified_at": "2026-10-24T06:33:49Z",
+      "content_hash": "sha256:8b6a9488c94dcfe5a7aedb7a5c37f5f98bee623dd733421c1f5ab7ae3f2f9354",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/gruen-culture-national-identity.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Jeremiah McCall - Clan Fabius, Defenders of Rome. A History of the Republic's Most Illustrious Family(epub).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 950850,
+      "modified_at": "2026-10-24T06:30:39Z",
+      "content_hash": "sha256:5c9c432685131ae363859a724e9fdcdeceab47c5ed99d0291ce99f1293f817fb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/mccall-clan-fabius.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Pamela Marin - Blood in the Forum. The Struggle for the Roman Republic [Retail](pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 1622049,
+      "modified_at": "2026-10-24T06:38:10Z",
+      "content_hash": "sha256:804d95f091e6fdd7efad861139f1de9490a364b29c55cfef712c4e001018804a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/marin-blood-in-the-forum.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Pawel Golyzniak - Engraved Gems and Propaganda in the Roman Republic and under Augustus [Retail](pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 44006596,
+      "modified_at": "2026-10-24T06:38:34Z",
+      "content_hash": "sha256:7e4f42471131502bb0c20b9a3f479188964e42f5c101190d3cbb5fcd76ab585a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/golyzniak-engraved-gems-propaganda.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Cato & Varro - Roman Farm Management.epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 581708,
+      "modified_at": "2026-10-24T06:15:04Z",
+      "content_hash": "sha256:de4d8a15fa2200ea5b03ee9b965902f0e30eb937c51c41dd171442f20ef51077",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/cato-varro-roman-farm-management.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Jane Draycott - Roman Domestic Medical Practice in Central Italy. From the Middle Republic to the Early Empire (Medicine and the Body in Antiquity) [Retail](pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 6957328,
+      "modified_at": "2026-10-24T06:36:41Z",
+      "content_hash": "sha256:2de479bf1de4c0b8552da461b4c570cb036933706bf6e0d5c917b1e0ffa39896",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/draycott-roman-domestic-medical-practice.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Marquardt - La vie privee des romains.djvu": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 17151297,
+      "modified_at": "2026-10-24T06:15:11Z",
+      "content_hash": "sha256:002c9d26db4bfd7855697035126b87ea8ebfe7a08cf54333ef420ff8c8514a78",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/marquardt-vie-privee-des-romains.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Lucretius - On the Nature of Things.epub": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 31481,
+      "modified_at": "2026-10-24T06:15:03Z",
+      "content_hash": "sha256:4acd1d7f11ff503cc635eb83d77b27e8270b3ff58c0890d42d3c0e76c8276baf",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/lucretius-on-the-nature-of-things.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Seneca - Stoic Philosophy of Seneca.pdf": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 21056610,
+      "modified_at": "2026-10-24T06:15:10Z",
+      "content_hash": "sha256:78cc4f361cd46653886a1833d10f308d0a8b74fa841e1c9bbe7fc4aba38de9b6",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/seneca-stoic-philosophy.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Virgil - The Aeneid.pdf": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 16094988,
+      "modified_at": "2026-10-24T06:15:03Z",
+      "content_hash": "sha256:5ea43cce780c5d801d551d4f3926cc7cca29a08022bb84c16cf7df415ee93bb8",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/virgil-the-aeneid.md"
+      ],
+      "pages_updated": []
+    },
+    "/home/user/Documents/rome/_raw/Kaj Sandberg - Magistrates and assemblies. A study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae) (2)(pdf).rar": {
+      "ingested_at": "2026-10-24T06:58:31Z",
+      "size_bytes": 121952778,
+      "modified_at": "2026-10-24T06:37:28Z",
+      "content_hash": "sha256:d3b0ebc474e5c94ac3dce992dd0c974eea06f5183575e4c00d3459cffba76484",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "duplicate (higher-resolution) scan of the same work as sandberg-magistrates-and-assemblies.md; no separate page created"
+    }
+  },
+  "stats": {
+    "total_sources_ingested": 33,
+    "total_pages": 33
+  }
+}

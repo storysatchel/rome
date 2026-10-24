@@ -1,0 +1,13 @@
+# Raw source documents (ebooks, PDFs, archives) — large binaries, not vault content
+_raw/*
+!_raw/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / temp files
+*.swp
+*~
+*.bak
+.tmp/

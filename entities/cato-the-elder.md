@@ -2,8 +2,8 @@
 title: Marcus Porcius Cato (Cato the Elder / Cato the Censor)
 category: entities
 tags: [cato-the-elder, hellenism, virtus, censorship, roman-identity]
-sources: ["[[references/astin-cato-the-censor]]", "[[references/gruen-culture-national-identity]]", "[[references/marin-blood-in-the-forum]]"]
-summary: Censor (234–149 BC) treated by Astin and Gruen as a deliberately consistent figure whose Hellenism/anti-Hellenism "paradox" was calculated positioning, and by Marin as the paradigmatic embodiment of Roman virtus.
+sources: ["[[references/astin-cato-the-censor]]", "[[references/gruen-culture-national-identity]]", "[[references/marin-blood-in-the-forum]]", "[[references/hudson-rhetoric-roman-transportation]]"]
+summary: Censor (234-149 BC): Astin and Gruen read his Hellenism/anti-Hellenism 'paradox' as calculated positioning; Marin and Hudson both use him as the paradigmatic exemplar of Roman virtus.
 provenance:
   extracted: 0.7
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-24T20:42:00Z"
 ---
 
 # Marcus Porcius Cato (Cato the Elder / Cato the Censor)
@@ -31,6 +31,7 @@ Cato the Elder is the most heavily cross-attested figure in this batch: a full s
 - Astin's biography documents Cato's investment-farming model in the *De agricultura*: cash-crop estates of roughly 100–240 *iugera* producing wine or olive oil for absentee owners, expanding in the early 2nd century largely by filling a vacuum left by war casualties and displaced peasants from the Second Punic War, and by exploiting the enlarged *ager publicus* — not yet, in Cato's own lifetime, primarily by dispossessing smallholders (that dispossession intensified later and fed into Tiberius Gracchus's tribunate in 133 BC).
 - Marin's *Blood in the Forum*, whose author's own doctoral research was on Cato the Younger, uses Cato the Elder as a one-chapter framing exemplar of Roman *virtus* — courage, practical political judgment, and service to the *res publica* — quoting Livy's praise of his versatile competence in war, law, and oratory alike, alongside the legendary Cincinnatus. Marin's treatment is explicitly schematic (a single framing vignette) rather than a close textual argument, in contrast to Astin's and Gruen's specialist studies, reflecting her book's broader synthetic, narrative-history purpose.
 - Astin himself judges Cicero's own characterization of Cato in *De senectute* unreliable as biography, since Cicero used Cato chiefly as "a dramatic mouthpiece" for his own views on old age rather than as a historically faithful portrait — a methodological caution relevant to Marin's later invocation of Ciceronian material (via [[entities/cato-the-younger]]'s mantle) elsewhere in the batch. ^[inferred]
+- Hudson's literary study independently corroborates the "calculated, consistent persona" reading: Seneca (*Ep.* 87) stages a hypothetical encounter between Cato — riding a single unadorned gelding loaded with saddlebags carrying only the essentials — and a contemporary dandy traveling with runners, Numidian outriders, and a cloud of dust, using Cato's remembered austerity as raw material for a Stoic argument about shedding unnecessary burdens. Seneca's rhetorical point rests entirely on vehicular minimalism as moral authority: "O what an honor it was... that a Cato was content with a single nag." This is a later (1st century AD) literary memory of Cato rather than a contemporary source, but it shows his austere public image had calcified into a durable cultural reference point within two centuries of his death. ^[inferred]
 
 ## Open Questions
 
@@ -42,3 +43,4 @@ Cato the Elder is the most heavily cross-attested figure in this batch: a full s
 - [[references/astin-cato-the-censor]]
 - [[references/gruen-culture-national-identity]]
 - [[references/marin-blood-in-the-forum]]
+- [[references/hudson-rhetoric-roman-transportation]]

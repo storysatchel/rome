@@ -2,18 +2,18 @@
 title: Provinces of the Roman Empire
 category: concepts
 tags: [provincia, empire, imperial-administration, provinces, territory, geography]
-sources: ["[[references/gargola-shape-of-the-roman-order]]", "[[references/rosenstein-rome-and-the-mediterranean]]"]
-summary: How the Latin provincia shifted from a magistrate's assigned task to a bounded territory, and a gazetteer of the named provinces in their Imperial form (c. 100-120 CE), split into imperial (military, emperor's) and senatorial (peaceful) provinces, with Egypt as the emperor's private domain.
+sources: ["[[references/gargola-shape-of-the-roman-order]]", "[[references/rosenstein-rome-and-the-mediterranean]]", "[[references/goodman-roman-city-periphery]]", "[[references/scarre-penguin-atlas-ancient-rome]]"]
+summary: How provincia shifted from a task to a territory; a gazetteer of named provinces; provincial urbanism as an exportable Roman city-model; and the empire's eventual collapse in the West.
 provenance:
   extracted: 0.45
-  inferred: 0.15
-  ambiguous: 0.4
-base_confidence: 0.6
+  inferred: 0.2
+  ambiguous: 0.35
+base_confidence: 0.9
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T09:20:00Z"
-updated: "2026-10-24T09:20:00Z"
+updated: "2026-10-24T20:38:00Z"
 relationships:
   - target: "[[concepts/roman-provincial-administration]]"
     type: elaborates
@@ -23,7 +23,7 @@ relationships:
 
 # Provinces of the Roman Empire
 
-The named territorial provinces of the empire and the concept behind them. For the Republican *mechanics* of governing and financing conquered territory (manpower levies, *tributum*, quaestorial finance), see [[concepts/roman-provincial-administration]]; this page adds the spatial concept and a gazetteer in Imperial form.
+The named territorial provinces of the empire and the concept behind them. For the Republican *mechanics* of governing and financing conquered territory (manpower levies, *tributum*, quaestorial finance), see [[concepts/roman-provincial-administration]]; this page adds the spatial concept, a gazetteer in Imperial form, the urbanism pattern Rome exported to provincial cities, and the empire's eventual territorial collapse in the West.
 
 ## The Concept of *Provincia*
 
@@ -60,11 +60,29 @@ Entries marked **[grounded]** draw their framing from Gargola; the specific impe
 - **Germania & the Rhine-Danube limes** [background] — the empire's armed edge and densest concentration of legions after Teutoburg (9 CE); the Danube provinces (Raetia, Noricum, Pannonia, Moesia, Trajan's new Dacia) face Germans and Sarmatians.
 - **Iudaea** [background] — a small, turbulent eastern province of equestrian governors backed by Syria's legions; its monotheism baffled Rome, and the Temple fell in 70 CE.
 
+## Provincial Urbanism: The City Exported (Goodman)
+
+- Goodman's case study of Roman Gaul shows the Roman city-model — a sharply bounded, display-oriented center ringed by a functional periurban periphery (see [[concepts/roman-urban-geography]]) — was actively reproduced across the provinces, not just native to Rome itself. More than half of Gaul's administrative cities (Lyon, Autun, Vienne, and smaller towns like Argentomagus) show archaeological evidence of this same center/periphery pattern.
+- This urbanism persisted through late antiquity even as city walls became more defensive and less permeable; churches gradually took over many of the social functions earlier periurban public buildings had served, which Goodman reads as continuity of *function* rather than a wholly new late-antique role for the urban periphery.
+- Comparison with Romano-British evidence (Esmonde Cleary's survey: 50 of 60 towns studied show extramural development) supports reading this as a genuinely empire-wide model, not a Gaul-specific quirk. ^[inferred]
+
+## The End of the Western Provinces (Scarre)
+
+Gargola's and Goodman's material describes the provincial system near its height; Scarre's atlas supplies the chronological bookend — how Rome's western provinces were lost.
+
+- The crisis sharpened after the Battle of Adrianople (378 AD), where Gothic forces killed the eastern emperor Valens; the empire was by then formally split into western and eastern halves (Valentinian I and Valens, from 364).
+- Successive waves of Vandals, Alans, Suebi, and Visigoths crossed into Gaul, Spain, and North Africa through the early-to-mid 5th century; the Goths sacked Rome itself in 410 after years of failed negotiation with Emperor Honorius's government.
+- Romulus Augustulus's abdication in 476 AD is marked as the symbolic end of the Western Empire — after this point, former provinces (Gaul, Spain, Africa, Britain) became a patchwork of independent Germanic kingdoms (Ostrogoths, Visigoths, Vandals, Franks). The Eastern Empire survived and under Justinian I (527–565) briefly reconquered significant western territory, though most was lost again within a generation. ^[extracted]
+
+
 ## Open Questions
 
 - Gargola traces the Republican *provincia*; none of the sampled sources details how the informal mid-Republican "hegemony" became the formal imperial dual system (imperial/senatorial) — that transition is standard history layered on top here. ^[ambiguous]
+- Scarre's fall-of-empire narrative was read via vision from a scanned atlas spread, not cross-checked against a dedicated late-antiquity monograph in this wiki; exact dates should be treated as reference-grade rather than authoritative if a future source disagrees. ^[ambiguous]
 
 ## Sources
 
 - [[references/gargola-shape-of-the-roman-order]]
 - [[references/rosenstein-rome-and-the-mediterranean]]
+- [[references/goodman-roman-city-periphery]]
+- [[references/scarre-penguin-atlas-ancient-rome]]

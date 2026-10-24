@@ -2,18 +2,18 @@
 title: Roman Urban Geography
 category: concepts
 tags: [rome-urban-population, forum, late-republic, political-violence, topography]
-sources: ["[[references/marin-blood-in-the-forum]]", "[[references/gargola-shape-of-the-roman-order]]"]
-summary: The spatial structure of the city of Rome — the Forum, the seven hills and named quarters, the Campus Martius, and the sacred pomerium — and how the dense clustering of people around the political center shaped Late Republican politics.
+sources: ["[[references/marin-blood-in-the-forum]]", "[[references/gargola-shape-of-the-roman-order]]", "[[references/goodman-roman-city-periphery]]"]
+summary: Rome's own spatial layout (Forum, hills, pomerium) plus the empire-wide periurban pattern just outside city boundaries — a flexible zone balancing elite display and economic activity.
 provenance:
   extracted: 0.55
   inferred: 0.25
   ambiguous: 0.2
-base_confidence: 0.6
+base_confidence: 0.9
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:29Z"
-updated: "2026-10-24T09:20:00Z"
+updated: "2026-10-24T20:32:00Z"
 relationships:
   - target: "[[concepts/roman-religion-and-augury]]"
     type: related_to
@@ -23,7 +23,7 @@ relationships:
 
 # Roman Urban Geography
 
-The physical and demographic structure of the city of Rome — how closely its population clustered around the Forum and other political spaces — shaped the texture of Late Republican politics, turning everyday civic life into near-constant, high-density political participation.
+The physical and demographic structure of the city of Rome — how closely its population clustered around the Forum and other political spaces — shaped the texture of Late Republican politics, turning everyday civic life into near-constant, high-density political participation. Goodman's empire-wide study of the *periurban* zone (just outside a city's formal boundary) extends this from Rome's own layout to a general pattern found across the Roman world.
 
 ## Key Ideas
 
@@ -32,6 +32,8 @@ The physical and demographic structure of the city of Rome — how closely its p
 - Marin connects this urban-geographic concentration to the broader arc of Late Republican crisis: he lists land pressure, army reform under Marius (creating armies loyal to generals rather than the state), and urban population concentration together as structural factors behind the Republic's instability, without ranking their relative causal weight. ^[ambiguous]
 - Gargola's master organizing contrast is **urbs vs. ager** — the city proper versus the surrounding fields — and, above all, the sacred boundary of the **pomerium**, inside which military *imperium* could not normally be exercised. This single ritual line structures the whole geography below.
 - Marin's account of the Republic's gradual, partly-concealed transition to one-man rule under Octavian/Augustus after Actium (31 BC) implies that Rome's dense urban political arena persisted institutionally (elections, trials, legislation continued) even as its substance was being hollowed out. ^[inferred]
+- **The periurban pattern, empire-wide (Goodman):** developing a distinct urban periphery just outside the formal boundary was a widespread, functional feature of Roman cities everywhere — not a marginal medieval-style slum. It resolved a structural tension: elite cities needed sharply bounded centers for prestige display, but that same boundary drove up central land prices and squeezed out ordinary commerce and housing. The periphery let both functions coexist spatially — potters at Sens sold within the city without paying central land premiums, and amphitheatres/circuses were often deliberately sited peripherally to be maximally visible to arriving visitors. More than half the administrative cities of Roman Gaul show archaeological evidence of this pattern, and Esmonde Cleary's survey of Roman Britain found positive evidence at 50 of 60 towns studied — suggesting this generalizes well beyond Gaul. ^[extracted]
+- Goodman's periurban framework offers a candidate mechanism for Rome's own layout that neither Marin nor Gargola states explicitly: commercial districts like the **Subura** (crowded tenements, workshops) and **Transtiberim** (docks, warehouses) sit structurally *outside* or at the edge of the ritual/political core (Forum, Capitoline, pomerium) in exactly the pattern Goodman documents for provincial cities — the same center/periphery logic may apply to Rome itself, not just the provinces it ruled. ^[inferred]
 
 ## The City in Space: Districts and Landmarks
 
@@ -59,3 +61,4 @@ The Republican sources describe the city through its **seven hills, its Forum, a
 
 - [[references/marin-blood-in-the-forum]]
 - [[references/gargola-shape-of-the-roman-order]]
+- [[references/goodman-roman-city-periphery]]

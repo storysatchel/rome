@@ -395,10 +395,100 @@
       "pages_created": [],
       "pages_updated": [],
       "note": "duplicate (higher-resolution) scan of the same work as sandberg-magistrates-and-assemblies.md; no separate page created"
+    },
+    "/home/user/Documents/rome/_raw/Saskia Roselaar - Public Land in the Roman Republic. A Social and Economic History of Ager Publicus in Italy, 396-89 BC (Oxford Studies in Roman Society & Law)(pdf).rar": {
+      "ingested_at": "2026-10-24T18:29:44Z",
+      "size_bytes": 2869679,
+      "modified_at": "2026-10-24T06:39:15Z",
+      "content_hash": "sha256:ab0b22adefe8ae0b0ae4886ce516d051f716145e13d06b5c89f9eec91186ec72",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/roselaar-public-land-roman-republic.md"
+      ],
+      "pages_updated": [
+        "concepts/ager-publicus.md",
+        "concepts/land-and-agrarian-conflict.md"
+      ],
+      "note": "Initially misdiagnosed as corrupted (unar/7z both failed with RAR5 'unsupported method' / truncation errors on first attempt); bsdtar (libarchive) extracted it cleanly. Re-ingested after user pushback."
+    },
+    "/home/user/Documents/rome/_raw/Jared Hudson - The Rhetoric of Roman Transportation. Vehicles in Latin Literature [Retail].azw3": {
+      "ingested_at": "2026-10-24T18:45:34Z",
+      "size_bytes": 1860740,
+      "modified_at": "2026-10-24T18:17:13Z",
+      "content_hash": "sha256:6d24b4c3cd0fef03638f1f36200f426f2e84cc186bb57d348e6944cae0033658",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/hudson-rhetoric-roman-transportation.md"
+      ],
+      "pages_updated": [
+        "entities/cato-the-elder.md",
+        "entities/gaius-gracchus.md"
+      ]
+    },
+    "/home/user/Documents/rome/_raw/Peter Fibiger Bang - The Roman Bazaar. A Comparative Study of Trade and Markets in a Tributary Empire.pdf": {
+      "ingested_at": "2026-10-24T18:45:34Z",
+      "size_bytes": 43970609,
+      "modified_at": "2026-10-24T18:17:14Z",
+      "content_hash": "sha256:3fa881bcabbb309ce1228e688be0b720ed7f81bb798392e4b0f2d152788d4451",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/bang-roman-bazaar.md"
+      ],
+      "pages_updated": [
+        "concepts/roman-economy-and-trade.md"
+      ]
+    },
+    "/home/user/Documents/rome/_raw/The Penguin Historical Atlas of Ancient Rome - Chris Scarre.pdf": {
+      "ingested_at": "2026-10-24T18:45:34Z",
+      "size_bytes": 22109797,
+      "modified_at": "2026-10-24T06:50:21Z",
+      "content_hash": "sha256:81ac30a8d873258ebaf9d0587cccf23218cffd8be303fb1876375b9eb5e766cf",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/scarre-penguin-atlas-ancient-rome.md"
+      ],
+      "pages_updated": [
+        "concepts/roman-economy-and-trade.md",
+        "concepts/roman-travel-and-transportation.md",
+        "concepts/provinces-of-the-roman-empire.md"
+      ]
+    },
+    "/home/user/Documents/rome/_raw/The Roman City and its Periphery - From Rome to Gaul - Penelope Goodman.pdf": {
+      "ingested_at": "2026-10-24T18:45:34Z",
+      "size_bytes": 5092821,
+      "modified_at": "2026-10-24T06:57:33Z",
+      "content_hash": "sha256:123c4a641793775cea377025f86f0587257713f1d6177a82c230f1709f7b3623",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/goodman-roman-city-periphery.md"
+      ],
+      "pages_updated": [
+        "concepts/roman-urban-geography.md",
+        "concepts/provinces-of-the-roman-empire.md"
+      ]
+    },
+    "/home/user/Documents/rome/_raw/Travel in the Ancient World - Lionel Casson.pdf": {
+      "ingested_at": "2026-10-24T18:45:34Z",
+      "size_bytes": 53604898,
+      "modified_at": "2026-10-24T07:09:19Z",
+      "content_hash": "sha256:57a22b5f1a31766706be03b193521752ade18d8af4b42235b0931b740f97710c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/casson-travel-ancient-world.md"
+      ],
+      "pages_updated": [
+        "concepts/roman-travel-and-transportation.md"
+      ]
     }
   },
   "stats": {
-    "total_sources_ingested": 33,
-    "total_pages": 33
+    "total_sources_ingested": 39,
+    "total_pages": 38
   }
 }

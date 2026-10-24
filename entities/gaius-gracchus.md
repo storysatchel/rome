@@ -2,18 +2,18 @@
 title: Gaius Sempronius Gracchus
 category: entities
 tags: [gaius-gracchus, tribunate, popularis, oratory, late-republic]
-sources: ["[[references/morsteinmarx-mass-oratory]]", "[[references/vanderblom-oratory-political-career]]"]
-summary: Tribune (123–122 BC) celebrated by both citing sources as a pioneer of confrontational popularis oratory, whose broad "champion of the people" platform ultimately fractured along the Roman populace's divergent interests.
+sources: ["[[references/morsteinmarx-mass-oratory]]", "[[references/vanderblom-oratory-political-career]]", "[[references/hudson-rhetoric-roman-transportation]]"]
+summary: Tribune (123-122 BC), pioneer of confrontational popularis oratory whose 'champion of the people' platform fractured along divergent interests; his own anecdotes survive via Gellius.
 provenance:
   extracted: 0.7
   inferred: 0.2
   ambiguous: 0.1
-base_confidence: 0.73
+base_confidence: 0.9
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-24T20:45:00Z"
 ---
 
 # Gaius Sempronius Gracchus
@@ -28,6 +28,7 @@ Gaius Gracchus is treated by both Morstein-Marx and van der Blom as a genuine in
 - Van der Blom's volume illustrates the limits of a single public profile through Gracchus's own case: his broad "champion of the people" image concealed real divergence of interest between urban plebs (who favored his grain law), rural plebs (who favored the agrarian law but opposed his Italian enfranchisement bill), equestrians (who favored jury reform), and Latins/Italians (who wanted citizenship rights) — his failure to differentiate messaging to these sub-groups is identified as a contributing factor in his political collapse.
 - The tribunate's structural appeal — never part of the formal *cursus honorum*, barred to patricians, but offering near-unlimited access to oratorical occasions via the right to call a *contio* and present bills — is cited by van der Blom as explaining why politicians like the Gracchi were drawn to it out of genuine ideological commitment to popular causes, rather than merely as a career stepping-stone. ^[inferred] (synthesized across van der Blom's discussion of tribunician motive)
 - Aulus Gellius's *Attic Nights* is identified as a key non-political-focus source preserving apparently verbatim fragments of Gracchus's oratory (alongside Cato the Elder and Caesar) that would otherwise be lost.
+- Hudson's literary study independently foregrounds the same Gellius fragment this page already flags as a key verbatim source: Gracchus, comparing orators in a speech, told of a young unelected Roman envoy who was carried through Venusia in a litter (*lectica*); when a local plowman joked he must be carrying a corpse, the envoy had the plowman beaten to death with the litter's own straps. Gracchus cited the episode as an example of "the excessive wantonness and lack of self-control of young men" — Hudson reads the litter itself as the vehicle (literal and rhetorical) through which Gracchus compresses class conflict, elite brutality, and generational decline into a single image. ^[extracted]
 
 ## Open Questions
 
@@ -37,3 +38,4 @@ Gaius Gracchus is treated by both Morstein-Marx and van der Blom as a genuine in
 
 - [[references/morsteinmarx-mass-oratory]]
 - [[references/vanderblom-oratory-political-career]]
+- [[references/hudson-rhetoric-roman-transportation]]

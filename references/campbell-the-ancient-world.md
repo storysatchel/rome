@@ -47,5 +47,10 @@ As a confessional homeschool textbook rather than a scholarly monograph, this bo
 - The book's dramatized vignettes (Etruscan funeral, Sabine women abduction-and-reconciliation, Caesar's assassination dialogue) blend attested ancient tradition with invented dialogue; where the line falls between inherited legend (e.g., Livy/Plutarch) and the author's own narrative invention is not always sourced in-text.^[ambiguous]
 - The claim that Sulla killed "as many as nine thousand people" during the proscriptions is stated without a specific ancient source citation in the sampled text; ancient figures for Sulla's proscription victims vary across sources.^[ambiguous]
 
+
+## Related Scenarios
+
+- [[scenarios/the-day-of-eleusis]]
+
 ## Sources
 - Campbell — The Ancient World (From the Dawn of History to the Conversion of Constantine)

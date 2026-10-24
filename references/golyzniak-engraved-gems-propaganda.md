@@ -3,7 +3,7 @@ title: Golyzniak, Pawel — Engraved Gems and Propaganda in the Roman Republic a
 category: references
 tags: [material-propaganda, elite-families, art-and-ideology, gem-engraving, augustus]
 sources: ["Golyzniak, Pawel — Engraved Gems and Propaganda in the Roman Republic and under Augustus"]
-summary: Golyzniak's 2020 study argues that engraved gems (intaglios and cameos) functioned as a distinct, effective, and understudied channel of Roman political self-presentation and propaganda from the 3rd century BC to Augustus.
+summary: Golyzniak's 2020 study argues engraved gems (intaglios, cameos) functioned as a distinct, effective, understudied channel of Roman political self-presentation from the 3rd c. BC to Augustus.
 provenance:
   extracted: 0.72
   inferred: 0.2

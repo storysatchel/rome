@@ -50,6 +50,13 @@ Pina Polo frames his contribution explicitly against the "highly theoretical" le
 - The precise legal relationship between *imperium* and *potestas*, and whether the *pomerium* marked a strictly territorial or a qualitative (civil/military) boundary, remains unresolved in the scholarship the book surveys. ^[ambiguous]
 - The book's own synthesis of the pre-153 BC consular year's starting dates concedes that evidence is sparse and sometimes contradictory for the 5th and 4th centuries, leaving the earliest chronology uncertain. ^[ambiguous]
 
+## Related Scenarios
+
+- [[scenarios/the-oropus-publicani-lawsuit]] — Oropus's 74-73 BC lawsuit against the publicani over Sulla's tax-exempt grant to the temple of Amphiaraus, resolved via consular correspondence.
+- [[scenarios/the-trial-of-dictator-gaius-maenius]] — the 314 BC dictator C. Maenius's overreach investigating aristocrats for electoral fraud, forcing his resignation.
+- [[scenarios/the-prosecution-campaign-against-manlius-vulso]] — tribunes Nerva and Turdus's 177 BC attempt to strip consul A. Manlius Vulso of his command after his Histrian defeat.
+- [[scenarios/metellus-celer-vs-tribune-flavius]] — the 60 BC clash in which tribune Flavius briefly imprisoned consul Metellus Celer over Pompey's veteran land bill.
+
 ## Sources
 
 - Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic

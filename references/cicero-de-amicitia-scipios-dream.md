@@ -48,6 +48,10 @@ As a primary source, *De Amicitia* and *Scipio's Dream* function as foundational
 - The extent to which the dialogue's content reflects the historical Laelius's actual views versus Ciceronian literary invention remains, by nature, unanswerable from the text alone.
 - Because most of *De Republica* is lost, *Scipio's Dream*'s original argumentative context (what immediately preceded Scipio's narration of the dream in Book 6) cannot be fully reconstructed from this fragment alone. ^[ambiguous]
 
+## Specific Incidents Mined From This Text
+
+This re-read pass extracted several discrete, named political incidents referenced in passing by Laelius, Scaevola, and Peabody's footnotes: [[scenarios/quintus-pompeius-betrays-scipio-and-laelius]] (a broken election promise that ended Scipio Aemilianus's friendship with Quintus Pompeius), [[scenarios/sulpicius-pompeius-friendship-collapse]] (the 88 BC collapse of Sulpicius Rufus and Pompeius Rufus's friendship into street violence), and [[scenarios/spurius-maelius-grain-populism-and-death]] (the 5th-century BC killing of the grain-populist Spurius Maelius, cited as a precedent for tyrannicide).
+
 ## Sources
 
 - Cicero — De Amicitia, Scipio's Dream

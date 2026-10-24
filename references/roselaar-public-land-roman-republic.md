@@ -3,7 +3,7 @@ title: "Public Land in the Roman Republic: A Social and Economic History of Ager
 category: references
 tags: [ager-publicus, land-reform, roman-republic, gracchi, population-growth]
 sources: ["Roselaar, Saskia T. — Public Land in the Roman Republic: A Social and Economic History of Ager Publicus in Italy, 396-89 BC"]
-summary: Roselaar argues ager publicus should be studied as an economic/social institution, not just a legal one, and that 2nd-century population growth, not elite land-grabbing, squeezed small farmers off private land.
+summary: Roselaar argues ager publicus should be studied as an economic/social institution, not just legal, and that 2nd-c. population growth, not elite land-grabbing, squeezed farmers off land.
 provenance:
   extracted: 0.8
   inferred: 0.15

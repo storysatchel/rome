@@ -44,10 +44,13 @@ Covers roughly the Middle and Late Republic through the early Principate, concen
 
 The book positions itself explicitly against a "current consensus" it treats as near-universal among modern scholars of Roman religion (naming Linderski as "the most distinguished modern scholar of augury"), arguing that this consensus — despite differences among its proponents — shares an unexamined assumption that divine agency in augury was fictive or instrumentalized. Driediger-Murphy argues this reverses the actual Ciceronian testimony, in which the human augur's power derives from genuinely representing Jupiter's will, not substituting for it. She situates her revisionist argument within a broader shift in anthropology away from functionalist theories of divination.^[inferred]
 
+## Related Scenarios
+
+A subsequent re-scour pass read Chapters 1–3 in full for specific named instances of augural disputes, producing three scenario pages: [[scenarios/gracchus-auspicial-flaw-162-bc]] (a consul's self-reported ritual error, a year after the fact, voiding the following year's consular election), [[scenarios/marcellus-abdication-215-bc]] (a consul's abdication after a single thunderclap during his inaugural auspices), and [[scenarios/the-bibulus-affair-59-bc]] (the extended Ch. 2 case study on sky-watching used to contest Caesar's consulship).
+
 ## Open Questions
 
-- Whether this close reading of Cicero's augural theory accurately reflects the beliefs of ordinary Roman magistrates (as opposed to an elite, philosophically self-conscious figure like Cicero) is a tension the book must navigate but which this reading did not see fully resolved in the sampled portions. ^[ambiguous]
-- The Conclusion and the bulk of Chapters 1–3's detailed argumentation (sampled here chiefly via introduction and index) were not read in full; specific sub-arguments about *tripudium*, *obnuntiatio* mechanics, and the Bibulus affair appendix are catalogued in the index but not verified against their full chapter treatment in this pass. ^[ambiguous]
+- The Conclusion and the bulk of Chapters 1–3's detailed argumentation were initially sampled here chiefly via introduction and index; a subsequent re-scour pass read the chapters in full for named incidents (see Related Scenarios above), but the Conclusion's synthesis and finer technical points of *tripudium* mechanics remain unverified against full chapter treatment. ^[ambiguous]
 
 ## Sources
 

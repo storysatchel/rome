@@ -3,7 +3,7 @@ title: Lucius Licinius Lucullus
 category: entities
 tags: [lucullus, engraved-gems, propaganda, late-republic, self-presentation]
 sources: ["[[references/golyzniak-engraved-gems-propaganda]]"]
-summary: Late Republican general cited by Gołyźniak as one of the figures promoted through portraiture on engraved gems during the period when gem imagery began performing family/individual propaganda functions.
+summary: Late Republican general cited by Golyzniak as a figure promoted through portraiture on engraved gems, in the period when gem imagery began performing propaganda functions.
 provenance:
   extracted: 0.75
   inferred: 0.2

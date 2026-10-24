@@ -44,6 +44,7 @@ The volume positions itself explicitly against two poles in the historiography o
 
 - The editors themselves flag that applying the term "ideology" — grounded in twentieth-century political debates — to Republican Rome risks implying a more organized, programmatic phenomenon than existed, especially for non-elite political thought; they proceed with the term while acknowledging this tension explicitly rather than resolving it. ^[ambiguous]
 - Several chapters (e.g. Frolov on *contio*/*coetus*) note that usage in the sources is not always a reliable guide to objective institutional fact versus rhetorical framing by a hostile or partisan author.
+- A re-scour pass surfaced one discrete incident from Flower's Part III chapter on family *consilia*: [[scenarios/servilias-consilium-at-antium]], the June 44 BC family council at which Servilia, Brutus, Cassius, and Cicero debated whether the conspirators should leave Italy after Caesar's assassination.
 
 ## Sources
 

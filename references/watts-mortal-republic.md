@@ -48,5 +48,12 @@ Watts positions the book as a deliberate history-for-the-present intervention, c
 - Because sampling focused on the preface, Chapter 1, and the opening of Chapter 2 (Pyrrhic War era), the book's specific treatment of the Gracchi, Marius/Sulla, and Caesar's civil war — core to its argument — was not directly read in this pass; claims about those sections rely on the chapter titles and index rather than body text.^[ambiguous]
 - Watts's dating of "three centuries" of pre-130s-BC political non-violence is a strong claim that other sources in this batch (e.g. Pennell's catalogue of the Conflict of the Orders, which includes mob action, secession, and the killing of a tribune, Gnaeus Genucius, around 475 BC per Pennell) may complicate — flagged here rather than silently resolved.^[ambiguous]
 
+
+## Related Scenarios
+
+- [[scenarios/the-vestal-virgins-scandal-of-114-113-bc]]
+- [[scenarios/the-murder-of-postumius-albinus]]
+- [[scenarios/the-exile-of-metellus-numidicus]]
+
 ## Sources
 - Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny

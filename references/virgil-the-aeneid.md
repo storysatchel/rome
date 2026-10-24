@@ -5,15 +5,15 @@ tags: [epic-poetry, roman-mythology, founding-myth, primary-source, augustan-lit
 sources: ["Virgil — The Aeneid"]
 summary: Robert Fitzgerald's 1981-83 verse translation of Virgil's 12-book Latin epic (c. 29-19 BCE) narrating Aeneas's flight from Troy to found the Roman people.
 provenance:
-  extracted: 0.72
-  inferred: 0.25
+  extracted: 0.78
+  inferred: 0.19
   ambiguous: 0.03
 base_confidence: 0.57
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:48:38Z"
-updated: "2026-10-24T06:48:38Z"
+updated: "2026-10-24T19:11:30Z"
 relationships:
   - target: "[[concepts/roman-identity-and-cultural-memory]]"
     type: uses
@@ -36,6 +36,10 @@ The poem's engine is the conflict between Aeneas's personal desire and his *fatu
 - The poem ends without closure or an authorial verdict on Aeneas's final act of killing a suppliant Turnus, a structural choice much debated by later critics ^[ambiguous].
 - Fitzgerald's translator's note credits Harvard colleagues Mason Hammond and Wendell Clausen with reviewing drafts, situating this as a mid-20th-century American literary rather than purely philological translation.
 
+## Related Scenarios
+
+A re-scour of this source for discrete, nameable episodes (rather than thesis-level claims) yielded seven specific scenario pages: the four events of Anchises's funeral games in Book V — [[scenarios/aeneid-funeral-games-boat-race|the ship race]], [[scenarios/aeneid-funeral-games-foot-race|the foot race and its disputed finish]], [[scenarios/aeneid-funeral-games-boxing-match|the Dares-Entellus boxing match]], and [[scenarios/aeneid-funeral-games-archery-contest|the archery contest and Acestes's omen]] — plus three named military duels/engagements: [[scenarios/aeneid-nisus-euryalus-night-raid|the night raid of Nisus and Euryalus]] (Book IX), [[scenarios/aeneid-pallas-turnus-duel|Turnus's killing of Pallas]] (Book X), and [[scenarios/aeneid-aeneas-turnus-final-duel|the final duel of Aeneas and Turnus]] (Book XII), which supplies the specific mechanical detail (Pallas's swordbelt) behind the ending crux noted below.
+
 ## Structure / Scope
 
 Twelve books in dactylic-hexameter-derived verse (rendered here in blank verse), following a roughly Odyssean first half (Books I-VI: wanderings, the storm, Carthage/Dido, the funeral games in Sicily, the descent to the underworld) and an Iliadic second half (Books VII-XII: the war in Latium against Turnus and the Rutulians, ending in single combat). The translation includes a contents page titling each book thematically (e.g., "A Fateful Haven," "The Passion of the Queen," "The World Below," "The Fortunes of War"). Geographically the action spans Troy, Carthage, Sicily, Cumae, and Latium (central Italy).
@@ -46,8 +50,8 @@ As Rome's national epic, commissioned-in-spirit under Augustus, the poem functio
 
 ## Open Questions
 
-- Whether the poem's ending (killing Turnus despite his plea) endorses or critiques the cost of Roman imperial destiny is unresolved in the text itself and remains a central crux of Virgil scholarship. ^[ambiguous]
-- The sample read here does not cover Books II, III, VII-XI in detail (the fall of Troy, the Sicilian games, and the bulk of the Italian war), so claims about those books' specific content are not made here.
+- Whether the poem's ending (killing Turnus despite his plea) endorses or critiques the cost of Roman imperial destiny is unresolved in the text itself and remains a central crux of Virgil scholarship; see [[scenarios/aeneid-aeneas-turnus-final-duel]] for the specific narrative mechanics of that ending. ^[ambiguous]
+- The sample read here does not cover Books II, III, VII, VIII, or XI in detail (the fall of Troy, the Sicilian landfall, the Arcadian alliance, or the bulk of the Italian war's debates), so claims about those books' broader content are not made here; Books V, IX, X, and XII are now partially grounded via the specific scenario episodes linked above, though not summarized book-by-book.
 
 ## Sources
 - Virgil — The Aeneid

@@ -49,6 +49,10 @@ Wildfang positions her work as filling a scholarly gap: despite a general late-t
 
 Compared with [[references/place-at-the-altar-priestesses]] (DiLuzio), which was read for the same episodes of Vestal political action in this batch, the two books largely agree and complement rather than contradict each other: both treat the Julius Caesar/Sulla flamen Dialis rescue as a landmark instance of unified Vestal political intervention, and both trace a late-Republican trajectory toward more assertive Vestal agency. They differ in emphasis — Wildfang centers the 73 BC Fabia/Catiline and Licinia/Crassus incestum trials as the key evidence of growing Vestal "sophistication," while DiLuzio's recovered chapter instead foregrounds Fabia's role roughly a decade later in interpreting the omen that helped sway Cicero during the 63 BC Catilinarian conspiracy — two distinct but historically compatible episodes involving the same Vestal woman. ^[inferred]
 
+## Related Scenarios
+
+A subsequent re-scour pass mined Chapters 6–7's "nine episodes" catalog of early-Republican Vestal incestum accusations for individually dated, nameable cases, producing three scenario pages: [[scenarios/immolation-of-the-vestal-oppia-483-bc]] (the earliest recorded case, possibly plebeian-political in trigger), [[scenarios/immolation-of-the-vestal-minucia-337-bc]] (coinciding with the first plebeian praetorship), and [[scenarios/incestum-trial-of-opimia-and-floronia-216-bc]] (the best-documented case, in the immediate aftermath of Cannae, including the flogging-to-death of Floronia's alleged lover). Also see [[scenarios/vestal-incestum-trials-114-113-bc]] for the related two-stage 114–113 BC trial of Aemilia, Licinia, and Marcia, drawn from Alexander's trial catalog.
+
 ## Open Questions
 
 - Wildfang acknowledges the historicity of the Regal/early-Republican incestum episodes is fundamentally unverifiable beyond the fact that an accusation and punishment probably occurred — details and even Vestal names may be later authorial invention. ^[ambiguous]

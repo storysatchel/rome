@@ -3,7 +3,7 @@ title: A History of Rome During the Later Republic and Early Principate
 category: references
 tags: [roman-republic, gracchi, jugurthine-war, marius, roman-historiography]
 sources: ["Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate"]
-summary: Greenidge's 1904 Volume I traces 133–104 BC from Tiberius Gracchus's tribunate through Marius's second consulship, opening with a detailed social/economic portrait of the late second-century Roman upper classes.
+summary: Greenidge's 1904 Volume I traces 133-104 BC from Tiberius Gracchus's tribunate through Marius's second consulship, opening with a social/economic portrait of the late 2nd-c. upper classes.
 provenance:
   extracted: 0.7
   inferred: 0.25
@@ -44,6 +44,12 @@ Greenidge positions the volume as deliberately omitting introductory constitutio
 
 - Whether Greenidge completed the planned six-volume series through the Flavians is not established from the material sampled here; only Volume I was examined.^[ambiguous]
 - The volume's heavy reliance on Mommsen's constitutional framework (*Staatsrecht*) raises the question of how independent Greenidge's own interpretive conclusions are from Mommsen's — the footnotes suggest close dependence rather than a rival framework.^[inferred]
+
+## Related Scenarios
+
+- [[scenarios/assassination-of-massiva-and-trial-of-bomilcar]]
+- [[scenarios/the-vaga-massacre-and-trial-of-turpilius]]
+- [[scenarios/the-trial-of-lucius-opimius]]
 
 ## Sources
 - Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate

@@ -3,7 +3,7 @@ title: Roman Magistracies
 category: concepts
 tags: [magistracies, cursus-honorum, roman-republic, legislation, constitutional-history]
 sources: ["[[references/gargola-shape-of-the-roman-order]]", "[[references/sandberg-magistrates-and-assemblies]]"]
-summary: The Republic's expanding set of annual offices — consuls, praetors, aediles, tribunes, quaestors, censors — each with distinct powers, census-based eligibility, and (per Sandberg) distinct assembly affiliations.
+summary: The Republic's expanding set of annual offices — consuls, praetors, aediles, tribunes, quaestors, censors — each with distinct powers, census-based eligibility, and assembly affiliations.
 provenance:
   extracted: 0.65
   inferred: 0.3

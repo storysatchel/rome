@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:48:38Z"
-updated: "2026-10-24T06:48:38Z"
+updated: "2026-10-24T19:11:30Z"
 relationships:
   - target: "[[concepts/roman-philosophy-schools]]"
     type: uses
@@ -37,6 +37,10 @@ Seneca's Stoicism, as framed in Hadas's introduction, holds that the universe is
 - The introduction frames Seneca's "pointed style" (epigrammatic sententiae favoring wit over direct emotional appeal) as characteristic of Silver Age Latin prose, contrasting it with the "sober" moralizing of earlier Latin authors and comparing it to the English conceits of Donne and Pope ^[inferred, translator's literary-historical framing].
 - Seneca's biography is given as Spanish-born (Cordova, c. 4 BCE), raised in Rome, prospering as a lawyer and accumulating wealth criticized by ancient and modern readers alike as inconsistent with his advocacy of a simple life — a tension Hadas's introduction explicitly flags rather than resolves. ^[ambiguous]
 
+## Related Scenarios
+
+A re-scour for discrete named incidents (rather than thesis-level doctrine) surfaced five historical-anecdotal episodes Seneca cites as philosophical exempla: [[scenarios/execution-of-julius-canus-by-caligula|the execution of Julius Canus by Caligula]] (*On Tranquillity of Mind*), [[scenarios/trial-and-exile-of-rutilius-rufus|the corrupt conviction and exile of Rutilius Rufus]] (*On Providence*), [[scenarios/exile-and-pardon-of-marcellus-51bce|the Senate's plea for Marcellus's pardon after Pharsalus]] (*Consolation to Helvia*), [[scenarios/scipio-africanus-self-exile-liternum|Scipio Africanus's self-imposed exile to Liternum]] (Letter 86), and [[scenarios/metellus-triumph-captive-elephants|Metellus's triumph with 120 captive elephants]] (*On the Shortness of Life*, cited there as an example of useless trivia). These episodes are historical-anecdotal rather than doctrinal: Seneca invokes real named Romans as case studies for the Stoic claims already summarized above.
+
 ## Structure / Scope
 
 The volume comprises an introduction (life, the Senecan corpus, Silver Age style, and a survey of Stoic doctrine), five essays (*On Providence*, *On the Shortness of Life*, *On Tranquillity of Mind*, *Consolation to Helvia*, *On Clemency*), and a selection of Letters to Lucilius grouped thematically (Friendship, Moderation, Suicide, The Sole Good, Immortality, Reason and the True Good, among others) running through Letter 124. Each essay/letter is prefaced by Hadas's own headnote giving approximate date and addressee. Geographically and historically the material spans Seneca's exile, his tutorship of Nero, and his eventual forced suicide (not itself narrated in the sampled sections).
@@ -48,7 +52,7 @@ Hadas's introduction explicitly positions Seneca against the Greek philosophical
 ## Open Questions
 
 - Hadas's introduction raises but does not resolve the tension between Seneca's enormous personal wealth (including usurious lending) and his philosophical advocacy of simplicity and indifference to externals. ^[ambiguous]
-- The sampled material does not include *On Tranquillity of Mind*, *Consolation to Helvia*, or *On Clemency* in detail, so claims about their specific arguments are not made here.
+- The sampled material does not include *On Tranquillity of Mind*, *Consolation to Helvia*, or *On Clemency* in exhaustive detail; a deeper re-scour for named anecdotes (see Related Scenarios above) did draw specific episodes from these essays, but their full argumentative structure is not summarized here.
 
 ## Sources
 - Seneca — Stoic Philosophy of Seneca

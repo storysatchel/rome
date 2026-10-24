@@ -3,7 +3,7 @@ title: "Ancient Rome: From the Earliest Times Down to 476 A.D."
 category: references
 tags: [roman-republic, roman-empire, textbook, roman-institutions, survey-history]
 sources: ["Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D."]
-summary: Pennell's 1890 revised schoolbook survey compresses the whole of Roman history — foundation legends through the Western Empire's fall — into dense, examination-oriented chapters on institutions, wars, and biography.
+summary: Pennell's 1890 revised schoolbook survey compresses Roman history — foundation legends through the Western Empire's fall — into dense, examination-oriented chapters on institutions and wars.
 provenance:
   extracted: 0.8
   inferred: 0.15
@@ -45,6 +45,15 @@ As a 19th-century American secondary-school text, Pennell's book exemplifies the
 
 - The sampled text covered the regal period through the early Samnite Wars in depth but not the imperial sections in narrative form (only via the index); claims about later-period content rest on index entries alone and should be treated cautiously.^[ambiguous]
 - Pennell gives Spurius Cassius's agrarian law a tentative date of "486?" himself, signaling his own uncertainty about early Republican chronology that modern scholarship treats as even more unreliable.^[ambiguous]
+
+
+## Related Scenarios
+
+- [[scenarios/trial-of-clodius-for-the-bona-dea-scandal]]
+- [[scenarios/the-clodius-milo-street-war-and-trial]]
+- [[scenarios/ciceros-defense-of-sextus-roscius]]
+- [[scenarios/caesars-prosecution-of-dolabella]]
+- [[scenarios/catilines-extortion-trial]]
 
 ## Sources
 - Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.

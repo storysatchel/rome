@@ -34,6 +34,7 @@ Neither text argues a thesis in the scholarly sense; both are manuals. Cato's pu
 - Detailed rationing schedules for the familia rustica specify meal, bread, wine, and salt allowances by role and season, illustrating the material economy of a slave-staffed farm (*De Agri Cultura* LVI–LIX).
 - Varro's structure divides agricultural knowledge into field crops, livestock, and the steading, reflecting a self-consciously systematic (almost encyclopedic) approach contrasted with Cato's looser notebook style ^[inferred].
 - Varro frames agriculture's purpose as twofold — profit (*fructus*) and pleasure (*voluptas*) — and devotes Book III substantially to pleasure-oriented installations (his own elaborate aviary at Casinum, fishponds, game preserves), suggesting that by the late Republic elite villa life had absorbed agricultural production into broader aristocratic leisure and display ^[inferred].
+- Varro's Book III also preserves an incidental but concrete legal detail: Appius Claudius Pulcher's 54 BCE commission settling the long-running [[scenarios/reate-interamna-velinus-lake-dispute]] between Reate and Interamna over a canal draining Lake Velinus, with Cicero as Reate's advocate.
 
 ## Structure / Scope
 

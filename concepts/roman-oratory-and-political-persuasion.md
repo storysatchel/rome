@@ -3,7 +3,7 @@ title: Roman Oratory and Political Persuasion
 category: concepts
 tags: [roman-oratory, rhetoric, political-career, roman-republic, public-profile]
 sources: ["[[references/cicero-de-amicitia-scipios-dream]]", "[[references/morsteinmarx-mass-oratory]]", "[[references/vanderblom-gray-steel-institutions-ideology]]", "[[references/vanderblom-oratory-political-career]]"]
-summary: Oratory was one component — alongside ancestry, wealth, patronage, military achievement, and charisma — of a Roman politician's "public profile," central at the *contio* but never a strict prerequisite for success.
+summary: Oratory was one component — alongside ancestry, wealth, patronage, military achievement, charisma — of a Roman politician's "public profile," central at the *contio* but never a strict prerequisite.
 provenance:
   extracted: 0.68
   inferred: 0.27

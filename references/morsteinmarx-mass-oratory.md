@@ -48,6 +48,7 @@ The book positions itself as responding directly to Fergus Millar's argument (fr
 
 - Morstein-Marx acknowledges the precise accessibility of written records of senatorial decrees (*acta senatus*) to ordinary citizens is unclear — whether posted publicly or only available to "resourceful individuals" via archives — leaving open how much the *contio*'s oral "revelatory" function was genuinely irreplaceable versus simply dominant in practice. ^[ambiguous]
 - The book does not fully adjudicate between its own model and Mouritsen's demographic critique of contional crowd representativeness; it argues Mouritsen's position is internally inconsistent (granting the *contio* symbolic weight while denying it real connection to popular interests) rather than offering a full alternative demographic reconstruction. ^[inferred]
+- A re-scour pass surfaced two discrete incidents discussed in the "Civic Knowledge" chapter: [[scenarios/trial-of-rabirius-for-saturninus-killing]] (the 63 BC perduellio trial of Gaius Rabirius for a killing 37 years earlier) and [[scenarios/false-marius-impostor-and-caesars-altar]] (an oculist's false claim to be Marius's grandson and his attempt to consecrate an altar at Caesar's cremation site in 44 BC).
 
 ## Sources
 

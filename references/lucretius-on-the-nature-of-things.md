@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:48:38Z"
-updated: "2026-10-24T06:48:38Z"
+updated: "2026-10-24T19:11:30Z"
 relationships:
   - target: "[[concepts/roman-philosophy-schools]]"
     type: uses
@@ -46,6 +46,7 @@ Lucretius is the principal surviving Roman vehicle for Epicurean philosophy, sta
 ## Open Questions
 
 - Because this source file's extractable body text is essentially empty (header/TOC only), the specific arguments, imagery, and rhetorical strategy within each section could not be verified against this particular file and are described here only at the level of known section topics and general background knowledge of the work. ^[ambiguous] A complete or differently-formatted copy of this edition would be needed to ground claims at the passage level.
+- A follow-up re-scour pass (2026-10-24) specifically checking for discrete named incidents re-confirmed this source file contains no extractable body verse beyond the TOC/header structure already described above: unzipping the underlying EPUB shows every chapter file under 1KB except one 7.8KB file, which is itself only the table of contents repeated as running text. No scenario pages could be extracted from this source; none were created in this pass.
 - The discrepancy between the file's stated translator (Martin Ferguson Smith, 2009 Hackett prose edition) and the visible section-header attribution (William Ellery Leonard) is unresolved — the two may represent mismatched metadata versus a bundled alternate public-domain text. ^[ambiguous]
 
 ## Sources

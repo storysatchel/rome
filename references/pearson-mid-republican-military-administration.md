@@ -3,7 +3,7 @@ title: Exploring the Mid-Republican Origins of Roman Military Administration
 category: references
 tags: [roman-republic, military-administration, dilectus, census, bureaucracy]
 sources: ["Pearson, Elizabeth H. — Exploring the Mid-Republican Origins of Roman Military Administration: With Stylus and Spear"]
-summary: Argues Roman military bureaucracy (levy rosters, census-derived tabulae, pay records, archives) developed organically from the 4th to mid-2nd century BC, forced on by the Hannibalic War — not invented by Augustus.
+summary: Argues Roman military bureaucracy (levy rosters, census tabulae, pay records, archives) developed organically from the 4th to mid-2nd c. BC, forced by the Hannibalic War — not invented by Augustus.
 provenance:
   extracted: 0.75
   inferred: 0.2
@@ -39,6 +39,8 @@ Pearson directly rebuts the view (she names J. Wilkes specifically) that Rome mo
 - The 169 BC censorial oath, which effectively committed a recruit to a full standard term of service up front, is read as a deliberate administrative response to the mutiny risk of extended service — Rome "was aware of and worked to mitigate the threat" of indiscipline from over-long deployments.
 - Pearson argues Augustus's "reforms" were a reinstatement, not an invention: traditional Republican bureaucratic mechanisms (regular census, standard service terms, centralized pay) had broken down during the chaotic recruitment practices of the Civil Wars (the census went uncompleted 70–29 BC), and Augustus restored rather than created them. ^[inferred]
 - Topographic and demographic methods (Male West Princeton life tables, applied in three variant models) are used, by Pearson's own account for the first time in this context, to address where the levy was physically held and how census mechanics tracked absent soldiers.
+- A particular, well-documented flashpoint of quaestor-general financial friction: in 204 BC Cato the Elder, as quaestor, complained about Scipio Africanus's free spending of military funds in Sicily — see [[scenarios/cato-scipio-quaestor-funds-dispute]].
+- Decades later, Gaius Verres's quaestorship under the consul Carbo produced an outright embezzlement scandal, concealed with duplicate account books and only exposed in Cicero's later, unrelated prosecution of Verres — see [[scenarios/verres-quaestorial-embezzlement-under-carbo]].
 
 ## Structure / Scope
 

@@ -50,6 +50,11 @@ Sandberg positions his book within, but also against, a century of German-domina
 - Sandberg explicitly concedes that the evidentiary base is "extremely limited" and that "many other interpretations than those that will be offered here are perfectly possible" — he frames the book's goal as showing existing consensus views are problematic rather than proving a definitive alternative. ^[ambiguous]
 - The exact institutional boundary between the *concilium plebis* and the *comitia tributa* is deferred to a dedicated later chapter (4.2.2) and is treated throughout as unresolved in the wider field. ^[ambiguous]
 
+## Related Scenarios
+
+- [[scenarios/the-ambitus-conviction-of-sulla-and-autronius]] — the 65 BC bribery conviction that annulled the consular election of P. Cornelius Sulla and P. Autronius Paetus.
+- [[scenarios/the-prosecution-campaign-against-manlius-vulso]] — the 177 BC tribunician bid to strip consul A. Manlius Vulso of his command after his Histrian defeat.
+
 ## Sources
 
 - Sandberg, Kaj — Magistrates and Assemblies: A Study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)

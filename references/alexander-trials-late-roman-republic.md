@@ -42,11 +42,15 @@ The book covers Rome's judicial system city-wide across the "last century" of th
 
 Alexander positions the work explicitly as a companion to Broughton's *MRR*, aiming to do for the judicial sphere what Broughton did for magistracies — compress scattered testimonia into a standardized, cross-referenced format usable by other scholars without requiring them to reassemble primary citations from scratch.^[inferred] Its continuing value lies less in novel argument than in its role as a controlled dataset: any study of Late Republican political prosecution, oratory, or the operation of the *quaestiones* (including trials touching religious offices, cf. [[concepts/roman-religion-and-augury]]) can use it to establish baseline facts about participants and outcomes before building interpretive claims.^[inferred]
 
+## Related Scenarios
+
+A subsequent re-scour pass mined the catalog's cases #46–391 (the 100s–50s BC) for individually nameable trials, producing dedicated scenario pages for fifteen of the catalog's more obscure entries: [[scenarios/vestal-incestum-trials-114-113-bc]] (cases #38–44, the full two-stage narrative), [[scenarios/causa-curiana-inheritance-dispute]] (#93), [[scenarios/fannia-v-titinius-dowry-dispute]] (#76), [[scenarios/trial-of-publicius-malleolus-matricide]] (#75), [[scenarios/mob-killing-of-publius-furius]] (#79), [[scenarios/mamilian-commission-trials-109-bc]] (#52–57), [[scenarios/caepio-scaurus-prosecution-feud]] (#96–97), [[scenarios/trial-of-titinia-witchcraft-accusation]] (#133), [[scenarios/iudicium-iunianum-bribery-scandal]] (#149, #153–154, #159–162, #170, #172, #175), [[scenarios/caesars-prosecution-of-dolabella]] (#140), [[scenarios/pro-tullio-land-dispute]] (#173), [[scenarios/catiline-praevaricatio-acquittal-65-bc]] (#212), [[scenarios/ambitus-convictions-of-autronius-and-sulla]] (#200–201), [[scenarios/64-bc-proscription-murder-trials]] (#215–217), and [[scenarios/aebutius-caecina-land-dispute]] (#189).
+
 ## Open Questions
 
 - Alexander repeatedly flags cases where the charge's governing statute is unknown or disputed (e.g., case #30, #31), leaving the precise legal basis for many Late Republican prosecutions genuinely uncertain in the primary record.
 - The dating of many trials rests on inference from magistrates' known tenures rather than direct evidence, a methodological limitation the author states openly rather than resolves.
-- This reading sampled the introduction and roughly fifty consecutive early entries (cases #1–~45, through the 110s BC); the hundreds of entries covering the 90s–50s BC (including the famous Ciceronian-era prosecutions) were not directly sampled, so claims about the book's treatment of individual later trials (e.g., Clodius, Milo, Catiline's associates) are not made here. ^[ambiguous]
+- The original reading sampled the introduction and roughly fifty consecutive early entries (cases #1–~45, through the 110s BC); a subsequent re-scour pass (see Related Scenarios above) extended coverage through case #217 (64 BC), though the bulk of the Ciceronian-era prosecutions from the mid-60s through 50 BC (including Verres, Clodius, Milo, and Catiline's co-conspirators) remain unsampled. ^[ambiguous]
 
 ## Sources
 

@@ -47,6 +47,10 @@ Gargola positions the book against two established camps: those who treat Rome a
 - The book leaves open, as inherited problems, whether smaller Italian settlements possessed formal political structures and relations with Rome from an early date, and whether such settlements were independent or dependent on larger neighbors. ^[ambiguous]
 - How far Cicero's and Polybius's king-by-king institutional narratives reflect genuine constitutional memory versus retrospective systematization is treated as an open methodological problem rather than resolved. ^[ambiguous]
 
+## Related Scenarios
+
+- [[scenarios/the-sententia-minuciorum-boundary-arbitration]] — the 117 BC Roman-arbitrated boundary dispute between Genua and the Langenses Viturii, discussed as part of Gargola's analysis of Roman spatial order in Italy.
+
 ## Sources
 
 - Gargola, Daniel J. — The Shape of the Roman Order: The Republic and Its Space

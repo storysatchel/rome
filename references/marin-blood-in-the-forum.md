@@ -3,7 +3,7 @@ title: Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic
 category: references
 tags: [fall-of-the-republic, roman-identity, cato-the-younger, political-violence, elite-competition]
 sources: ["Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic"]
-summary: Marin surveys the last century of the Republic (133-44 BC), arguing its collapse was not inevitable but resulted from accumulating individual decisions culminating in Augustus's gradual erosion of Republican tradition.
+summary: Marin surveys the last century of the Republic (133-44 BC), arguing its collapse was not inevitable but resulted from accumulating decisions culminating in Augustus's erosion of tradition.
 provenance:
   extracted: 0.78
   inferred: 0.17

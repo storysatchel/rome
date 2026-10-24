@@ -3,7 +3,7 @@ title: The Roman Assemblies from their Origin to the End of the Republic
 category: references
 tags: [popular-assemblies, comitia, roman-republic, patricians-and-plebeians, legal-history]
 sources: ["Botsford, George Willis — The Roman Assemblies from their Origin to the End of the Republic"]
-summary: Botsford's 1909 monograph, the first full-length study of Rome's popular assemblies, traces the comitia curiata, centuriata, and tributa from archaic origins through their republican functions and decline.
+summary: Botsford's 1909 monograph, the first full-length study of Rome's popular assemblies, traces the comitia curiata, centuriata, and tributa from archaic origins through republican decline.
 provenance:
   extracted: 0.75
   inferred: 0.2
@@ -49,6 +49,11 @@ Writing in 1909, Botsford positioned his work explicitly against Niebuhr's and M
 
 - Botsford's own treatment leaves open (and flags as genuinely contested in his sources) whether clients were, from the outset, simply a subset of plebeians or a formally distinct status; he judges the view that arrays clients against plebeians from early in the state's history as "historically better founded" than the alternative, without fully resolving it. ^[ambiguous]
 - The precise constitutional mechanics distinguishing the *concilium plebis* from the *comitia tributa* are treated by Botsford and remained disputed into Sandberg's generation of scholarship, which devotes an entire subsection to re-litigating the question. ^[ambiguous]
+
+## Related Scenarios
+
+- [[scenarios/the-curiate-law-wager-of-54-bc]] — the secret contract between consul Appius Claudius Pulcher and consular candidates Memmius and Domitius over fraudulent lex curiata witnesses.
+- [[scenarios/the-trial-of-gaius-lucretius]] — the 171/170 BC conviction of praetor C. Lucretius by the comitia tributa for cruelty against the Chalcidians.
 
 ## Sources
 

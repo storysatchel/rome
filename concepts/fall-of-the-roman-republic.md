@@ -3,7 +3,7 @@ title: Fall of the Roman Republic
 category: concepts
 tags: [fall-of-the-republic, political-violence, julius-caesar, augustus, roman-historiography]
 sources: ["[[references/marin-blood-in-the-forum]]", "[[references/mommsen-history-of-rome]]", "[[references/watts-mortal-republic]]"]
-summary: Three accounts — Mommsen, Marin, and Watts — converge on a gradual, multi-generational collapse from the Gracchi to Augustus, but sharply disagree on whether Caesarian monarchy was its tragedy or its cure.
+summary: Three accounts — Mommsen, Marin, Watts — converge on a gradual, multi-generational collapse from the Gracchi to Augustus, but disagree on whether Caesarian monarchy was tragedy or cure.
 provenance:
   extracted: 0.65
   inferred: 0.25

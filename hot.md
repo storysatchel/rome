@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-24T20:50:00Z"
+updated: "2026-10-24T22:05:00Z"
 ---
 
 # Hot Cache
@@ -9,23 +9,21 @@ updated: "2026-10-24T20:50:00Z"
 
 ## Recent Activity
 
-- [2026-10-24T20:50:00Z] Ingested 5 new `_raw/` sources — Hudson (vehicle rhetoric in Latin literature), Bang (Roman Bazaar economic comparative history), Scarre (Penguin atlas, scanned/vision-read), Goodman (provincial urbanism periphery), Casson (travel/roads). Created 5 `references/` pages + 2 new concepts (`roman-economy-and-trade`, `roman-travel-and-transportation`); updated `roman-urban-geography`, `provinces-of-the-roman-empire`, `entities/cato-the-elder`, `entities/gaius-gracchus` (new Hudson anecdotes: Gracchus's litter-beating story, Seneca's Cato-vs-trossulus passage). Converted a Kindle `.azw3` via `ebook-convert` and vision-read a 73-page scanned atlas.
-- [2026-10-24T19:15:00Z] Corrected a misdiagnosis: Roselaar's `.rar` wasn't corrupted — `bsdtar` succeeded where `unar`/`7z` failed on its RAR5 method. Ingested it: `references/roselaar-public-land-roman-republic`, updated 2 concept pages.
-- [2026-10-24T09:20:00Z] Deep-read Gargola and Marin to enrich geography coverage. Expanded `concepts/roman-urban-geography` and created `concepts/provinces-of-the-roman-empire`.
+- [2026-10-24T22:05:00Z] Re-scoured all 38 previously-ingested sources for discrete conflicts/events/contests/conspiracies — athletic, legal, political, military, economic — favoring obscure/petty incidents over already-covered headline events. New `scenarios/` category: 111 articles (35 political, 35 legal, 15 military, 15 economic, 7 conspiracy, 4 athletic — including Virgil's funeral games as literal athletic contests). Entities grew from 20 to 226 (every named person/place/thing involved in a scenario got a stub). 9 parallel subagents produced ~300 new pages; found and resolved 6 genuine cross-batch duplicates (same real person independently profiled by two batches — e.g. Scipio Africanus, Saturninus, two different Titus Labienus pages) by merging content and leaving redirect stubs. Vault now 402 pages, 0 dangling links, 0 true orphans.
+- [2026-10-24T19:15:00Z] Corrected a misdiagnosis: Roselaar's `.rar` wasn't corrupted — `bsdtar` succeeded where `unar`/`7z` failed on its RAR5 method.
+- [2026-10-24T20:50:00Z] Ingested 5 new sources (Hudson, Bang, Scarre, Goodman, Casson) — travel, economy, provincial urbanism.
 
 ## Active Threads
 
-- Several pages rest on thin, single-source evidence (`base_confidence: 0.57`, tier: supporting) and flag incomplete sampling of large source monographs (200-500+ page books sampled via TOC/intro/conclusion + representative chapters, not read cover-to-cover) — candidates for deeper re-ingest if more thorough coverage is wanted.
-- `references/place-at-the-altar-priestesses.md` (DiLuzio) is grounded in a severely corrupted source PDF (~93% zero-byte) — only ch.6-7 and bibliography recoverable.
-- `references/lucretius-on-the-nature-of-things.md` source epub is a near-empty stub (TOC headers only) — mostly inferred background, not source-grounded extraction.
-- `references/scarre-penguin-atlas-ancient-rome.md` is a scanned, image-only PDF (no text layer) — only 4 of 73 spreads sampled via vision; most of its 60+ maps are unexamined.
-- `references/bang-roman-bazaar.md`'s OCR text layer is visibly degraded in places (ligature garbling) — numeric/table claims were not cited for that reason.
+- Several scenario pages rest on thin, single-sentence source citations (base_confidence as low as 0.45-0.52) — flagged in their own Open Questions rather than padded with invented detail.
+- 6 duplicate entity pages were converted to `lifecycle: archived` redirect stubs rather than deleted (matching the vault's existing convention from the Sandberg duplicate-scan precedent) — they remain as dead-end tombstones pointing to the canonical merged page.
+- 5 new unprocessed files are still sitting in `_raw/` from an earlier drop (Hudson, Bang, Scarre, Goodman, Casson were already processed; check `_raw/` for any further new arrivals) — none currently pending as of this update.
+- The scenario-mining pass deliberately did NOT re-read every chapter of every 300+ page book — several sources (Cato/Varro's farm manual, Lucretius's near-empty stub, Goodman's academic prose) yielded few or zero scenarios and this was reported honestly rather than forced.
 
 ## Key Takeaways
 
-- Three books (Mommsen, Marin, Watts) converge on the Republic's fall as a gradual multi-generational process from the Gracchi to Augustus, but sharply disagree on whether Caesar's monarchy was a tragic loss of self-government or a necessary, even benevolent, restorative outcome.
-- Cicero's own career is a documented methodological fault line in the oratory corpus: Morstein-Marx and van der Blom/Gray/Steel necessarily build on his (best-surviving) speeches, while van der Blom's solo monograph argues his career was exceptional, not representative.
-- The wiki now has a documented "ancient economy debate" thread: Goodman's political-vs-economic city debate and Bang's primitivist-vs-modernist trade debate are structurally the same disagreement playing out in two different scholarly literatures (urbanism and economic history).
+- The wiki now has a genuine micro-history layer beneath its thematic concept pages: specific named trials (Causa Curiana, the Vestal incestum trials, dozens from Alexander's catalog), specific battles (Caudine Forks, Clastidium), specific scandals (Marius's gold ring, the Tolosan gold affair), and specific athletic contests (the Aeneid's funeral games).
+- Several real people turn out to be documented across multiple, previously-unconnected scenarios once mined this way — e.g. Cato the Elder now connects to a 184 BC Senate purge, a water-diversion lawsuit, and a public-contracts dispute, not just his Hellenism and farming-economy material.
 
 ## Flagged Contradictions
 

@@ -49,5 +49,11 @@ Mommsen's work is explicitly positioned by its own translator's preface as both 
 - Mommsen's famously favorable reading of Caesar — "the richly-gifted patriotism of Caesar" and the characterization of monarchy as a "tolerable evening" — sits in direct tension with Watts's thesis that the shift from republic to autocracy represented a tragic, cautionary loss of self-governance; this batch's instruction to flag cross-book interpretive disagreement applies most sharply here: Mommsen (writing 1854–56) and Watts (writing 2018) draw opposite normative conclusions from substantially the same narrative arc (Gracchi → civil wars → Caesar/Augustus).^[ambiguous]
 - Because the source PDF is a 2,157-page scan with no indexed table-of-contents page captured in this sample, exact page boundaries between Mommsen's five Books were inferred from chapter-heading text encountered during sampling (e.g. "Book III," "Book IV," "Book V" headers) rather than from a verified contents listing.^[ambiguous]
 
+
+## Related Scenarios
+
+- [[scenarios/the-tolosan-gold-scandal]]
+- [[scenarios/the-vestal-virgins-scandal-of-114-113-bc]]
+
 ## Sources
 - Mommsen, Theodor — The History of Rome (Books 1-5)

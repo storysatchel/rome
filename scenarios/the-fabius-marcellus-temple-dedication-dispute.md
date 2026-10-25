@@ -19,7 +19,7 @@ updated: "2026-10-24T19:14:07Z"
 
 # The Fabius–Marcellus Temple Dedication Dispute (208 BC)
 
-In 208 BC, consul Marcus Claudius Marcellus was detained in Rome by the board of pontiffs before he could depart for his province — over a temple he had vowed more than a decade earlier at Clastidium for a cavalry victory over the Gauls, where he had personally killed the enemy chieftain and dedicated spoils to the god Honos.
+In 208 BC, consul Marcus Claudius Marcellus was detained in [[entities/rome|Rome]] by the board of pontiffs before he could depart for his province — over a temple he had vowed more than a decade earlier at [[entities/clastidium|Clastidium]] for a cavalry victory over the Gauls, where he had personally killed the enemy chieftain and dedicated spoils to the god Honos.
 
 ## Parties & Stakes
 
@@ -33,7 +33,7 @@ Marcellus, rather than building a new temple from scratch, wanted simply to take
 
 ## Outcome
 
-Marcellus was forced to build an entirely separate temple to Virtus adjoining the existing temple to Honos, rather than simply rededicating Fabius's structure. The dispute delayed his departure to his consular province in southern Italy, where he was killed in an ambush later that same year.
+Marcellus was forced to build an entirely separate [[entities/temple-of-virtus|temple to Virtus]] adjoining the existing [[entities/temple-of-honos|temple to Honos]], rather than simply rededicating Fabius's structure. The dispute delayed his departure to his consular province in southern [[entities/italy|Italy]], where he was killed in an ambush later that same year.
 
 ## Open Questions
 

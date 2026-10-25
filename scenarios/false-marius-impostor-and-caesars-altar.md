@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:16Z"
 
 # The "False Marius" and the Altar at Caesar's Pyre
 
-Gaius Marius remained, decades after his death, an object of genuine popular reverence at Rome — nowhere more visible than in the enthusiasm that had greeted the young Julius Caesar's display of Marius's imago at his aunt's funeral in 69 BC, and his restoration, as aedile in 65 BC, of Marius's trophies on the Capitol after Sulla had torn them down. That enduring nostalgia created an opening that an otherwise obscure figure exploited in 44 BC.
+Gaius Marius remained, decades after his death, an object of genuine popular reverence at [[entities/rome|Rome]] — nowhere more visible than in the enthusiasm that had greeted the young Julius Caesar's display of Marius's imago at his aunt's funeral in 69 BC, and his restoration, as aedile in 65 BC, of Marius's trophies on the [[entities/capitoline-hill|Capitol]] after Sulla had torn them down. That enduring nostalgia created an opening that an otherwise obscure figure exploited in 44 BC.
 
 ## Parties & Stakes
 
@@ -28,7 +28,7 @@ Gaius Marius remained, decades after his death, an object of genuine popular rev
 
 ## What Happened
 
-An oculist — a medical eye-doctor by trade, with no known prior political standing — began claiming in 44 BC to be a grandson of Gaius Marius. Despite the claim's falsity, it met a genuinely warm reception, not only among the plebs of Rome but in multiple towns across Italy, demonstrating how much unspent political capital Marius's name still carried a generation after his death. After Julius Caesar's assassination that March, the impostor sought to capitalize on the same surge of popular grief and anger that fueled riots against the conspirators: he attempted to dedicate an altar on the very spot in the Roman Forum where Caesar's body had been cremated, positioning himself as heir to both Marius's and now Caesar's popular legacies at once.
+An oculist — a medical eye-doctor by trade, with no known prior political standing — began claiming in 44 BC to be a grandson of Gaius Marius. Despite the claim's falsity, it met a genuinely warm reception, not only among the plebs of [[entities/rome|Rome]] but in multiple towns across [[entities/italy|Italy]], demonstrating how much unspent political capital Marius's name still carried a generation after his death. After Julius Caesar's assassination that March, the impostor sought to capitalize on the same surge of popular grief and anger that fueled riots against the conspirators: he attempted to dedicate an altar on the very spot in the [[entities/forum-romanum|Roman Forum]] where [[entities/caesars-cremation-site|Caesar's body had been cremated]], positioning himself as heir to both Marius's and now Caesar's popular legacies at once.
 
 ## Outcome
 

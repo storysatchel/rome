@@ -3,23 +3,23 @@ title: "Catiline's Suspiciously Friendly Prosecutor (65 BC)"
 category: scenarios
 domain: legal
 tags: [repetundae, praevaricatio, catiline, clodius, provincial-governance]
-sources: ["Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26)"]
-summary: Catiline was acquitted of extorting Africa in a trial so collusively conducted that Cicero later suspected the prosecutor had deliberately thrown the case.
+sources: ["Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26)", "Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D."]
+summary: Catiline was acquitted of extorting Africa in 65 BC; Alexander says Cicero merely considered defending him while Clodius prosecuted collusively, but Pennell says Cicero was the defense counsel.
 provenance:
-  extracted: 0.8
+  extracted: 0.75
   inferred: 0.1
-  ambiguous: 0.1
-base_confidence: 0.57
+  ambiguous: 0.15
+base_confidence: 0.73
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-25T01:40:00Z"
 ---
 
 # Catiline's Suspiciously Friendly Prosecutor (65 BC)
 
-Two years before the conspiracy that made him infamous, L. Sergius Catilina stood trial for extorting the province of Africa during his governorship — and was acquitted in proceedings so collusive that Cicero himself, weighing whether to defend Catiline, described the prosecutor as acting with "the utmost goodwill toward the accused" (Alexander, case #212).
+Two years before the conspiracy that made him infamous, L. Sergius Catilina stood trial for extorting the province of [[entities/africa-province|Africa]] during his governorship — and was acquitted in proceedings so collusive that Cicero himself, weighing whether to defend Catiline, described the prosecutor as acting with "the utmost goodwill toward the accused" (Alexander, case #212).
 
 ## Parties & Stakes
 
@@ -39,7 +39,9 @@ Catiline was acquitted, with the jury split by social class (senators for convic
 ## Open Questions
 
 - Whether Clodius's prosecution was genuinely collusive (*praevaricatio*) or merely incompetent/half-hearted is explicitly disputed between ancient implication (Cicero) and modern scholarly reassessment (Gruen), and Alexander does not resolve it. ^[ambiguous]
+- **Source contradiction:** Pennell's 1890 survey states flatly that Cicero "undertook his defense" and secured acquittal via a hand-picked jury — omitting Clodius as prosecutor entirely. Alexander's more specialized, source-critical account instead has Cicero only considering the defense (and ultimately declining it) while Clodius prosecuted collusively. This wiki follows Alexander's account as primary, since it cites a specific ancient source (Cicero's own letter) and names the actual prosecutor, while flagging Pennell's simplified version as the likely source of the alternate narrative. ^[ambiguous]
 
 ## Sources
 
 - Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), case #212
+- Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.

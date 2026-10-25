@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:14Z"
 
 # The Fabius–Tullius Land Dispute: Cicero's Pro Tullio (71 BC)
 
-A property dispute between two otherwise obscure landowners, P. Fabius and M. Tullius (no relation to Cicero despite the shared name), escalated into an armed confrontation near Thurii in southern Italy — then still recovering from its occupation by Spartacus's slave army the previous year — and produced one of Cicero's early civil-law speeches (Alexander, case #173).
+A property dispute between two otherwise obscure landowners, P. Fabius and M. Tullius (no relation to Cicero despite the shared name), escalated into an armed confrontation near [[entities/thurii|Thurii]] in southern Italy — then still recovering from its occupation by Spartacus's slave army the previous year — and produced one of Cicero's early civil-law speeches (Alexander, case #173).
 
 ## Parties & Stakes
 
@@ -30,7 +30,7 @@ A property dispute between two otherwise obscure landowners, P. Fabius and M. Tu
 
 ## What Happened
 
-The two men's properties bordered each other in the region of Thurii, an area still unsettled in the immediate aftermath of Spartacus's occupation (72 BC) — Cicero's surviving fragments specifically date the dispute to after Thurii had ceased to be held by Spartacus's forces, i.e., 71 BC rather than 72. Tullius alleged that Fabius sent armed men (*hominibus armatis*) who used force against Tullius's slaves and property, grounds for a specific *recuperatores* action for violent property damage rather than an ordinary boundary or trespass suit. The case required two separate hearings (*actiones*), suggesting a seriously contested evidentiary record on both sides.
+The two men's properties bordered each other in the region of [[entities/thurii|Thurii]], an area still unsettled in the immediate aftermath of Spartacus's occupation (72 BC) — Cicero's surviving fragments specifically date the dispute to after Thurii had ceased to be held by Spartacus's forces, i.e., 71 BC rather than 72. Tullius alleged that Fabius sent armed men (*hominibus armatis*) who used force against Tullius's slaves and property, grounds for a specific *recuperatores* action for violent property damage rather than an ordinary boundary or trespass suit. The case required two separate hearings (*actiones*), suggesting a seriously contested evidentiary record on both sides.
 
 ## Outcome
 

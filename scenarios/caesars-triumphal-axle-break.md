@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Caesar's Axle Breaks at the Velabrum During His Gallic Triumph
 
-During his quadruple triumph of 46 BC — celebrating victories in Gaul, Egypt, Pontus, and Africa — Julius Caesar nearly suffered a public mishap when the axle of his triumphal chariot (*currus*) snapped as he passed through the Velabrum district of Rome, almost throwing him from the vehicle (Suetonius, *Divus Iulius* 37.2: *Gallici triumphi die Velabrum praeteruehens paene curru excessus est axe diffracto*). Cassius Dio records the breakdown as occurring specifically at the temple of Felicitas.
+During his quadruple triumph of 46 BC — celebrating victories in Gaul, Egypt, Pontus, and Africa — Julius Caesar nearly suffered a public mishap when the axle of his triumphal chariot (*currus*) snapped as he passed through the [[entities/velabrum|Velabrum]] district of [[entities/rome|Rome]], almost throwing him from the vehicle (Suetonius, *Divus Iulius* 37.2: *Gallici triumphi die Velabrum praeteruehens paene curru excessus est axe diffracto*). Cassius Dio records the breakdown as occurring specifically at the [[entities/temple-of-felicitas|temple of Felicitas]].
 
 ## Parties & Stakes
 
@@ -28,7 +28,7 @@ During his quadruple triumph of 46 BC — celebrating victories in Gaul, Egypt, 
 
 ## What Happened
 
-As Caesar's chariot carried him through the Velabrum — a low, marshy district near the Forum Boarium on the triumphal route — its axle broke, very nearly pitching him out onto the pavement in front of the assembled crowds. Suetonius records the event tersely as part of a catalogue of portents and embarrassments associated with Caesar's later career. Cassius Dio, writing independently, places the breakdown at the temple of Felicitas — an irony not lost on ancient or modern readers, given the temple's name ("Good Fortune"). Pliny the Elder separately attests to Roman superstition surrounding vehicle crashes, noting that Caesar and others took care about riding in vehicles again after such an accident.^[inferred]
+As Caesar's chariot carried him through the [[entities/velabrum|Velabrum]] — a low, marshy district near the [[entities/forum-boarium|Forum Boarium]] on the triumphal route — its axle broke, very nearly pitching him out onto the pavement in front of the assembled crowds. Suetonius records the event tersely as part of a catalogue of portents and embarrassments associated with Caesar's later career. Cassius Dio, writing independently, places the breakdown at the [[entities/temple-of-felicitas|temple of Felicitas]] — an irony not lost on ancient or modern readers, given the temple's name ("Good Fortune"). Pliny the Elder separately attests to Roman superstition surrounding vehicle crashes, noting that Caesar and others took care about riding in vehicles again after such an accident.^[inferred]
 
 ## Outcome
 

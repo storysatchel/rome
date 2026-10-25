@@ -29,7 +29,7 @@ In 55 BC, L. Scribonius Libo stood trial after being denounced to the censors by
 
 ## What Happened
 
-When Pompey tried to denigrate Mancia for being a freedman's son, Mancia refused to back down. In front of the court, he retaliated by publicly cataloguing the murders Pompey himself had committed during the civil wars of the 80s BC, when Pompey — still a very young man — had served Sulla as a ruthless enforcer. The anecdote, preserved by Valerius Maximus, is cited alongside other examples of Pompey being the target of abusive licence in court; it is a rare recorded instance of Pompey's carefully cultivated image as a dignified, almost regal statesman being punctured in public by an opponent of no social standing at all.
+When Pompey tried to denigrate Mancia for being a freedman's son, Mancia refused to back down. In front of the [[entities/forum-romanum|court]], he retaliated by publicly cataloguing the murders Pompey himself had committed during the civil wars of the 80s BC, when Pompey — still a very young man — had served Sulla as a ruthless enforcer. The anecdote, preserved by Valerius Maximus, is cited alongside other examples of Pompey being the target of abusive licence in court; it is a rare recorded instance of Pompey's carefully cultivated image as a dignified, almost regal statesman being punctured in public by an opponent of no social standing at all.
 
 ## Outcome
 

@@ -19,7 +19,7 @@ updated: "2026-10-24T19:09:16Z"
 
 # Tribunes Nerva and Turdus's Campaign to Recall and Prosecute A. Manlius Vulso
 
-In 178 BC the consul A. Manlius Vulso was assigned Gaul as his province and launched a campaign against the Histri, a people on the northern Adriatic. His initial attack ended in defeat, and his colleague M. Iunius Brutus had to march to his aid before the two consular armies together broke Histrian resistance. Manlius's setback, however, provoked a political reaction at Rome the following year, where two tribunes sought to use legislative and judicial machinery to punish him.
+In 178 BC the consul A. Manlius Vulso was assigned [[entities/gaul|Gaul]] as his province and launched a campaign against the Histri, a people on the northern Adriatic. His initial attack ended in defeat, and his colleague M. Iunius Brutus had to march to his aid before the two consular armies together broke Histrian resistance. Manlius's setback, however, provoked a political reaction at [[entities/rome|Rome]] the following year, where two tribunes sought to use legislative and judicial machinery to punish him.
 
 ## Parties & Stakes
 
@@ -30,7 +30,7 @@ In 178 BC the consul A. Manlius Vulso was assigned Gaul as his province and laun
 
 ## What Happened
 
-Nerva and Turdus launched a public campaign in their *contiones* against Manlius, culminating in a bill designed to repeal his already-prorogued command in Histria — the necessary first step toward prosecuting him once he lost the immunity that came with holding imperium. ^[extracted] One of their own tribunician colleagues, however, vetoed the measure, blocking it from reaching a vote. ^[extracted] The consul Iunius Brutus, meanwhile, arrived in Rome to preside over the elections while this dispute over Manlius played out in the background. ^[extracted]
+Nerva and Turdus launched a public campaign in their *contiones* against Manlius, culminating in a bill designed to repeal his already-prorogued command in [[entities/histria|Histria]] — the necessary first step toward prosecuting him once he lost the immunity that came with holding imperium. ^[extracted] One of their own tribunician colleagues, however, vetoed the measure, blocking it from reaching a vote. ^[extracted] The consul Iunius Brutus, meanwhile, arrived in Rome to preside over the elections while this dispute over Manlius played out in the background. ^[extracted]
 
 ## Outcome
 

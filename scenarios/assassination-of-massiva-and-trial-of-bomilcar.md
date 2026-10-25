@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # The Assassination of Massiva and the Trial of Bomilcar
 
-While King Jugurtha of Numidia was in Rome in 112 BC under a Senate-granted safe conduct, the consul Spurius Albinus — eager to manufacture a legitimate pretext for renewed war against Jugurtha — secretly urged a rival Numidian royal, Massiva (a grandson of Masinissa living as a refugee in the city), to petition the Senate for the Numidian crown. Jugurtha, learning of the scheme, ordered his trusted agent Bomilcar to have Massiva killed before the petition could gain traction.
+While King [[entities/jugurtha|Jugurtha]] of [[entities/numidia|Numidia]] was in [[entities/rome|Rome]] in 112 BC under a Senate-granted safe conduct, the consul Spurius Albinus — eager to manufacture a legitimate pretext for renewed war against Jugurtha — secretly urged a rival Numidian royal, Massiva (a grandson of Masinissa living as a refugee in the city), to petition the Senate for the Numidian crown. Jugurtha, learning of the scheme, ordered his trusted agent Bomilcar to have Massiva killed before the petition could gain traction.
 
 ## Parties & Stakes
 

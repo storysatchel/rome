@@ -29,7 +29,7 @@ In 60 BC the tribune of the plebs Flavius promoted an agrarian bill, almost cert
 
 ## What Happened
 
-Metellus Celer, as consul, opposed the publicans' claims in connection with their Asian contracts and separately clashed with Flavius over the tribune's agrarian bill for Pompey's veterans. ^[extracted] Flavius escalated the confrontation dramatically: he threatened to prohibit the consul from departing Rome for his assigned province and had him imprisoned, at least temporarily. ^[extracted] Despite this extraordinary pressure, Metellus Celer achieved his purpose — the tribunician proposal was not passed. ^[extracted]
+Metellus Celer, as consul, opposed the publicans' claims in connection with their Asian contracts and separately clashed with Flavius over the tribune's agrarian bill for Pompey's veterans. ^[extracted] Flavius escalated the confrontation dramatically: he threatened to prohibit the consul from departing [[entities/rome|Rome]] for his assigned province and had him imprisoned, at least temporarily. ^[extracted] Despite this extraordinary pressure, Metellus Celer achieved his purpose — the tribunician proposal was not passed. ^[extracted]
 
 ## Outcome
 

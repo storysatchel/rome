@@ -25,7 +25,7 @@ In 446 BC a conflict arose between the Latin cities of Aricia and Ardea over pos
 
 - **Aricia** ([[entities/aricia]]) — goal: secure Roman ruling in its favor over the disputed land; resources: status as a fellow Latin city petitioning for arbitration.
 - **Ardea** ([[entities/ardea]]) — goal: secure Roman ruling in its favor over the disputed land; resources: status as a fellow Latin city petitioning for arbitration.
-- **Rome** — goal: nominally, to render fair judgment as arbiter; actual outcome: acquired the disputed land for itself; resources: its accepted role as a trusted neutral arbiter among Latin communities.
+- **Rome** ([[entities/rome]]) — goal: nominally, to render fair judgment as arbiter; actual outcome: acquired the disputed land for itself; resources: its accepted role as a trusted neutral arbiter among Latin communities.
 
 ## What Happened
 
@@ -33,7 +33,7 @@ Livy and Dionysius of Halicarnassus record that when Rome, asked to judge the di
 
 ## Outcome
 
-Neither Aricia nor Ardea received the disputed territory; it instead became Roman public land, marking one of the relatively few additions to Roman territory during this period beyond the small acquisitions at Labici (418 BC) and Bola (415 BC).
+Neither Aricia nor Ardea received the disputed territory; it instead became Roman public land, marking one of the relatively few additions to Roman territory during this period beyond the small acquisitions at [[entities/labici|Labici]] (418 BC) and [[entities/bola|Bola]] (415 BC).
 
 ## Open Questions
 

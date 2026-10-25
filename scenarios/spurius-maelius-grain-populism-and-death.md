@@ -28,7 +28,7 @@ In the mid-5th century BC, during a famine, the wealthy equestrian Spurius Maeli
 
 ## What Happened
 
-Alarmed by Maelius's growing popularity, the Senate had Cincinnatus appointed dictator to deal with the perceived threat. When Maelius was summoned to appear before the dictator's tribunal, he refused — whether out of guilt or justified fear of a rigged proceeding is unclear from the sources. Rather than being formally tried, he was killed on the spot by Ahala, the dictator's master of the horse.
+Alarmed by Maelius's growing popularity, the Senate had Cincinnatus appointed dictator to deal with the perceived threat. When Maelius was summoned to appear before the dictator's [[entities/forum-romanum|tribunal]], he refused — whether out of guilt or justified fear of a rigged proceeding is unclear from the sources. Rather than being formally tried, he was killed on the spot by Ahala, the dictator's master of the horse.
 
 ## Outcome
 

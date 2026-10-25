@@ -25,11 +25,11 @@ In late November 63 BC, during the Catilinarian crisis, L. Licinius Murena — e
 
 - **Cato the Younger** ([[entities/cato-the-younger]]) — goal: uphold his public promise to prosecute electoral corruption and defend strict Stoic standards of virtue; resources: reputation for incorruptibility, tribune-designate status giving him *auctoritas*.
 - **L. Licinius Murena** ([[entities/lucius-licinius-murena]]) — goal: avoid conviction and keep the consulship he had just won; resources: Cicero as his defense advocate, the political urgency of having a second consul ready to help suppress the Catilinarian conspirators.
-- **Cicero** ([[entities/cicero]]) — goal: win an acquittal for Murena, partly for reasons of state (Rome needed a functioning consul during the crisis); resources: top legal and rhetorical skill, willingness to use humor against Cato.
+- **Cicero** ([[entities/cicero]]) — goal: win an acquittal for Murena, partly for reasons of state ([[entities/rome|Rome]] needed a functioning consul during the crisis); resources: top legal and rhetorical skill, willingness to use humor against Cato.
 
 ## What Happened
 
-Cato's prosecution speech was well organized, methodically laying out the evidence of bribery in Murena's campaign. He reportedly called Murena a *saltator* ("dancer") — a loaded insult implying moral looseness and effeminacy in Roman culture. Cicero, defending Murena, turned the courtroom into a comic stage: he ridiculed Cato's rigid Stoic philosophy and its real-world impracticality, drawing laughter from the jury and spectators at Cato's expense. Cato, unamused, is said to have responded with the dry line: "What a funny consul we have!" Notably, Cato — despite his public vow — had declined to prosecute his own brother-in-law Silanus on the same grounds, a hypocrisy Cicero also needled in his defense.
+Cato's prosecution speech was well organized, methodically laying out the evidence of bribery in Murena's campaign. He reportedly called Murena a *saltator* ("dancer") — a loaded insult implying moral looseness and effeminacy in Roman culture. Cicero, defending Murena, turned the [[entities/forum-romanum|courtroom]] into a comic stage: he ridiculed Cato's rigid Stoic philosophy and its real-world impracticality, drawing laughter from the jury and spectators at Cato's expense. Cato, unamused, is said to have responded with the dry line: "What a funny consul we have!" Notably, Cato — despite his public vow — had declined to prosecute his own brother-in-law Silanus on the same grounds, a hypocrisy Cicero also needled in his defense.
 
 ## Outcome
 

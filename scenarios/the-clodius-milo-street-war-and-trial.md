@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # The Clodius–Milo Street War and the Murder Trial at Bovillae
 
-After Clodius drove Cicero into exile in 58 BC, the nobility fought back using Titus Annius Milo's organized gangs. For seven months in 57 BC, Milo's and Clodius's bands fought running brawls in the streets and the Forum over whether Cicero should be recalled; Milo's faction eventually prevailed and the recall was voted. The rivalry did not end there — Clodius later tried to burn Milo's house — and it finally climaxed on 20 January 52 BC, when the two men's retinues met by chance on the Appian Way near Bovillae and Clodius was killed.
+After Clodius drove Cicero into exile in 58 BC, the nobility fought back using Titus Annius Milo's organized gangs. For seven months in 57 BC, Milo's and Clodius's bands fought running brawls in the streets and the [[entities/forum-romanum|Forum]] of [[entities/rome|Rome]] over whether Cicero should be recalled; Milo's faction eventually prevailed and the recall was voted. The rivalry did not end there — Clodius later tried to burn Milo's house — and it finally climaxed on 20 January 52 BC, when the two men's retinues met by chance on the [[entities/via-appia|Appian Way]] near [[entities/bovillae|Bovillae]] and Clodius was killed.
 
 ## Parties & Stakes
 
@@ -30,11 +30,11 @@ After Clodius drove Cicero into exile in 58 BC, the nobility fought back using T
 
 ## What Happened
 
-Through 57 BC, the two bands fought in the streets and Forum almost daily; Milo's side eventually won out and the Assembly voted to recall Cicero from exile. Tensions simmered for five more years, with Clodius at one point attempting to burn down Milo's house. The breaking point came when Milo, now a candidate for the consulship, and Clodius, a candidate for the praetorship, encountered each other's armed entourages on the Via Appia at Bovillae. A fight broke out and Clodius was killed.
+Through 57 BC, the two bands fought in the streets and Forum almost daily; Milo's side eventually won out and the Assembly voted to recall Cicero from exile. Tensions simmered for five more years, with Clodius at one point attempting to burn down Milo's house. The breaking point came when Milo, now a candidate for the consulship, and Clodius, a candidate for the praetorship, encountered each other's armed entourages on the [[entities/via-appia|Via Appia]] at [[entities/bovillae|Bovillae]]. A fight broke out and Clodius was killed.
 
 ## Outcome
 
-Clodius's death provoked rioting in Rome; his body was burned in the Senate House by an enraged mob. The chaos was severe enough that Pompey was made sole consul to restore order. Milo was put on trial for the murder; his guilt was evident, and despite Cicero preparing an elaborate defense speech (the *Pro Milone*), Cicero reportedly lost his nerve and never delivered it as planned. Milo was convicted and went into exile at Massilia.
+Clodius's death provoked rioting in [[entities/rome|Rome]]; his body was burned in the [[entities/curia-hostilia|Senate House]] by an enraged mob. The chaos was severe enough that Pompey was made sole consul to restore order. Milo was put on trial for the murder; his guilt was evident, and despite Cicero preparing an elaborate defense speech (the *Pro Milone*), Cicero reportedly lost his nerve and never delivered it as planned. Milo was convicted and went into exile at [[entities/massilia|Massilia]].
 
 ## Open Questions
 

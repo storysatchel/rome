@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:30Z"
 
 # The Foot Race and Its Disputed Finish
 
-**This is a legendary/literary episode**, the second event of Anchises's funeral games in Book V of the *Aeneid*. "Teucrians with Sicilians mixed" compete on a track for a prize structure announced in advance by Aeneas: every entrant gets a consolation gift, with an olive-garland podium of horse, quiver-and-gold-strap, and helmet for the top three finishers.
+**This is a legendary/literary episode**, the second event of Anchises's funeral games in Book V of the *Aeneid*, held at [[entities/drepanum]] in Sicily. "Teucrians with Sicilians mixed" compete on a track for a prize structure announced in advance by Aeneas: every entrant gets a consolation gift, with an olive-garland podium of horse, quiver-and-gold-strap, and helmet for the top three finishers.
 
 ## Parties & Stakes
 

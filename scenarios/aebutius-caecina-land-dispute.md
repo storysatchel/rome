@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:14Z"
 
 # Aebutius v. Caecina: An Armed Eviction and Cicero's Pro Caecina (69/68 BC)
 
-A property dispute between Sex. Aebutius and A. Caecina of Volaterrae, in Etruria, escalated to the point that Aebutius allegedly used an armed gang to physically drive Caecina off disputed land — producing a civil suit so contested it required three separate hearings and two deadlocked ("not clear," *non liquet*) jury votes before a verdict emerged (Alexander, case #189).
+A property dispute between Sex. Aebutius and A. Caecina of [[entities/volaterrae|Volaterrae]], in [[entities/etruria]], escalated to the point that Aebutius allegedly used an armed gang to physically drive Caecina off disputed land — producing a civil suit so contested it required three separate hearings and two deadlocked ("not clear," *non liquet*) jury votes before a verdict emerged (Alexander, case #189).
 
 ## Parties & Stakes
 

@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # The Roman Disaster at the Caudine Forks
 
-During the Second Samnite War, a Roman consular army was lured into a narrow defile known as the Caudine Forks (Furculae Caudinae) near Caudium in Samnium, where the Samnite commander Gaius Pontius had blocked both exits. Trapped without supplies and unable to fight their way out, the Roman consuls were forced to accept humiliating terms: the army was disarmed and made to pass "under the yoke" (*sub iugum*), a ritual of submission, before being released.
+During the Second Samnite War, a Roman consular army was lured into a narrow defile known as the [[entities/caudine-forks|Caudine Forks]] (Furculae Caudinae) near [[entities/caudium|Caudium]] in [[entities/samnium|Samnium]], where the Samnite commander Gaius Pontius had blocked both exits. Trapped without supplies and unable to fight their way out, the Roman consuls were forced to accept humiliating terms: the army was disarmed and made to pass "under the yoke" (*sub iugum*), a ritual of submission, before being released.
 
 ## Parties & Stakes
 

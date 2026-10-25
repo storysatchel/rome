@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Tullia's Carpentum and the Murder of Servius Tullius
 
-In the Roman regal-period legend transmitted by Livy (1.46-48) and Ovid (*Fasti* 6.585-610), Tullia Minor, daughter of King Servius Tullius, incited her husband Lucius Tarquinius (later Tarquinius Superbus) to seize the throne by having her father murdered. After the king was struck down and his body left lying in the street, Tullia is said to have driven her two-wheeled carriage, the *carpentum*, directly over her father's corpse on her way to be the first to hail her husband as king — an act so notorious that the street was afterward named the Vicus Sceleratus ("Wicked Street" / "Street of Crime").
+In the Roman regal-period legend transmitted by Livy (1.46-48) and Ovid (*Fasti* 6.585-610), Tullia Minor, daughter of King Servius Tullius, incited her husband Lucius Tarquinius (later Tarquinius Superbus) to seize the throne by having her father murdered. After the king was struck down and his body left lying in the street, Tullia is said to have driven her two-wheeled carriage, the *carpentum*, directly over her father's corpse on her way to be the first to hail her husband as king — an act so notorious that the street was afterward named the [[entities/vicus-sceleratus|Vicus Sceleratus]] ("Wicked Street" / "Street of Crime").
 
 ## Parties & Stakes
 
@@ -29,7 +29,7 @@ In the Roman regal-period legend transmitted by Livy (1.46-48) and Ovid (*Fasti*
 
 ## What Happened
 
-According to Livy's account, Tarquinius Priscus's grandson (or son, by some accounts — Livy notes the sources disagree)^[ambiguous] Lucius Tarquinius, egged on by his ambitious wife Tullia, moved against his father-in-law King Servius Tullius. Tarquinius entered the Senate, denounced Servius's rule, and had him thrown down the Senate steps; Servius was then killed by assassins in the street as he attempted to return home. Tullia, racing to the Forum in her carpentum, was the first to hail her husband as king, then drove home. On the way, at the top of the Vicus Cyprius, her driver halted the carpentum at the sight of her father's murdered body lying in the road; Livy says Tullia, "insane and driven by the furies of her sister and husband," ordered the carriage driven directly over the body, carrying some of her father's blood back to her own household gods (*penates*) on the gory vehicle.
+According to Livy's account, Tarquinius Priscus's grandson (or son, by some accounts — Livy notes the sources disagree)^[ambiguous] Lucius Tarquinius, egged on by his ambitious wife Tullia, moved against his father-in-law King Servius Tullius. Tarquinius entered the Senate, denounced Servius's rule, and had him thrown down the Senate steps; Servius was then killed by assassins in the street as he attempted to return home. Tullia, racing to the [[entities/forum-romanum|Forum]] in her carpentum, was the first to hail her husband as king, then drove home. On the way, at the top of the [[entities/vicus-sceleratus|Vicus Cyprius]], her driver halted the carpentum at the sight of her father's murdered body lying in the road; Livy says Tullia, "insane and driven by the furies of her sister and husband," ordered the carriage driven directly over the body, carrying some of her father's blood back to her own household gods (*penates*) on the gory vehicle.
 
 ## Outcome
 

@@ -20,11 +20,13 @@ relationships:
     type: related_to
   - target: "[[concepts/roman-military-organization-republic]]"
     type: related_to
+  - target: "[[entities/clastidium]]"
+    type: occurred_at
 ---
 
 # The Duel of Marcellus and Viridomarus at Clastidium
 
-In 222 BC the consul Marcus Claudius Marcellus led a Roman army against the Insubrian Gauls near Clastidium in Cisalpine Gaul. The Insubrian king, Viridomarus, challenged Marcellus to single combat. Marcellus accepted, killed Viridomarus, and stripped his armor on the battlefield. Because Marcellus was the *supreme* Roman commander in the field and had killed an *enemy* supreme commander in personal combat, Roman tradition recognized the kill as *spolia opima* — "triumphal" or "supreme spoils" — a category of battlefield trophy that, per the sourcebook, had only ever been dedicated twice before: mythically by Romulus, and historically by Cornelius Cossus against Veii in the mid-fifth century BC.
+In 222 BC the consul Marcus Claudius Marcellus led a Roman army against the Insubrian Gauls near [[entities/clastidium|Clastidium]] in [[entities/cisalpine-gaul|Cisalpine Gaul]]. The Insubrian king, Viridomarus, challenged Marcellus to single combat. Marcellus accepted, killed Viridomarus, and stripped his armor on the battlefield. Because Marcellus was the *supreme* Roman commander in the field and had killed an *enemy* supreme commander in personal combat, Roman tradition recognized the kill as *spolia opima* — "triumphal" or "supreme spoils" — a category of battlefield trophy that, per the sourcebook, had only ever been dedicated twice before: mythically by Romulus, and historically by Cornelius Cossus against Veii in the mid-fifth century BC.
 
 ## Parties & Stakes
 
@@ -33,7 +35,7 @@ In 222 BC the consul Marcus Claudius Marcellus led a Roman army against the Insu
 
 ## What Happened
 
-Plutarch's account (quoted in the sourcebook) states plainly that Marcellus "had defeated and killed in single combat the king of the Insubrian Gauls, Viridomar, at Clastidium in 222." Marcellus then dedicated the stripped armor to Jupiter Feretrius on the Capitoline hill, the traditional recipient of *spolia opima*. According to the account, he commemorated the kill with an unusual spectacle: he had a tall, straight oak trunk cut and worked into a kind of mannequin, onto which he fastened the Gallic armor piece by piece, and paraded this trophy in his procession. The custom of single combat between commanders is noted to have parallels elsewhere in the Mediterranean and may originate in archaic-period warfare between aristocratic warbands. ^[inferred]
+Plutarch's account (quoted in the sourcebook) states plainly that Marcellus "had defeated and killed in single combat the king of the Insubrian Gauls, Viridomar, at Clastidium in 222." Marcellus then dedicated the stripped armor to the [[entities/temple-of-jupiter-feretrius|Temple of Jupiter Feretrius]] on the [[entities/capitoline-hill|Capitoline hill]], the traditional recipient of *spolia opima*. According to the account, he commemorated the kill with an unusual spectacle: he had a tall, straight oak trunk cut and worked into a kind of mannequin, onto which he fastened the Gallic armor piece by piece, and paraded this trophy in his procession. The custom of single combat between commanders is noted to have parallels elsewhere in the Mediterranean and may originate in archaic-period warfare between aristocratic warbands. ^[inferred]
 
 Tradition recorded only three dedicators of the *spolia opima* in all of Roman history: the mythical Romulus, Cornelius Cossus against Veii in the mid-fifth century BC, and Marcellus himself in 222 BC. The source notes some evidence that other officers besides the supreme commander might once have been eligible to win these spoils, implying the strict "commander-versus-commander" rule hardened only later. ^[ambiguous]
 

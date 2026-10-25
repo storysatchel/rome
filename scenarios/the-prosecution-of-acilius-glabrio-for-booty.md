@@ -19,7 +19,7 @@ updated: "2026-10-24T19:14:07Z"
 
 # The Tribunician Prosecution of Acilius Glabrio Over War Booty (189 BC)
 
-In early 189 BC, M'. Acilius Glabrio — consul of 191 BC and victor over Antiochus III at Thermopylae — was accused by two tribunes of giving an inadequate account of the booty taken in his campaign. Cato, who had served as a subordinate officer under Glabrio in Greece, appeared as a prominent witness against his own former commander, delivering the speech *In M'. Acilium Glabrionem*.
+In early 189 BC, M'. Acilius Glabrio — consul of 191 BC and victor over Antiochus III at [[entities/thermopylae|Thermopylae]] — was accused by two tribunes of giving an inadequate account of the booty taken in his campaign. Cato, who had served as a subordinate officer under Glabrio in Greece, appeared as a prominent witness against his own former commander, delivering the speech *In M'. Acilium Glabrionem*.
 
 ## Parties & Stakes
 
@@ -29,7 +29,7 @@ In early 189 BC, M'. Acilius Glabrio — consul of 191 BC and victor over Antioc
 
 ## What Happened
 
-The surviving fragment of Cato's speech shows him taking the occasion to emphasize his own excellent handling of military matters during the Spanish campaign, implicitly contrasting it with Glabrio's alleged deficiencies in accounting for the Thermopylae booty. ^[extracted] The prosecution came at a politically charged moment: Cato and Glabrio were about to stand as rival candidates for the censorship of 189 BC, and Astin notes it is reasonable, though not provable, that rivalry for that office motivated or intensified the attack. ^[inferred]
+The surviving fragment of Cato's speech shows him taking the occasion to emphasize his own excellent handling of military matters during the [[entities/hispania|Spanish]] campaign, implicitly contrasting it with Glabrio's alleged deficiencies in accounting for the Thermopylae booty. ^[extracted] The prosecution came at a politically charged moment: Cato and Glabrio were about to stand as rival candidates for the censorship of 189 BC, and Astin notes it is reasonable, though not provable, that rivalry for that office motivated or intensified the attack. ^[inferred]
 
 ## Outcome
 

@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:16Z"
 
 # The Cicero–Piso Caesoninus Invective Feud
 
-L. Calpurnius Piso Caesoninus, consul in 58 BC (the year Cicero was driven into exile) and father-in-law of Julius Caesar, had supported P. Clodius Pulcher in engineering Cicero's banishment. Cicero, after his recall, secured Piso's early removal from his governorship of Macedonia as a form of political revenge. The feud escalated into open, sustained public invective.
+L. Calpurnius Piso Caesoninus, consul in 58 BC (the year Cicero was driven into exile) and father-in-law of Julius Caesar, had supported P. Clodius Pulcher in engineering Cicero's banishment. Cicero, after his recall, secured Piso's early removal from his governorship of [[entities/macedonia|Macedonia]] as a form of political revenge. The feud escalated into open, sustained public invective.
 
 ## Parties & Stakes
 

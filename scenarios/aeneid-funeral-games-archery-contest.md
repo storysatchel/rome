@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:30Z"
 
 # The Archery Contest and Acestes's Omen
 
-**This is a legendary/literary episode**, the fourth contest of Anchises's funeral games in Book V of the *Aeneid*. Aeneas raises a ship's mast as a shooting target and ties a live dove to its top by a cord.
+**This is a legendary/literary episode**, the fourth contest of Anchises's funeral games in Book V of the *Aeneid*, held at [[entities/drepanum]] in Sicily. Aeneas raises a ship's mast as a shooting target and ties a live dove to its top by a cord.
 
 ## Parties & Stakes
 

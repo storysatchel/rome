@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Publius Decius Mus's Self-Sacrifice at the Battle of Sentinum
 
-At the Battle of Sentinum in 295 BC, during the Third Samnite War, a combined force of Samnites and Gauls faced a Roman army under two consuls. The battle is traditionally associated with the *devotio* of the consul Publius Decius Mus, who ritually dedicated himself and the enemy army to the gods of the underworld before charging to his death, in order to secure Roman victory — paving the way for the final Roman conquest of the Samnites.
+At the Battle of [[entities/sentinum|Sentinum]] in 295 BC, during the Third Samnite War, a combined force of Samnites and Gauls faced a Roman army under two consuls. The battle is traditionally associated with the *devotio* of the consul Publius Decius Mus, who ritually dedicated himself and the enemy army to the gods of the underworld before charging to his death, in order to secure Roman victory — paving the way for the final Roman conquest of the Samnites.
 
 ## Parties & Stakes
 
@@ -28,7 +28,7 @@ At the Battle of Sentinum in 295 BC, during the Third Samnite War, a combined fo
 
 ## What Happened
 
-The Samnites, facing final defeat after decades of warfare with Rome, allied with Gallic tribes from the north to field a coalition army at Sentinum in Umbria. According to Roman tradition, when the Roman line began to waver, the consul Decius Mus performed the ritual of *devotio*, formally consecrating himself and the opposing army to the gods of the underworld (Dis Pater and Tellus) and then charging alone into the enemy ranks to die, a sacrificial act believed to transfer disaster onto the enemy and guarantee Roman victory. (This mirrors a similar act attributed to his father, also named Decius Mus, at the Battle of Vesuvius decades earlier, raising questions among modern historians about possible conflation or literary duplication across generations.)^[ambiguous] The battle ended in a decisive Roman victory, won at heavy cost.
+The Samnites, facing final defeat after decades of warfare with Rome, allied with Gallic tribes from the north to field a coalition army at [[entities/sentinum|Sentinum]] in [[entities/umbria|Umbria]]. According to Roman tradition, when the Roman line began to waver, the consul Decius Mus performed the ritual of *devotio*, formally consecrating himself and the opposing army to the gods of the underworld (Dis Pater and Tellus) and then charging alone into the enemy ranks to die, a sacrificial act believed to transfer disaster onto the enemy and guarantee Roman victory. (This mirrors a similar act attributed to his father, also named Decius Mus, at the Battle of Vesuvius decades earlier, raising questions among modern historians about possible conflation or literary duplication across generations.)^[ambiguous] The battle ended in a decisive Roman victory, won at heavy cost.
 
 ## Outcome
 

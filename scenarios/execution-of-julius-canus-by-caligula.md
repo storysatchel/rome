@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:30Z"
 
 # The Execution of Julius Canus by Caligula
 
-This is a historical-anecdotal episode as related in Seneca's *On Tranquillity of Mind* (ch. 14), presented as a real event from Seneca's own era rather than distant legend — Seneca stresses that "the circumstance that he was born in our own age cannot dim our admiration of him." It is a small, specific instance of arbitrary imperial violence against a private citizen, not part of any larger political crisis already covered in this wiki.
+This is a historical-anecdotal episode as related in Seneca's *On Tranquillity of Mind* (ch. 14), presented as a real event from Seneca's own era rather than distant legend — Seneca stresses that "the circumstance that he was born in our own age cannot dim our admiration of him." It is a small, specific instance of arbitrary imperial violence against a private citizen in [[entities/rome|Rome]] ^[inferred: Seneca's text does not name the city, but Caligula's court was based at Rome], not part of any larger political crisis already covered in this wiki.
 
 ## Parties & Stakes
 

@@ -19,7 +19,7 @@ updated: "2026-10-24T19:09:16Z"
 
 # The Divorce of Spurius Carvilius Ruga — Rome's First No-Fault Divorce
 
-Roman jurists remembered the divorce of Spurius Carvilius, surnamed Ruga, as a landmark case: according to Aulus Gellius (citing the jurist Servius Sulpicius's treatise on dowries), for roughly five hundred years after Rome's founding there had been no actions or formal guarantees (*cautiones*) concerning dowry restitution in Rome or Latium, "because none were needed, since in those days no marriages were ever dissolved." The jurists dated the first exception to Spurius Carvilius Ruga, who divorced his wife because she could not bear him children due to a physical defect (*corporis vitio*) — sources disagree on the exact year, with ancient authorities variously placing it between 234 and 227 BCE.
+Roman jurists remembered the divorce of Spurius Carvilius, surnamed Ruga, as a landmark case: according to Aulus Gellius (citing the jurist Servius Sulpicius's treatise on dowries), for roughly five hundred years after [[entities/rome|Rome]]'s founding there had been no actions or formal guarantees (*cautiones*) concerning dowry restitution in [[entities/rome|Rome]] or [[entities/latium|Latium]], "because none were needed, since in those days no marriages were ever dissolved." The jurists dated the first exception to Spurius Carvilius Ruga, who divorced his wife because she could not bear him children due to a physical defect (*corporis vitio*) — sources disagree on the exact year, with ancient authorities variously placing it between 234 and 227 BCE.
 
 ## Parties & Stakes
 

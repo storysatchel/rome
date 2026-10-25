@@ -2,7 +2,7 @@
   "version": 1,
   "sources": {
     "/home/user/Documents/rome/_raw/A. H. J. Greenidge - A History of Rome During the Later Republic and EarlyPrincipate.epub": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 630294,
       "modified_at": "2026-10-24T06:29:15Z",
       "content_hash": "sha256:16b3e9256623c38c787e651de0cc5c48d91de8be7114b520850fe1e1c0276f32",
@@ -17,7 +17,12 @@
         "entities/titus-turpilius-silanus.md",
         "scenarios/assassination-of-massiva-and-trial-of-bomilcar.md",
         "scenarios/the-trial-of-lucius-opimius.md",
-        "scenarios/the-vaga-massacre-and-trial-of-turpilius.md"
+        "scenarios/the-vaga-massacre-and-trial-of-turpilius.md",
+        "entities/forum-romanum.md",
+        "entities/numidia.md",
+        "entities/rome.md",
+        "entities/temple-of-concordia.md",
+        "entities/vaga.md"
       ],
       "pages_updated": []
     },
@@ -37,7 +42,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Edward J. Watts - Mortal Republic How Rome Fell into Tyranny [Retail](epub).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 30526425,
       "modified_at": "2026-10-24T06:33:30Z",
       "content_hash": "sha256:1334850b7b4321580478e02ef0fabeec4abffde2c86cce0e15555b2621ab7b72",
@@ -55,12 +60,22 @@
         "scenarios/the-exile-of-metellus-numidicus.md",
         "scenarios/the-murder-of-postumius-albinus.md",
         "scenarios/the-vestal-virgins-scandal-of-114-113-bc.md",
-        "scenarios/trial-of-clodius-for-the-bona-dea-scandal.md"
+        "scenarios/trial-of-clodius-for-the-bona-dea-scandal.md",
+        "entities/bovillae.md",
+        "entities/campania.md",
+        "entities/curia-hostilia.md",
+        "entities/domus-publica.md",
+        "entities/forum-romanum.md",
+        "entities/latium.md",
+        "entities/massilia.md",
+        "entities/pompeii.md",
+        "entities/rome.md",
+        "entities/via-appia.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Mommsen - The History of Rome (bks. 1-5).pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 44764219,
       "modified_at": "2026-10-24T06:15:07Z",
       "content_hash": "sha256:4afbc904153abd8503ea1be35d89c3a3f56985c050b7a4f31bd6e57fa1367c42",
@@ -72,12 +87,17 @@
         "entities/lucius-appuleius-saturninus.md",
         "entities/quintus-servilius-caepio.md",
         "scenarios/the-tolosan-gold-scandal.md",
-        "scenarios/the-vestal-virgins-scandal-of-114-113-bc.md"
+        "scenarios/the-vestal-virgins-scandal-of-114-113-bc.md",
+        "entities/arausio.md",
+        "entities/gaul.md",
+        "entities/numidia.md",
+        "entities/rome.md",
+        "entities/tolosa.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Pennell - Ancient Rome (From the Earliest Times Down to 476 A.D.).epub": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 168127,
       "modified_at": "2026-10-24T06:15:07Z",
       "content_hash": "sha256:d563d5b2aec05bee3f3039864be24c4ed3c45c37e628aeffab11f58e7471919d",
@@ -94,12 +114,33 @@
         "scenarios/catilines-extortion-trial.md",
         "scenarios/ciceros-defense-of-sextus-roscius.md",
         "scenarios/the-clodius-milo-street-war-and-trial.md",
-        "scenarios/trial-of-clodius-for-the-bona-dea-scandal.md"
+        "scenarios/trial-of-clodius-for-the-bona-dea-scandal.md",
+        "entities/achaea-greece.md",
+        "entities/africa-province.md",
+        "entities/ameria.md",
+        "entities/asia-province.md",
+        "entities/bovillae.md",
+        "entities/campania.md",
+        "entities/capitoline-hill.md",
+        "entities/circus-maximus.md",
+        "entities/curia-hostilia.md",
+        "entities/domus-publica.md",
+        "entities/etruria.md",
+        "entities/hispania.md",
+        "entities/italy.md",
+        "entities/latium.md",
+        "entities/macedonia.md",
+        "entities/massilia.md",
+        "entities/palatine-hill.md",
+        "entities/rome.md",
+        "entities/sicilia.md",
+        "entities/subura.md",
+        "entities/via-appia.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Daniel J. Gargola - The Shape of the Roman Order. The Republic and Its Space (Studies in the History of Greece and Rome) [Retail](epub).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 3283617,
       "modified_at": "2026-10-24T06:31:55Z",
       "content_hash": "sha256:27ed93bacc0ce3334e9ef5511187dddaef5fee037f85e26403c45508b525cedb",
@@ -109,12 +150,18 @@
         "references/gargola-shape-of-the-roman-order.md",
         "entities/genua.md",
         "entities/langenses-viturii.md",
-        "scenarios/the-sententia-minuciorum-boundary-arbitration.md"
+        "scenarios/the-sententia-minuciorum-boundary-arbitration.md",
+        "entities/ateste.md",
+        "entities/liguria.md",
+        "entities/luna.md",
+        "entities/pisae.md",
+        "entities/venetia.md",
+        "entities/vicetia.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Francisco Pina Polo - The Consul at Rome. The Civil Functions of the Consuls in the Roman Republic [Retail](epub).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 1230197,
       "modified_at": "2026-10-24T06:28:48Z",
       "content_hash": "sha256:5c33654e43850acdf1e273b54117130c5b59625682232fe7edff3f7b1f5841be",
@@ -135,12 +182,15 @@
         "scenarios/metellus-celer-vs-tribune-flavius.md",
         "scenarios/the-oropus-publicani-lawsuit.md",
         "scenarios/the-prosecution-campaign-against-manlius-vulso.md",
-        "scenarios/the-trial-of-dictator-gaius-maenius.md"
+        "scenarios/the-trial-of-dictator-gaius-maenius.md",
+        "entities/boeotia.md",
+        "entities/histria.md",
+        "entities/temple-of-amphiaraus.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/George Willis Botsford - The Roman assemblies from their origin to the end of theRepublic.epub": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 1003807,
       "modified_at": "2026-10-24T06:36:07Z",
       "content_hash": "sha256:6a52df5eade8355c5dab79f0c1199413e87f7d70eaea300615a20d4f6b71c283",
@@ -155,12 +205,16 @@
         "entities/gnaeus-domitius-calvinus.md",
         "entities/juventius-thalna-and-aufidius.md",
         "scenarios/the-curiate-law-wager-of-54-bc.md",
-        "scenarios/the-trial-of-gaius-lucretius.md"
+        "scenarios/the-trial-of-gaius-lucretius.md",
+        "entities/aventine-hill.md",
+        "entities/campus-martius.md",
+        "entities/chalcis.md",
+        "entities/euboea.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Kaj Sandberg - Magistrates and assemblies. A study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)(pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 3504370,
       "modified_at": "2026-10-24T06:29:56Z",
       "content_hash": "sha256:43a81c1c6e817573285fe847392d19fc3cc8d7365b1d2bbffa87a653c1eb6d36",
@@ -173,12 +227,13 @@
         "entities/lucius-caecilius-rufus-tribune64.md",
         "entities/publius-cornelius-sulla-consul-designate.md",
         "scenarios/the-ambitus-conviction-of-sulla-and-autronius.md",
-        "scenarios/the-prosecution-campaign-against-manlius-vulso.md"
+        "scenarios/the-prosecution-campaign-against-manlius-vulso.md",
+        "entities/histria.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Cicero - De Amicitia, Scipio's Dream.epub": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 67943,
       "modified_at": "2026-10-24T06:15:03Z",
       "content_hash": "sha256:f514c2ca13d90e40a2ea1879b1cd68bf68770958c97766a15845826861f97758",
@@ -194,7 +249,9 @@
         "entities/spurius-maelius.md",
         "scenarios/quintus-pompeius-betrays-scipio-and-laelius.md",
         "scenarios/spurius-maelius-grain-populism-and-death.md",
-        "scenarios/sulpicius-pompeius-friendship-collapse.md"
+        "scenarios/sulpicius-pompeius-friendship-collapse.md",
+        "entities/campus-martius.md",
+        "entities/rome.md"
       ],
       "pages_updated": []
     },
@@ -214,7 +271,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Henriette van der Blom - Oratory and Political Career in the Late Roman Republic (Retail)(pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 4142379,
       "modified_at": "2026-10-24T06:36:16Z",
       "content_hash": "sha256:8f50f10b4e78fea7614e0b7a6b7956c6f44723e7da5152943302bbb8f39b7ae4",
@@ -239,12 +296,19 @@
         "scenarios/gracchus-piso-frugi-grain-law-taunt.md",
         "scenarios/helvius-mancia-denounces-pompey.md",
         "scenarios/trial-of-rabirius-for-saturninus-killing.md",
-        "scenarios/young-caesar-prosecutes-dolabella-and-antonius-hybrida.md"
+        "scenarios/young-caesar-prosecutes-dolabella-and-antonius-hybrida.md",
+        "entities/campus-martius.md",
+        "entities/capitoline-hill.md",
+        "entities/forum-romanum.md",
+        "entities/macedonia.md",
+        "entities/rome.md",
+        "entities/rostra.md",
+        "entities/temple-of-jupiter-capitolinus.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Robert Morstein-Marx - Mass Oratory and Political Power in the Late Roman Republic [Retail](pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 1686286,
       "modified_at": "2026-10-24T06:38:40Z",
       "content_hash": "sha256:84f1fff7f7e40732540127bc92facce6251e6b88e6e3c3a733884c1ec6ed8725",
@@ -256,12 +320,18 @@
         "entities/gaius-rabirius.md",
         "entities/titus-labienus.md",
         "scenarios/false-marius-impostor-and-caesars-altar.md",
-        "scenarios/trial-of-rabirius-for-saturninus-killing.md"
+        "scenarios/trial-of-rabirius-for-saturninus-killing.md",
+        "entities/caesars-cremation-site.md",
+        "entities/capitoline-hill.md",
+        "entities/forum-romanum.md",
+        "entities/janiculum-hill.md",
+        "entities/janiculum.md",
+        "entities/rome.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/26. Michael C. Alexander - Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes, Book 26)(pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 7323315,
       "modified_at": "2026-10-24T06:35:17Z",
       "content_hash": "sha256:6d005cbda37a3b9f84215902127b0b9ceda62fd0b189ce3ae6ff320dc6718a64",
@@ -331,7 +401,17 @@
         "scenarios/pro-tullio-land-dispute.md",
         "scenarios/trial-of-publicius-malleolus-matricide.md",
         "scenarios/trial-of-titinia-witchcraft-accusation.md",
-        "scenarios/vestal-incestum-trials-114-113-bc.md"
+        "scenarios/vestal-incestum-trials-114-113-bc.md",
+        "entities/africa-province.md",
+        "entities/arausio.md",
+        "entities/asia-province.md",
+        "entities/dyrrachium.md",
+        "entities/macedonia.md",
+        "entities/minturnae.md",
+        "entities/numidia.md",
+        "entities/tarraco.md",
+        "entities/thurii.md",
+        "entities/volaterrae.md"
       ],
       "pages_updated": []
     },
@@ -367,7 +447,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Wildfang - Rome's Vestal Virgins.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 1344021,
       "modified_at": "2026-10-24T06:15:08Z",
       "content_hash": "sha256:22074585bced4f17ede1d88d943755173539103a0d7c22ed2cc59ffd5925d848",
@@ -382,7 +462,11 @@
         "entities/oppia-vestal-483-bc.md",
         "scenarios/immolation-of-the-vestal-minucia-337-bc.md",
         "scenarios/immolation-of-the-vestal-oppia-483-bc.md",
-        "scenarios/incestum-trial-of-opimia-and-floronia-216-bc.md"
+        "scenarios/incestum-trial-of-opimia-and-floronia-216-bc.md",
+        "entities/campus-sceleratus.md",
+        "entities/cannae.md",
+        "entities/colline-gate.md",
+        "entities/comitium.md"
       ],
       "pages_updated": []
     },
@@ -402,7 +486,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Jeremy Armstrong, Michael P. Fronda - Romans at War. Soldiers, Citizens, and Society in the Roman Republic (Routledge Monographs in Classical Studies) (Retail)(pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 9228208,
       "modified_at": "2026-10-24T06:36:55Z",
       "content_hash": "sha256:203a7656849642ca2066d4d0d6774c88c1f5bef1c9205c6678041879b10c94ab",
@@ -420,12 +504,13 @@
         "scenarios/illyrian-mutiny-trial-of-atilius-bulbus.md",
         "scenarios/murder-of-valerius-flaccus-and-the-fimbrian-mutiny.md",
         "scenarios/mutiny-and-execution-of-the-legio-campana-at-rhegium.md",
-        "scenarios/mutiny-of-lucullus-legions-against-further-campaign.md"
+        "scenarios/mutiny-of-lucullus-legions-against-further-campaign.md",
+        "entities/illyria.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Michael M. Sage - The Republican Roman Army. A Sourcebook (Routledge Sourcebooks for the Ancient World) (Retail)(epub).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 748928,
       "modified_at": "2026-10-24T06:37:53Z",
       "content_hash": "sha256:6482c30490c19cfa6056cfa9aab78b18d1938c3fd604577a1352184e292003e5",
@@ -436,7 +521,12 @@
         "entities/haliartus.md",
         "entities/viridomarus.md",
         "scenarios/duel-of-marcellus-and-viridomarus-at-clastidium.md",
-        "scenarios/siege-and-sack-of-haliartus.md"
+        "scenarios/siege-and-sack-of-haliartus.md",
+        "entities/cephallenia.md",
+        "entities/chalcis.md",
+        "entities/cisalpine-gaul.md",
+        "entities/clastidium.md",
+        "entities/temple-of-jupiter-feretrius.md"
       ],
       "pages_updated": []
     },
@@ -454,7 +544,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Astin - Cato the Censor.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 6731837,
       "modified_at": "2026-10-24T06:15:05Z",
       "content_hash": "sha256:58fda0eebae9a3e996376a98b61563f13da5cdf601a6cb93a7ea4457b990b242",
@@ -471,12 +561,16 @@
         "scenarios/cato-v-lucius-furius-the-water-diversion-suit.md",
         "scenarios/the-184-bc-public-contracts-dispute.md",
         "scenarios/the-184-bc-senatorial-purge-lucius-flamininus-and-manilius.md",
-        "scenarios/the-prosecution-of-acilius-glabrio-for-booty.md"
+        "scenarios/the-prosecution-of-acilius-glabrio-for-booty.md",
+        "entities/achaea-greece.md",
+        "entities/cisalpine-gaul.md",
+        "entities/hispania.md",
+        "entities/thermopylae.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Erich S. Gruen - Culture and National Identity in Republican Rome (Cornell Studies in Classical Philology)(pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 16329434,
       "modified_at": "2026-10-24T06:33:49Z",
       "content_hash": "sha256:8b6a9488c94dcfe5a7aedb7a5c37f5f98bee623dd733421c1f5ab7ae3f2f9354",
@@ -485,12 +579,17 @@
       "pages_created": [
         "references/gruen-culture-national-identity.md",
         "entities/marcus-fulvius-nobilior.md",
-        "scenarios/the-prosecution-of-fulvius-nobilior-over-the-ambracia-art.md"
+        "scenarios/the-prosecution-of-fulvius-nobilior-over-the-ambracia-art.md",
+        "entities/achaea-greece.md",
+        "entities/ambracia.md",
+        "entities/campania.md",
+        "entities/capua.md",
+        "entities/epirus.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Jeremiah McCall - Clan Fabius, Defenders of Rome. A History of the Republic's Most Illustrious Family(epub).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 950850,
       "modified_at": "2026-10-24T06:30:39Z",
       "content_hash": "sha256:5c9c432685131ae363859a724e9fdcdeceab47c5ed99d0291ce99f1293f817fb",
@@ -511,12 +610,21 @@
         "scenarios/the-near-execution-of-fabius-rullianus.md",
         "scenarios/the-pleminius-affair-at-locri.md",
         "scenarios/the-postumius-fabius-gurges-command-dispute.md",
-        "scenarios/the-voting-tribes-feud-claudius-v-rullianus.md"
+        "scenarios/the-voting-tribes-feud-claudius-v-rullianus.md",
+        "entities/bruttium.md",
+        "entities/clastidium.md",
+        "entities/italy.md",
+        "entities/locri.md",
+        "entities/samnium.md",
+        "entities/sicilia.md",
+        "entities/syracuse.md",
+        "entities/temple-of-honos.md",
+        "entities/temple-of-virtus.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Pamela Marin - Blood in the Forum. The Struggle for the Roman Republic [Retail](pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 1622049,
       "modified_at": "2026-10-24T06:38:10Z",
       "content_hash": "sha256:804d95f091e6fdd7efad861139f1de9490a364b29c55cfef712c4e001018804a",
@@ -535,7 +643,11 @@
         "entities/titus-labienus.md",
         "scenarios/marius-ambitus-trial-116-bc.md",
         "scenarios/the-murder-of-gaius-memmius.md",
-        "scenarios/the-trial-of-gaius-rabirius-for-perduellio.md"
+        "scenarios/the-trial-of-gaius-rabirius-for-perduellio.md",
+        "entities/capitoline-hill.md",
+        "entities/curia-hostilia.md",
+        "entities/forum-romanum.md",
+        "entities/janiculum.md"
       ],
       "pages_updated": []
     },
@@ -555,7 +667,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Cato & Varro - Roman Farm Management.epub": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 581708,
       "modified_at": "2026-10-24T06:15:04Z",
       "content_hash": "sha256:de4d8a15fa2200ea5b03ee9b965902f0e30eb937c51c41dd171442f20ef51077",
@@ -567,7 +679,9 @@
         "entities/interamna.md",
         "entities/manius-curius-dentatus.md",
         "entities/reate.md",
-        "scenarios/reate-interamna-velinus-lake-dispute.md"
+        "scenarios/reate-interamna-velinus-lake-dispute.md",
+        "entities/sabine-territory.md",
+        "entities/umbria.md"
       ],
       "pages_updated": []
     },
@@ -615,7 +729,7 @@
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Seneca - Stoic Philosophy of Seneca.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 21056610,
       "modified_at": "2026-10-24T06:15:10Z",
       "content_hash": "sha256:78cc4f361cd46653886a1833d10f308d0a8b74fa841e1c9bbe7fc4aba38de9b6",
@@ -634,12 +748,18 @@
         "scenarios/exile-and-pardon-of-marcellus-51bce.md",
         "scenarios/metellus-triumph-captive-elephants.md",
         "scenarios/scipio-africanus-self-exile-liternum.md",
-        "scenarios/trial-and-exile-of-rutilius-rufus.md"
+        "scenarios/trial-and-exile-of-rutilius-rufus.md",
+        "entities/asia-province.md",
+        "entities/liternum.md",
+        "entities/mytilene.md",
+        "entities/rome.md",
+        "entities/scipios-villa-liternum.md",
+        "entities/sicilia.md"
       ],
       "pages_updated": []
     },
     "/home/user/Documents/rome/_raw/Virgil - The Aeneid.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 16094988,
       "modified_at": "2026-10-24T06:15:03Z",
       "content_hash": "sha256:5ea43cce780c5d801d551d4f3926cc7cca29a08022bb84c16cf7df415ee93bb8",
@@ -673,7 +793,13 @@
         "scenarios/aeneid-funeral-games-boxing-match.md",
         "scenarios/aeneid-funeral-games-foot-race.md",
         "scenarios/aeneid-nisus-euryalus-night-raid.md",
-        "scenarios/aeneid-pallas-turnus-duel.md"
+        "scenarios/aeneid-pallas-turnus-duel.md",
+        "entities/drepanum-turning-rock.md",
+        "entities/drepanum.md",
+        "entities/latium.md",
+        "entities/laurentum.md",
+        "entities/olive-stump-of-faunus.md",
+        "entities/trojan-camp-aeneid.md"
       ],
       "pages_updated": []
     },
@@ -689,7 +815,7 @@
       "note": "duplicate (higher-resolution) scan of the same work as sandberg-magistrates-and-assemblies.md; no separate page created"
     },
     "/home/user/Documents/rome/_raw/Saskia Roselaar - Public Land in the Roman Republic. A Social and Economic History of Ager Publicus in Italy, 396-89 BC (Oxford Studies in Roman Society & Law)(pdf).rar": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 2869679,
       "modified_at": "2026-10-24T06:39:15Z",
       "content_hash": "sha256:ab0b22adefe8ae0b0ae4886ce516d051f716145e13d06b5c89f9eec91186ec72",
@@ -705,7 +831,10 @@
         "entities/publicii-aediles.md",
         "scenarios/labeos-arbitration-of-the-nola-naples-boundary-dispute.md",
         "scenarios/the-aricia-ardea-land-dispute.md",
-        "scenarios/the-publicii-prosecute-the-graziers-241-bc.md"
+        "scenarios/the-publicii-prosecute-the-graziers-241-bc.md",
+        "entities/bola.md",
+        "entities/labici.md",
+        "entities/latium.md"
       ],
       "pages_updated": [
         "concepts/ager-publicus.md",
@@ -714,7 +843,7 @@
       "note": "Initially misdiagnosed as corrupted (unar/7z both failed with RAR5 'unsupported method' / truncation errors on first attempt); bsdtar (libarchive) extracted it cleanly. Re-ingested after user pushback."
     },
     "/home/user/Documents/rome/_raw/Jared Hudson - The Rhetoric of Roman Transportation. Vehicles in Latin Literature [Retail].azw3": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 1860740,
       "modified_at": "2026-10-24T18:17:13Z",
       "content_hash": "sha256:6d24b4c3cd0fef03638f1f36200f426f2e84cc186bb57d348e6944cae0033658",
@@ -730,7 +859,11 @@
         "entities/tullia-minor.md",
         "scenarios/agrippina-carpentum-honor.md",
         "scenarios/caesars-triumphal-axle-break.md",
-        "scenarios/tullia-carpentum-parricide.md"
+        "scenarios/tullia-carpentum-parricide.md",
+        "entities/forum-boarium.md",
+        "entities/temple-of-felicitas.md",
+        "entities/velabrum.md",
+        "entities/vicus-sceleratus.md"
       ],
       "pages_updated": [
         "entities/cato-the-elder.md",
@@ -754,7 +887,7 @@
       ]
     },
     "/home/user/Documents/rome/_raw/The Penguin Historical Atlas of Ancient Rome - Chris Scarre.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 22109797,
       "modified_at": "2026-10-24T06:50:21Z",
       "content_hash": "sha256:81ac30a8d873258ebaf9d0587cccf23218cffd8be303fb1876375b9eb5e766cf",
@@ -773,7 +906,16 @@
         "scenarios/decius-mus-devotio-sentinum.md",
         "scenarios/lepidus-coup-attempt-36bc.md",
         "scenarios/mummius-sack-of-corinth.md",
-        "scenarios/sertorius-assassination.md"
+        "scenarios/sertorius-assassination.md",
+        "entities/achaea-greece.md",
+        "entities/caudine-forks.md",
+        "entities/caudium.md",
+        "entities/corinth.md",
+        "entities/hispania.md",
+        "entities/naulochus.md",
+        "entities/sentinum.md",
+        "entities/sicilia.md",
+        "entities/temple-of-hercules-victor.md"
       ],
       "pages_updated": [
         "concepts/roman-economy-and-trade.md",
@@ -782,7 +924,7 @@
       ]
     },
     "/home/user/Documents/rome/_raw/The Roman City and its Periphery - From Rome to Gaul - Penelope Goodman.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 5092821,
       "modified_at": "2026-10-24T06:57:33Z",
       "content_hash": "sha256:123c4a641793775cea377025f86f0587257713f1d6177a82c230f1709f7b3623",
@@ -793,7 +935,8 @@
         "entities/clodius-albinus.md",
         "entities/lugdunum.md",
         "entities/septimius-severus.md",
-        "scenarios/lugdunum-punished-197ad.md"
+        "scenarios/lugdunum-punished-197ad.md",
+        "entities/britannia.md"
       ],
       "pages_updated": [
         "concepts/roman-urban-geography.md",
@@ -801,7 +944,7 @@
       ]
     },
     "/home/user/Documents/rome/_raw/Travel in the Ancient World - Lionel Casson.pdf": {
-      "ingested_at": "2026-10-24T19:39:26Z",
+      "ingested_at": "2026-10-24T23:02:16Z",
       "size_bytes": 53604898,
       "modified_at": "2026-10-24T07:09:19Z",
       "content_hash": "sha256:57a22b5f1a31766706be03b193521752ade18d8af4b42235b0931b740f97710c",
@@ -818,7 +961,16 @@
         "entities/vibia-sabina.md",
         "scenarios/eudoxus-cyzicus-india-voyages.md",
         "scenarios/hadrian-silent-memnon.md",
-        "scenarios/synesius-voyage-amarantus.md"
+        "scenarios/synesius-voyage-amarantus.md",
+        "entities/alexandria.md",
+        "entities/cape-guardafui.md",
+        "entities/colossus-of-memnon.md",
+        "entities/cyrenaica.md",
+        "entities/cyrene.md",
+        "entities/egypt.md",
+        "entities/india.md",
+        "entities/red-sea.md",
+        "entities/thebes-egypt.md"
       ],
       "pages_updated": [
         "concepts/roman-travel-and-transportation.md"
@@ -827,7 +979,7 @@
   },
   "stats": {
     "total_sources_ingested": 39,
-    "total_pages": 402,
+    "total_pages": 528,
     "note": "total_pages counts pages_created entries across all sources; some pages (concept updates, cross-batch merges) are additionally recorded as pages_updated on individual source entries where applicable."
   }
 }

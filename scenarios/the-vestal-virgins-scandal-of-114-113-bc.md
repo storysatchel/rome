@@ -17,9 +17,7 @@ created: "2026-10-24T19:10:25Z"
 updated: "2026-10-24T19:10:25Z"
 ---
 
-# The Vestal Virgins Scandal of 114–113 BC
-
-Amid a decade dominated by a narrow clique of senatorial families, Rome was shaken by allegations that three [[entities/vestal-virgins|Vestal Virgins]] had broken their vows of chastity. The priestesses were initially tried before a panel of Roman priests — who were themselves all senators — and the outcomes split sharply along the social class of the men the Vestals were accused of consorting with.
+Amid a decade dominated by a narrow clique of senatorial families, [[entities/rome|Rome]] was shaken by allegations that three [[entities/vestal-virgins|Vestal Virgins]] had broken their vows of chastity. The priestesses were initially tried before a panel of Roman priests — who were themselves all senators — and the outcomes split sharply along the social class of the men the Vestals were accused of consorting with.
 
 ## Parties & Stakes
 

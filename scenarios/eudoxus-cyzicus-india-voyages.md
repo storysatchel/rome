@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Eudoxus of Cyzicus's Voyages to India and Vanishing Circumnavigation Attempt
 
-Around 120 BC, a half-drowned sailor was brought to the Ptolemaic court at Alexandria, the sole survivor of a shipwreck. Nursed back to health and taught Greek, he claimed to be an Indian who could guide a Greek expedition to his homeland by sea. The navigator Eudoxus of Cyzicus, backed by King Ptolemy VIII ("the Pot-Bellied") of Egypt, used this guide to make two pioneering voyages from the Red Sea to India and back — only to have his valuable cargo of spices confiscated by Ptolemy's customs officials on both occasions. Eudoxus then attempted to bypass Egyptian control entirely by sailing around Africa, a venture that ended his career and life in mystery.
+Around 120 BC, a half-drowned sailor was brought to the Ptolemaic court at [[entities/alexandria|Alexandria]], the sole survivor of a shipwreck. Nursed back to health and taught Greek, he claimed to be an Indian who could guide a Greek expedition to his homeland by sea. The navigator Eudoxus of Cyzicus, backed by King Ptolemy VIII ("the Pot-Bellied") of [[entities/egypt|Egypt]], used this guide to make two pioneering voyages from the [[entities/red-sea|Red Sea]] to [[entities/india|India]] and back — only to have his valuable cargo of spices confiscated by Ptolemy's customs officials on both occasions. Eudoxus then attempted to bypass Egyptian control entirely by sailing around Africa, a venture that ended his career and life in mystery.
 
 ## Parties & Stakes
 
@@ -33,7 +33,7 @@ Indian and Arab merchants had long monopolized the sea trade in spices between I
 
 ## Outcome
 
-Eudoxus's fate remains unknown; he is presumed to have died at sea or been lost somewhere along the African coast. His voyages nonetheless advanced Greek geographic knowledge of the Indian Ocean monsoon system and the East African coastline (he had previously landed, during his return from his second India voyage, far south on the African coast after misjudging the monsoon, making contact with local peoples near Cape Guardafui). The repeated confiscation of his cargo by royal customs officials stands as a specific case of crown economic predation discouraging private commercial initiative in the Ptolemaic trading system.
+Eudoxus's fate remains unknown; he is presumed to have died at sea or been lost somewhere along the African coast. His voyages nonetheless advanced Greek geographic knowledge of the Indian Ocean monsoon system and the East African coastline (he had previously landed, during his return from his second India voyage, far south on the African coast after misjudging the monsoon, making contact with local peoples near [[entities/cape-guardafui|Cape Guardafui]]). The repeated confiscation of his cargo by royal customs officials stands as a specific case of crown economic predation discouraging private commercial initiative in the Ptolemaic trading system.
 
 ## Open Questions
 

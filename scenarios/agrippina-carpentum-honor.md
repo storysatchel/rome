@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Agrippina the Younger's Unprecedented Carpentum Privilege
 
-Tacitus (*Annals* 12.42) records that Agrippina the Younger, wife of the emperor Claudius, was granted the right to ride up to the Capitol in a *carpentum* — the ceremonial carriage traditionally reserved for priests and sacred rites (*honos sacerdotibus et sacris antiquitus concessus*) — a privilege Tacitus frames as an alarming escalation of her personal power and a mark of Claudius's subjection to his wife. A related episode from the same period: when Claudius celebrated his British triumph in AD 44, his then-wife Messalina rode behind his chariot in a carpentum, a conspicuous public display of a wife sharing in a husband's triumphal honors (Suetonius, *Claudius* 17.3).
+Tacitus (*Annals* 12.42) records that Agrippina the Younger, wife of the emperor Claudius, was granted the right to ride up to the [[entities/capitoline-hill|Capitol]] in a *carpentum* — the ceremonial carriage traditionally reserved for priests and sacred rites (*honos sacerdotibus et sacris antiquitus concessus*) — a privilege Tacitus frames as an alarming escalation of her personal power and a mark of Claudius's subjection to his wife. A related episode from the same period: when Claudius celebrated his British triumph in AD 44, his then-wife Messalina rode behind his chariot in a carpentum, a conspicuous public display of a wife sharing in a husband's triumphal honors (Suetonius, *Claudius* 17.3).
 
 ## Parties & Stakes
 

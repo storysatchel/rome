@@ -1,7 +1,7 @@
 ---
 title: Haliartus
 category: entities
-tags: [boeotia, greek-city, third-macedonian-war, siege]
+tags: [boeotia, greek-city, third-macedonian-war, siege, location-district]
 sources: ["Sage, Michael M. — The Republican Roman Army: A Sourcebook"]
 summary: Boeotian city sacked and its population sold into slavery after a Roman siege under the praetor Gaius Lucretius in 171 BC, during the Third Macedonian War.
 provenance: {extracted: 0.75, inferred: 0.2, ambiguous: 0.05}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-25T00:50:00Z"
+relationships:
+  - target: "[[entities/boeotia]]"
+    type: part_of
 ---
 
 # Haliartus

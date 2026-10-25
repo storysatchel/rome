@@ -28,7 +28,7 @@ During his tribunate in 123 or 122 BC, Gaius Gracchus proposed his innovative *l
 
 ## What Happened
 
-At a public meeting (contio) called to discuss the grain bill, Gracchus accused Piso of various improper and wicked actions. When Gracchus ordered Piso summoned to answer, his own lictor — unfamiliar with which "Piso" was meant, since it was a common cognomen — asked for clarification. Gracchus snapped back: "You are compelling me to call my enemy 'the Honest One.'" The line played on Piso's cognomen *Frugi*, turning a term of praise into a backhanded insult live in front of the crowd.
+At a public meeting ([[entities/forum-romanum|contio]]) called to discuss the grain bill, Gracchus accused Piso of various improper and wicked actions. When Gracchus ordered Piso summoned to answer, his own lictor — unfamiliar with which "Piso" was meant, since it was a common cognomen — asked for clarification. Gracchus snapped back: "You are compelling me to call my enemy 'the Honest One.'" The line played on Piso's cognomen *Frugi*, turning a term of praise into a backhanded insult live in front of the crowd.
 
 Once the law passed, Piso made a point of personally showing up at a grain distribution despite his substantial wealth and his public opposition to the law — a theatrical act clearly meant to provoke Gracchus and advertise his own frugal, principled persona. In front of the assembled Roman people, Gracchus challenged him publicly, asking how he could square collecting subsidized grain with having opposed the law that provided it. Piso's recorded answer was that he did not like seeing his property divided up among the citizens, but if it was going to happen regardless, he wanted his own share of it.
 

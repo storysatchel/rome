@@ -22,12 +22,12 @@ relationships:
 
 # Fannia v. Titinius: A Dowry Dispute Judged by Marius (100 BC)
 
-A civil suit from the small Latin town of Minturnae, over the return of a dowry after divorce, survives only because the presiding juror was the future six-time consul [[entities/marius]] — and because his verdict became a byword for a judge publicly signaling that both parties to a divorce were somewhat at fault (Alexander, case #76).
+A civil suit from the small Latin town of [[entities/minturnae|Minturnae]], over the return of a dowry after divorce, survives only because the presiding juror was the future six-time consul [[entities/marius]] — and because his verdict became a byword for a judge publicly signaling that both parties to a divorce were somewhat at fault (Alexander, case #76).
 
 ## Parties & Stakes
 
 - **Fannia** ([[entities/fannia-of-minturnae]]) — divorced wife, suing her ex-husband for retention of her dowry under the action for a wife's property (*actio rei uxoriae*); sought full repayment.
-- **C. Titinius** ([[entities/gaius-titinius-of-minturnae]]), of Minturnae — ex-husband, who had invoked a provision (*retentio propter mores*) allowing a husband to keep a portion of the dowry if the wife's own misconduct caused the divorce.
+- **C. Titinius** ([[entities/gaius-titinius-of-minturnae]]), of [[entities/minturnae|Minturnae]] — ex-husband, who had invoked a provision (*retentio propter mores*) allowing a husband to keep a portion of the dowry if the wife's own misconduct caused the divorce.
 - **C. Marius** (cos. 107, 104–100, 86) — served as juror (*iudex*) in the case, years before his military and political prominence; his verdict here is one of the few glimpses of his pre-command career.
 
 ## What Happened

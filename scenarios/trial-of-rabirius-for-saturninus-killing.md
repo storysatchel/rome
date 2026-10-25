@@ -33,7 +33,7 @@ Labienus structured the prosecution to put the entire 100 BC crisis — and by e
 
 ## Outcome
 
-The archaic procedure never ran to full capital execution; the case was ultimately halted on a technicality when the presiding praetor took down the flag flying over the Janiculum hill, an ancient signal that stopped proceedings before the populus could vote. The affair nonetheless achieved its larger symbolic purpose: it put the senate's authority to kill citizens under an emergency decree on public trial, three decades before the question would become acute again in the Catilinarian crisis of that very same year.
+The archaic procedure never ran to full capital execution; the case was ultimately halted on a technicality when the presiding praetor took down the flag flying over the [[entities/janiculum|Janiculum hill]], an ancient signal that stopped proceedings before the populus could vote. The affair nonetheless achieved its larger symbolic purpose: it put the senate's authority to kill citizens under an emergency decree on public trial, three decades before the question would become acute again in the Catilinarian crisis of that very same year.
 
 ## Open Questions
 

@@ -53,7 +53,7 @@ As a 19th-century American secondary-school text, Pennell's book exemplifies the
 - [[scenarios/the-clodius-milo-street-war-and-trial]]
 - [[scenarios/ciceros-defense-of-sextus-roscius]]
 - [[scenarios/caesars-prosecution-of-dolabella]]
-- [[scenarios/catilines-extortion-trial]]
+- [[scenarios/catiline-praevaricatio-acquittal-65-bc]]
 
 ## Sources
 - Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.

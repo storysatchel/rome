@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Lugdunum Penalized for Backing Clodius Albinus, AD 197
 
-The provincial capital of Gaul, Lugdunum (modern Lyon), backed the losing side in the civil war between Septimius Severus and the rival imperial claimant Clodius Albinus, governor of Britain. The conflict culminated in a major battle fought at Lugdunum itself in AD 197, after which the city — having supported Albinus — was formally penalized by the victorious Severus.
+The provincial capital of [[entities/gaul|Gaul]], Lugdunum (modern Lyon), backed the losing side in the civil war between Septimius Severus and the rival imperial claimant Clodius Albinus, governor of [[entities/britannia|Britain]]. The conflict culminated in a major battle fought at Lugdunum itself in AD 197, after which the city — having supported Albinus — was formally penalized by the victorious Severus.
 
 ## Parties & Stakes
 
@@ -29,7 +29,7 @@ The provincial capital of Gaul, Lugdunum (modern Lyon), backed the losing side i
 
 ## What Happened
 
-Civil war broke out between the several claimants to the imperial throne following the assassination of Pertinax and the brief reign of Didius Julianus in AD 193. Clodius Albinus, commanding the legions of Britain, was initially recognized by Severus as a Caesar (junior colleague) to secure Severus's rear while he dealt with the eastern rival Pescennius Niger, but the alliance broke down once Niger was defeated. Albinus crossed to Gaul and was backed by at least part of the Gallic provincial establishment, with Lugdunum emerging as a center of his support. The decisive battle of the war was fought at Lugdunum in AD 197, where Severus's forces defeated and killed Albinus.
+Civil war broke out between the several claimants to the imperial throne following the assassination of Pertinax and the brief reign of Didius Julianus in AD 193. Clodius Albinus, commanding the legions of [[entities/britannia|Britain]], was initially recognized by Severus as a Caesar (junior colleague) to secure Severus's rear while he dealt with the eastern rival Pescennius Niger, but the alliance broke down once Niger was defeated. Albinus crossed to [[entities/gaul|Gaul]] and was backed by at least part of the Gallic provincial establishment, with Lugdunum emerging as a center of his support. The decisive battle of the war was fought at Lugdunum in AD 197, where Severus's forces defeated and killed Albinus.
 
 ## Outcome
 

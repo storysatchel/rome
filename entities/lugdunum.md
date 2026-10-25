@@ -1,7 +1,7 @@
 ---
 title: Lugdunum (Lyon)
 category: entities
-tags: [gaul, provincial-capital, colonia]
+tags: [gaul, provincial-capital, colonia, location-district]
 sources: ["Goodman, Penelope J. — The Roman City and its Periphery: From Rome to Gaul"]
 summary: Roman colonia and provincial capital of Gallia Lugdunensis; sided with the usurper Clodius Albinus against Septimius Severus and was penalized after Severus's victory there in AD 197.
 provenance: {extracted: 0.5, inferred: 0.3, ambiguous: 0.2}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-25T00:50:00Z"
+relationships:
+  - target: "[[entities/gaul]]"
+    type: part_of
 ---
 
 # Lugdunum (Lyon)

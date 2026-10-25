@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # The Murder of Postumius Albinus During the Siege of Pompeii
 
-During the Social War, in the 89 BC campaign season, troops serving under Sulla's ultimate authority murdered the former consul Postumius Albinus during the prolonged siege of Pompeii. Rather than punish the mutineers — a capital crime by Roman law and custom — Sulla deliberately let the killing go unpunished.
+During the Social War, in the 89 BC campaign season, troops serving under Sulla's ultimate authority murdered the former consul Postumius Albinus during the prolonged siege of [[entities/pompeii|Pompeii]]. Rather than punish the mutineers — a capital crime by Roman law and custom — Sulla deliberately let the killing go unpunished.
 
 ## Parties & Stakes
 

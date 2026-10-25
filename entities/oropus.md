@@ -1,7 +1,7 @@
 ---
 title: Oropus
 category: entities
-tags: [boeotia, greece, temple-land, tax-dispute]
+tags: [boeotia, greece, temple-land, tax-dispute, location-district]
 sources: ["Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic"]
 summary: A Boeotian town whose temple of Amphiaraus held tax-exempt land granted by Sulla; it sued Roman publicani who tried to tax it in 74-73 BC.
 provenance: {extracted: 0.8, inferred: 0.15, ambiguous: 0.05}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-25T00:55:00Z"
+relationships:
+  - target: "[[entities/boeotia]]"
+    type: part_of
 ---
 
 # Oropus

@@ -19,7 +19,7 @@ updated: "2026-10-24T19:09:16Z"
 
 # The Oropians' Lawsuit Against the Publicani Over the Land of Amphiaraus
 
-During Sulla's campaigns in Greece in the 80s BC, he vowed a gift of land to the temple of Amphiaraus at Oropus in Boeotia and confirmed it as inviolable territory exempt from taxation. A generation later, Roman tax-farming companies (*publicani*) operating in the province began assessing dues on that same land, prompting the townspeople of Oropus to bring a formal complaint to Rome. The resulting dispute and its resolution are preserved on an inscription recording a letter sent to Oropus by the consuls of 73 BC.
+During Sulla's campaigns in Greece in the 80s BC, he vowed a gift of land to the [[entities/temple-of-amphiaraus|temple of Amphiaraus]] at Oropus in [[entities/boeotia|Boeotia]] and confirmed it as inviolable territory exempt from taxation. A generation later, Roman tax-farming companies (*publicani*) operating in the province began assessing dues on that same land, prompting the townspeople of Oropus to bring a formal complaint to [[entities/rome|Rome]]. The resulting dispute and its resolution are preserved on an inscription recording a letter sent to Oropus by the consuls of 73 BC.
 
 ## Parties & Stakes
 

@@ -22,13 +22,13 @@ relationships:
 
 # The Post-Cannae Vestal Scandal: Opimia and Floronia (216 BC)
 
-Shortly after the catastrophic Roman defeat at Cannae in 216 BC, with Hannibal's army still rampaging through Italy, two Vestals, Opimia and Floronia, were accused and convicted of *incestum* in the same year — one of the best-attested and most dramatic Vestal scandals of the whole Republic, and a case Wildfang reads as a deliberate attempt by Roman authorities to reassert control over women's public behavior during a moment of civic panic, rather than a response to any specific sexual offense.
+Shortly after the catastrophic Roman defeat at [[entities/cannae|Cannae]] in 216 BC, with Hannibal's army still rampaging through Italy, two Vestals, Opimia and Floronia, were accused and convicted of *incestum* in the same year — one of the best-attested and most dramatic Vestal scandals of the whole Republic, and a case Wildfang reads as a deliberate attempt by Roman authorities to reassert control over women's public behavior during a moment of civic panic, rather than a response to any specific sexual offense.
 
 ## Parties & Stakes
 
-- **Opimia** ([[entities/opimia-vestal-216-bc]]) — convicted Vestal; executed by live burial "under the earth at the Colline Gate," the standard method.
+- **Opimia** ([[entities/opimia-vestal-216-bc]]) — convicted Vestal; executed by live burial "under the earth at the [[entities/colline-gate|Colline Gate]]," the standard method.
 - **Floronia** ([[entities/floronia-vestal-216-bc]]) — convicted Vestal; avoided formal execution by taking her own life before sentence could be carried out.
-- **L. Cantilius** ([[entities/lucius-cantilius-pontifical-scribe]]), a pontifical scribe (one of the "lesser pontifices") — identified as Floronia's lover and co-defendant in the religious sense; flogged to death by the Pontifex Maximus in person, in the Comitium, as his punishment.
+- **L. Cantilius** ([[entities/lucius-cantilius-pontifical-scribe]]), a pontifical scribe (one of the "lesser pontifices") — identified as Floronia's lover and co-defendant in the religious sense; flogged to death by the Pontifex Maximus in person, in the [[entities/comitium|Comitium]], as his punishment.
 - Q. Fabius Maximus (the eventual "Cunctator") — in Livy's account, the senator who proposed emergency measures (confining women indoors, silencing public mourning) to restore civic order in the same crisis.
 
 ## What Happened
@@ -37,7 +37,7 @@ In the immediate aftermath of Cannae — Rome's worst single military defeat of 
 
 ## Outcome
 
-Opimia was buried alive at the Colline Gate per the standard Vestal execution ritual; Floronia escaped the same fate only by suicide. Her alleged lover Cantilius was beaten to death by the Pontifex Maximus personally, with his own hands, in the Comitium — an unusually brutal and public punishment even by the standards of Vestal-incestum cases, reflecting (per Wildfang) the extremity of the crisis atmosphere in which the case was decided.
+Opimia was buried alive at the [[entities/colline-gate|Colline Gate]] per the standard Vestal execution ritual; Floronia escaped the same fate only by suicide. Her alleged lover Cantilius was beaten to death by the Pontifex Maximus personally, with his own hands, in the [[entities/comitium|Comitium]] — an unusually brutal and public punishment even by the standards of Vestal-incestum cases, reflecting (per Wildfang) the extremity of the crisis atmosphere in which the case was decided.
 
 ## Open Questions
 

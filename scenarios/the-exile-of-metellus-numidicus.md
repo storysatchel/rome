@@ -24,7 +24,7 @@ When the radical tribune Lucius Appuleius Saturninus passed a land law in 100 BC
 ## Parties & Stakes
 
 - **Quintus Caecilius Metellus Numidicus** ([[entities/quintus-caecilius-metellus-numidicus]]) — goal: refuse to legitimize a law passed through violence and intimidation; stakes: his Senate seat, his place in Rome
-- **Lucius Appuleius Saturninus** ([[entities/lucius-appuleius-saturninus]]) — goal: enforce unanimous senatorial submission to his law; resources: armed supporters sent to physically remove Metellus from the Senate house
+- **Lucius Appuleius Saturninus** ([[entities/lucius-appuleius-saturninus]]) — goal: enforce unanimous senatorial submission to his law; resources: armed supporters sent to physically remove Metellus from the [[entities/curia-hostilia|Senate house]]
 - **Gaius Marius** ([[entities/marius]]) — role: swore the oath with a deliberately ambiguous formula, avoiding direct confrontation
 - **Furius (tribune, 99 BC)** — goal: block Metellus's recall and seize his estate; outcome: later torn apart by a mob after being prosecuted himself
 

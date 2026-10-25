@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-24T22:05:00Z"
+updated: "2026-10-25T02:20:00Z"
 ---
 
 # Hot Cache
@@ -9,21 +9,21 @@ updated: "2026-10-24T22:05:00Z"
 
 ## Recent Activity
 
-- [2026-10-24T22:05:00Z] Re-scoured all 38 previously-ingested sources for discrete conflicts/events/contests/conspiracies — athletic, legal, political, military, economic — favoring obscure/petty incidents over already-covered headline events. New `scenarios/` category: 111 articles (35 political, 35 legal, 15 military, 15 economic, 7 conspiracy, 4 athletic — including Virgil's funeral games as literal athletic contests). Entities grew from 20 to 226 (every named person/place/thing involved in a scenario got a stub). 9 parallel subagents produced ~300 new pages; found and resolved 6 genuine cross-batch duplicates (same real person independently profiled by two batches — e.g. Scipio Africanus, Saturninus, two different Titus Labienus pages) by merging content and leaving redirect stubs. Vault now 402 pages, 0 dangling links, 0 true orphans.
+- [2026-10-25T02:20:00Z] Built a Province > Region > District > Building location hierarchy across every one of the 111 scenarios. Pre-built a 27-entity shared scaffold (Italy + 9 provinces, 10 regions, Rome + its 7 major sub-districts) to bound collision risk, then ran 9 parallel batches re-reading all scenarios for every location mentioned, no matter how minor — specific temples (Jupiter Feretrius, Concordia, Vesta's Curia Hostilia), specific streets/gates (Via Appia, Colline Gate), specific villas (Scipio's at Liternum, Axius's at Reate), even legendary/literary sites (Troy, Laurentum, Drepanum from the Aeneid). Entities grew from 226 to 333. Found and merged 3 cross-batch entity duplicates (Chalcis, Arausio, Janiculum) plus one previously-missed scenario-level duplicate: Catiline's 65 BC extortion trial, documented by both Pennell and Alexander with a genuine factual disagreement over whether Cicero defended him — merged into one page with the contradiction preserved as an Open Question rather than silently picking a winner.
+- [2026-10-24T22:05:00Z] Scenario-mined all 38 sources for discrete conflicts/events/contests/conspiracies — 111 scenarios, 206 new entity stubs, 6 duplicate merges.
 - [2026-10-24T19:15:00Z] Corrected a misdiagnosis: Roselaar's `.rar` wasn't corrupted — `bsdtar` succeeded where `unar`/`7z` failed on its RAR5 method.
-- [2026-10-24T20:50:00Z] Ingested 5 new sources (Hudson, Bang, Scarre, Goodman, Casson) — travel, economy, provincial urbanism.
 
 ## Active Threads
 
-- Several scenario pages rest on thin, single-sentence source citations (base_confidence as low as 0.45-0.52) — flagged in their own Open Questions rather than padded with invented detail.
-- 6 duplicate entity pages were converted to `lifecycle: archived` redirect stubs rather than deleted (matching the vault's existing convention from the Sandberg duplicate-scan precedent) — they remain as dead-end tombstones pointing to the canonical merged page.
-- 5 new unprocessed files are still sitting in `_raw/` from an earlier drop (Hudson, Bang, Scarre, Goodman, Casson were already processed; check `_raw/` for any further new arrivals) — none currently pending as of this update.
-- The scenario-mining pass deliberately did NOT re-read every chapter of every 300+ page book — several sources (Cato/Varro's farm manual, Lucretius's near-empty stub, Goodman's academic prose) yielded few or zero scenarios and this was reported honestly rather than forced.
+- The location hierarchy is source-grounded, not a fabricated gazetteer: every Province/Region scaffold node that no scenario ever actually used was NOT created (e.g. no "Syria," "Crete," "Cyprus" entities exist despite being real Roman provinces, because nothing in the ingested sources is set there).
+- A handful of scenarios have no location at all in their cited source material (e.g. `egnatius-mecennius-wife-killing`, `jewish-merchants-stolen-goods-ruling`, `trial-of-titinia-witchcraft-accusation`) — left unlinked rather than fabricating a "Rome" guess, per the vault's no-fabrication rule.
+- Location entities use a `relationships: [{target: "[[entities/<parent>]]", type: part_of}]` convention (new this round) to encode the hierarchy; scenario pages that record *where* something happened additionally got an `occurred_at` relationship pointing at the specific location entity (introduced by one batch, adopted as the convention — not yet retrofitted onto every older scenario, only ones touched this round).
+- 9 archived/redirect tombstones now exist in the vault (6 from the scenario-mining pass, 3 new this round: Chalcis-dup, Arausio-dup→n/a merged in place, Janiculum Hill, Catiline's extortion trial) — all intentional, never delete, kept for link resolvability.
 
 ## Key Takeaways
 
-- The wiki now has a genuine micro-history layer beneath its thematic concept pages: specific named trials (Causa Curiana, the Vestal incestum trials, dozens from Alexander's catalog), specific battles (Caudine Forks, Clastidium), specific scandals (Marius's gold ring, the Tolosan gold affair), and specific athletic contests (the Aeneid's funeral games).
-- Several real people turn out to be documented across multiple, previously-unconnected scenarios once mined this way — e.g. Cato the Elder now connects to a 184 BC Senate purge, a water-diversion lawsuit, and a public-contracts dispute, not just his Hellenism and farming-economy material.
+- The wiki's geography is now queryable top-down: e.g. everything under `entities/latium` → `entities/rome` → `entities/forum-romanum` traces to a specific building, and everything under `entities/numidia` traces to the Jugurthine War material.
+- Concurrent-write races on heavily-shared scaffold nodes (`entities/rome`, `entities/forum-romanum`, `entities/capitoline-hill`) were largely self-healed by sibling batches re-reading and merging rather than clobbering — only 3 location entities needed manual post-hoc reconciliation.
 
 ## Flagged Contradictions
 
@@ -31,3 +31,4 @@ updated: "2026-10-24T22:05:00Z"
 - Wildfang vs. DiLuzio (*A Place at the Altar*, corrupted source) on specifics of Vestal political assertiveness. — `entities/vestal-virgins`
 - Marin (elite-driven concealment) vs. Watts (popular demand for autocracy) on the mechanism behind Augustus's consolidation. — `entities/augustus`
 - Astin (elite occupation of public land displaced small farmers) vs. Roselaar (population growth priced farmers off *private* land) on 2nd-century agrarian distress. — `concepts/land-and-agrarian-conflict`
+- Pennell (Cicero defended Catiline in his 65 BC extortion trial) vs. Alexander (Cicero only considered it; Clodius prosecuted, possibly collusively) — `scenarios/catiline-praevaricatio-acquittal-65-bc`

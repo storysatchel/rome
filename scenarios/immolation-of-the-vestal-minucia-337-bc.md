@@ -22,7 +22,7 @@ relationships:
 
 # The Immolation of the Vestal Minucia Amid the Plebeian Praetorship Fight (337 BC)
 
-In 337 BC — the same year Rome elected its first plebeian praetor — the Vestal Minucia, a member of a prominent and politically active plebeian family, was convicted of *incestum* on the strength of a slave's accusation and buried alive at the Campus Sceleratus, the "field of wickedness" by the Colline Gate reserved for executing condemned Vestals.
+In 337 BC — the same year Rome elected its first plebeian praetor — the Vestal Minucia, a member of a prominent and politically active plebeian family, was convicted of *incestum* on the strength of a slave's accusation and buried alive at the [[entities/campus-sceleratus|Campus Sceleratus]], the "field of wickedness" by the [[entities/colline-gate|Colline Gate]] reserved for executing condemned Vestals.
 
 ## Parties & Stakes
 

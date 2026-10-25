@@ -1,7 +1,7 @@
 ---
 title: Rhegium
 category: entities
-tags: [magna-graecia, garrison-mutiny, pyrrhic-war, roman-republic]
+tags: [magna-graecia, garrison-mutiny, pyrrhic-war, roman-republic, location-district]
 sources: ["Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic"]
 summary: Greek city in the toe of Italy seized by its own Roman garrison (probably Campanian) around 280 BC; recaptured by Rome and the garrison's survivors executed by 270 BC.
 provenance: {extracted: 0.7, inferred: 0.2, ambiguous: 0.1}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-25T00:50:00Z"
+relationships:
+  - target: "[[entities/bruttium]]"
+    type: part_of
 ---
 
 # Rhegium

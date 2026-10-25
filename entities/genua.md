@@ -1,7 +1,7 @@
 ---
 title: Genua
 category: entities
-tags: [liguria, allied-city, boundary-dispute]
+tags: [liguria, allied-city, boundary-dispute, location-district]
 sources: ["Gargola, Daniel J. — The Shape of the Roman Order: The Republic and Its Space"]
 summary: An allied coastal city in Liguria (modern Genoa) that disputed land boundaries with the inland Langenses Viturii, resolved by Roman arbitration in 117 BC.
 provenance: {extracted: 0.8, inferred: 0.15, ambiguous: 0.05}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-25T00:50:00Z"
+relationships:
+  - target: "[[entities/liguria]]"
+    type: part_of
 ---
 
 # Genua

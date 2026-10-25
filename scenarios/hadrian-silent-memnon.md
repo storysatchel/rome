@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # The Colossus of Memnon Snubs Hadrian but Speaks for Sabina
 
-The "Colossus of Memnon," a pair of massive seated statues of Amenhotep III at Thebes in Egypt, had become one of the ancient world's premier tourist attractions after one of the statues developed a crack (following an earthquake) that caused it to emit a strange sound at dawn, popularly believed to be the legendary hero Memnon greeting his mother, the dawn goddess Eos. Visitors from across the empire traveled to hear it and left inscriptions recording their experience. When the emperor Hadrian visited with his wife Vibia Sabina and an entourage including the poetess Julia Balbilla in AD 130, the statue reportedly spoke for Sabina but not — on the day in question — for Hadrian himself.
+The "[[entities/colossus-of-memnon|Colossus of Memnon]]," a pair of massive seated statues of Amenhotep III at [[entities/thebes-egypt|Thebes]] in [[entities/egypt|Egypt]], had become one of the ancient world's premier tourist attractions after one of the statues developed a crack (following an earthquake) that caused it to emit a strange sound at dawn, popularly believed to be the legendary hero Memnon greeting his mother, the dawn goddess Eos. Visitors from across the empire traveled to hear it and left inscriptions recording their experience. When the emperor Hadrian visited with his wife Vibia Sabina and an entourage including the poetess Julia Balbilla in AD 130, the statue reportedly spoke for Sabina but not — on the day in question — for Hadrian himself.
 
 ## Parties & Stakes
 

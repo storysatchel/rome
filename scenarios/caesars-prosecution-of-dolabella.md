@@ -22,7 +22,7 @@ relationships:
 
 # A Young Caesar's Failed Prosecution of Cn. Cornelius Dolabella (77 BC)
 
-In 77 BC, a 23-year-old [[entities/julius-caesar]] — not yet a senator, let alone a general or dictator — made his debut as a prosecutor in Rome's extortion court, charging the former consul Cn. Cornelius Dolabella with plundering Macedonia during his governorship (Alexander, case #140). The episode predates by decades everything the wiki's existing Caesar material covers and shows Caesar's earliest recorded public act as a courtroom loss.
+In 77 BC, a 23-year-old [[entities/julius-caesar]] — not yet a senator, let alone a general or dictator — made his debut as a prosecutor in [[entities/rome|Rome]]'s extortion court, charging the former consul Cn. Cornelius Dolabella with plundering [[entities/macedonia|Macedonia]] during his governorship (Alexander, case #140). The episode predates by decades everything the wiki's existing Caesar material covers and shows Caesar's earliest recorded public act as a courtroom loss.
 
 ## Parties & Stakes
 
@@ -37,7 +37,7 @@ Caesar brought the extortion charge under the *lex Cornelia de repetundis*, with
 
 ## Outcome
 
-Dolabella was acquitted. The loss did not damage Caesar's reputation; ancient sources instead treat his performance as a prosecutor in a losing cause as evidence of exceptional promise, and he went on the following year to prosecute (again unsuccessfully) C. Antonius for provincial misconduct in Greece.
+Dolabella was acquitted. The loss did not damage Caesar's reputation; ancient sources instead treat his performance as a prosecutor in a losing cause as evidence of exceptional promise, and he went on the following year to prosecute (again unsuccessfully) C. Antonius for provincial misconduct in [[entities/achaea-greece|Greece]].
 
 ## Open Questions
 

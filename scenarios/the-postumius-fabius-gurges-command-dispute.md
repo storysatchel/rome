@@ -30,7 +30,7 @@ In 291 BC, Lucius Postumius Megellus served as interrex and controversially had 
 
 ## What Happened
 
-According to a fragment of Dionysius of Halicarnassus, Postumius wrote directly to Fabius Gurges in Samnium, commanding him to evacuate the province so that Postumius, as consul, could rightfully take command there himself. ^[extracted] The Senate, upon learning of this letter, sent Postumius a formal rebuke rather than allowing the handover. ^[extracted] The episode compounds Postumius's irregular path to the consulship (self-election while serving as interrex) with a second overreach attempting to strip an already-authorized proconsul of his command.
+According to a fragment of Dionysius of Halicarnassus, Postumius wrote directly to Fabius Gurges in [[entities/samnium|Samnium]], commanding him to evacuate the province so that Postumius, as consul, could rightfully take command there himself. ^[extracted] The Senate, upon learning of this letter, sent Postumius a formal rebuke rather than allowing the handover. ^[extracted] The episode compounds Postumius's irregular path to the consulship (self-election while serving as interrex) with a second overreach attempting to strip an already-authorized proconsul of his command.
 
 ## Outcome
 

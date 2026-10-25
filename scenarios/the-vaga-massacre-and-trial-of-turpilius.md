@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # The Vaga Massacre and the Court-Martial of Turpilius
 
-Vaga was a prosperous Numidian trading town garrisoned by Roman troops under the general Metellus during the Jugurthine War. In 109 BC, Jugurtha secretly incited the town's inhabitants to rise against the garrison. On the day of a great festival, the Roman officers — including commandant Titus Turpilius Silanus — were invited to private feasts by their local hosts; at a signal, the tribunes and centurions were massacred where they reclined, and the ordinary soldiers were hunted down in the streets by a mob that included women and children hurling stones from the rooftops. Turpilius alone escaped through the gates.
+[[entities/vaga|Vaga]] was a prosperous Numidian trading town garrisoned by Roman troops under the general Metellus during the Jugurthine War. In 109 BC, Jugurtha secretly incited the town's inhabitants to rise against the garrison. On the day of a great festival, the Roman officers — including commandant Titus Turpilius Silanus — were invited to private feasts by their local hosts; at a signal, the tribunes and centurions were massacred where they reclined, and the ordinary soldiers were hunted down in the streets by a mob that included women and children hurling stones from the rooftops. Turpilius alone escaped through the gates.
 
 ## Parties & Stakes
 
@@ -30,7 +30,7 @@ Vaga was a prosperous Numidian trading town garrisoned by Roman troops under the
 
 ## What Happened
 
-Within two days of the massacre, Metellus led a forced night march back to Vaga, disguised his standards, and lured the townspeople out by posing as Jugurtha's returning army; his troops then slaughtered the population and retook the town. Attention then turned to Turpilius, the only Roman officer to survive the original massacre. Despite his close personal bond with Metellus, who had entrusted him with the engineering corps and the Vaga command, the scandal was judged too serious for a private inquiry. A military court was convened; Marius was said to have pushed hard for a guilty verdict, feeding gossip later embedded in stories about "the Wrath of Marius."
+Within two days of the massacre, Metellus led a forced night march back to [[entities/vaga|Vaga]], disguised his standards, and lured the townspeople out by posing as Jugurtha's returning army; his troops then slaughtered the population and retook the town. Attention then turned to Turpilius, the only Roman officer to survive the original massacre. Despite his close personal bond with Metellus, who had entrusted him with the engineering corps and the Vaga command, the scandal was judged too serious for a private inquiry. A military court was convened; Marius was said to have pushed hard for a guilty verdict, feeding gossip later embedded in stories about "the Wrath of Marius."
 
 ## Outcome
 

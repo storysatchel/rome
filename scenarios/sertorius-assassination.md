@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # The Assassination of Sertorius by His Own Officer Perperna
 
-Quintus Sertorius was a Roman general of the Marian faction who, after Sulla's victory in the civil wars of the 80s BC, established an independent power base in Hispania, rallying both Roman exiles and local Iberian peoples and resisting a series of Roman armies — including one commanded by Pompey — for nearly a decade. In 72 BC Sertorius was murdered by his own officer, Marcus Perperna, ending the revolt.
+Quintus Sertorius was a Roman general of the Marian faction who, after Sulla's victory in the civil wars of the 80s BC, established an independent power base in [[entities/hispania|Hispania]], rallying both Roman exiles and local Iberian peoples and resisting a series of Roman armies — including one commanded by Pompey — for nearly a decade. In 72 BC Sertorius was murdered by his own officer, Marcus Perperna, ending the revolt.
 
 ## Parties & Stakes
 
@@ -29,7 +29,7 @@ Quintus Sertorius was a Roman general of the Marian faction who, after Sulla's v
 
 ## What Happened
 
-Sertorius's long resistance in Spain had frustrated successive Roman commanders, and the Roman Senate under Sulla's settlement regarded him as an outlaw. According to the atlas's summary of events, Sertorius was murdered by his own officer in 72 BC — Perperna organized the killing, reportedly at a banquet, as part of a conspiracy among discontented Roman officers in Sertorius's entourage who resented his dominance and feared the war was unwinnable.^[inferred] Perperna then attempted to take over command of Sertorius's forces.
+Sertorius's long resistance in [[entities/hispania|Spain]] had frustrated successive Roman commanders, and the Roman Senate under Sulla's settlement regarded him as an outlaw. According to the atlas's summary of events, Sertorius was murdered by his own officer in 72 BC — Perperna organized the killing, reportedly at a banquet, as part of a conspiracy among discontented Roman officers in Sertorius's entourage who resented his dominance and feared the war was unwinnable.^[inferred] Perperna then attempted to take over command of Sertorius's forces.
 
 ## Outcome
 

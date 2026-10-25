@@ -28,14 +28,14 @@ relationships:
 
 ## Parties & Stakes
 
-- **Aeneas** ([[entities/aeneas]]) — Trojan leader; stakes: Lavinia's hand and the throne of Latium, and ending the war
+- **Aeneas** ([[entities/aeneas]]) — Trojan leader; stakes: Lavinia's hand and the throne of [[entities/laurentum|Latium]], and ending the war
 - **Turnus** ([[entities/turnus]]) — Rutulian king, pressured into the duel; stakes: his claim to Lavinia and his life
 - **Juturna** ([[entities/juturna]]) — Turnus's immortal sister, disguises herself as his charioteer Metiscus to keep him armed and in the fight
 - **Jupiter and Juno** — Jupiter orders Juno to stop aiding the Rutulians; in exchange Juno extracts a promise that the Trojan name will be dissolved into the Latin identity of the future Roman people (already treated in [[references/virgil-the-aeneid]])
 
 ## What Happened
 
-Public outcry in Latium — grieving mothers, orphaned boys, the orator Drances — demands that Turnus, who claims the kingship and Lavinia's hand, "fight alone" and settle the war by single combat rather than continued general slaughter; Turnus, backed by the queen's favor and his own battlefield renown, accepts the pact. In the duel itself, Turnus's sword snaps on Aeneas's divine armor (forged by Vulcan), forcing him to flee; Aeneas pursues him around a sacred, stripped olive stump sacred to Faunus where his own spear has stuck fast. While Aeneas struggles to free his weapon, Juturna — disguised as the charioteer Metiscus — slips Turnus a fresh sword; Venus, indignant, intervenes to tear Aeneas's spear free in turn, re-arming both men.
+Public outcry in Latium — grieving mothers, orphaned boys, the orator Drances — demands that Turnus, who claims the kingship and Lavinia's hand, "fight alone" and settle the war by single combat rather than continued general slaughter; Turnus, backed by the queen's favor and his own battlefield renown, accepts the pact. In the duel itself, Turnus's sword snaps on Aeneas's divine armor (forged by Vulcan), forcing him to flee; Aeneas pursues him around a sacred, stripped [[entities/olive-stump-of-faunus|olive stump sacred to Faunus]] where his own spear has stuck fast. While Aeneas struggles to free his weapon, Juturna — disguised as the charioteer Metiscus — slips Turnus a fresh sword; Venus, indignant, intervenes to tear Aeneas's spear free in turn, re-arming both men.
 
 Jupiter then confronts Juno directly over her continued interference, reminding her Aeneas is fated for apotheosis and ordering her to stop; Juno agrees to withdraw, asking in return only that the defeated Latins keep their own name, language, and customs rather than being renamed Trojan — a bargain Jupiter grants (detailed further on [[references/virgil-the-aeneid]]). With divine support gone, Turnus is left alone; terrified and immobile before Aeneas's spear-cast, he takes a devastating hit through the thigh and collapses.
 

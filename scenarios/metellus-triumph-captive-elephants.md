@@ -23,7 +23,7 @@ This is a historical-anecdotal episode from Seneca's *On the Shortness of Life* 
 
 ## Parties & Stakes
 
-- **Lucius Caecilius Metellus** ([[entities/lucius-caecilius-metellus]]) — Roman general celebrating a triumph after defeating Carthaginian forces in Sicily; stakes: the spectacle and prestige of his triumphal procession
+- **Lucius Caecilius Metellus** ([[entities/lucius-caecilius-metellus]]) — Roman general celebrating a triumph at [[entities/rome|Rome]] ^[inferred: triumphal processions conventionally entered the city of Rome, though Seneca's text does not name it] after defeating Carthaginian forces in [[entities/sicilia|Sicily]]; stakes: the spectacle and prestige of his triumphal procession
 - **The defeated Carthaginian army in Sicily** (collective counterpart, not individually named in this source) — supplier of the captured elephants
 
 ## What Happened

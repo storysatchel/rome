@@ -19,7 +19,7 @@ updated: "2026-10-24T19:09:16Z"
 
 # The Trial of Gaius Lucretius for Cruelty Toward the Chalcidians
 
-C. Lucretius, praetor in 171 BC, was accused in the senate by ambassadors from Chalcis of merciless cruelties and robberies perpetrated against their community — almost certainly connected to his naval command during the opening phase of the Third Macedonian War. Rather than letting the matter rest with a senatorial rebuke, two tribunes of the plebs brought formal charges against him before the people.
+C. Lucretius, praetor in 171 BC, was accused in the senate by ambassadors from [[entities/chalcis|Chalcis]] of merciless cruelties and robberies perpetrated against their community — almost certainly connected to his naval command during the opening phase of the Third Macedonian War. Rather than letting the matter rest with a senatorial rebuke, two tribunes of the plebs brought formal charges against him before the people.
 
 ## Parties & Stakes
 

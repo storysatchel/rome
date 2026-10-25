@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # The Tolosan Gold Scandal and the Prosecution of Caepio
 
-As proconsul in Gaul, Quintus Servilius Caepio seized a vast hoard of sacred gold and silver from the Gallic sanctuary city of Tolosa (modern Toulouse). He was widely, if never formally, believed to have embezzled much of this "Tolosan booty" for himself. Shortly afterward, his refusal to cooperate with his co-commander Gnaeus Mallius Maximus against the invading Cimbri contributed to the catastrophic Roman defeat at Arausio in October 105 BC, in which an entire army was destroyed.
+As proconsul in [[entities/gaul|Gaul]], Quintus Servilius Caepio seized a vast hoard of sacred gold and silver from the Gallic sanctuary city of [[entities/tolosa|Tolosa]] (modern Toulouse). He was widely, if never formally, believed to have embezzled much of this "Tolosan booty" for himself. Shortly afterward, his refusal to cooperate with his co-commander Gnaeus Mallius Maximus against the invading Cimbri contributed to the catastrophic Roman defeat at [[entities/arausio|Arausio]] in October 105 BC, in which an entire army was destroyed.
 
 ## Parties & Stakes
 

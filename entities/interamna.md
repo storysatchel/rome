@@ -1,7 +1,7 @@
 ---
 title: Interamna (Nahars)
 category: entities
-tags: [town, central-italy, umbria]
+tags: [town, central-italy, umbria, location-district]
 sources: ["Cato & Varro — Roman Farm Management"]
 summary: Umbrian town (modern Terni) that spent two centuries disputing Reate over the canal draining Lake Velinus onto its downstream location.
 provenance: {extracted: 0.8, inferred: 0.15, ambiguous: 0.05}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-25T00:55:00Z"
+relationships:
+  - target: "[[entities/umbria]]"
+    type: part_of
 ---
 
 # Interamna (Nahars)

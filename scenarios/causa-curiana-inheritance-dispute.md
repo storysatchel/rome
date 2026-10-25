@@ -38,7 +38,7 @@ The court found for Curius, endorsing Crassus's argument for interpreting the te
 
 ## Open Questions
 
-- The exact year (94 vs. 93 BC) depends on dating Scaevola's proconsulship in Asia, which is itself disputed in the sources Alexander cites.
+- The exact year (94 vs. 93 BC) depends on dating Scaevola's proconsulship in [[entities/asia-province|Asia]], which is itself disputed in the sources Alexander cites.
 
 ## Sources
 

@@ -30,11 +30,11 @@ In 99 BC the tribune Lucius Appuleius Saturninus, already elected to an unpreced
 
 ## What Happened
 
-With the election for the second consular seat actually underway, hired agents of Saturninus and Glaucia beat Gaius Memmius to death in order to remove him as a rival candidate. ^[extracted] The Senate responded the next day by declaring both Saturninus and Glaucia public enemies and calling on Marius — their former political ally — to defend the republic against them. ^[extracted] After a pitched battle in the Forum on 10 December 100 BC [as dated in the source], Marius captured Saturninus and his followers on the Capitol and, despite assurances of safety, Saturninus was stoned to death in the Curia Hostilia; Glaucia was dragged from a nearby house and also killed. ^[extracted]
+With the election for the second consular seat actually underway, hired agents of Saturninus and Glaucia beat Gaius Memmius to death in order to remove him as a rival candidate. ^[extracted] The Senate responded the next day by declaring both Saturninus and Glaucia public enemies and calling on Marius — their former political ally — to defend the republic against them. ^[extracted] After a pitched battle in the [[entities/forum-romanum|Forum]] on 10 December 100 BC [as dated in the source], Marius captured Saturninus and his followers on the [[entities/capitoline-hill|Capitol]] and, despite assurances of safety, Saturninus was stoned to death in the [[entities/curia-hostilia|Curia Hostilia]]; Glaucia was dragged from a nearby house and also killed. ^[extracted]
 
 ## Outcome
 
-Memmius's murder directly destroyed Saturninus and Glaucia's political faction: both men were killed within days by a mob despite official guarantees of safety, and Marius, disgruntled at having to turn on his former allies, left Rome for the East in a kind of retirement. The affair had a long legal postscript decades later in the trial of Gaius Rabirius (see [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]]).
+Memmius's murder directly destroyed Saturninus and Glaucia's political faction: both men were killed within days by a mob despite official guarantees of safety, and Marius, disgruntled at having to turn on his former allies, left [[entities/rome|Rome]] for the East in a kind of retirement. The affair had a long legal postscript decades later in the trial of Gaius Rabirius (see [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]]).
 
 ## Open Questions
 

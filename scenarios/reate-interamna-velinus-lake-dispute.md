@@ -19,7 +19,7 @@ updated: "2026-10-24T19:09:16Z"
 
 # The Reate–Interamna Dispute over the Draining of Lake Velinus
 
-In 272 BCE the consul [[entities/manius-curius-dentatus]] cut an artificial channel to drain Lake Velinus, which lay above Reate and whose limestone-choked waters periodically flooded the fertile Rosea plain, into the river Nar at what is now the Cascate delle Marmore. The canal reclaimed the Rosea pastureland for Reate's livestock economy, but sent the diverted waters crashing down onto the town of Interamna below. For roughly two hundred years Interamna complained that Curius's canal endangered its own situation, and the dispute was still unresolved when, in 54 BCE, the Roman Senate finally appointed a consul-led commission of ten to adjudicate it.
+In 272 BCE the consul [[entities/manius-curius-dentatus]] cut an artificial channel to drain [[entities/lake-velinus|Lake Velinus]], which lay above Reate and whose limestone-choked waters periodically flooded the fertile [[entities/rosea-plain|Rosea plain]], into the [[entities/river-nar|river Nar]] at what is now the Cascate delle Marmore. The canal reclaimed the Rosea pastureland for Reate's livestock economy, but sent the diverted waters crashing down onto the town of Interamna below. For roughly two hundred years Interamna complained that Curius's canal endangered its own situation, and the dispute was still unresolved when, in 54 BCE, the Roman Senate finally appointed a consul-led commission of ten to adjudicate it.
 
 ## Parties & Stakes
 
@@ -29,7 +29,7 @@ In 272 BCE the consul [[entities/manius-curius-dentatus]] cut an artificial chan
 
 ## What Happened
 
-Cicero, writing to Atticus (*Ad Atticum* IV.15) while serving as Reate's advocate, describes being summoned to plead the town's cause "in their Tempe" (the Rosea valley) against Interamna, before the consul and ten commissioners, on the question of the Veline lake. He stayed, as did Appius Claudius, at the villa of their mutual friend Axius near Reate, and the trip doubled as a social occasion — Appius Claudius is depicted in Varro's *De Re Rustica* III joking with fellow aviary-enthusiasts about the "birds" (punning on senators' cognomina — Merula "Blackbird," Pavo "Peacock," Pica "Magpie," Passer "Sparrow") at Axius's estate on his way to the hearing. The underlying technical dispute concerned whether the channel cut through the mountain by Curius, which had drained the Rosea swamp into the Nar, should remain as built.
+Cicero, writing to Atticus (*Ad Atticum* IV.15) while serving as Reate's advocate, describes being summoned to plead the town's cause "in their Tempe" (the [[entities/rosea-plain|Rosea valley]]) against Interamna, before the consul and ten commissioners, on the question of the Veline lake. He stayed, as did Appius Claudius, at the [[entities/villa-of-axius|villa of their mutual friend Axius]] near Reate, and the trip doubled as a social occasion — Appius Claudius is depicted in Varro's *De Re Rustica* III joking with fellow aviary-enthusiasts about the "birds" (punning on senators' cognomina — Merula "Blackbird," Pavo "Peacock," Pica "Magpie," Passer "Sparrow") at Axius's estate on his way to the hearing. The underlying technical dispute concerned whether the channel cut through the mountain by Curius, which had drained the Rosea swamp into the [[entities/river-nar|Nar]], should remain as built.
 
 ## Outcome
 

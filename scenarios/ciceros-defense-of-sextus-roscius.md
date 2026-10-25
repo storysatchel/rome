@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # Cicero's Defense of Sextus Roscius on a False Parricide Charge
 
-In 80 BC, in the aftermath of Sulla's proscriptions, Sextus Roscius of Ameria was falsely accused of murdering his own father. The true motive, as Cicero's defense argued, was that associates of Sulla's freedman Chrysogonus wanted Roscius's father's estate declared forfeit as proscribed property so it could be bought up cheaply.^[inferred] This was the first major public oration of the twenty-six-year-old Marcus Tullius Cicero, who had to tread carefully given that the prosecution was effectively backed by men close to the dictator Sulla.
+In 80 BC, in the aftermath of Sulla's proscriptions, Sextus Roscius of [[entities/ameria|Ameria]] was falsely accused of murdering his own father. The true motive, as Cicero's defense argued, was that associates of Sulla's freedman Chrysogonus wanted Roscius's father's estate declared forfeit as proscribed property so it could be bought up cheaply.^[inferred] This was the first major public oration of the twenty-six-year-old Marcus Tullius Cicero, who had to tread carefully given that the prosecution was effectively backed by men close to the dictator Sulla.
 
 ## Parties & Stakes
 
@@ -33,7 +33,7 @@ Roscius was accused of murdering his father, with the real aim being to have the
 
 ## Outcome
 
-Cicero won the case; Roscius was acquitted. The victory "guaranteed for him a brilliant future" as an orator and marked the true beginning of Cicero's public career. Cicero reportedly left Rome for a period of study in Greece and Asia shortly afterward, which later writers connected to prudence about having crossed interests close to Sulla.^[inferred]
+Cicero won the case; Roscius was acquitted. The victory "guaranteed for him a brilliant future" as an orator and marked the true beginning of Cicero's public career. Cicero reportedly left [[entities/rome|Rome]] for a period of study in [[entities/achaea-greece|Greece]] and [[entities/asia-province|Asia]] shortly afterward, which later writers connected to prudence about having crossed interests close to Sulla.^[inferred]
 
 ## Open Questions
 

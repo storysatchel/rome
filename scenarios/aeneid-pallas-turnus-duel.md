@@ -22,7 +22,7 @@ relationships:
 
 # Turnus Kills Pallas in Single Combat
 
-**This is a legendary/literary episode** from Book X of the *Aeneid* ("The Death of Princes"), set during the pitched battle between the Trojan-Arcadian alliance and the Rutulians.
+**This is a legendary/literary episode** from Book X of the *Aeneid* ("The Death of Princes"), set during the pitched battle between the Trojan-Arcadian alliance and the Rutulians in [[entities/laurentum|Latium]].
 
 ## Parties & Stakes
 

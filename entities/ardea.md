@@ -1,7 +1,7 @@
 ---
 title: Ardea
 category: entities
-tags: [latin-city, land-dispute, boundary]
+tags: [latin-city, land-dispute, boundary, location-district]
 sources: ["Roselaar, Saskia T. — Public Land in the Roman Republic"]
 summary: A Latin city that, in 446 BC, disputed possession of land with neighboring Aricia; when the two cities asked Rome to arbitrate and Rome could not decide, Rome annexed the land for itself.
 provenance: {extracted: 0.75, inferred: 0.15, ambiguous: 0.1}
@@ -10,7 +10,10 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-25T00:50:00Z"
+relationships:
+  - target: "[[entities/latium]]"
+    type: part_of
 ---
 
 # Ardea

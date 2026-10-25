@@ -19,7 +19,7 @@ updated: "2026-10-24T19:14:07Z"
 
 # The Near-Execution of Fabius Rullianus by Dictator Papirius Cursor (325 BC)
 
-In 325 BC the dictator Lucius Papirius Cursor returned to Rome to retake unfavorable auspices, leaving his master of the horse Quintus Fabius Rullianus in command of the army with strict orders not to engage the Samnites. While Papirius was away, Roman scouts reported the enemy unprepared; Rullianus attacked and won, then — allegedly to deny Papirius any share of the glory — burned the captured weapons and reported his victory directly to the Senate rather than to the absent dictator.
+In 325 BC the dictator Lucius Papirius Cursor returned to [[entities/rome|Rome]] to retake unfavorable auspices, leaving his master of the horse Quintus Fabius Rullianus in command of the army with strict orders not to engage the Samnites. While Papirius was away, Roman scouts reported the enemy unprepared; Rullianus attacked and won, then — allegedly to deny Papirius any share of the glory — burned the captured weapons and reported his victory directly to the Senate rather than to the absent dictator.
 
 ## Parties & Stakes
 
@@ -29,7 +29,7 @@ In 325 BC the dictator Lucius Papirius Cursor returned to Rome to retake unfavor
 
 ## What Happened
 
-When Papirius learned of the unauthorized victory, he hurried back to Samnium "in a vengeful mood." He assembled the troops and publicly interrogated Rullianus about his disobedience; his lictors prepared their axes for an execution and seized Rullianus. Rullianus's father, Marcus Fabius, urged his son to make a final appeal to the Roman people (*provocatio ad populum*). An assembly gathered near the camp; Marcus Fabius spoke on Rullianus's behalf, invoking the memory of past dictators who had been less harsh, while Papirius's side invoked military discipline and the precedent of the "Manlian orders" — the earlier dictator Titus Manlius Torquatus's execution of his own son for disobeying a no-engagement order during the Latin War. ^[extracted]
+When Papirius learned of the unauthorized victory, he hurried back to [[entities/samnium|Samnium]] "in a vengeful mood." He assembled the troops and publicly interrogated Rullianus about his disobedience; his lictors prepared their axes for an execution and seized Rullianus. Rullianus's father, Marcus Fabius, urged his son to make a final appeal to the Roman people (*provocatio ad populum*). An assembly gathered near the camp; Marcus Fabius spoke on Rullianus's behalf, invoking the memory of past dictators who had been less harsh, while Papirius's side invoked military discipline and the precedent of the "Manlian orders" — the earlier dictator Titus Manlius Torquatus's execution of his own son for disobeying a no-engagement order during the Latin War. ^[extracted]
 
 ## Outcome
 

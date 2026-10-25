@@ -20,11 +20,13 @@ relationships:
     type: related_to
   - target: "[[concepts/roman-provincial-administration]]"
     type: related_to
+  - target: "[[entities/haliartus]]"
+    type: occurred_at
 ---
 
 # The Siege and Sack of Haliartus
 
-In 171 BC, the opening year of the Third Macedonian War against Perseus, the praetor Gaius Lucretius commanded the Roman fleet based at Cephallenia. He directed operations against the Boeotian city of Haliartus, which changed hands between two separate sieges before Lucretius himself took and sacked it, selling its population into slavery. The brutality of this and similar episodes elsewhere in Greece provoked a wave of allied complaints to the senate, and in 170 BC two tribunes of the plebs successfully prosecuted Lucretius, securing his conviction, exile, and a heavy fine.
+In 171 BC, the opening year of the Third Macedonian War against Perseus, the praetor Gaius Lucretius commanded the Roman fleet based at [[entities/cephallenia|Cephallenia]]. He directed operations against the Boeotian city of [[entities/haliartus|Haliartus]], which changed hands between two separate sieges before Lucretius himself took and sacked it, selling its population into slavery. The brutality of this and similar episodes elsewhere in Greece provoked a wave of allied complaints to the senate, and in 170 BC two tribunes of the plebs successfully prosecuted Lucretius, securing his conviction, exile, and a heavy fine.
 
 ## Parties & Stakes
 
@@ -35,7 +37,7 @@ In 171 BC, the opening year of the Third Macedonian War against Perseus, the pra
 
 ## What Happened
 
-Lucretius, commanding the fleet at Cephallenia, sent his brother Marcus to sail to Chalcis. Meanwhile his legate Publius Lentulus had begun besieging Haliartus with a contingent of allied Boeotian troops; when Lucretius's deputy arrived at Chalcis, he ordered Lentulus, in the praetor's name, to abandon the siege. "The end of this siege gave way to a new one": Lucretius surrounded Haliartus himself with 10,000 marines and 2,000 of an allied king's troops under a commander named Athenaeus, took the city, and sold the population into slavery.
+Lucretius, commanding the fleet at [[entities/cephallenia|Cephallenia]], sent his brother Marcus to sail to [[entities/chalcis|Chalcis]]. Meanwhile his legate Publius Lentulus had begun besieging [[entities/haliartus|Haliartus]] with a contingent of allied Boeotian troops; when Lucretius's deputy arrived at Chalcis, he ordered Lentulus, in the praetor's name, to abandon the siege. "The end of this siege gave way to a new one": Lucretius surrounded Haliartus himself with 10,000 marines and 2,000 of an allied king's troops under a commander named Athenaeus, took the city, and sold the population into slavery.
 
 The pattern repeated across Roman operations in Greece that year: friendly cities were attacked, their leading citizens killed or driven into exile, the rest sold as slaves; other cities were subjected to extortionate demands for money and grain and forced to billet sailors, with attendant abuses. Allied delegations traveled to Rome to complain. The senate responded with conciliatory gestures — kind words, gifts, assurances the abuses lacked senatorial sanction — and a new rule that future requisitions from allies required senate authorization. ^[inferred, connecting Rosenstein's general account of the backlash to the specific Haliartus episode from Sage]
 

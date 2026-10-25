@@ -19,15 +19,15 @@ updated: "2026-10-24T19:13:14Z"
 
 # The Mamilian Commission: Mass Treason Trials over Jugurtha (109 BC)
 
-In 109 BC the tribune C. Mamilius Limetanus carried a law establishing a special standing commission (*quaestio extraordinaria*) to try Romans suspected of having taken bribes from King Jugurtha of Numidia or otherwise colluded with him against Roman interests. Staffed by equestrian jurors (the *Gracchani*, so called because their composition followed C. Gracchus's earlier reform giving equites control of extortion-court juries), the commission convicted most of the senior Roman commanders and politicians it tried in a single compressed wave of prosecutions (Alexander, cases #52–57).
+In 109 BC the tribune C. Mamilius Limetanus carried a law establishing a special standing commission (*quaestio extraordinaria*) to try Romans suspected of having taken bribes from King Jugurtha of [[entities/numidia]] or otherwise colluded with him against Roman interests. Staffed by equestrian jurors (the *Gracchani*, so called because their composition followed C. Gracchus's earlier reform giving equites control of extortion-court juries), the commission convicted most of the senior Roman commanders and politicians it tried in a single compressed wave of prosecutions (Alexander, cases #52–57).
 
 ## Parties & Stakes
 
 - **C. Sulpicius Galba** ([[entities/gaius-sulpicius-galba-sacerdos]]), a priest (*sacerdos*) by 109 BC — convicted.
-- **L. Opimius** ([[entities/lucius-opimius]]), cos. 121 (the same Opimius who had suppressed C. Gracchus) — convicted, exiled to Dyrrachium, where he died.
+- **L. Opimius** ([[entities/lucius-opimius]]), cos. 121 (the same Opimius who had suppressed C. Gracchus) — convicted, exiled to [[entities/dyrrachium|Dyrrachium]], where he died.
 - **L. Calpurnius Bestia** ([[entities/lucius-calpurnius-bestia]]), cos. 111 — prosecuted by C. Memmius; probably convicted.
-- **C. Porcius Cato** ([[entities/gaius-porcius-cato-cos-114]]), cos. 114 — convicted, exiled to Tarraco.
-- **Sp. Postumius Albinus** ([[entities/spurius-postumius-albinus]]), cos. 110, former proconsul in Africa — convicted.
+- **C. Porcius Cato** ([[entities/gaius-porcius-cato-cos-114]]), cos. 114 — convicted, exiled to [[entities/tarraco|Tarraco]].
+- **Sp. Postumius Albinus** ([[entities/spurius-postumius-albinus]]), cos. 110, former proconsul in [[entities/africa-province|Africa]] — convicted.
 - **A. Postumius Albinus** ([[entities/aulus-postumius-albinus]]), praetor by 111?, legate 110 — probably acquitted (it is even uncertain the trial was formally held).
 - **M. Aurelius Scaurus** ([[entities/marcus-aurelius-scaurus-quaesitor]]), cos. suff. 108 — one of three *quaesitores* presiding over the commission's cases.
 - **C. Memmius** (tr. pl.; later pr.) — populist tribune and prosecutor in several of the commission's cases, driving the campaign against the Numidian-war establishment.

@@ -29,7 +29,7 @@ In 117 BC a territorial quarrel broke out in Liguria between the allied coastal 
 
 ## What Happened
 
-The two legates defined an inner core of land belonging to the Langenses by tracing its outer limits along rivers and streams, switching from one watercourse to another at four marked points. Around this inner zone they then established a second, largely concentric zone of public land (*ager publicus*), whose outer limits they fixed by setting the locations of fifteen boundary markers. The entire verdict was then inscribed and erected on the site as a permanent, visible record — a pattern the Romans repeated elsewhere in Italy for similar disputes, including Pisae versus the colony of Luna in 168 BC and Ateste versus Vicetia in 134 BC. ^[inferred]
+The two legates defined an inner core of land belonging to the Langenses by tracing its outer limits along rivers and streams, switching from one watercourse to another at four marked points. Around this inner zone they then established a second, largely concentric zone of public land (*ager publicus*), whose outer limits they fixed by setting the locations of fifteen boundary markers. The entire verdict was then inscribed and erected on the site as a permanent, visible record — a pattern the Romans repeated elsewhere in Italy for similar disputes, including [[entities/pisae|Pisae]] versus the colony of [[entities/luna|Luna]] in 168 BC and [[entities/ateste|Ateste]] versus [[entities/vicetia|Vicetia]] in 134 BC. ^[inferred]
 
 ## Outcome
 

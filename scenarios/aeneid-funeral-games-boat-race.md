@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:30Z"
 
 # The Ship Race at Anchises's Funeral Games
 
-**This is a legendary/literary episode, not a historical event** — it is narrated by Virgil in Book V of the *Aeneid* as part of the funeral games Aeneas holds in Sicily on the first anniversary of his father Anchises's death. Four warships race out to a sea-rock and back, with lavish prizes set out "midfield — blest tripods, fresh green crowns, and palms... armor, too, and robes infused with crimson dye; gold bars and silver" for the winners.
+**This is a legendary/literary episode, not a historical event** — it is narrated by Virgil in Book V of the *Aeneid* as part of the funeral games Aeneas holds at [[entities/drepanum]] in Sicily on the first anniversary of his father Anchises's death. Four warships race out to a [[entities/drepanum-turning-rock|sea-rock]] and back, with lavish prizes set out "midfield — blest tripods, fresh green crowns, and palms... armor, too, and robes infused with crimson dye; gold bars and silver" for the winners.
 
 ## Parties & Stakes
 

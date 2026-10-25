@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Lepidus's Failed Bid for Power Against Octavian, 36 BC
 
-Marcus Aemilius Lepidus, the junior member of the Second Triumvirate alongside Mark Antony and Octavian, joined Octavian's campaign in 36 BC against Sextus Pompey (son of Pompey the Great), who had seized Sicily and was disrupting Rome's grain supply. After the defeat of Sextus Pompey at the naval Battle of Naulochus, Lepidus attempted to assert control over Sicily and challenge Octavian for supremacy — an attempted coup that collapsed when his own soldiers deserted to Octavian.
+Marcus Aemilius Lepidus, the junior member of the Second Triumvirate alongside Mark Antony and Octavian, joined Octavian's campaign in 36 BC against Sextus Pompey (son of Pompey the Great), who had seized [[entities/sicilia|Sicily]] and was disrupting Rome's grain supply. After the defeat of Sextus Pompey at the naval Battle of [[entities/naulochus|Naulochus]], Lepidus attempted to assert control over Sicily and challenge Octavian for supremacy — an attempted coup that collapsed when his own soldiers deserted to Octavian.
 
 ## Parties & Stakes
 
@@ -28,7 +28,7 @@ Marcus Aemilius Lepidus, the junior member of the Second Triumvirate alongside M
 
 ## What Happened
 
-Octavian defeated Sextus Pompey's fleet at the Battle of Naulochus in 36 BC, ending Pompey's hold on Sicily and restoring Rome's grain supply. In the campaign's aftermath, Lepidus, who had contributed forces to the victory, attempted to claim Sicily for himself and mount a direct challenge to Octavian's authority, effectively attempting a coup against his fellow triumvir. Octavian confronted Lepidus's camp personally; according to the tradition summarized here, Lepidus's own soldiers abandoned him and went over to Octavian rather than fight, collapsing the attempted power grab without a battle.^[inferred from the atlas's brief "Lepidus attempts rising against Octavian and is stripped of power" and general knowledge of Naulochus's aftermath]
+Octavian defeated Sextus Pompey's fleet at the Battle of [[entities/naulochus|Naulochus]] in 36 BC, ending Pompey's hold on [[entities/sicilia|Sicily]] and restoring Rome's grain supply. In the campaign's aftermath, Lepidus, who had contributed forces to the victory, attempted to claim Sicily for himself and mount a direct challenge to Octavian's authority, effectively attempting a coup against his fellow triumvir. Octavian confronted Lepidus's camp personally; according to the tradition summarized here, Lepidus's own soldiers abandoned him and went over to Octavian rather than fight, collapsing the attempted power grab without a battle.^[inferred from the atlas's brief "Lepidus attempts rising against Octavian and is stripped of power" and general knowledge of Naulochus's aftermath]
 
 ## Outcome
 

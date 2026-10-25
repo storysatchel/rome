@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:16Z"
 
 # The Sulpicius–Pompeius Friendship Collapse of 88 BC
 
-P. Sulpicius Rufus, tribune of the plebs in 88 BC, and Q. Pompeius Rufus, that year's consul, had lived in what contemporaries described as the closest and most loving friendship. The relationship disintegrated completely over the political question of how to integrate Rome's newly enfranchised Italian allies into the voting tribes — a cause Sulpicius championed on behalf of the Marian faction.
+P. Sulpicius Rufus, tribune of the plebs in 88 BC, and Q. Pompeius Rufus, that year's consul, had lived in what contemporaries described as the closest and most loving friendship. The relationship disintegrated completely over the political question of how to integrate [[entities/rome|Rome]]'s newly enfranchised Italian allies into the voting tribes — a cause Sulpicius championed on behalf of the Marian faction.
 
 ## Parties & Stakes
 
@@ -28,7 +28,7 @@ P. Sulpicius Rufus, tribune of the plebs in 88 BC, and Q. Pompeius Rufus, that y
 
 ## What Happened
 
-Sulpicius, resorting to armed force to push his legislative agenda, turned his former close friend's own consulship into a battleground. The resulting street clashes between the two men's factions escalated into open tumults and violent confrontations in the city. In the fighting, a son of Pompeius Rufus was killed.
+Sulpicius, resorting to armed force to push his legislative agenda, turned his former close friend's own consulship into a battleground. The resulting street clashes between the two men's factions escalated into open tumults and violent confrontations in [[entities/rome|the city]]. In the fighting, a son of Pompeius Rufus was killed.
 
 ## Outcome
 

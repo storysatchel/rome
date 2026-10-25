@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Lucius Mummius's Sack of Corinth and Personal Enrichment
 
-In 146 BC, the same year Rome destroyed Carthage, the Roman general Lucius Mummius destroyed the leading Greek city of Corinth at the conclusion of the Achaean War, in which Rome crushed a Greek confederacy that had risen against Roman domination. The destruction of Corinth sent shock waves through the Greek world; the historian Pausanias later recorded that most of the male population was put to the sword while women and children were sold into slavery. Mummius personally profited enormously from the plunder and used the proceeds to build a temple to Hercules at Rome.
+In 146 BC, the same year Rome destroyed Carthage, the Roman general Lucius Mummius destroyed the leading Greek city of [[entities/corinth|Corinth]] at the conclusion of the Achaean War, in which Rome crushed a Greek confederacy that had risen against Roman domination. The destruction of Corinth sent shock waves through the Greek world; the historian Pausanias later recorded that most of the male population was put to the sword while women and children were sold into slavery. Mummius personally profited enormously from the plunder and used the proceeds to build a [[entities/temple-of-hercules-victor|temple to Hercules]] at [[entities/rome|Rome]].
 
 ## Parties & Stakes
 
@@ -32,7 +32,7 @@ Rome's intervention in Greek affairs culminated in war against the Achaean Leagu
 
 ## Outcome
 
-Mummius used his share of the plunder to fund a temple to Hercules at Rome, and Greece was reorganized under direct Roman oversight (the region was not immediately made a province, but Corinth's destruction symbolized the end of independent Greek political action). The sack became proverbial in the Greek world as a demonstration of Roman ruthlessness, paralleling and reinforcing the destruction of Carthage in the same year.
+Mummius used his share of the plunder to fund a [[entities/temple-of-hercules-victor|temple to Hercules]] at [[entities/rome|Rome]], and Greece was reorganized under direct Roman oversight (the region was not immediately made a province, but Corinth's destruction symbolized the end of independent Greek political action). The sack became proverbial in the Greek world as a demonstration of Roman ruthlessness, paralleling and reinforcing the destruction of Carthage in the same year.
 
 ## Open Questions
 

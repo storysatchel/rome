@@ -33,7 +33,7 @@ The trial turned on a genuinely novel constitutional question: could the Senate'
 
 ## Outcome
 
-Opimius was acquitted. The verdict effectively validated the senatus consultum ultimum as a legitimate (if controversial) emergency power, a precedent invoked repeatedly in later Roman political crises, including against the Catilinarian conspirators decades later. Opimius went on to build a temple to Concordia, provoking a bitter graffito suggesting the "doctor" of civil strife might have been madder than the "patient."
+Opimius was acquitted. The verdict effectively validated the senatus consultum ultimum as a legitimate (if controversial) emergency power, a precedent invoked repeatedly in later Roman political crises, including against the Catilinarian conspirators decades later. Opimius went on to build a [[entities/temple-of-concordia|temple to Concordia]] in [[entities/rome|Rome]], provoking a bitter graffito suggesting the "doctor" of civil strife might have been madder than the "patient."
 
 ## Open Questions
 

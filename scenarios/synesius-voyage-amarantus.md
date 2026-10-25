@@ -19,7 +19,7 @@ updated: "2026-10-24T19:13:46Z"
 
 # Synesius's Near-Disastrous Voyage Under the Debt-Ridden Captain Amarantus
 
-In AD 404 the philosopher and future bishop Synesius of Cyrene took passage on a small coastal vessel from Alexandria toward Cyrene, along the Egyptian and Libyan coast. He later described the harrowing trip in a letter to his brother. The ship's owner was "being crushed to death by a load of debt," and the economic desperation behind the voyage's cut corners — an inexperienced crew of farm boys, a missing spare anchor, no stormsail — nearly cost the fifty-plus passengers their lives in a storm.
+In AD 404 the philosopher and future bishop Synesius of Cyrene took passage on a small coastal vessel from [[entities/alexandria|Alexandria]] toward [[entities/cyrene|Cyrene]], along the Egyptian and Libyan coast. He later described the harrowing trip in a letter to his brother. The ship's owner was "being crushed to death by a load of debt," and the economic desperation behind the voyage's cut corners — an inexperienced crew of farm boys, a missing spare anchor, no stormsail — nearly cost the fifty-plus passengers their lives in a storm.
 
 ## Parties & Stakes
 

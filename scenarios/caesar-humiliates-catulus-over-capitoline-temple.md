@@ -28,7 +28,7 @@ In 63 BC Julius Caesar had astonished Rome by winning election as pontifex maxim
 
 ## What Happened
 
-Immediately on entering his praetorship, Caesar called a contio and summoned Catulus to explain the lack of progress on restoring the Temple of Jupiter Capitolinus — a restoration project that had stalled under Catulus's oversight — and proposed transferring the responsibility to a more "competent" man: Pompey. It was probably on this occasion that Caesar further demanded Catulus speak not from the rostra (the normal speaking platform, a mark of dignity) but from the ground, a deliberate act of public humiliation. Catulus's friends managed to ward off this final indignity, but Caesar had already made his point in front of the crowd.
+Immediately on entering his praetorship, Caesar called a [[entities/forum-romanum|contio]] and summoned Catulus to explain the lack of progress on restoring the [[entities/temple-of-jupiter-capitolinus|Temple of Jupiter Capitolinus]] — a restoration project that had stalled under Catulus's oversight — and proposed transferring the responsibility to a more "competent" man: Pompey. It was probably on this occasion that Caesar further demanded Catulus speak not from the [[entities/rostra|rostra]] (the normal speaking platform, a mark of dignity) but from the ground, a deliberate act of public humiliation. Catulus's friends managed to ward off this final indignity, but Caesar had already made his point in front of the crowd.
 
 ## Outcome
 

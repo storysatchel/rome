@@ -19,7 +19,7 @@ updated: "2026-10-24T19:10:25Z"
 
 # The Trial of Clodius for the Bona Dea Sacrilege
 
-In December 62 BC the young patrician Publius Clodius Pulcher dressed as a woman and slipped into the house of Julius Caesar, then Pontifex Maximus, to attend the rites of the Bona Dea — a festival from which men were strictly barred. He was discovered, and the resulting scandal combined a charge of religious sacrilege with gossip that he had been carrying on an affair with Caesar's wife Pompeia (Caesar divorced her, famously declaring that "Caesar's wife must be above suspicion," though he later declined to testify against Clodius). Clodius was brought to trial before a jury of senators in 61 BC.
+In December 62 BC the young patrician Publius Clodius Pulcher dressed as a woman and slipped into the [[entities/domus-publica|house]] of Julius Caesar, then Pontifex Maximus, to attend the rites of the Bona Dea — a festival from which men were strictly barred. He was discovered, and the resulting scandal combined a charge of religious sacrilege with gossip that he had been carrying on an affair with Caesar's wife Pompeia (Caesar divorced her, famously declaring that "Caesar's wife must be above suspicion," though he later declined to testify against Clodius). Clodius was brought to trial before a jury of senators in [[entities/rome|Rome]] in 61 BC.
 
 ## Parties & Stakes
 

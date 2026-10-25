@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:30Z"
 
 # The Boxing Match of Dares and Entellus
 
-**This is a legendary/literary episode**, the third contest of Anchises's funeral games in Book V of the *Aeneid*. Aeneas sets a double prize: a gold- and wool-dressed bullock for the winner, a sword and helmet "as comfort for the beaten man."
+**This is a legendary/literary episode**, the third contest of Anchises's funeral games in Book V of the *Aeneid*, held at [[entities/drepanum]] in Sicily. Aeneas sets a double prize: a gold- and wool-dressed bullock for the winner, a sword and helmet "as comfort for the beaten man."
 
 ## Parties & Stakes
 

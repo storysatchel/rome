@@ -19,7 +19,7 @@ updated: "2026-10-24T19:11:30Z"
 
 # The Night Raid of Nisus and Euryalus
 
-**This is a legendary/literary episode**, a self-contained military action within Book IX of the *Aeneid* ("A Night Sortie, a Day Assault"), set during the Rutulian siege of the Trojan camp while Aeneas is away seeking allies.
+**This is a legendary/literary episode**, a self-contained military action within Book IX of the *Aeneid* ("A Night Sortie, a Day Assault"), set during the Rutulian siege of the [[entities/trojan-camp-aeneid|Trojan camp]] in [[entities/laurentum|Latium]] while Aeneas is away seeking allies.
 
 ## Parties & Stakes
 

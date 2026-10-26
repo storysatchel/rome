@@ -70,9 +70,13 @@
         "entities/massilia.md",
         "entities/pompeii.md",
         "entities/rome.md",
-        "entities/via-appia.md"
+        "entities/via-appia.md",
+        "concepts/honor-economy-and-private-armies.md",
+        "concepts/watts-stages-of-political-violence.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/fall-of-the-roman-republic.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Mommsen - The History of Rome (bks. 1-5).pdf": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -92,9 +96,12 @@
         "entities/gaul.md",
         "entities/numidia.md",
         "entities/rome.md",
-        "entities/tolosa.md"
+        "entities/tolosa.md",
+        "concepts/senatus-consultum-ultimum.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/fall-of-the-roman-republic.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Pennell - Ancient Rome (From the Earliest Times Down to 476 A.D.).epub": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -481,9 +488,13 @@
         "references/pearson-mid-republican-military-administration.md",
         "entities/gaius-verres.md",
         "scenarios/cato-scipio-quaestor-funds-dispute.md",
-        "scenarios/verres-quaestorial-embezzlement-under-carbo.md"
+        "scenarios/verres-quaestorial-embezzlement-under-carbo.md",
+        "concepts/tributum-assessment-and-collection.md",
+        "concepts/quaestorship-and-provincial-finance.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/roman-provincial-administration.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Jeremy Armstrong, Michael P. Fronda - Romans at War. Soldiers, Citizens, and Society in the Roman Republic (Routledge Monographs in Classical Studies) (Retail)(pdf).rar": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -505,9 +516,12 @@
         "scenarios/murder-of-valerius-flaccus-and-the-fimbrian-mutiny.md",
         "scenarios/mutiny-and-execution-of-the-legio-campana-at-rhegium.md",
         "scenarios/mutiny-of-lucullus-legions-against-further-campaign.md",
-        "entities/illyria.md"
+        "entities/illyria.md",
+        "concepts/formula-togatorum.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/roman-provincial-administration.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Michael M. Sage - The Republican Roman Army. A Sourcebook (Routledge Sourcebooks for the Ancient World) (Retail)(epub).rar": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -539,9 +553,15 @@
       "project": null,
       "pages_created": [
         "references/rosenstein-rome-and-the-mediterranean.md",
-        "scenarios/siege-and-sack-of-haliartus.md"
+        "scenarios/siege-and-sack-of-haliartus.md",
+        "concepts/formula-togatorum.md",
+        "concepts/quaestorship-and-provincial-finance.md",
+        "concepts/establishment-of-overseas-provincial-governorships.md",
+        "concepts/roman-population-growth-debate.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/roman-provincial-administration.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Astin - Cato the Censor.pdf": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -565,9 +585,14 @@
         "entities/achaea-greece.md",
         "entities/cisalpine-gaul.md",
         "entities/hispania.md",
-        "entities/thermopylae.md"
+        "entities/thermopylae.md",
+        "entities/lex-licinia-de-modo-agrorum.md",
+        "concepts/catos-investment-farm-model.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/ager-publicus.md",
+        "concepts/land-and-agrarian-conflict.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Erich S. Gruen - Culture and National Identity in Republican Rome (Cornell Studies in Classical Philology)(pdf).rar": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -619,9 +644,18 @@
         "entities/sicilia.md",
         "entities/syracuse.md",
         "entities/temple-of-honos.md",
-        "entities/temple-of-virtus.md"
+        "entities/temple-of-virtus.md",
+        "concepts/roman-elite-adoption-practices.md",
+        "concepts/laudatio-funebris.md",
+        "entities/fabius-maximus-aemilianus.md",
+        "entities/fabius-maximus-servilianus.md",
+        "entities/fabius-maximus-allobrogicus.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/elite-family-strategy.md",
+        "entities/clan-fabius.md",
+        "concepts/roman-religion-and-augury.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Pamela Marin - Blood in the Forum. The Struggle for the Roman Republic [Retail](pdf).rar": {
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -647,9 +681,14 @@
         "entities/capitoline-hill.md",
         "entities/curia-hostilia.md",
         "entities/forum-romanum.md",
-        "entities/janiculum.md"
+        "entities/janiculum.md",
+        "concepts/senatus-consultum-ultimum.md",
+        "concepts/precedent-escalation-in-marin.md",
+        "concepts/caesars-dictatorship-institutional-program.md"
       ],
-      "pages_updated": []
+      "pages_updated": [
+        "concepts/fall-of-the-roman-republic.md"
+      ]
     },
     "/home/user/Documents/rome/_raw/Pawel Golyzniak - Engraved Gems and Propaganda in the Roman Republic and under Augustus [Retail](pdf).rar": {
       "ingested_at": "2026-10-24T19:39:26Z",
@@ -681,7 +720,8 @@
         "entities/reate.md",
         "scenarios/reate-interamna-velinus-lake-dispute.md",
         "entities/sabine-territory.md",
-        "entities/umbria.md"
+        "entities/umbria.md",
+        "concepts/catos-investment-farm-model.md"
       ],
       "pages_updated": []
     },
@@ -834,7 +874,11 @@
         "scenarios/the-publicii-prosecute-the-graziers-241-bc.md",
         "entities/bola.md",
         "entities/labici.md",
-        "entities/latium.md"
+        "entities/latium.md",
+        "entities/lex-licinia-de-modo-agrorum.md",
+        "concepts/legal-categories-of-ager-publicus.md",
+        "entities/lex-sempronia-agraria.md",
+        "concepts/roman-population-growth-debate.md"
       ],
       "pages_updated": [
         "concepts/ager-publicus.md",
@@ -880,7 +924,11 @@
       "pages_created": [
         "references/bang-roman-bazaar.md",
         "entities/caracalla.md",
-        "scenarios/jewish-merchants-stolen-goods-ruling.md"
+        "scenarios/jewish-merchants-stolen-goods-ruling.md",
+        "concepts/roman-portorium-customs-system.md",
+        "concepts/roman-collegia-courts-and-dispute-resolution.md",
+        "concepts/roman-commercial-credit-and-partnership.md",
+        "concepts/clientelization-mechanics-in-the-roman-bazaar.md"
       ],
       "pages_updated": [
         "concepts/roman-economy-and-trade.md"
@@ -979,7 +1027,7 @@
   },
   "stats": {
     "total_sources_ingested": 39,
-    "total_pages": 528,
+    "total_pages": 551,
     "note": "total_pages counts pages_created entries across all sources; some pages (concept updates, cross-batch merges) are additionally recorded as pages_updated on individual source entries where applicable."
   }
 }

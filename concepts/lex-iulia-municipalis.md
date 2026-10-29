@@ -17,40 +17,36 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of Lex Iulia Municipalis in the sampled Roman sources"
 sources: ["B09:Traffic and Congestion in the Roman Empireepub.decrypted.epub", "B09:Traffic and Congestion in the Roman Empireepub.pdf"]
-summary: "A bounded account of Lex Iulia Municipalis in Roman history."
+summary: "The traffic provisions of the Tabula Heracleensis restricted daytime wagon use in Rome while allowing public works, religious processions, and other exceptions."
 tags: ["domain/economic", "domain/political", "period/late-antiquity", "period/principate", "type/concept"]
 tier: "supporting"
 title: "Lex Iulia Municipalis"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # Lex Iulia Municipalis
 
-> [!tldr] A bounded account of Lex Iulia Municipalis in Roman history.
+The *Lex Iulia Municipalis*, also called the *Tabula Heracleensis* in the source, preserves famous provisions concerning traffic in Rome. Found near Heraclea in southern Italy in 1732, the text regulates wagon movement within Rome and its continuously inhabited surroundings. The source notes disagreement over the law’s date.
 
-## Scope
+## Daytime restrictions and explicit exceptions
 
-The bounded meaning and operation of Lex Iulia Municipalis in the sampled Roman sources
+The quoted provisions prohibit leading or driving heavy wagons from sunrise until the tenth hour of the day, but allow transport for temple construction, public works, and publicly contracted demolition. Other exceptions cover the Vestals, *rex sacrorum*, and flamines travelling for public ritual, as well as triumphal and games processions.
 
-## Core Evidence
+Wagons brought in at night could return empty or carry away refuse during the restricted hours. The law therefore did not remove all heavy traffic from daytime streets.
 
-The Lex Iulia Municipalis and later measures divided traffic temporally or by mode, especially moving much goods traffic to night, but exceptions and repeated later regulation limited effectiveness (ch ^b17e4fe815d52097
-Same argument set as the decrypted EPUB: Roman roads were primarily military but served commercial/civilian movement; congestion was principally urban; regulation and barricades constrained movement; Pompeii, Xanten, and Rome provide contrasting urban cases; infrastructure expansion was generally not chosen over competing priorities (PDF opening description; conclusion/summary section) ^60d8aba84a55524e
+## Prioritizing public traffic
 
-## Boundary
+*Traffic and Congestion in the Roman Empire* interprets the scheme as separating private passenger and goods transport from public traffic, rather than simply protecting pedestrians from every vehicle. It argues that government transport associated with military service or large animals for games would also have been exempt, but acknowledges that some such categories are not expressly named in the text.
 
-This page treats Lex Iulia Municipalis as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+That distinction between statutory wording and the author’s reconstruction matters. The broad claim that all government traffic was exempt should not be treated as a verbatim provision.
+
+## Traffic that remained
+
+Smaller barrows and pack animals were not subject to these wagon restrictions. The author also notes that private carriage ownership was inconvenient in narrow streets with scarce parking, and that some traders may already have preferred night deliveries. The rules thus operated within an existing mixture of vehicles, pedestrians, animals, and public services.
 
 ## Related Pages
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+- [[concepts/roman-road-system]]
 
 ## Sources
 
-- B09:Traffic and Congestion in the Roman Empireepub.decrypted.epub
-- B09:Traffic and Congestion in the Roman Empireepub.pdf
-
-## Citations
-
-- ^60d8aba84a55524e
-- ^b17e4fe815d52097
+- `_raw/Traffic and Congestion in the Roman Empireepub.pdf`, p.210.1–p.213.1, including the translation of CIL I² 593, lines 56–67, and the author’s interpretation of exemptions (B09; original passage ID: `raw-510420776171`). The parallel edition `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` is retained in frontmatter; page locators here refer to the PDF.

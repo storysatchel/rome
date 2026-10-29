@@ -17,38 +17,32 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of Egyptian religion/papyri in the sampled Roman sources"
 sources: ["B01:9789047411345-13342.pdf"]
-summary: "A bounded account of Egyptian religion/papyri in Roman history."
+summary: "Egyptian papyri reveal imperial temples, administrative uses, and accession celebrations more clearly than their architecture or decoration."
 tags: ["domain/political", "material/culture", "period/principate", "subject/propaganda", "type/concept"]
 tier: "supporting"
 title: "Egyptian religion/papyri"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # Egyptian religion/papyri
 
-> [!tldr] A bounded account of Egyptian religion/papyri in Roman history.
+Papyri make the Roman imperial cult in Egypt visible through places, documents, and public occasions. They are especially valuable for identifying imperial temples and the activities associated with them, but much less informative about what those buildings looked like.
 
-## Scope
+## Egyptian kingship and Roman imperial cult
 
-The bounded meaning and operation of Egyptian religion/papyri in the sampled Roman sources
+Roman emperors could be represented in the visual language of pharaonic kingship while bearing titles identifying them as Roman rulers. The source distinguishes this continuation of Egyptian religious tradition from the Roman imperial cult. The latter added political practices and forms of recognition rather than simply replacing Egyptian religion.
 
-## Core Evidence
+## Temples as religious and administrative places
 
-Egyptian, Greek, Judaean, and other provincial practices were incorporated or negotiated ^fe5ca21e68ac51fe
-Religion could support, contest, or reinterpret Roman power. [sampled title, contents, and introduction, pp. 1–~35; not full-volume coverage] ^fe5ca21e68ac51fe
+Papyri attest imperial temples in urban centres and smaller villages. These buildings were used for judicial and administrative business as well as cult. Documentary references often identify a temple merely to locate an action, so they establish the presence of imperial authority without supplying a detailed description of ritual.
 
-## Boundary
+References to busts, statues, and paintings offer clues to imperial representation, but frequently leave the material, grouping, and style uncertain. They cannot consistently tell us whether an emperor was shown in Roman or Egyptian form.
 
-This page treats Egyptian religion/papyri as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+## Accession announcements
 
-## Related Pages
+P. Oxy. VII 1021 announces Nero’s accession in 54 CE with language of divine ancestry and world benefaction, calling for garlands and ox sacrifices. Its precise official or non-official context is unknown.
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+For Hadrian’s accession in 117 CE, P. Oxy. LV 3781 preserves a prefect’s letter to district officials ordering publication and ten days of garland wearing. Such announcements publicized the new ruler and allowed the prefect to demonstrate his own loyalty. They show how political communication and ceremonial observance could operate together.
 
 ## Sources
 
-- B01:9789047411345-13342.pdf
-
-## Citations
-
-- ^fe5ca21e68ac51fe
+- `_raw/9789047411345-13342.pdf`, p.257.1–p.260.1, printed pp.243–246, on pharaonic imagery, imperial temples, and the accession papyri (B01; original passage ID: `raw-497068fdfcea`).

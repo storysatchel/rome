@@ -17,39 +17,39 @@ provenance:
   inferred: 0.2
 scope: "Testing how status grievance and constitutional rhetoric combine in a conspiracy"
 sources: ["B07:Rome's Enemies Withinepub.decrypted.epub"]
-summary: "A focused scenario for testing how status grievance and constitutional rhetoric combine in a conspiracy."
+summary: "Cassius’s circle formed the core of the plot against Caesar; Brutus joined later, and the conspirators disagreed over how far the assassination should extend."
 tags: ["domain/conspiracy", "domain/military", "domain/political", "period/late-republic", "type/scenario"]
 tier: "supporting"
 title: "Caesar's Assassination Conspiracy"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:53:47Z"
 ---
 # Caesar's Assassination Conspiracy
 
-> [!tldr] A focused scenario for testing how status grievance and constitutional rhetoric combine in a conspiracy.
+The conspiracy against Caesar grew around Cassius’s political associates rather than beginning as a group led by Brutus. In the source’s reading of Plutarch and Appian, Cassius originated the plot, while Brutus joined only in the final weeks before the assassination.
 
-## Scope
+## Building the conspiracy
 
-Testing how status grievance and constitutional rhetoric combine in a conspiracy
+Cassius initially struggled to broaden his circle. It could be dismissed as a group of aggrieved Pompeians unwilling to accept Caesar’s regime, and his personal hostility to Caesar made commitment risky for potential recruits. Caesar’s armed protection posed a further practical obstacle.
 
-## Scenario Evidence
+## Agreement on Caesar, disagreement on Antony
 
-Imperial succession and governance in the first century AD were repeatedly shaped by conspiracies, assassinations, treason trials, mutinies and civil wars (contents and timeline, EPUB lines 146–198, 374–500) ^fdf43d2aeabe5eb8
-Caesar’s murder on 15 March 44 BC is presented as a model case where personal grievance, status anxiety, aristocratic lineage and constitutional rhetoric converged (chapter 1, EPUB lines 902–992) ^fdf43d2aeabe5eb8
-The author argues that personal grievances often outweighed abstract republican ideology among Caesar’s assassins, while later sources sanitized motives (chapter 1, EPUB lines 952–984) ^fdf43d2aeabe5eb8
+As the conspiracy expanded, secrecy and communication became harder to maintain. Its members agreed on removing Caesar but differed over what else to do. Cassius and others wanted Antony killed as well. Brutus objected that killing Caesar’s deputy would undermine the moral and constitutional justification they claimed for their action, especially because Antony was consul.
 
-## Decision Boundary
+Brutus expected leading Caesarians to cooperate in restoring the Republic after Caesar’s death. The source presents that expectation critically. The plot’s shared target should therefore not be mistaken for agreement on the political settlement that would follow.
 
-The scenario isolates testing how status grievance and constitutional rhetoric combine in a conspiracy and does not stand in for the source's entire historical argument.
+## Getting Caesar to the meeting
+
+The final preparations show the importance of conspirators who retained Caesar’s trust. When Caesar delayed attending the senate meeting at the Theatre of Pompey, the plotters sent Decimus Brutus to his house. According to the account preserved in the source, Decimus appealed to the dignity of the waiting senate and persuaded him to appear despite his wife’s anxiety, adverse omens, and concern about his health. These details come through a heavily narrated ancient tradition and should not be read as access to Caesar’s private thoughts.
+
+## Isolating the target
+
+Decimus and Trebonius were assigned to keep Antony occupied outside, allowing Caesar to enter without a man who might resist the attack. Inside, Cimber pressed a request for his brother’s recall from exile while other senators crowded around Caesar’s chair. Cimber then pulled down Caesar’s toga as the signal for violence; Casca struck the first blow. The source describes Caesar struggling back, including using his stylus against Casca. The operation depended on a familiar petitioning encounter becoming a coordinated assault, not merely on the conspirators sharing political grievances.
 
 ## Related Pages
 
 - [[concepts/fall-of-the-roman-republic]]
-- [[concepts/senatus-consultum-ultimum]]
 
 ## Sources
 
-- B07:Rome's Enemies Withinepub.decrypted.epub
-
-## Citations
-
-- ^fdf43d2aeabe5eb8
+- `_raw/Rome's Enemies Withinepub.decrypted.epub` — section.38; section.39; section.40; section.41; section.42; section.43; section.44; section.45; earlier contextual locators retained: section.21; section.35.
+- Original citation ID: `^fdf43d2aeabe5eb8`.

@@ -611,12 +611,29 @@ def _extract_section(text: str, heading: str) -> list[str]:
     return [line[2:].strip() for line in section.splitlines() if line.startswith("- ")]
 
 
+def _extract_section_replacements(text: str) -> list[tuple[str, str]]:
+    marker = "## Section replacements"
+    start = text.find(marker)
+    if start < 0:
+        return []
+    section = text[start + len(marker) :]
+    matches = re.finditer(r"(?ms)^### Target: ([^\n]+)\n(.*?)(?=^### Target: |^## Citations|^## Updated fields|\Z)", section)
+    return [(match.group(1).strip(), match.group(2).strip()) for match in matches]
+
 def apply_patch(target_text: str, patch_text: str) -> str:
     patch_frontmatter, _ = read_frontmatter(patch_text)
     additions = [item for item in _extract_section(patch_text, "Additions") if item.lower() != "none."]
     deletions = [item for item in _extract_section(patch_text, "Deletions") if item.lower() != "none."]
     for deletion in deletions:
         target_text = target_text.replace(deletion + "\n", "")
+    for heading, replacement in _extract_section_replacements(patch_text):
+        marker = f"## {heading}"
+        start = target_text.find(marker)
+        if start < 0:
+            continue
+        end = target_text.find("\n## ", start + len(marker))
+        suffix = target_text[end + 1 :] if end >= 0 else ""
+        target_text = target_text[:start] + replacement.rstrip() + "\n" + suffix
     if additions:
         insertion = "\n".join(f"- {item}" for item in additions) + "\n"
         source_marker = "\n## Sources"

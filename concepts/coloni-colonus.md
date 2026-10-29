@@ -17,37 +17,37 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of coloni/colonus in the sampled Roman sources"
 sources: ["B05:lega-article-p265_10.pdf"]
-summary: "A bounded account of coloni/colonus in Roman history."
+summary: "Late Roman coloni could be bound to land and duties without being privately owned as slaves."
 tags: ["domain/economic", "domain/legal", "period/late-antiquity", "subject/roman-law", "type/concept"]
 tier: "supporting"
 title: "coloni/colonus"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # coloni/colonus
 
-> [!tldr] A bounded account of coloni/colonus in Roman history.
+In the late Roman legislation discussed here, *coloni* were agricultural people subject to particular ties to land, registration, and duties. They should not be equated automatically with every tenant or agricultural worker. Their restrictions could be severe without making them privately owned slaves.
 
-## Scope
+## Return before adjudication
 
-The bounded meaning and operation of coloni/colonus in the sampled Roman sources
+The constitution requires runaway coloni held by a landowner in good faith to be returned before a dispute over where they are bound and who has a right to their services is decided. The immediate question is not whether they are free or enslaved, but where they must remain and perform the obligations of their status.
 
-## Core Evidence
+## Possession is not slavery
 
-Roman legislation often reacted to events but codified rules were general prospective norms; Justinian’s and Theodosius’ Codes are systematic legal systems, not unrelated fragments; chronology within a title is not decisive for legal validity; codification selection itself communicates contemporary relevance; imperial laws addressed officials while communicating to ultimate audiences behind them; the coloni title (CJ ^f4914929d816ae58
+The text uses *possidere*, “to possess,” but Sirks argues that census registration could support this language without making the colonus a slave. His criticism is directed at Battistella’s interpretation, which he considers to have been diverted by the phrase *coloni quos bona fide quisque possedit* into an inappropriate discussion of free people held in slavery.
 
-## Boundary
+The distinction is important: a legally free person could nevertheless be subject to restrictions on movement and compulsory duties. Conversely, the particular coloni regulated by this title should not automatically be equated with every tenant or every agricultural worker.
 
-This page treats coloni/colonus as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+## Flight and the allocation of labour
+
+CJ 11.48.12 sought to deter harbouring fugitive coloni through a fine of twelve pounds of silver and an additional compensatory obligation. CJ 11.48.13 addressed transfers between estates of the same owner and the persistence of the resulting allocation after ownership later divided. Sirks reads these provisions in relation to census registration as well as the landowner’s need for labour.
+
+Family formation could also be affected. CJ 11.48.16 required the return of an *originaria* who married a free man elsewhere, together with her children. The accompanying discussion distinguishes the rules governing recall from those determining the status of offspring. Land attachment, personal freedom, and family status were therefore related but legally separate questions.
 
 ## Related Pages
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+- [[concepts/codex-justinianus]]
+- [[concepts/codex-theodosianus]]
 
 ## Sources
 
-- B05:lega-article-p265_10.pdf
-
-## Citations
-
-- ^f4914929d816ae58
+- `_raw/lega-article-p265_10.pdf`, p.16.1–p.18.1, printed pp.280–282, on CJ 11.48.12–16, flight, possession, allocation between estates, and family status; contextual packet passage p.10.1, printed p.274, on the title’s scope (B05; original passage ID: `raw-25867aef268a`).

@@ -17,29 +17,31 @@ provenance:
   inferred: 0.2
 scope: "Testing how Republican power defined and prosecuted homicide"
 sources: ["B06:Murder Was Not a Crimepdf.pdf"]
-summary: "A focused scenario for testing how Republican power defined and prosecuted homicide."
+summary: "The killing of Tiberius Gracchus exposes the disputed relationship between political violence and legal accountability in Republican Rome."
 tags: ["domain/legal", "domain/political", "period/late-republic", "period/regal", "type/scenario"]
 tier: "supporting"
 title: "Roman Homicide Prosecution"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:53:47Z"
 ---
 # Roman Homicide Prosecution
 
-> [!tldr] A focused scenario for testing how Republican power defined and prosecuted homicide.
+The response to the killing of Tiberius Gracchus reveals a deep division over the use of lethal force against Roman citizens. Participants fought with rocks, sticks, and broken furniture rather than exclusively military weapons. The source argues that the killing did not constitute a crime under an existing Roman statute, a claim about the legal treatment of the episode rather than an assertion that Romans unanimously approved it.
 
-## Scope
+## The absence of recorded prosecutions
 
-Testing how Republican power defined and prosecuted homicide
+The men identified as having beaten Tiberius to death, Publius Satyreius and Lucius Rufus, are not recorded as having faced trial. Rufus was even remembered as boasting of his role. Satyreius, himself a tribune of the plebs, enjoyed immunity during his term, but no subsequent prosecution is recorded either.
 
-## Scenario Evidence
+The source treats this silence as significant because the incident and its consequences appear in several accounts. It remains an argument from the surviving record, not direct evidence of a formal acquittal or a judicial ruling that the killing was lawful.
 
-During most of the Republic, intentional malicious homicide (“murder”) was not a public-law crime actionable by the government (Introduction, pp. 1–2) ^a757fb2e06a86fea
-Treatment of homicide reflects the extent and centralization of Roman political power; decentralized republican government lacked capacity/incentive to regulate ordinary murder (Introduction, pp. 1–2, 7) ^a757fb2e06a86fea
-Patria potestas and magisterial imperium embedded the right to kill in Roman definitions of power (Introduction, p. 1) ^a757fb2e06a86fea
+## A divided city
 
-## Decision Boundary
+Appian describes Rome as divided between sorrow and joy. Some mourned Gracchus and believed constitutional government had given way to violence; others welcomed what had happened. The lack of a recorded trial thus coexisted with profound disagreement over the political legitimacy of the killing.
 
-The scenario isolates testing how republican power defined and prosecuted homicide and does not stand in for the source's entire historical argument.
+## Refusal before the killing, endorsement afterward
+
+Before the attack, Nasica urged the consul Publius Mucius Scaevola to suppress what he called tyranny. In Plutarch’s account, Scaevola refused to use violence or put a citizen to death without trial, while saying that he would not uphold an unlawful popular vote. His position separated opposition to Tiberius’s measures from acceptance of summary killing.
+
+Cicero later claimed that Scaevola defended and honoured Nasica’s deed through senatorial decrees after the event. An extraordinary commission investigated Tiberius’s surviving associates. The source interprets their prosecution as both a response to perceived danger and a way of retrospectively justifying the leader’s death. Blossius of Cumae, questioned over his willingness to obey Tiberius even if ordered to burn Jupiter’s temple, fled into exile. Ancient accounts disagree over whether Nasica or Laelius conducted that questioning. The aftermath therefore involved active proceedings against the dead man’s followers, not simply judicial silence about political violence as a whole.
 
 ## Related Pages
 
@@ -48,8 +50,5 @@ The scenario isolates testing how republican power defined and prosecuted homici
 
 ## Sources
 
-- B06:Murder Was Not a Crimepdf.pdf
-
-## Citations
-
-- ^a757fb2e06a86fea
+- `_raw/Murder Was Not a Crimepdf.pdf` — p.133.1; p.134.1; p.135.1; earlier contextual locators retained: p.132.1.
+- Original citation ID: `^a757fb2e06a86fea`.

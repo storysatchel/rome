@@ -17,37 +17,32 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of BGU 4.1050 marriage contract in the sampled Roman sources"
 sources: ["B00:9789004334809-34002.pdf"]
-summary: "A bounded account of BGU 4.1050 marriage contract in Roman history."
+summary: "The Alexandrian marriage contract of Dionysios and Isidora sets out unequal spousal obligations, including restrictions on the wife’s movement."
 tags: ["domain/economic", "period/late-antiquity", "period/principate", "period/republic", "type/concept"]
 tier: "supporting"
 title: "BGU 4.1050 marriage contract"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # BGU 4.1050 marriage contract
 
-> [!tldr] A bounded account of BGU 4.1050 marriage contract in Roman history.
+BGU 4.1050 is a marriage contract preserved on papyrus for Dionysios and Isidora, a Greek couple from Alexandria, dated to 12/11 BCE. It records mutual obligations, but defines those obligations differently for husband and wife.
 
-## Scope
+## Protection and control within marriage
 
-The bounded meaning and operation of BGU 4.1050 marriage contract in the sampled Roman sources
+Dionysios undertook not to mistreat or abuse Isidora, expel her, or bring another woman into the house. Isidora was not to damage the household or be with another man. She was also not to sleep away from home or be absent for a day without Dionysios’ approval.
 
-## Core Evidence
+The source treats this differentiation as typical of such contracts. The husband’s duties were expressed as protection of his wife from abuse; the wife’s duties protected the marriage and, with it, her husband’s reputation.
 
-Labour, family, war, coercion, citizenship and opportunity operated as push/pull factors, while women’s mobility could be constrained by marriage contracts (pp. 8–13) ^fc82944f276754a1
+## A restriction on mobility
 
-## Boundary
+The clause concerning absence makes the contract especially useful for studying women’s movement. Its exact practical application is uncertain: the source leaves open whether it should be read literally or together with the other clauses more abstractly. At minimum, it presents Isidora’s movement as subject to her husband’s consent, rather than as an independent freedom.
 
-This page treats BGU 4.1050 marriage contract as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+## What one contract can establish
 
-## Related Pages
+The surrounding discussion places this papyrus alongside other, very different evidence for mobility, including Luke’s presentation of an unmarried Mary travelling to visit Elisabeth. The contrast does not establish a universal difference between married and unmarried women: the sources differ in genre, location, and circumstances.
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+The authors emphasize that abundant but individualized evidence is difficult to combine into a single model. BGU 4.1050 is therefore strong evidence for the obligations articulated in this marriage and for a recognizable contractual pattern, but not a direct measure of all women’s actual travel.
 
 ## Sources
 
-- B00:9789004334809-34002.pdf
-
-## Citations
-
-- ^fc82944f276754a1
+- `_raw/9789004334809-34002.pdf`, p.23.1–p.25.1, printed pp.11–13, Tacoma and Lo Cascio, “Writing Migration”; BGU 4.1050 is quoted in note 29, with the translation attributed to J. Evans Grubbs, *Women and the Law in the Roman Empire*, pp.123–125 (B00; original passage ID: `raw-6e6e32928747`).

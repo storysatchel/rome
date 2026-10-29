@@ -17,37 +17,36 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of conquest/retaliation in the sampled Roman sources"
 sources: ["B08:Susan P. Mattern_1999_Rome and the Enemy.epub"]
-summary: "A bounded account of conquest/retaliation in Roman history."
+summary: "Roman retaliation linked honour and security, allowing raids or military defeats to justify campaigns of conquest."
 tags: ["domain/military", "domain/political", "period/principate", "subject/imperial-strategy", "type/concept"]
 tier: "supporting"
 title: "conquest/retaliation"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # conquest/retaliation
 
-> [!tldr] A bounded account of conquest/retaliation in Roman history.
+Roman conquest could be presented as retaliation rather than as aggression for its own sake. Susan P. Mattern interprets this connection through a value system in which victory, honour, and security reinforced one another: a perceived injury demanded a forceful answer if Roman standing was to be maintained.
 
-## Scope
+## Honour and the response to injury
 
-The bounded meaning and operation of conquest/retaliation in the sampled Roman sources
+In this analysis, the defence of *decus* extended from interpersonal relations into public and international affairs. An insult or defeat threatened more than immediate material interests. Retaliation asserted the standing of Rome and its ability to protect itself and its allies.
 
-## Core Evidence
+## From a raid to conquest
 
-(Preface) Study asks why Roman leadership made major foreign-war and peace decisions, rather than assuming modern strategic expertise. (Preface) Scope is Actium (31 BCE) to fall of Severus Alexander (235 CE), when the Augustan provincial/army/tax system broadly persisted. (Preface) International relations are presented less as geopolitical chess than competition for status, violent demonstration, posturing and terror. (Preface) Honor/image, conquest, terror and retaliation help explain expansion and retention of places of questionable strategic/economic value, while army distribution and financial cost constrained growth. (Introduction, ch.1) Ultimate major foreign-policy decisions increasingly lay with the emperor and his circle, although governors retained limited discretion. (Introduction, ch.1) Senatorial/equestrian rank, patronage and prestige—not demonstrable military specialization alone—structured high command. (Contents; chs. “Image of the World,” “Strategy,” “Income and Expenditure,” “Values”) The argument combines geography, strategy, economics and value terminology ^ec8d8e3223850a95
+Raids on Roman or allied territory were a recurring justification for war, and the Roman response could escalate to total conquest. A military defeat inflicted on Rome could similarly become a reason for renewed warfare; Mattern points to Crassus’ defeat as a striking late Republican example.
 
-## Boundary
+The emphasis is on the relationship between the stated injury and the scale of the response. A campaign justified as restoring honour or security did not necessarily aim only to reverse the original loss.
 
-This page treats conquest/retaliation as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+## The breadth of an injury
 
-## Related Pages
+The term *iniuria* could cover different kinds of offence: unauthorized passage through a province, attacks on Rome’s friends, or defeat of a Roman army. The emphasis lay on the wrong and its challenge to standing, not on a fixed scale of material damage.
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+Crassus’ Parthian campaign illustrates the logic. Ancient writers could condemn its original motives as greed and personal ambition while still treating his defeat as an injury requiring revenge. Augustus’ recovery of the lost standards then became a prominent claim of restored honour, visible in the imagery of the Prima Porta statue and in the cult of Mars the Avenger. Symbolic recovery mattered even when some observers considered it less satisfactory than a military victory.
+
+## Limits on retaliation
+
+Mattern does not treat this ideology as removing practical constraints. Campaigns still risked revolt, invasion elsewhere, civil war, and crippling expense. Her argument is that the slower rate of conquest under the Principate need not mean that Romans had abandoned conquest as a value in favour of a purely defensive outlook.
 
 ## Sources
 
-- B08:Susan P. Mattern_1999_Rome and the Enemy.epub
-
-## Citations
-
-- ^ec8d8e3223850a95
+- `_raw/Susan P. Mattern_1999_Rome and the Enemy.epub`, section.265–section.267 on *iniuria*, Crassus, recovered standards, and revenge; section.283–section.285 on military values, fiscal constraints, and conquest (B08; original passage IDs: `raw-a7b474572008`, `raw-517f5e3a527d`).

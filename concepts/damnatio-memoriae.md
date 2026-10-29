@@ -17,37 +17,28 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of damnatio memoriae in the sampled Roman sources"
 sources: ["B04:God on Earth- Emperor Domitian. The Re-invention of Rome at the End of the 1st Century ADpdf.pdf"]
-summary: "A bounded account of damnatio memoriae in Roman history."
+summary: "Domitian’s memory sanctions altered names and images unevenly, especially in Egypt, where pharaonic representations often survived."
 tags: ["period/principate", "subject/propaganda", "type/concept"]
 tier: "supporting"
 title: "damnatio memoriae"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # damnatio memoriae
 
-> [!tldr] A bounded account of damnatio memoriae in Roman history.
+Domitian’s posthumous memory sanctions show that *damnatio memoriae* did not produce a uniform disappearance of a ruler’s name and image. The Senate ordered action against his memory after his death in 96 CE, but reactions and material results differed across groups, places, and kinds of representation.
 
-## Scope
+## Senate, army, and burial
 
-The bounded meaning and operation of damnatio memoriae in the sampled Roman sources
+The account drawing on Suetonius contrasts senatorial hostility with military indignation and popular indifference. The Senate sought the removal of Domitian’s name from inscriptions, while soldiers remained attached to him. His body was cremated by his nurse and his ashes were eventually placed in the Temple of the Flavian Family. Sanctions against memory therefore did not erase every form of private commemoration.
 
-## Core Evidence
+## Selective alteration in Egypt
 
-The project reassesses Domitian beyond hostile posthumous literary traditions and damnatio memoriae ^e969627d83eb7f63
+Many images of Domitian survived in Egypt, particularly representations of him as pharaoh. At Deir el-Hagar, however, his personal name was covered with plaster, including the filling of incised hieroglyphs. The name “Caesar” in the other cartouche was left untouched, distinguishing rejection of an office-holder from respect for the imperial office.
 
-## Boundary
+The source also records erasures in Greek votive inscriptions at Berenike, including the temple of Isis and a harbour-area temple. It suggests Roman or military involvement but does not establish it as fact. Why Deir el-Hagar was altered while neighbouring temples retained Domitian’s name remains unexplained.
 
-This page treats damnatio memoriae as a bounded analytical subject and does not generalize across unrelated periods or institutions.
-
-## Related Pages
-
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+The contrast is not simply between Rome and Egypt. It is also between Domitian as Roman emperor and the pharaonic images embedded in Egyptian temple traditions.
 
 ## Sources
 
-- B04:God on Earth- Emperor Domitian. The Re-invention of Rome at the End of the 1st Century ADpdf.pdf
-
-## Citations
-
-- ^e969627d83eb7f63
+- `_raw/God on Earth- Emperor Domitian. The Re-invention of Rome at the End of the 1st Century ADpdf.pdf`, p.185.1–p.186.1, printed pp.183–184, on Egyptian images and erasures; p.187.1, printed p.185, Maria Paola Del Moro, “Domitian’s Damned Memory in the Fourth and Fifth Centuries,” on senatorial sanctions, soldiers, and burial (B04; original passage ID: `raw-13b2880fe996`).

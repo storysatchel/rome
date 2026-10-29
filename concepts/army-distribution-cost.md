@@ -17,37 +17,32 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of army distribution and cost in the sampled Roman sources"
 sources: ["B08:Susan P. Mattern_1999_Rome and the Enemy.epub"]
-summary: "A bounded account of army distribution and cost in Roman history."
+summary: "Army strength, deployment, and the expense of conquest and occupation constrained Roman imperial expansion."
 tags: ["domain/military", "domain/political", "period/principate", "subject/imperial-strategy", "type/concept"]
 tier: "supporting"
 title: "army distribution and cost"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # army distribution and cost
 
-> [!tldr] A bounded account of army distribution and cost in Roman history.
+The size and distribution of the Roman army were practical constraints on imperial expansion. In Susan P. Mattern’s account, Roman concerns about available military strength and the financial costs of war, conquest, and occupation help explain the limits of the empire’s growth.
 
-## Scope
+## Deployment and the limits of the evidence
 
-The bounded meaning and operation of army distribution and cost in the sampled Roman sources
+Reconstructing deployment is particularly difficult for auxiliary units. Ancient literary sources provide little information about their numbers or the locations of units within individual provinces. A fuller reconstruction therefore depends on aerial photography, archaeology, papyri, and inscriptions.
 
-## Core Evidence
+This uneven evidence requires a distinction between the importance of deployment to Roman decision-making and modern ability to recover it in detail. The scarcity of literary notices does not make auxiliary forces unimportant; it makes their distribution harder to establish.
 
-(Preface) Study asks why Roman leadership made major foreign-war and peace decisions, rather than assuming modern strategic expertise. (Preface) Scope is Actium (31 BCE) to fall of Severus Alexander (235 CE), when the Augustan provincial/army/tax system broadly persisted. (Preface) International relations are presented less as geopolitical chess than competition for status, violent demonstration, posturing and terror. (Preface) Honor/image, conquest, terror and retaliation help explain expansion and retention of places of questionable strategic/economic value, while army distribution and financial cost constrained growth. (Introduction, ch.1) Ultimate major foreign-policy decisions increasingly lay with the emperor and his circle, although governors retained limited discretion. (Introduction, ch.1) Senatorial/equestrian rank, patronage and prestige—not demonstrable military specialization alone—structured high command. (Contents; chs. “Image of the World,” “Strategy,” “Income and Expenditure,” “Values”) The argument combines geography, strategy, economics and value terminology ^ec8d8e3223850a95
+## Concentrating force without losing territory
 
-## Boundary
+Expansion required troops that could be assembled without making existing possessions vulnerable. Mattern finds this concern in literary discussions of the forces needed to conquer and garrison Britain or Ireland. It was a constraint on the use of the army, not merely on its total size.
 
-This page treats army distribution and cost as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+Rome generated substantial military information, including rosters, duty lists, casualty lists, and strength reports. Augustus left an account of legions and auxiliaries, while provincial administration maintained detailed records. How much of this reached emperors or governors in a usable summary remains uncertain.
 
-## Related Pages
+## Information and strategic priorities
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+The source’s main focus is the period from Actium to 235 CE. It interprets expansion through a tension between honour-driven pressure to conquer or retain territory and the costs of occupation and dispersal. Military numbers in surviving narratives must also be handled critically: casualty figures could be shaped by patriotic display, self-glorification, or the language of revenge.
 
 ## Sources
 
-- B08:Susan P. Mattern_1999_Rome and the Enemy.epub
-
-## Citations
-
-- ^ec8d8e3223850a95
+- `_raw/Susan P. Mattern_1999_Rome and the Enemy.epub`, section.3–section.4 on chronology and constraints; section.132–section.134 on concentration of force, military records, and numerical evidence (B08; original passage IDs: `raw-810cd82f39fb`, `raw-74dfe5d67ef7`).

@@ -17,37 +17,36 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of consul in the sampled Roman sources"
 sources: ["B08:The Consul at Romepdf.pdf"]
-summary: "A bounded account of consul in Roman history."
+summary: "The consul’s religious duties and ceremonial departure for war publicly joined civic authority, military command, and personal prestige."
 tags: ["domain/legal", "domain/political", "period/republic", "type/concept"]
 tier: "supporting"
 title: "consul"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # consul
 
-> [!tldr] A bounded account of consul in Roman history.
+The consul’s public role joined religious obligation, civic authority, and military command. The preparations for leaving Rome and the ceremony of departure made these connections visible to the population, while giving the office-holder an opportunity to display his personal standing.
 
-## Scope
+## Religious duties before departure
 
-The bounded meaning and operation of consul in the sampled Roman sources
+Consuls generally left for their provinces after completing the required religious duties. Cicero records an annual consular sacrifice to Juno Sospita. Before departure, consuls also pronounced vows on the Capitol; successful commanders returned there to thank the gods.
 
-## Core Evidence
+Departure could nevertheless be delayed by recruitment problems, expiation of prodigies, or political disputes. In 195 BCE Cato remained in Rome until the vote to repeal the *lex Oppia*, whose repeal he had opposed, before leaving for Hispania.
 
-(pp.1–5) Book empirically reconstructs consuls “at work” in civil tasks, 367–50 BCE, rather than theorizing from imperium alone. (Contents, pp.vii–viii) Functions include religion, diplomacy, edicts/contio, legislation, jurisdiction, public works, colonization/land distribution, dictatorship, elections and annual administration. (Introduction pp.3–5) Polybius depicts consuls as military commanders outside Rome and heads of administration in Rome. (Introduction pp.4–5) Civil and military powers have been debated as territorial (pomerium) versus qualitative/task-based distinctions; the author presents the debate rather than resolving it by fiat. (Introduction pp.5–6) Civil evidence is scarcer than military evidence, but reveals mandatory and occasional activities. (pp.13–17) The consular year’s starting date shifted (January from 153 BCE; Ides of March by 217 and possibly earlier; earlier dates uncertain), and did not simply equal the calendar year. (pp.17–19) Taking office involved auspices, toga praetexta, salutatio/procession, Capitol sacrifice and vows, then a first Senate session ^7fede7abb6bc69b8
+## The public procession
 
-## Boundary
+The *profectio consularis* was a civic-military display. The consul exchanged the purple-bordered *toga praetexta* for the military *paludamentum*, accompanied by lictors also in military dress. Friends, prominent citizens, military tribunes, and officers of his *consilium* joined the procession. Their numbers and status enhanced the departing consul’s renown.
 
-This page treats consul as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+The route linked the Capitol, where the consuls’ inaugural parade had ended, to the journey toward the province. It also anticipated the hoped-for return in triumph, giving departure and victory a shared religious and civic centre.
+
+## A disputed boundary of command
+
+Scholars disagree over the *pomerium*’s precise role in this transition. Mommsen treated crossing Rome’s sacred boundary as the change from civil magistrate to military commander. Giovannini objected that the surviving descriptions do not identify that boundary as decisive, emphasizing instead senatorial authorization and the symbolic adoption of military dress. The ceremony’s significance is clearer than a single uncontested legal interpretation of it.
 
 ## Related Pages
 
-- [[concepts/fall-of-the-roman-republic]]
 - [[concepts/roman-religion-and-augury]]
 
 ## Sources
 
-- B08:The Consul at Romepdf.pdf
-
-## Citations
-
-- ^7fede7abb6bc69b8
+- `_raw/The Consul at Romepdf.pdf`, p.156.1–p.157.1, printed pp.144–145, on Juno Sospita; p.227.1–p.229.1, printed pp.215–217, on duties, delays, procession, and the debate over the *pomerium* (B08; original passage IDs: `raw-4a65ba39c368`, `raw-e2c171df8400`).

@@ -17,37 +17,30 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of Augustan marriage law in the sampled Roman sources"
 sources: ["B08:The Single Life in the Roman and Later Roman Worldpdf.pdf"]
-summary: "A bounded account of Augustan marriage law in Roman history."
+summary: "Augustan marriage measures encouraged some patron–freedwoman marriages while restricting the wife’s ability to remarry independently."
 tags: ["period/late-antiquity", "period/principate", "period/republic", "subject/roman-law", "type/concept"]
 tier: "supporting"
 title: "Augustan marriage law"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # Augustan marriage law
 
-> [!tldr] A bounded account of Augustan marriage law in Roman history.
+Augustan marriage legislation regulated legitimate marriage, childbearing, and inheritance through distinctions of legal and social status. It was not simply an attempt to make everyone marry. The *lex Iulia de maritandis ordinibus*—the Julian law on the marrying of the social orders—helped channel property and reproductive legitimacy within an elite Augustus was reshaping.
 
-## Scope
+## Marriage and social rank
 
-The bounded meaning and operation of Augustan marriage law in the sampled Roman sources
+Unmarried and childless people faced inheritance restrictions, but the consequences varied sharply by status. Freeborn men below senatorial rank could marry freedwomen and have legitimate children with them; the senatorial restriction remained. Marriage between free women and former slaves received much less encouragement. These asymmetries connected marriage policy with laws on manumission and patronal rights.
 
-## Core Evidence
+## Manumission for marriage
 
-(front matter/Introduction) Volume is the first large-scale study of single men and women from Roman Republic through Late Antiquity across the ancient Mediterranean. (Introduction pp.3–15) “Single” is methodologically unstable: not married, living alone/lonely, lifestyle, transitional status or religious vocation can overlap but are not identical. (Introduction pp.15–26) Ancient marriage was generally not state-registered or religiously required; exclusivity became stronger with Christianization, while univira was an older widow ideal. (Introduction pp.10–15) Latin caelebs/caelibatus primarily denotes unmarried status but can cover widowers, divorcees and later monastic/priestly celibacy; vidua is more specific for widows. (Introduction pp.12–15) Literary pro- and anti-marriage arguments are genre- and audience-dependent, especially satire/comedy versus philosophical or Christian discourse. (Contents) Contributors examine Roman Egypt, archaeology, slaves/freedmen, Augustan marriage legislation, Cicero/Catullus, Virgil, Judaism, Christian inscriptions from Rome, Late Antique virgins, bachelors and widows. (Introduction) Census/social records may not treat marital status as important even when elite philosophical texts debate it. (Introduction) Christianity shifted the evaluation of celibacy toward a potentially virtuous, service-oriented life, though social norms and pressures persisted ^8641d01a5953d00c
+The *lex Aelia Sentia* normally required a slave to be at least thirty for full manumission. An exception applied to a woman freed in order to marry her patron. This enabled the patron to have legitimate children with a younger freedwoman wife. Although her consent to marriage was formally expected, the source stresses the unequal power relationship in which that consent was obtained.
 
-## Boundary
+## Divorce and remarriage
 
-This page treats Augustan marriage law as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+A freedwoman married to the patron who had freed her for that purpose could not make another legal marriage against his will. This differed from the expectation that other childless free women should remarry after divorce. The restriction did not simply promote marriage in general: it protected the patron’s continuing claim to this particular marriage.
 
-## Related Pages
-
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+The rule also outlasted Augustus. A rescript of Alexander Severus denying remarriage to a freedwoman whose patron still wanted her as his wife was retained in Justinian’s Code, and Justinian endorsed the restriction in Novel 22.
 
 ## Sources
 
-- B08:The Single Life in the Roman and Later Roman Worldpdf.pdf
-
-## Citations
-
-- ^8641d01a5953d00c
+- `_raw/The Single Life in the Roman and Later Roman Worldpdf.pdf`, p.134.1–p.136.1, printed pp.122–124, Judith Evans Grubbs, “Singles, Sex and Status in the Augustan Marriage Legislation”; references include Digest 24.2.11, Codex Justinianus 5.5.1, and Novel 22.37 (B08; original passage ID: `raw-7aef6c2c3c3b`).

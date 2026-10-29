@@ -17,37 +17,32 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of architecture/monuments/literature in the sampled Roman sources"
 sources: ["B08:The Ruler's Houseepub.decrypted.epub"]
-summary: "A bounded account of architecture/monuments/literature in Roman history."
+summary: "Literature, imperial images, and domestic architecture offer different perspectives on Roman ideas about power and privacy."
 tags: ["domain/political", "period/principate", "subject/roman-law", "type/concept"]
 tier: "supporting"
 title: "architecture/monuments/literature"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # architecture/monuments/literature
 
-> [!tldr] A bounded account of architecture/monuments/literature in Roman history.
+Roman political thought can be studied through buildings and images as well as literary texts. These forms of evidence reached different audiences: literature was produced by and for a small minority, whereas the material world was accessible to a much wider population.
 
-## Scope
+## Architecture as political evidence
 
-The bounded meaning and operation of architecture/monuments/literature in the sampled Roman sources
+*The Ruler’s House* brings literary and material evidence together to investigate one-man rule. Imperial images and architecture expressed ideas about the ruler’s position, while domestic buildings could make questions of privacy and power visible at a smaller scale. The book’s treatment of houses at Pompeii places these questions in a town that came under Roman rule in the early first century BCE and was buried by Vesuvius in 79 CE.
 
-## Core Evidence
+## Literary models of domestic space
 
-(Introduction) Roman domus was neither simply private nor opposed to public life: it was a stage for elite self-display, patronage and dominance, while also exposing power’s fragility. (Introduction) Julio-Claudian one-man rule made the emperor’s privacy and visibility central political problems; his house was where he was most vulnerable. (Introduction) Public/private distinctions were fluid; publicus relates to the male citizen body and Roman law distinguishes res publicae, res privatae and res communes omnium. (Introduction) Dionysius presents Roman domestic life as subject to civic oversight, while Livy and Velleius use leaders’ houses as spaces of public performance and surveillance. (Introduction) Pliny’s Trajan contrasts good rulers who do not pry into subjects’ houses with the emperor’s own unavoidable exposure to rumor. (Introduction) Augustus’ authority combined Republican powers; Nero offered a contrasting model of extravagance, artistry and weak domestic control. (Introduction) Literary texts, imperial monuments/houses and Pompeian architecture together show interdependence and intimacy between ruler and ruled. (Introduction) Subordinates’ recognition helps construct ruler dominance; threats to emperor/house can be redefined as public dangers ^9615679778decc67
+Book 6 of Vitruvius’ *On Architecture* offers a prominent literary account of the ideal forms and functions of domestic space. It supplies a prescriptive model, rather than a substitute for examining surviving houses. Reading such texts alongside architecture allows the study of Roman power to include both articulated ideals and the material settings in which social life took place.
 
-## Boundary
+Vitruvius distinguishes domestic spaces through access as well as activity. Bedrooms, dining rooms, and baths require invitation; vestibules, courts, and peristyles can receive outsiders without one. His ideal house also depends on social position: people who conduct business by visiting others have different spatial needs from those expected to receive visitors.
 
-This page treats architecture/monuments/literature as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+## Visibility and dependence
 
-## Related Pages
+The house could establish hierarchy by displaying its owner, but display also made the owner vulnerable to the visitor’s judgement. The book reads Pompeian paintings as drawing attention to this reversal: subordinate observers can acquire knowledge of the person who controls the setting.
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+At imperial scale, a similar tension complicates the ruler’s privacy. The emperor needed his subjects’ recognition, while the political significance of his safety and conduct made his supposedly private life a communal concern. Architecture and literature thus illuminate not only displays of dominance but the dependence of power on audiences.
 
 ## Sources
 
-- B08:The Ruler's Houseepub.decrypted.epub
-
-## Citations
-
-- ^9615679778decc67
+- `_raw/The Ruler's Houseepub.decrypted.epub`, section.25–section.27 on the ruler’s visibility and public/private power; section.164–section.165 on domestic access and Vitruvius 6.5.1 (B08; original passage IDs: `raw-94bd60dbb0f1`, `raw-0d6b21d399e6`).

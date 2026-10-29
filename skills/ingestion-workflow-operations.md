@@ -50,6 +50,41 @@ python3 scripts/ingest_workflow.py prepare-archive /home/user/Documents/rome
 python3 scripts/ingest_workflow.py promote /home/user/Documents/rome --confirm --archive-raw
 ```
 
+
+## Raw-source retrieval for enrichment
+
+Promotion does not make source text searchable. The inventory's logical paths remain valid after raw files move to `_raw/_archived/`; build a local SQLite FTS5 index before enriching evidence-only pages:
+
+```bash
+python3 scripts/raw_source_search.py index /home/user/Documents/rome
+python3 scripts/raw_source_search.py search /home/user/Documents/rome \
+  "annona grain distribution imperial politics" --limit 8
+```
+
+The index resolves each inventory path against `_raw/` and `_raw/_archived/`, verifies the inventory SHA-256, extracts PDF/EPUB/TXT content locally, and stores page- or section-located chunks under `_staging/_work/raw-search.sqlite3`. It is a retrieval layer, not an article writer.
+
+Generate retrieval packets for the quarantined entities and evidence-only concepts/scenarios:
+
+```bash
+python3 scripts/article_enrichment.py /home/user/Documents/rome \
+  --limit 24 \
+  --output _staging/_work/article-enrichment-packets.jsonl \
+  --hydration-output _staging/_work/article-hydration-intents.jsonl
+```
+
+The hydration output is an extraction intermediate, not a publishable article. Sentence matching cannot establish referents, narrative coherence, or historical significance. Read the surrounding passages, resolve the subject of every assertion, and synthesize a cohesive article before writing it to the live vault.
+
+Enrichment requires renewed research, not just an editorial pass over existing excerpts. Search the full raw corpus for the article subject, read the relevant surrounding pages or sections, and identify missing mechanisms, chronology, examples, and competing interpretations before composing. Record the actual ranges consulted and source limitations in the work audit. Citation presence and fluent prose alone do not demonstrate research coverage.
+
+### Article presentation
+
+- With `WIKI_STAGED_WRITES=false`, write directly to the normal category paths. Git provides review and rollback; do not introduce a separate promotion gate.
+- Open with a useful description of the subject, then use headings specific to its history, function, or argument.
+- Write connected prose. Do not publish a literal “Propositions” section, a list of retrieved quotations, or generic Scope/Boundary boilerplate.
+- Keep source paths, page locators, and extraction markers out of the narrative. Consolidate precise source attribution into compact notes under `## Sources`; use unobtrusive footnotes only when a claim needs distinct attribution.
+- Retain source identity and page/section locators. Do not count alternate PDF/EPUB encodings as independent corroboration.
+- Omit unsupported claims rather than padding an article. An unresolved pronoun or a sentence about another person is not evidence about the page subject.
+
 Add `--archive-raw` only after the processed-source manifest has one exact raw-relative path and matching SHA-256 per source:
 
 ```text

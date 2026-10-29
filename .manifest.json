@@ -2,12 +2,12 @@
   "sources": {
     "/home/user/Documents/rome/_raw/142624.pdf": {
       "content_hash": "sha256:6b0190ba94133bf6dc1cd1f378fe890150150a8d5d699e91d6b004f84909bc95",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:52:11Z",
       "pages_created": [
         "concepts/codex-theodosianus-9-7-3.md",
-        "entities/elagabalus-heliogabalus.md",
-        "entities/nero.md",
+        "entities/quarantine/elagabalus-heliogabalus.md",
+        "entities/quarantine/nero.md",
         "references/nubit-amicus-same-sex-weddings-in-imperial-rome-gergo-gellerfi.md"
       ],
       "pages_updated": [
@@ -105,7 +105,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004211926-20013.pdf": {
       "content_hash": "sha256:c847c179e389a5f38c8b147f6b7fd6477524d28a7625b66c8d879ac0db5dd66f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:20:11Z",
       "pages_created": [
         "references/power-and-status-in-the-roman-empire-ad-193284-inge-mennen.md"
@@ -117,10 +117,10 @@
     },
     "/home/user/Documents/rome/_raw/9789004211964-16879.pdf": {
       "content_hash": "sha256:0a7ed11fde935cb0286acf85ac701e38297bcd181700c6ef64b156e1e7616028",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:46Z",
       "pages_created": [
-        "entities/achim-lichtenberger.md",
+        "entities/quarantine/achim-lichtenberger.md",
         "references/severus-pius-augustus-studien-zur-sakralen-reprasentation-und-rezeption-der-herrschaft-des.md"
       ],
       "pages_updated": [],
@@ -130,10 +130,10 @@
     },
     "/home/user/Documents/rome/_raw/9789004215030-19792.pdf": {
       "content_hash": "sha256:f2d401fe9e927084335c2409c7bba027abae3c8f57193c0e50362a0ee9f0c8d1",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:54Z",
       "pages_created": [
-        "entities/ammianus-marcellinus.md",
+        "entities/quarantine/ammianus-marcellinus.md",
         "references/frontiers-in-the-roman-world-edited-by-olivier-hekster-and-ted-kaizer.md"
       ],
       "pages_updated": [],
@@ -143,7 +143,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004256675-24380.pdf": {
       "content_hash": "sha256:5ed9a304d9b8512026213b7fc035f250d48edc595eb5936a46c995b83dac9105",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:40Z",
       "pages_created": [
         "concepts/constitutio-antoniniana.md",
@@ -156,7 +156,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004291935-31629.pdf": {
       "content_hash": "sha256:ab046d08f63d88fabbf5919c9d4cd643a598e869e468fb6eb8e9129cfe348cb4",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:30:29Z",
       "pages_created": [
         "references/east-and-west-in-the-roman-empire-of-the-fourth-century-an-end-to-unity-edited-by-roald-di.md"
@@ -168,11 +168,11 @@
     },
     "/home/user/Documents/rome/_raw/9789004326750-33699.pdf": {
       "content_hash": "sha256:dec8383063447d0e266c5baca1197015ca9ecd821e471aef87588a35aaea32e4",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:33Z",
       "pages_created": [
-        "entities/danielle-slootjes-michael-peachin.md",
-        "entities/diocletians-palace-at-split.md",
+        "entities/quarantine/danielle-slootjes-michael-peachin.md",
+        "entities/quarantine/diocletians-palace-at-split.md",
         "references/rome-and-the-worlds-beyond-its-frontiers-edited-by-danielle-slootjes-and-michael-peachin.md"
       ],
       "pages_updated": [],
@@ -182,7 +182,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004331686-33951.pdf": {
       "content_hash": "sha256:085821e12ded1f92fb71dc4225d4b6577ed1286d2c0deb8895c4ad0c008637ce",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:21Z",
       "pages_created": [
         "concepts/diocletians-prices-edict.md",
@@ -197,7 +197,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004334809-34002.pdf": {
       "content_hash": "sha256:ab6fb495436af27d06270600d3176e7ab2652dccbe7c50bf0459d3a743e86b0f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:26Z",
       "pages_created": [
         "concepts/bgu-4-1050-marriage-contract.md",
@@ -210,7 +210,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004400474-55041.pdf": {
       "content_hash": "sha256:3165e8e05712d19a3f1d102101417b775cc3e49d5e95a9b1fc69863d98d1a84f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:04Z",
       "pages_created": [
         "references/the-impact-of-justice-on-the-roman-empire-edited-by-olivier-hekster-and-koenraad-verboven.md"
@@ -222,10 +222,10 @@
     },
     "/home/user/Documents/rome/_raw/9789004401617-13528.pdf": {
       "content_hash": "sha256:31bcf889697c1e380d50090ddbeab7faaa1ee3498fc376bb5516429b3afe047b",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:38Z",
       "pages_created": [
-        "entities/equestrian-procurators.md",
+        "entities/quarantine/equestrian-procurators.md",
         "references/administration-prosopography-and-appointment-policies-in-the-roman-empire-edited-by-lukas.md"
       ],
       "pages_updated": [],
@@ -235,10 +235,10 @@
     },
     "/home/user/Documents/rome/_raw/9789004401624-13529.pdf": {
       "content_hash": "sha256:83d5663e766ab9a15f46aefafc389d24d96b7931c2cdc17a316c1d6c14a55206",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:34Z",
       "pages_created": [
-        "entities/cities.md",
+        "entities/quarantine/cities.md",
         "references/the-transformation-of-economic-life-under-the-roman-empire-edited-by-lukas-de-blois-and-jo.md"
       ],
       "pages_updated": [
@@ -250,11 +250,11 @@
     },
     "/home/user/Documents/rome/_raw/9789004401631-13611.pdf": {
       "content_hash": "sha256:53c4b019955e2ac2cb9596ca5ac7ed7cdd5ce1a586100d31cc80faf934688648",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:29Z",
       "pages_created": [
         "concepts/auctoritas.md",
-        "entities/imperial-cult.md",
+        "entities/quarantine/imperial-cult.md",
         "references/the-representation-and-perception-of-roman-imperial-power-edited-by-lukas-de-blois-paul-er.md"
       ],
       "pages_updated": [
@@ -266,12 +266,12 @@
     },
     "/home/user/Documents/rome/_raw/9789004401655-13612.pdf": {
       "content_hash": "sha256:8899d53a246e47f8d6b1d00cd2a3e9673c540474bb1314c3e8767eecff5a6c00",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:13Z",
       "pages_created": [
         "concepts/civic-life.md",
-        "entities/cities-municipia.md",
-        "entities/councils-decurions.md",
+        "entities/quarantine/cities-municipia.md",
+        "entities/quarantine/councils-decurions.md",
         "references/roman-rule-and-civic-life-local-and-regional-perspectives-edited-by-l-de-ligt-e-a-hemelrij.md"
       ],
       "pages_updated": [],
@@ -281,7 +281,7 @@
     },
     "/home/user/Documents/rome/_raw/9789004411449-55929.pdf": {
       "content_hash": "sha256:3f5789a0c960078aa0822543c5e07da0e8fb71371b3ab3800cb664454b7fc06a",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:01Z",
       "pages_created": [
         "references/the-impact-of-the-roman-empire-on-landscapes-edited-by-olivier-hekster-impact-of-empire-20.md"
@@ -295,11 +295,11 @@
     },
     "/home/user/Documents/rome/_raw/9789004525139-63417.pdf": {
       "content_hash": "sha256:f2613bbe9d4b2049269b938279bd5bc9be5d1db994c70f76f2c299ccf469d330",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:21:39Z",
       "pages_created": [
         "concepts/contracts-obligations.md",
-        "entities/justinian.md",
+        "entities/quarantine/justinian.md",
         "references/law-and-economic-performance-in-the-roman-world-edited-within-impact-of-empire-series-oliv.md"
       ],
       "pages_updated": [],
@@ -309,13 +309,13 @@
     },
     "/home/user/Documents/rome/_raw/9789004525139-BP000002.pdf": {
       "content_hash": "sha256:b2bc07913cd281732db66f48a7a734c3f246e10da4d9e683a1cbe0194d64c8c4",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:29:27Z",
       "pages_created": [
-        "entities/city-councils.md",
-        "entities/coloni.md",
-        "entities/decurions.md",
-        "entities/dennis-p-kehoe.md",
+        "entities/quarantine/city-councils.md",
+        "entities/quarantine/coloni.md",
+        "entities/quarantine/decurions.md",
+        "entities/quarantine/dennis-p-kehoe.md",
         "references/private-property-rights-and-public-claims-on-land-in-the-roman-empire-dennis-p-kehoe.md"
       ],
       "pages_updated": [],
@@ -325,11 +325,11 @@
     },
     "/home/user/Documents/rome/_raw/9789004537460-64196.pdf": {
       "content_hash": "sha256:02f586c1cfe4ba3c8783c15d60649b351b5f95bd56e5cbd161d7f9dc07eb77a6",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:20:46Z",
       "pages_created": [
         "concepts/augury-divine-legitimation.md",
-        "entities/justinian.md",
+        "entities/quarantine/justinian.md",
         "references/tradition-and-power-in-the-roman-empire-edited-by-olivier-hekster-impact-of-empire-series.md"
       ],
       "pages_updated": [],
@@ -339,7 +339,7 @@
     },
     "/home/user/Documents/rome/_raw/9789047411345-13342.pdf": {
       "content_hash": "sha256:c707ca62d552f2711a812ab28d4a42d3962152d8ebe5efefc4ce9db8a3bc95e0",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:13:54Z",
       "pages_created": [
         "concepts/egyptian-religion-papyri.md",
@@ -352,11 +352,11 @@
     },
     "/home/user/Documents/rome/_raw/9789047428275-15107.pdf": {
       "content_hash": "sha256:359821b15b240aa18d86197f0652d47dfb147c3dafef0a3c5eeb6e46aa68b808",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:24:13Z",
       "pages_created": [
-        "entities/elagabal.md",
-        "entities/imperial-cult.md",
+        "entities/quarantine/elagabal.md",
+        "entities/quarantine/imperial-cult.md",
         "references/ritual-dynamics-and-religious-change-in-the-roman-empire-impact-of-empire-workshop-8-heide.md"
       ],
       "pages_updated": [],
@@ -366,7 +366,7 @@
     },
     "/home/user/Documents/rome/_raw/9789047430391-14387.pdf": {
       "content_hash": "sha256:09a95bc42537f5113d4eb440b83b6005178f7f2e82fac83d814c090b555304a8",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:04Z",
       "pages_created": [
         "references/the-impact-of-the-roman-army-200-bcad-476-edited-lukas-de-blois-and-elio-lo-cascio-impact.md"
@@ -378,7 +378,7 @@
     },
     "/home/user/Documents/rome/_raw/A History of Exile in the Roman Republicpdf.pdf": {
       "content_hash": "sha256:60c5354cf770a3a0f8f4ce6cece04c51c4990504e41ca5d09e0654417795cbfb",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:17:59Z",
       "pages_created": [
         "concepts/aquae-et-ignis-interdictio.md",
@@ -431,10 +431,10 @@
     },
     "/home/user/Documents/rome/_raw/Ancient Romeepub.decrypted.epub": {
       "content_hash": "sha256:82bd9a6e963afc4e7a2544e81ae6d76c69e80095190fed659fdd68c9cd57db89",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:03Z",
       "pages_created": [
-        "entities/aurelianic-wall.md",
+        "entities/quarantine/aurelianic-wall.md",
         "references/ancient-rome-archaeology-eternal-city.md"
       ],
       "pages_updated": [],
@@ -444,7 +444,7 @@
     },
     "/home/user/Documents/rome/_raw/Ancient Romeepub.pdf": {
       "content_hash": "sha256:8eaa97873a0beda85bf7809eff234fab939d07b19d8c3a7eafcbd57875b6c30c",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:17Z",
       "pages_created": [
         "references/ancient-rome-archaeology-eternal-city.md"
@@ -461,13 +461,13 @@
     },
     "/home/user/Documents/rome/_raw/Angelova-IvoriesAriadneIdeas-2004.pdf": {
       "content_hash": "sha256:f887cf85d8446330eb0266fd444c17f30fd3fb4d09bd9124012fcc08e5f2a612",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:09:24Z",
       "pages_created": [
-        "entities/ariadne.md",
-        "entities/augusta-imperium.md",
-        "entities/fausta-flaccilla.md",
-        "entities/livia.md",
+        "entities/quarantine/ariadne.md",
+        "entities/quarantine/augusta-imperium.md",
+        "entities/quarantine/fausta-flaccilla.md",
+        "entities/quarantine/livia.md",
         "references/the-ivories-of-ariadne-and-ideas-about-female-imperial-authority-in-rome-and-early-byzanti.md"
       ],
       "pages_updated": [
@@ -479,7 +479,7 @@
     },
     "/home/user/Documents/rome/_raw/Antonio Lopez Garcia_2024_Running Rome and Its Empire (2).epub": {
       "content_hash": "sha256:19c81209217fdb53d8fbbc78579ef7e8770a5f7cb1ae80b451565e03047005d6",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:17:24Z",
       "pages_created": [
         "references/running-rome-and-its-empire.md"
@@ -491,11 +491,11 @@
     },
     "/home/user/Documents/rome/_raw/Antonio Lopez Garcia_2024_Running Rome and Its Empire.epub": {
       "content_hash": "sha256:9d549a93e614dcf7fa649cbb8eb505ebab57b3332fc5c3633b3cf3cb548125eb",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:22Z",
       "pages_created": [
         "concepts/activity-space-spatial-turn.md",
-        "entities/civic-archives.md",
+        "entities/quarantine/civic-archives.md",
         "references/running-rome-and-its-empire.md"
       ],
       "pages_updated": [],
@@ -505,10 +505,10 @@
     },
     "/home/user/Documents/rome/_raw/Architecture and Politics in Republican Romepdf.pdf": {
       "content_hash": "sha256:f9d35358ed485566039e466ed55d799d76dd7bc9e782d8192bbf465dfbfbd1f5",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
-        "entities/caesar.md",
+        "entities/quarantine/caesar.md",
         "references/architecture-and-politics-in-republican-rome-penelope-j-e-davies-cambridge-up-2017.md"
       ],
       "pages_updated": [
@@ -551,10 +551,10 @@
     },
     "/home/user/Documents/rome/_raw/Augustus and the Destruction of Historyepub.decrypted.epub": {
       "content_hash": "sha256:2bd762d913d3ff95421e1d5e3034b475a4bc7d3c5dddaf058e874fb8c2246384",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:52Z",
       "pages_created": [
-        "entities/fasti-capitolini.md",
+        "entities/quarantine/fasti-capitolini.md",
         "references/augustus-destruction-of-history.md"
       ],
       "pages_updated": [],
@@ -564,7 +564,7 @@
     },
     "/home/user/Documents/rome/_raw/Augustus and the Destruction of Historyepub.pdf": {
       "content_hash": "sha256:fc62b17bdce9fea356c3b7b6f86baa726f56d97ffb10ba1f989493a286fff509",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:03Z",
       "pages_created": [
         "references/augustus-destruction-of-history.md"
@@ -576,7 +576,7 @@
     },
     "/home/user/Documents/rome/_raw/Barry-ExposureMutilationRiot-2008.pdf": {
       "content_hash": "sha256:bb941d843c616649ab307dc8852b0ea8c0a1fdd9d57d26ead0e845a00312706e",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:57:23Z",
       "pages_created": [
         "concepts/exposed-or-mutilated-body.md",
@@ -589,7 +589,7 @@
     },
     "/home/user/Documents/rome/_raw/COUSINS-ImperialImageBath-2016.pdf": {
       "content_hash": "sha256:f2c15c171a9624279bb234c9b2551cb24de429515bb7b9b424831f7ceffe5077",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:09:49Z",
       "pages_created": [
         "references/an-imperial-image-bath-gorgon-eleri-h-cousins.md"
@@ -659,7 +659,7 @@
     },
     "/home/user/Documents/rome/_raw/Cicero, Against Verres, 2.1.53-86pdf.pdf": {
       "content_hash": "sha256:37084870093b9c432a7322e229b49032c1b9669080e9a3df8925fc62e45cf8bb",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
         "references/cicero-against-verres-book-2-1-5386-marcus-tullius-cicero-translated-edited-teaching-editi.md",
@@ -674,11 +674,11 @@
     },
     "/home/user/Documents/rome/_raw/Clifford Ando_2000_Imperial Ideology and Provincial Loyalty.epub": {
       "content_hash": "sha256:7174217a7c88ad91917f2e2b0558ae30b769e4c7a0e5f1d51b52789f841e99c4",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:17:08Z",
       "pages_created": [
         "concepts/divine-sanction.md",
-        "entities/emperor-imperial-government.md",
+        "entities/quarantine/emperor-imperial-government.md",
         "references/imperial-ideology-and-provincial-loyalty-in-the-roman-empire-clifford-ando-2000.md"
       ],
       "pages_updated": [],
@@ -688,7 +688,7 @@
     },
     "/home/user/Documents/rome/_raw/Communicating Public Opinion in the Roman Republicpdf.pdf": {
       "content_hash": "sha256:92d9bce3754f7c1ccb1b030fd82b0b5e62b3759dbc57e23f7860f58094bf1392",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
         "references/communicating-public-opinion-in-the-roman-republic-edited-scholarly-collection-individual.md"
@@ -700,7 +700,7 @@
     },
     "/home/user/Documents/rome/_raw/Crisis Management During the Roman Republicpdf.pdf": {
       "content_hash": "sha256:a23c771601f375a4dfe982d42283901969059f38032822d3c801aed0e8b5bd7a",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
         "references/crisis-management-during-the-roman-republic-gregory-k-golden.md",
@@ -734,7 +734,7 @@
     },
     "/home/user/Documents/rome/_raw/Daniel J. Gargola_2017_The Shape of the Roman Order.epub": {
       "content_hash": "sha256:744e7ab3c40e87b8eed8899665dec1328f0f8cdcf673b4bcb091e790b0476876",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:17:09Z",
       "pages_created": [],
       "pages_updated": [
@@ -746,7 +746,7 @@
     },
     "/home/user/Documents/rome/_raw/Death and Dynasty in Early Imperial Romepdf.pdf": {
       "content_hash": "sha256:4cf1b5dfcfe991a31ec7e1c1ca8ebbda34c1bbf6f84964ec72e03fc86b2cfb60",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
         "references/death-and-dynasty-in-early-imperial-rome-j-bert-lott.md"
@@ -758,7 +758,7 @@
     },
     "/home/user/Documents/rome/_raw/Diliana N. Angelova_2014_Sacred Founders.epub": {
       "content_hash": "sha256:24206b3f33fffc1b5b261c8f74e5cf14f7b455fea4c171720f62875ee8fddc70",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:01:58Z",
       "pages_created": [
         "references/sacred-founders-women-and-men-in-the-civic-founding-of-late-antiquity-diliana-n-angelova-2.md"
@@ -770,7 +770,7 @@
     },
     "/home/user/Documents/rome/_raw/Divination, Prediction and the End of the Roman Republicpdf.pdf": {
       "content_hash": "sha256:240e564e82cd3228daa4bf78ca860b69b448c97ddaffe5c184a693cb8e245876",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
         "references/divination-prediction-end-roman-republic-federico-santangelo.md"
@@ -782,11 +782,11 @@
     },
     "/home/user/Documents/rome/_raw/Dominaepub.decrypted.epub": {
       "content_hash": "sha256:5308a20750bb99d30f00e3bf7d8ebe050396baca8b6bd6a2da5f68a56a129378",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:32Z",
       "pages_created": [
-        "entities/agrippina-the-elder.md",
-        "entities/livia.md",
+        "entities/quarantine/agrippina-the-elder.md",
+        "entities/quarantine/livia.md",
         "references/domina.md"
       ],
       "pages_updated": [],
@@ -796,11 +796,11 @@
     },
     "/home/user/Documents/rome/_raw/Dominaepub.pdf": {
       "content_hash": "sha256:2b5454d5f9745c17064a37e013a40bb86302f8f6d6c2e11b65fec2ebf89b2d2f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:50Z",
       "pages_created": [
-        "entities/agrippina-the-elder.md",
-        "entities/livia.md",
+        "entities/quarantine/agrippina-the-elder.md",
+        "entities/quarantine/livia.md",
         "references/domina.md"
       ],
       "pages_updated": [
@@ -812,7 +812,7 @@
     },
     "/home/user/Documents/rome/_raw/EBSCO-FullText-10_28_2026-1.pdf": {
       "content_hash": "sha256:19e8c744f55c01d9f81d15d7765044398f1d773dca46be9eb7ecd98fb8f8a1c3",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:52:02Z",
       "pages_created": [
         "references/jewish-synagogues-and-the-topography-of-imperial-rome-the-case-of-the-agrippesioi-and-augu.md"
@@ -824,7 +824,7 @@
     },
     "/home/user/Documents/rome/_raw/EBSCO-FullText-10_28_2026.pdf": {
       "content_hash": "sha256:649e135a8b823d5b97658140ba9ee93ed3264ac6af2fcc5d5d281b8beea85a04",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:56:11Z",
       "pages_created": [
         "references/birthing-romans-childbearing-risks-imperial-rome-anna-bonnell-freidin.md"
@@ -892,7 +892,7 @@
     },
     "/home/user/Documents/rome/_raw/Empire and Memorypdf.pdf": {
       "content_hash": "sha256:bc254ba6bb876e5bf1eb3093fe9ec956a43a19cb36fce70c9d4964d7c29cbe5f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
         "references/empire-and-memory-alain-m-gowing.md"
@@ -927,7 +927,7 @@
     },
     "/home/user/Documents/rome/_raw/Fighting Hydra-like Luxurypdf.pdf": {
       "content_hash": "sha256:895c314bdb615947e3b686e01aba1b318e2c6764860eab707f83f2060d9b0e94",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
         "references/fighting-hydra-like-luxury-sumptuary-regulation-in-the-roman-republic-emanuela-zanda-2011.md"
@@ -968,7 +968,7 @@
     },
     "/home/user/Documents/rome/_raw/Frederik Juliaan Ver_2025_How Republics Die.epub": {
       "content_hash": "sha256:e791890546cb492927346091d13df7c36d996f48cc1aa4c6071c67b9c78c0f61",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:17:19Z",
       "pages_created": [
         "concepts/caesarism-populism.md",
@@ -981,7 +981,7 @@
     },
     "/home/user/Documents/rome/_raw/GLB2024-2-03.pdf": {
       "content_hash": "sha256:c274fd17dd0a732b33c3d671f328314e37efce808aaba1b02b3b56c14b91aa95",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:57:45Z",
       "pages_created": [
         "references/architecture-and-pleasures-in-private-baths-in-imperial-rome-a-perception-of-spa-luxury-ac.md"
@@ -993,7 +993,7 @@
     },
     "/home/user/Documents/rome/_raw/Gaia Gianni_2025_All in the Family.epub": {
       "content_hash": "sha256:9794663b9ee2ba9faabb51448d772a5510c03d33d6793cc89211b61517094770",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:09:22Z",
       "pages_created": [
         "concepts/childhood.md",
@@ -1031,11 +1031,11 @@
     },
     "/home/user/Documents/rome/_raw/God on Earth- Emperor Domitian. The Re-invention of Rome at the End of the 1st Century ADpdf.pdf": {
       "content_hash": "sha256:4b4fddf096ec4f9aceb1fc6a0ac3168db59497a40aff962e04e477f6509bc9e1",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
         "concepts/damnatio-memoriae.md",
-        "entities/domitian.md",
+        "entities/quarantine/domitian.md",
         "references/god-on-earth-emperor-domitian-the-re-invention-of-rome-at-the-end-of-the-1st-century-ad-ed.md"
       ],
       "pages_updated": [],
@@ -1097,10 +1097,10 @@
     },
     "/home/user/Documents/rome/_raw/Isabel K. K\u00f6ster_2026_Stealing From the Gods.epub": {
       "content_hash": "sha256:7c61ae6815852ac4a5ae60499bf260f231315f00cee985f065e1613acc95c820",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:07:52Z",
       "pages_created": [
-        "entities/c-verres.md",
+        "entities/quarantine/c-verres.md",
         "references/stealing-from-the-gods-temple-robbery-in-the-roman-imagination-isabel-k-koster-university.md"
       ],
       "pages_updated": [],
@@ -1222,10 +1222,10 @@
     },
     "/home/user/Documents/rome/_raw/Jonathan Master_2016_Provincial Soldiers and Imperial Instabi.epub": {
       "content_hash": "sha256:63ed79dbcf83665ca38ac28954a7684b5d3ef9ecb3804bfc60db509874024157",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:06:35Z",
       "pages_created": [
-        "entities/batavians.md",
+        "entities/quarantine/batavians.md",
         "references/provincial-soldiers-and-imperial-instability-in-the-histories-of-tacitus-jonathan-master-u.md"
       ],
       "pages_updated": [],
@@ -1235,7 +1235,7 @@
     },
     "/home/user/Documents/rome/_raw/Judea Under Roman Dominationpdf.pdf": {
       "content_hash": "sha256:f7332a072f2f006f4333a285b2b8113aa5312f8678befab362971e519f25e849",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:01Z",
       "pages_created": [
         "concepts/flavian-dynasty-propaganda.md",
@@ -1249,7 +1249,7 @@
     },
     "/home/user/Documents/rome/_raw/KING-ADCAPITABUBULA-2010.pdf": {
       "content_hash": "sha256:06843ae082899d31a9996d34308357f2f3d2493e427770d5c4ca9ff8dd94db53",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:58:11Z",
       "pages_created": [
         "concepts/capita-bubula.md",
@@ -1294,11 +1294,11 @@
     },
     "/home/user/Documents/rome/_raw/Kontokosta-BuildingThermaeAgrippae-2019.pdf": {
       "content_hash": "sha256:5073b8a9bf7de375cc8ad506d1eb5743a0fd28f212e19eeec799289ed70e7db4",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:58:56Z",
       "pages_created": [
-        "entities/anne-hrychuk-kontokosta.md",
-        "entities/aqua-virgo.md",
+        "entities/quarantine/anne-hrychuk-kontokosta.md",
+        "entities/quarantine/aqua-virgo.md",
         "references/building-the-thermae-agrippae-private-life-public-space-and-the-politics-of-bathing-in-ear.md"
       ],
       "pages_updated": [],
@@ -1315,7 +1315,7 @@
         "entities/gaius-marcius-figulus.md",
         "entities/marcus-calpurnius-bibulus.md",
         "entities/publius-cornelius-scipio-nasica-corculum.md",
-        "entities/tiberius-sempronius-gracchus-cos-177-163.md",
+        "entities/quarantine/tiberius-sempronius-gracchus-cos-177-163.md",
         "scenarios/gracchus-auspicial-flaw-162-bc.md",
         "scenarios/marcellus-abdication-215-bc.md",
         "scenarios/the-bibulus-affair-59-bc.md"
@@ -1327,11 +1327,11 @@
     },
     "/home/user/Documents/rome/_raw/Liviaepub.decrypted.epub": {
       "content_hash": "sha256:39bc36f557e3df9dabd09eb0c7455f10d9eefad11c2a57684ebb7c6f0fcc91b0",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:54Z",
       "pages_created": [
-        "entities/anthony-a-barrett.md",
-        "entities/tiberius.md",
+        "entities/quarantine/anthony-a-barrett.md",
+        "entities/quarantine/tiberius.md",
         "references/livia-first-lady-of-imperial-rome.md"
       ],
       "pages_updated": [],
@@ -1341,11 +1341,11 @@
     },
     "/home/user/Documents/rome/_raw/Liviaepub.pdf": {
       "content_hash": "sha256:8915a816738c053cd99c7729dce5b5a621d3ad96e0e1af9eebaa057e7e499e4f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:25Z",
       "pages_created": [
-        "entities/anthony-a-barrett.md",
-        "entities/tiberius.md",
+        "entities/quarantine/anthony-a-barrett.md",
+        "entities/quarantine/tiberius.md",
         "references/livia-first-lady-of-imperial-rome.md"
       ],
       "pages_updated": [],
@@ -1367,10 +1367,10 @@
     },
     "/home/user/Documents/rome/_raw/Mark Heerink, Esther_2025_Flavian Responses to Nero's Rome.epub": {
       "content_hash": "sha256:643e4663799afd4bf52e3ab5ce27bc57731d6eeeba338e3a23110cf74435ba10",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:17Z",
       "pages_created": [
-        "entities/nero.md",
+        "entities/quarantine/nero.md",
         "references/flavian-responses-to-neros-rome-edited-by-mark-heerink-and-esther-meijer-routledge-aup-202.md"
       ],
       "pages_updated": [
@@ -1401,7 +1401,7 @@
     },
     "/home/user/Documents/rome/_raw/Michael Kulikowski_2016_The Triumph of Empire.epub": {
       "content_hash": "sha256:d62581e5f81ae724b78a51b48ec252d2fdb91455d631b990bb0bdb6eaf04bb5c",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:19Z",
       "pages_created": [
         "references/the-triumph-of-empire-the-roman-world-from-hadrian-to-constantine-michael-kulikowski-2016.md"
@@ -1434,7 +1434,7 @@
     },
     "/home/user/Documents/rome/_raw/Military Service and the Integration of Jews Into the Roman Empirepdf.pdf": {
       "content_hash": "sha256:4599227200e7ea56679fb98f2cdbdc2e1f53251064e295b3a6f1e0b24808b6df",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:31Z",
       "pages_created": [
         "references/military-service-and-the-integration-of-jews-into-the-roman-empire-raul-gonzalez-salinero.md"
@@ -1471,7 +1471,7 @@
     },
     "/home/user/Documents/rome/_raw/Murder Was Not a Crimepdf.pdf": {
       "content_hash": "sha256:622d74d02308390b1c0b211f2b7271fdea9196b711ec87a8f18c8ad2234f859c",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:01Z",
       "pages_created": [
         "references/murder-was-not-a-crime-homicide-and-power-in-the-roman-republic-judy-e-gaughan-2010.md",
@@ -1503,7 +1503,7 @@
     },
     "/home/user/Documents/rome/_raw/One Godpdf.pdf": {
       "content_hash": "sha256:8d14a9af7b61848d9f9b2eb8645d9606c19ac9279365963acede003a592ddae8",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:50Z",
       "pages_created": [
         "references/one-god-pagan-monotheism-in-the-roman-empire-edited-by-stephen-mitchell-and-peter-van-nuff.md"
@@ -1515,7 +1515,7 @@
     },
     "/home/user/Documents/rome/_raw/Oratory and Political Career in the Late Roman Republicpdf.pdf": {
       "content_hash": "sha256:4b49a03d0ceb49523418605e68ba518705b6e0cb0f47e287c6bf0e816b49ab24",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:01Z",
       "pages_created": [],
       "pages_updated": [
@@ -1527,7 +1527,7 @@
     },
     "/home/user/Documents/rome/_raw/Ordering Knowledge in the Roman Empirepdf.pdf": {
       "content_hash": "sha256:cb1aa3debdfc24f5ab91bb9cc38f9e502ac7ebb429b7861f4dd7023ff0f3dc10",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:31Z",
       "pages_created": [
         "references/ordering-knowledge-in-the-roman-empire-edited-by-jason-konig-and-tim-whitmarsh-2007.md"
@@ -1630,7 +1630,7 @@
     },
     "/home/user/Documents/rome/_raw/Performance, Memory, and Processions in Ancient Romepdf.pdf": {
       "content_hash": "sha256:d21dff911b6d036c26e68cd41a1e377875b5f8c60974b4dd89698520a716cbd2",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:01Z",
       "pages_created": [
         "references/performance-memory-and-processions-in-ancient-rome-the-pompa-circensis-from-the-late-repub.md"
@@ -1664,7 +1664,7 @@
     },
     "/home/user/Documents/rome/_raw/Plebs and Politics in the Late Roman Republicpdf.pdf": {
       "content_hash": "sha256:adefb16cd38add29e5cb1dfdb26471884ded0f6238be05712a9fbd33415af499",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:01Z",
       "pages_created": [
         "references/plebs-and-politics-in-the-late-roman-republic-henrik-mouritsen-2004-first-published-2001.md"
@@ -1676,7 +1676,7 @@
     },
     "/home/user/Documents/rome/_raw/Politics in the Roman Republic- Perspectives From Niebuhr to Gelzerpdf.pdf": {
       "content_hash": "sha256:80c377f9192bfdffbcfa60388be2a988f5c13f20ae662fc798d871b7460592ba",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:02Z",
       "pages_created": [
         "references/politics-in-the-roman-republic-perspectives-from-niebuhr-to-gelzer-cary-m-barber-2022.md"
@@ -1688,13 +1688,13 @@
     },
     "/home/user/Documents/rome/_raw/Praetorianepub.decrypted.epub": {
       "content_hash": "sha256:c8b729275801f2d96567d16ca7dc28f990b3922cbedb7cf62a54c092bcb0764d",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:52Z",
       "pages_created": [
-        "entities/castra-praetoria.md",
-        "entities/constantine-i.md",
-        "entities/praetorian-guard.md",
-        "entities/tiberius.md",
+        "entities/quarantine/castra-praetoria.md",
+        "entities/quarantine/constantine-i.md",
+        "entities/quarantine/praetorian-guard.md",
+        "entities/quarantine/tiberius.md",
         "references/praetorian.md",
         "scenarios/praetorian-guard-auction-of-empire-193-ad.md"
       ],
@@ -1705,12 +1705,12 @@
     },
     "/home/user/Documents/rome/_raw/Praetorianepub.pdf": {
       "content_hash": "sha256:797c94b46e5bb16ce372d3b5b21a8799d72e2c1d37e7927ff676d0106671e846",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:16Z",
       "pages_created": [
-        "entities/castra-praetoria.md",
-        "entities/constantine-i.md",
-        "entities/praetorian-guard.md",
+        "entities/quarantine/castra-praetoria.md",
+        "entities/quarantine/constantine-i.md",
+        "entities/quarantine/praetorian-guard.md",
         "references/praetorian.md"
       ],
       "pages_updated": [],
@@ -1720,11 +1720,11 @@
     },
     "/home/user/Documents/rome/_raw/Reconstructing the Roman Republicepub.decrypted.epub": {
       "content_hash": "sha256:222f01767579b1fa03874785499c45aad07c786e7a2777c408f433511f4382d0",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:03Z",
       "pages_created": [
-        "entities/fergus-millar.md",
-        "entities/popular-assemblies.md",
+        "entities/quarantine/fergus-millar.md",
+        "entities/quarantine/popular-assemblies.md",
         "references/reconstructing-the-roman-republic.md"
       ],
       "pages_updated": [],
@@ -1734,10 +1734,10 @@
     },
     "/home/user/Documents/rome/_raw/Reconstructing the Roman Republicepub.pdf": {
       "content_hash": "sha256:524aaa35782984f080f530336945b05f4149815b117ec668207f60440cb64548",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:22Z",
       "pages_created": [
-        "entities/popular-assemblies.md",
+        "entities/quarantine/popular-assemblies.md",
         "references/reconstructing-the-roman-republic.md"
       ],
       "pages_updated": [],
@@ -1747,10 +1747,10 @@
     },
     "/home/user/Documents/rome/_raw/Richard L. Gordon, G_2017_Beyond Priesthood.epub": {
       "content_hash": "sha256:0d735ae25c774e9e2d1273fde0db1d4263d832dfac0fa0cf6b30a5698037f7e9",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:18:51Z",
       "pages_created": [
-        "entities/christian-clergy-bishops.md",
+        "entities/quarantine/christian-clergy-bishops.md",
         "references/beyond-priesthood-richard-l-gordon-georgia-petridou-jorg-rupke-eds-walter-de-gruyter-2017.md"
       ],
       "pages_updated": [],
@@ -1769,7 +1769,7 @@
         "entities/titus-labienus.md",
         "scenarios/false-marius-impostor-and-caesars-altar.md",
         "scenarios/trial-of-rabirius-for-saturninus-killing.md",
-        "entities/caesars-cremation-site.md",
+        "entities/quarantine/caesars-cremation-site.md",
         "entities/capitoline-hill.md",
         "entities/forum-romanum.md",
         "entities/janiculum-hill.md",
@@ -1783,10 +1783,10 @@
     },
     "/home/user/Documents/rome/_raw/Roman Geographies of the Nilepdf.pdf": {
       "content_hash": "sha256:45cfe5f1b398c34d8756e47b5cee8f2367f8d83cba2e8cef7d4268dafe0434c8",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:02Z",
       "pages_created": [
-        "entities/agrippa-map-porticus-vipsania.md",
+        "entities/quarantine/agrippa-map-porticus-vipsania.md",
         "references/roman-geographies-of-the-nile-from-the-late-republic-to-the-early-empire-andy-merrills-cam.md",
         "scenarios/agrippas-roman-geography-program.md"
       ],
@@ -1799,7 +1799,7 @@
     },
     "/home/user/Documents/rome/_raw/Roman Imperialismpdf.pdf": {
       "content_hash": "sha256:3af46bc033b6f966be567934d60ceb271d81bbc34a470fdd64b0d7913557e564",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
         "references/roman-imperialism-paul-j-burton-brill-research-perspectives-in-ancient-history-2019.md"
@@ -1811,10 +1811,10 @@
     },
     "/home/user/Documents/rome/_raw/Rome's Enemies Withinepub.decrypted.epub": {
       "content_hash": "sha256:ed09f5a83e311d3dcc67a83debc3ebb96443fb1ba49b4da01bb570afc2754a6f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:52Z",
       "pages_created": [
-        "entities/praetorian-guard.md",
+        "entities/quarantine/praetorian-guard.md",
         "references/romes-enemies-within.md",
         "scenarios/caesars-assassination-conspiracy.md"
       ],
@@ -1825,11 +1825,11 @@
     },
     "/home/user/Documents/rome/_raw/Rome's Enemies Withinepub.pdf": {
       "content_hash": "sha256:264df3f25e84d2316b891d19bc7264ff1d95f75f67a24dfc5e4e28b1f7518897",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:09Z",
       "pages_created": [
-        "entities/curia-theatre-of-pompey.md",
-        "entities/praetorian-guard.md",
+        "entities/quarantine/curia-theatre-of-pompey.md",
+        "entities/quarantine/praetorian-guard.md",
         "references/romes-enemies-within.md"
       ],
       "pages_updated": [],
@@ -1839,7 +1839,7 @@
     },
     "/home/user/Documents/rome/_raw/Rome's Imperial Economypdf.pdf": {
       "content_hash": "sha256:fc85499b7a688b9faa1bc62a722c8ee312cdbc0f5b82d15ffb1426b3acf2c84a",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:50Z",
       "pages_created": [
         "concepts/credit-money.md",
@@ -1916,7 +1916,7 @@
     },
     "/home/user/Documents/rome/_raw/Susan P. Mattern_1999_Rome and the Enemy.epub": {
       "content_hash": "sha256:5c628f5b5aed723a8ebca68142747b4fc3983c0935ee7f011095bf17d21d4311",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:02:03Z",
       "pages_created": [
         "concepts/army-distribution-cost.md",
@@ -1930,7 +1930,7 @@
     },
     "/home/user/Documents/rome/_raw/The Consul at Romepdf.pdf": {
       "content_hash": "sha256:f6ebb6900e65d661a8c7e6ad5ad2fd5b51a5ce8b14ce83f9bf82da9a996e8017",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:02Z",
       "pages_created": [
         "concepts/consul.md"
@@ -1944,10 +1944,10 @@
     },
     "/home/user/Documents/rome/_raw/The Fractured Voicepdf.pdf": {
       "content_hash": "sha256:e8522da2211275b6fdf1bf71764278f12a5f6f05bf7d974236e5c6d77e6a56a0",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
-        "entities/amy-a-koenig.md",
+        "entities/quarantine/amy-a-koenig.md",
         "references/the-fractured-voice-silence-and-power-in-imperial-roman-literature-amy-a-koenig.md"
       ],
       "pages_updated": [],
@@ -1957,11 +1957,11 @@
     },
     "/home/user/Documents/rome/_raw/The Genesis of Roman Architectureepub.decrypted.epub": {
       "content_hash": "sha256:8024f60474d8571345a1364d1a0123775ac736d9c36619b504757c1bb0fc3a14",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:04Z",
       "pages_created": [
-        "entities/archaic-rome.md",
-        "entities/john-north-hopkins.md",
+        "entities/quarantine/archaic-rome.md",
+        "entities/quarantine/john-north-hopkins.md",
         "references/genesis-of-roman-architecture.md"
       ],
       "pages_updated": [],
@@ -1971,11 +1971,11 @@
     },
     "/home/user/Documents/rome/_raw/The Genesis of Roman Architectureepub.pdf": {
       "content_hash": "sha256:8977ae4c52474f6a89bc67cf3d4f9459a38a7926fa6b4eb4b504bf8d63d6effd",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:28Z",
       "pages_created": [
-        "entities/archaic-rome.md",
-        "entities/john-north-hopkins.md",
+        "entities/quarantine/archaic-rome.md",
+        "entities/quarantine/john-north-hopkins.md",
         "references/genesis-of-roman-architecture.md"
       ],
       "pages_updated": [],
@@ -1985,7 +1985,7 @@
     },
     "/home/user/Documents/rome/_raw/The Hypogeum of the Aureliipdf.pdf": {
       "content_hash": "sha256:49e0b00dcdb67fbe34166a755e71ee210e09e96b9b07c75edd539933ce3baa42",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
         "references/the-hypogeum-of-the-aurelii-a-new-interpretation-as-the-collegiate-tomb-of-professional-sc.md"
@@ -2054,12 +2054,12 @@
     },
     "/home/user/Documents/rome/_raw/The Ruler's Houseepub.decrypted.epub": {
       "content_hash": "sha256:98070b3299054e4f64d413f51fdcf64b5c88ae92fdc84afbbb392034ce25b19a",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:54Z",
       "pages_created": [
         "concepts/architecture-monuments-literature.md",
-        "entities/emperors-visibility-recognition.md",
-        "entities/fertik.md",
+        "entities/quarantine/emperors-visibility-recognition.md",
+        "entities/quarantine/fertik.md",
         "references/the-rulers-house.md"
       ],
       "pages_updated": [],
@@ -2069,7 +2069,7 @@
     },
     "/home/user/Documents/rome/_raw/The Ruler's Houseepub.pdf": {
       "content_hash": "sha256:4a0f13bdebbae0a3dd7d86184981098554e87917ac31649eb1d1f7fd824a75fd",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:31Z",
       "pages_created": [
         "references/the-rulers-house.md"
@@ -2084,7 +2084,7 @@
     },
     "/home/user/Documents/rome/_raw/The Single Life in the Roman and Later Roman Worldpdf.pdf": {
       "content_hash": "sha256:dc8ec17d160381d27f5ed442d5d35b2971cf707ac067169f3a4d626d02601d3f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:02Z",
       "pages_created": [
         "concepts/augustan-marriage-law.md",
@@ -2097,12 +2097,12 @@
     },
     "/home/user/Documents/rome/_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub": {
       "content_hash": "sha256:f9f53fa0d652da20ace0c8e31e2e2f0ad4ada7a2b2bab6bc4da17236df69622c",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:49:49Z",
       "pages_created": [
         "concepts/lex-iulia-municipalis.md",
         "concepts/roman-road-system.md",
-        "entities/cursus-publicus.md",
+        "entities/quarantine/cursus-publicus.md",
         "references/traffic-and-congestion-in-the-roman-empire.md",
         "scenarios/pompeii-traffic-regulation.md"
       ],
@@ -2115,7 +2115,7 @@
     },
     "/home/user/Documents/rome/_raw/Traffic and Congestion in the Roman Empireepub.pdf": {
       "content_hash": "sha256:0bed06787c907cab9c1e834ec2927bcd2f6ed6f5bfbebc569d9069937cd3d91f",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:49:14Z",
       "pages_created": [
         "concepts/lex-iulia-municipalis.md",
@@ -2168,10 +2168,10 @@
     },
     "/home/user/Documents/rome/_raw/Tuck-OriginsRomanImperial-2005.pdf": {
       "content_hash": "sha256:ae1a94cc7d2edcfcd74a5636879f0bc96dc52eaa16e20ed322f72749245c0ac5",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:10:01Z",
       "pages_created": [
-        "entities/domitian.md",
+        "entities/quarantine/domitian.md",
         "references/the-origins-of-roman-imperial-hunting-imagery-domitian-and-the-redefinition-of-virtus-unde.md"
       ],
       "pages_updated": [
@@ -2228,10 +2228,10 @@
     },
     "/home/user/Documents/rome/_raw/Warfare and Society in Imperial Rome, C. 31 BC-AD 280epub.decrypted.epub": {
       "content_hash": "sha256:8d9b3f3fcdd023b0136c2afb5d3da0bdbdd81c4e9cf7283f74f11c9e55106b07",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:32Z",
       "pages_created": [
-        "entities/trajans-column.md",
+        "entities/quarantine/trajans-column.md",
         "references/war-and-society-in-imperial-rome.md"
       ],
       "pages_updated": [],
@@ -2241,10 +2241,10 @@
     },
     "/home/user/Documents/rome/_raw/Warfare and Society in Imperial Rome, C. 31 BC-AD 280epub.pdf": {
       "content_hash": "sha256:e8092e33190761099a7ca299e7c65c3f19e5989c376d774142b4384820ccea1d",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:55Z",
       "pages_created": [
-        "entities/trajans-column.md",
+        "entities/quarantine/trajans-column.md",
         "references/war-and-society-in-imperial-rome.md"
       ],
       "pages_updated": [
@@ -2281,14 +2281,14 @@
     },
     "/home/user/Documents/rome/_raw/lega-article-p265_10.pdf": {
       "content_hash": "sha256:b2c532fba5bbef67a598dbc3f92f0ed7c3e50fa1c5dd362f210ab13569e84e48",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:33:03Z",
       "pages_created": [
         "concepts/codex-justinianus.md",
         "concepts/codex-theodosianus.md",
         "concepts/coloni-colonus.md",
-        "entities/a-j-b-sirks.md",
-        "entities/battistella.md",
+        "entities/quarantine/a-j-b-sirks.md",
+        "entities/quarantine/battistella.md",
         "references/on-the-nature-of-roman-imperial-legislation-and-codifications-a-reaction-to-a-recent-appro.md"
       ],
       "pages_updated": [
@@ -2300,10 +2300,10 @@
     },
     "/home/user/Documents/rome/_raw/lega-article-p445_4.pdf": {
       "content_hash": "sha256:e2c0974fb87b3ea653839f4e2db0c798b3669b63cc0897584e917a2252f81a9e",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:32:49Z",
       "pages_created": [
-        "entities/justinian.md",
+        "entities/quarantine/justinian.md",
         "references/quibus-permissum-est-iura-condere-some-ideas-on-the-origin-of-the-ius-respondendi-w-j-zwal.md"
       ],
       "pages_updated": [
@@ -2315,7 +2315,7 @@
     },
     "/home/user/Documents/rome/_raw/pg29728-images-3.epub": {
       "content_hash": "sha256:b157d94b8a5502822b13d1f3f5ae211ab2c592af629c8d908f021d777f4e03b1",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:19:06Z",
       "pages_created": [
         "references/cookery-and-dining-in-imperial-rome-apicius-de-re-coquinaria-joseph-dommers-vehling-transl.md"
@@ -2329,10 +2329,10 @@
     },
     "/home/user/Documents/rome/_raw/s12520-020-01194-z.pdf": {
       "content_hash": "sha256:c2dbfe5ba165ae52d71cfc8c11d07f6148f603ead2473ca4805f685173674930",
-      "ingested_at": "2026-10-29T20:16:20Z",
+      "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:55:23Z",
       "pages_created": [
-        "entities/annona-frumentationes.md",
+        "entities/quarantine/annona-frumentationes.md",
         "references/food-at-the-heart-of-the-empire-dietary-reconstruction-for-imperial-rome-inhabitants-flavi.md"
       ],
       "pages_updated": [

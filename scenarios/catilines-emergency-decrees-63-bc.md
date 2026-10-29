@@ -17,29 +17,39 @@ provenance:
   inferred: 0.2
 scope: "Testing republican emergency decision-making through the Catilinarian crisis"
 sources: ["B03:Crisis Management During the Roman Republicpdf.pdf"]
-summary: "A focused scenario for testing republican emergency decision-making through the Catilinarian crisis."
+summary: "The Roman response to Catiline in 63 BC included a tumultus declaration. Distinguishing emergency measures prevents the senatus consultum ultimum from being treated as a blanket suspension of law."
 tags: ["domain/political", "period/late-republic", "subject/roman-law", "type/scenario"]
 tier: "supporting"
 title: "Catiline's Emergency Decrees (63 BC)"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:53:47Z"
 ---
 # Catiline's Emergency Decrees (63 BC)
 
-> [!tldr] A focused scenario for testing republican emergency decision-making through the Catilinarian crisis.
+Catiline’s armed movement outside Rome prompted a *tumultus* declaration in 63 BC. The case illustrates an important distinction in Republican crisis management: responding to an enemy in the field was not necessarily the same institutional problem as confronting political opponents within the city.
 
-## Scope
+## A repertoire of emergency measures
 
-Testing republican emergency decision-making through the Catilinarian crisis
+The Romans had no single Latin expression exactly equivalent to the modern general term “state of emergency.” They nevertheless used particular decrees and edicts to change legal conditions during crises. The source identifies a wider repertoire that included *tumultus* declarations, *iustitium* edicts, emergency levies, night watches, and guards. This repertoire should not be read as a list of measures all demonstrated for Catiline’s crisis.
 
-## Scenario Evidence
+## Armed threats outside the city
 
-“Crisis” must be defined rather than used as a synonym for any political conflict (introduction, pp. 1–15; text pp. 426–487) ^52618701b175be25
-Republican authorities diagnosed emergencies through institutional and normative categories, including threats to public order and constitutional continuity (intro and ch. 1) ^52618701b175be25
-Emergency responses combined senatorial deliberation, magistracy, popular politics, military force, and legal measures (chapters on response) ^52618701b175be25
+The source groups Catiline’s case with responses to Lepidus in 78 BC and Antony in 43 BC: domestic opponents had raised forces outside Rome, and the Romans were willing to declare a *tumultus*. By contrast, they were reluctant to employ that declaration against enemies already within the city.
 
-## Decision Boundary
+## Distinguishing the senate’s advice
 
-The scenario isolates testing republican emergency decision-making through the catilinarian crisis and does not stand in for the source's entire historical argument.
+The *senatus consultum ultimum* is often described as an emergency decree. The source challenges that classification, distinguishing the senate’s advice to magistrates to defend the state from measures that actually instituted emergency conditions. Catiline’s crisis therefore requires attention to the specific instrument used, not an assumption that one senatorial resolution automatically suspended ordinary law.
+
+## Escalation in October and November
+
+The source places a cluster of senatorial decisions around 20–22 October, while acknowledging variations in the ancient chronology. Letters brought to Cicero warned of a planned massacre, and reports described Manlius raising forces in Etruria. Dio reports a *tumultus* declaration; Sallust’s later reference to cohorts levied because of the *tumultus* independently supports the existence of emergency mobilization, though not its precise starting date. News that Manlius had taken up arms at Faesulae on 27 October marked a further escalation.
+
+Proconsuls and praetors were dispatched to threatened areas, praetors received permission to raise troops if necessary, gladiatorial groups were dispersed among towns, and night watches were ordered. When Catiline joined Manlius and assumed the insignia of authority, the senate declared both men public enemies. Antonius was to take the field while Cicero guarded Rome. These were specific assignments and authorizations, not a single undifferentiated grant of emergency power.
+
+## Prisoners in Rome and the limits of authority
+
+The Allobroges’ disclosure of the urban plot allowed Cicero to arrange the interception of envoys and incriminating letters at the Mulvian Bridge. The prisoners were placed in custody, and Lentulus was compelled to resign his praetorship. After the senatorial debate, Cicero ordered their execution on 5 December without trial. The source distinguishes this action from military operations against armed rebels: the prisoners were not captured fighting with weapons in their hands. Reliance on a senate decree did not prevent Cicero’s later exile.
+
+Support for Catiline diminished after the executions. His defeat and death at Pistoria early the following year ended the central military crisis, but did not settle the constitutional controversy over the consul’s actions.
 
 ## Related Pages
 
@@ -48,8 +58,5 @@ The scenario isolates testing republican emergency decision-making through the c
 
 ## Sources
 
-- B03:Crisis Management During the Roman Republicpdf.pdf
-
-## Citations
-
-- ^52618701b175be25
+- `_raw/Crisis Management During the Roman Republicpdf.pdf` — p.147.1; p.148.1; p.149.1; p.150.1; p.151.1; earlier contextual locators retained: p.62.1; p.126.1; p.245.1.
+- Original citation ID: `^52618701b175be25`.

@@ -17,41 +17,38 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of Roman road system in the sampled Roman sources"
 sources: ["B09:Traffic and Congestion in the Roman Empireepub.decrypted.epub", "B09:Traffic and Congestion in the Roman Empireepub.pdf"]
-summary: "A bounded account of Roman road system in Roman history."
+summary: "Rome’s expanding road network supported government, military movement, and commerce, but urban bottlenecks and maintenance problems qualified its capacity."
 tags: ["domain/economic", "domain/political", "period/late-antiquity", "period/principate", "type/concept"]
 tier: "supporting"
 title: "Roman road system"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # Roman road system
 
-> [!tldr] A bounded account of Roman road system in Roman history.
+The Roman road system supported imperial government, military communication, troop movement, and trade. Its usefulness depended not only on the existence of routes but on their alignment, width, engineering, and maintenance. Good interurban capacity could coexist with severe restrictions in city streets.
 
-## Scope
+## Expansion and the Via Appia
 
-The bounded meaning and operation of Roman road system in the sampled Roman sources
+The Via Appia, begun in 312 BCE, connected Rome with Capua. The source presents it as a turning point in long-distance paved road construction: it bore its planner’s name and followed a deliberately straight alignment. Later roads extended the network beyond Italy, including the Via Egnatia in northern Greece and the Via Domitia through southern Gaul toward Spain.
 
-## Core Evidence
+As the empire expanded, so did the network’s geographical reach. The source estimates roughly 100,000 kilometres of paved highways, a measure of its scale rather than proof that every road shared identical construction or condition.
 
-Roman roads formed an unusually extensive, engineered network, developed in response to expanding military, political, and commercial needs; straight routes, bridges, dams, and tunnels helped preserve speed and continuity (ch ^b17e4fe815d52097
-xhtml, “Roads,” introduction; ch ^b17e4fe815d52097
-Same argument set as the decrypted EPUB: Roman roads were primarily military but served commercial/civilian movement; congestion was principally urban; regulation and barricades constrained movement; Pompeii, Xanten, and Rome provide contrasting urban cases; infrastructure expansion was generally not chosen over competing priorities (PDF opening description; conclusion/summary section) ^60d8aba84a55524e
+## Engineering and upkeep
 
-## Boundary
+Straight routes and limited changes in elevation could require bridges, dams, and tunnels. Paved roads had supporting foundations and drainage, while milestones and stopping places aided travellers. Ordinary road widths were often greater than the traditional eight-foot minimum, though difficult mountain terrain required narrower passages.
 
-This page treats Roman road system as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+Maintenance demanded sustained resources. Even part of the Via Appia fell into poor condition under Hadrian, showing that celebrated infrastructure did not guarantee uninterrupted repair.
+
+## Interurban roads and urban congestion
+
+The source distinguishes roads capable of sustaining substantial traffic from narrow urban side streets unsuitable for two-way wheeled movement. Newly planned cities could have broader networks, while Rome’s winding streets imposed particular constraints. Complaints about Rome should therefore not be generalized to every road or city in the empire.
+
+Traffic conditions emerged from both infrastructure and the volume and mixture of users. Road engineering supplied capacity, but it did not by itself eliminate congestion.
 
 ## Related Pages
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+- [[concepts/lex-iulia-municipalis]]
 
 ## Sources
 
-- B09:Traffic and Congestion in the Roman Empireepub.decrypted.epub
-- B09:Traffic and Congestion in the Roman Empireepub.pdf
-
-## Citations
-
-- ^60d8aba84a55524e
-- ^b17e4fe815d52097
+- `_raw/Traffic and Congestion in the Roman Empireepub.pdf`, p.80.1–p.83.1, “Conclusion of chapter 1,” on network expansion, road engineering, maintenance, and urban capacity (B09; original passage ID: `raw-d9299b66cda6`). The parallel edition `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` remains in frontmatter; page locators here refer to the PDF.

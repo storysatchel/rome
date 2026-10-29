@@ -225,7 +225,14 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn("updated: \"new\"", result)
         self.assertIn("- new line", result)
         self.assertNotIn("old line", result)
-
+    def test_patch_application_replaces_evidence_with_propositions(self) -> None:
+        target = "---\ntitle: Target\nupdated: old\n---\n\n# Target\n\n## Evidence\n\n- source dump\n\n## Boundary\n\n- limit\n"
+        patch = "---\ntarget: entities/target.md\noperation: patch\nupdated_fields: [updated]\nupdated: new\n---\n\n# Patch\n\n## Section replacements\n\n### Target: Evidence\n## Propositions\n\n- A proposition asserts a bounded claim. ^raw-123\n\n## Evidence Notes\n\n- source p.1 ^raw-123\n"
+        result = apply_patch(target, patch)
+        self.assertIn("## Propositions", result)
+        self.assertIn("A proposition asserts a bounded claim", result)
+        self.assertNotIn("source dump", result)
+        self.assertIn("## Boundary", result)
     def test_archive_rejects_nested_or_hash_mismatched_sources(self) -> None:
         nested = self.vault / "_raw" / "nested"
         nested.mkdir()

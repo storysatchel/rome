@@ -17,37 +17,39 @@ provenance:
   inferred: 0.2
 scope: "The bounded meaning and operation of Codex Justinianus in the sampled Roman sources"
 sources: ["B05:lega-article-p265_10.pdf"]
-summary: "A bounded account of Codex Justinianus in Roman history."
+summary: "Justinian’s Code organized selected imperial constitutions into a body of valid law rather than merely preserving historical fragments."
 tags: ["domain/economic", "domain/legal", "period/late-antiquity", "subject/roman-law", "type/concept"]
 tier: "supporting"
 title: "Codex Justinianus"
-updated: "2026-10-29T20:13:43Z"
+updated: "2026-10-29T21:50:41Z"
 ---
 # Codex Justinianus
 
-> [!tldr] A bounded account of Codex Justinianus in Roman history.
+The *Codex Justinianus* is a codification of imperial constitutions and a source of law in its own right. Its contents preserve earlier enactments, but their selection, adaptation, and arrangement also express the legal system of Justinian’s time.
 
-## Scope
+## Selection and legal validity
 
-The bounded meaning and operation of Codex Justinianus in the sampled Roman sources
+Justinian’s compilers were instructed to examine earlier collections and later constitutions, removing material that was redundant, contradictory, or obsolete. They could shorten, combine, and adapt texts before assigning them to appropriate titles. The second edition of 534 also incorporated Justinian’s more recent decisions.
 
-## Core Evidence
+In A. J. B. Sirks’ interpretation, the retained constitutions should therefore be read first as valid rules of general force, not simply as isolated evidence for the circumstances in which they had originally been issued.
 
-Roman legislation often reacted to events but codified rules were general prospective norms; Justinian’s and Theodosius’ Codes are systematic legal systems, not unrelated fragments; chronology within a title is not decisive for legal validity; codification selection itself communicates contemporary relevance; imperial laws addressed officials while communicating to ultimate audiences behind them; the coloni title (CJ ^f4914929d816ae58
+## Reading the Code as a system
 
-## Boundary
+A title brings together rules on a subject, but it need not contain every applicable rule. Understanding Justinianic law also requires the Digest and Institutes, both of which had legal authority, as well as awareness of the wider legal framework.
 
-This page treats Codex Justinianus as a bounded analytical subject and does not generalize across unrelated periods or institutions.
+This matters particularly for the colonate. Sirks argues that the chronological order of constitutions within a title should not obscure their function together as a legal system. An older text did not require a new contemporary crisis to justify its retention if its rule still applied to possible future cases.
+
+## Codification and imperial authority
+
+The first Code of 529 and its replacement in 534 also communicated order and authority. Introductory constitutions presented Justinian’s own role in that achievement. This political dimension need not turn every retained older law into a fresh policy initiative.
+
+Sirks emphasizes the evidentiary problem: to demonstrate policy through selection, one must establish not only what was retained but what was omitted. For the colonate, defects in the surviving Theodosian Code make that comparison difficult. The Code can illuminate imperial government without allowing every selection to be assigned a specific contemporary cause.
 
 ## Related Pages
 
-- [[concepts/fall-of-the-roman-republic]]
-- [[concepts/roman-religion-and-augury]]
+- [[concepts/codex-theodosianus]]
+- [[concepts/coloni-colonus]]
 
 ## Sources
 
-- B05:lega-article-p265_10.pdf
-
-## Citations
-
-- ^f4914929d816ae58
+- `_raw/lega-article-p265_10.pdf`, p.2.1–p.3.1 and p.5.1–p.9.1, printed pp.266–267 and 269–273, on compilation, legal validity, the 529 and 534 editions, communication of authority, and limits on reconstructing policy (B05; original passage ID: `raw-bcf044fa2946`).

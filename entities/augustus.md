@@ -5,15 +5,20 @@ tags: [augustus, octavian, fall-of-the-republic, principate, late-republic]
 sources: ["[[references/marin-blood-in-the-forum]]", "[[references/watts-mortal-republic]]"]
 summary: Octavian/Augustus is identified by both Marin and Watts as the figure whose gradual, partly concealed consolidation of power — not any single prior crisis — marks the Republic's actual end.
 provenance:
-  extracted: 0.65
-  inferred: 0.3
-  ambiguous: 0.05
-base_confidence: 0.73
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-29T00:00:00Z"
+facets:
+  domain: []
+  type: []
+  period: ['late-republic', 'principate']
+  place: []
+  material: []
+  subject: []
 ---
 
 # Gaius Octavius / Imperator Caesar Divi Filius Augustus
@@ -31,6 +36,16 @@ Both citing narrative histories converge on Augustus — not Sulla, not Caesar, 
 ## Open Questions
 
 - Neither citing page details the specific constitutional mechanisms (titles, powers, settlements of 27 and 23 BC) by which Augustus formalized his position; both treat the broader narrative arc rather than the institutional specifics of the Augustan settlement.
+
+- sources evidence Augustan urban, memory, ritual, and military transformations; sampled claims remain source-scoped. ^[ambiguous]
+- Relationship evidence: `uses` monuments/ritual/military institutions only with cited evidence ^[ambiguous]
+- Relationship evidence: no inferred causal merge ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- sources evidence Augustan urban, memory, ritual, and military transformations; sampled claims remain source-scoped. ^[ambiguous]
+- Relationship evidence: `uses` monuments/ritual/military institutions only with cited evidence ^[ambiguous]
+- Relationship evidence: no inferred causal merge ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

@@ -4,16 +4,24 @@ category: entities
 tags: [location-district, rome, latium, capital, geography]
 sources: ["Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic", "Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.", "van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic", "Cicero — De Amicitia, Scipio's Dream", "Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate", "Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny", "Mommsen, Theodor — The History of Rome (Books 1-5)", "Seneca — Stoic Philosophy of Seneca"]
 summary: The city of Rome itself, built on the Tiber's hills — political and ceremonial capital of the Republic, and the setting of the overwhelming majority of this wiki's scenarios.
-provenance: {extracted: 0.4, inferred: 0.55, ambiguous: 0.05}
-base_confidence: 0.9
+provenance:
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-25"
 tier: core
 created: "2026-10-25T00:30:00Z"
-updated: "2026-10-25T00:30:00Z"
+updated: "2026-10-29T00:00:00Z"
 relationships:
   - target: "[[entities/latium]]"
     type: part_of
+facets:
+  domain: []
+  type: ['location/district']
+  period: []
+  place: ['rome']
+  material: []
+  subject: []
 ---
 
 # Rome (the city)
@@ -60,6 +68,16 @@ Rome, sited on hills along the Tiber in [[entities/latium]], was the Republic's 
 - [[scenarios/the-aricia-ardea-land-dispute]]
 - [[scenarios/the-fabius-marcellus-temple-dedication-dispute]]
 - [[scenarios/the-pleminius-affair-at-locri]]
+
+- Rome/Urbs is the explicitly evidenced city setting; food access, urban archaeology, and traffic are source-qualified rather than generalized. ^[ambiguous]
+- Relationship evidence: `part_of` `entities/latium` retained ^[ambiguous]
+- Relationship evidence: `related_to` urban food/traffic evidence ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- Rome/Urbs is the explicitly evidenced city setting; food access, urban archaeology, and traffic are source-qualified rather than generalized. ^[ambiguous]
+- Relationship evidence: `part_of` `entities/latium` retained ^[ambiguous]
+- Relationship evidence: `related_to` urban food/traffic evidence ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

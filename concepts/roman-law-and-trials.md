@@ -5,15 +5,20 @@ tags: [roman-law, roman-trials, quaestiones, late-republic, prosecution]
 sources: ["[[references/alexander-trials-late-roman-republic]]"]
 summary: The Late Republic's judicial system of standing courts (quaestiones perpetuae) and popular/religious tribunals, catalogued across 391 known trials from 149–50 BC.
 provenance:
-  extracted: 0.75
-  inferred: 0.2
-  ambiguous: 0.05
-base_confidence: 0.57
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:29Z"
-updated: "2026-10-24T06:58:29Z"
+updated: "2026-10-29T00:00:00Z"
+facets:
+  domain: ['legal']
+  type: ['concept']
+  period: []
+  place: []
+  material: []
+  subject: ['roman-law']
 ---
 
 # Roman Law and Trials
@@ -32,6 +37,14 @@ The Late Roman Republic's criminal and civil judicial system is reconstructed al
 
 - Many trial dates rest on inference from magistrates' known tenures rather than direct evidence — the underlying chronology of Late Republican prosecution is less certain than the catalog's tabular precision suggests.
 - The later, more famous prosecutions of the 90s–50s BC (Clodius, Milo, Catiline's associates) are catalogued in Alexander's work but were not closely examined for this page, which drew primarily on the introduction and earliest entries (cases #1–~45). ^[ambiguous]
+
+- legal institutions/mechanisms remain distinct; sampled arguments preserve advocacy and historiographical uncertainty. ^[ambiguous]
+- Relationship evidence: `uses`, `replaces`, `related_to`, `contradicts` only with source evidence ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- legal institutions/mechanisms remain distinct; sampled arguments preserve advocacy and historiographical uncertainty. ^[ambiguous]
+- Relationship evidence: `uses`, `replaces`, `related_to`, `contradicts` only with source evidence ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

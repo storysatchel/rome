@@ -5,15 +5,20 @@ tags: [roman-republic, oratory, political-career, contio, non-ciceronian-oratory
 sources: ["van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic"]
 summary: Argues Cicero's oratory-centric career model is unrepresentative, using six non-Ciceronian case studies (Gracchus to Mark Antony) to show diverse routes to Republican political success.
 provenance:
-  extracted: 0.75
-  inferred: 0.2
-  ambiguous: 0.05
-base_confidence: 0.57
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:50:18Z"
-updated: "2026-10-24T06:50:18Z"
+updated: "2026-10-29T00:00:00Z"
+facets:
+  domain: []
+  type: ['reference']
+  period: []
+  place: []
+  material: []
+  subject: []
 ---
 
 # Oratory and Political Career in the Late Roman Republic
@@ -49,6 +54,16 @@ The book explicitly positions itself as a corrective to Cicero-centrism in Repub
 - Van der Blom acknowledges the "bad orator" (*malus orator*) designation (following Wisse 2013) was subjective and worked on a sliding scale, making it genuinely difficult to determine how poor an orator's technical skill had to be before it measurably hurt his political prospects. ^[ambiguous]
 - The book does not fully resolve whether increasing attention to rhetorical training in the 90s–80s BC (first Latin rhetoric handbooks, closure of the first Latin rhetoric school, rise of study trips to the Greek East) reflects a genuine rise in oratory's political importance or a parallel but independently caused trend (e.g. the consulship's shift from a military to a civil magistracy after Sulla, per Pina Polo).
 - A re-scour pass surfaced specific, discrete incidents within these case-study chapters not captured above: [[scenarios/gracchus-piso-frugi-grain-law-taunt]] (Gracchus's public pun war with L. Calpurnius Piso Frugi over the grain law), [[scenarios/young-caesar-prosecutes-dolabella-and-antonius-hybrida]] (Caesar's career-launching extortion prosecutions), [[scenarios/caesar-humiliates-catulus-over-capitoline-temple]] (Caesar's praetorian revenge on his pontifex maximus election rival), [[scenarios/helvius-mancia-denounces-pompey]] (a freedman's son publicly cataloguing Pompey's Sullan-era killings in court), [[scenarios/cicero-piso-caesoninus-invective-feud]] (the multi-year Cicero–Piso pamphlet war), [[scenarios/cato-prosecutes-murena-for-bribery]] (Cato's failed ambitus prosecution of Murena), [[scenarios/antonius-dolabella-consular-feud]] and [[scenarios/trial-of-rabirius-for-saturninus-killing]].
+
+- sampled source claims are additive only; preserve provenance and ambiguous markers. ^[ambiguous]
+- Relationship evidence: retain only bounded types and exact targets ^[ambiguous]
+- Relationship evidence: consolidate duplicate source evidence under one page intent ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- sampled source claims are additive only; preserve provenance and ambiguous markers. ^[ambiguous]
+- Relationship evidence: retain only bounded types and exact targets ^[ambiguous]
+- Relationship evidence: consolidate duplicate source evidence under one page intent ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

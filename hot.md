@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-25T19:30:00Z"
+updated: "2026-10-29T20:16:20Z"
 ---
 
 # Hot Cache
@@ -9,9 +9,9 @@ updated: "2026-10-25T19:30:00Z"
 
 ## Recent Activity
 
-- [2026-10-25T19:30:00Z] Deep-read 10 already-ingested sources' *full text* (not the earlier framing-chapter sample) to decompose 7 concept pages into constituent parts, dispatched as 5 parallel clusters: agrarian/ager-publicus (Roselaar+Astin → land-tenure categories, Lex Licinia/Lex Sempronia, the population-growth debate), economy/trade (Bang Ch.4-5 → portorium, collegia/courts, credit, clientelization mechanics), provincial administration (Pearson+Armstrong-Fronda+Rosenstein → tributum, formula togatorum, quaestorship, overseas governorships), elite family strategy (McCall → adoption practices, laudatio funebris, 3 new Fabii entity pages), fall of the Republic (Marin+Watts+Mommsen → SCU's origin, honor economy, Watts's violence stages, Marin's precedent-escalation device, Caesar's dictatorship program). 23 new pages, 8 parent pages updated.
-- [2026-10-25T02:20:00Z] Built a Province > Region > District > Building location hierarchy across every one of the 111 scenarios. Pre-built a 27-entity shared scaffold (Italy + 9 provinces, 10 regions, Rome + its 7 major sub-districts) to bound collision risk, then ran 9 parallel batches re-reading all scenarios for every location mentioned, no matter how minor — specific temples (Jupiter Feretrius, Concordia, Vesta's Curia Hostilia), specific streets/gates (Via Appia, Colline Gate), specific villas (Scipio's at Liternum, Axius's at Reate), even legendary/literary sites (Troy, Laurentum, Drepanum from the Aeneid). Entities grew from 226 to 333. Found and merged 3 cross-batch entity duplicates (Chalcis, Arausio, Janiculum) plus one previously-missed scenario-level duplicate: Catiline's 65 BC extortion trial, documented by both Pennell and Alexander with a genuine factual disagreement over whether Cicero defended him — merged into one page with the contradiction preserved as an Open Question rather than silently picking a winner.
-- [2026-10-24T22:05:00Z] Scenario-mined all 38 sources for discrete conflicts/events/contests/conspiracies — 111 scenarios, 206 new entity stubs, 6 duplicate merges.
+- [2026-10-29T20:16:20Z] Committed 91 new focused entity, concept, and scenario articles plus 13 live-page patches. Eighty duplicate staged reference files matched existing live pages byte-for-byte and were cleared; no category page or patch remained staged. Internal `_meta/` and `_work/` control artifacts remain for audit provenance.
+- [2026-10-29T19:06:35Z] Committed the audited Roman-history ingest: 80 new reference pages and 13 consolidated live-page patches are active; all 95 raw sources passed hash checks and moved to `_raw/_archived/`, with provenance recorded in `.manifest.json`.
+- [2026-10-29T00:00:00Z] Reclassified all six former bibliographic blockers: direct source evidence promoted Barry, Cousins, Death and Dynasty, Divination, Empire and Memory, and the EBSCO-hosted *Birthing Romans* review to normal staged references; no review records remain.
 
 ## Active Threads
 

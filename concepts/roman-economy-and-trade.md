@@ -5,15 +5,13 @@ tags: [roman-economy, trade, bazaar-model, tributary-empire, ancient-economy-deb
 sources: ["[[references/bang-roman-bazaar]]", "[[references/scarre-penguin-atlas-ancient-rome]]"]
 summary: Rome's economy ran on personalized, high-uncertainty 'bazaar' exchange and tribute extraction rather than an integrated market; concrete trade-route geography maps Bang's comparative model.
 provenance:
-  extracted: 0.75
-  inferred: 0.2
-  ambiguous: 0.05
-base_confidence: 0.73
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T20:28:00Z"
-updated: "2026-10-25T00:00:00Z"
+updated: "2026-10-29T00:00:00Z"
 relationships:
   - target: "[[concepts/roman-provincial-administration]]"
     type: related_to
@@ -27,6 +25,13 @@ relationships:
     type: related_to
   - target: "[[concepts/clientelization-mechanics-in-the-roman-bazaar]]"
     type: related_to
+facets:
+  domain: ['economic']
+  type: ['concept']
+  period: []
+  place: []
+  material: []
+  subject: []
 ---
 
 # Roman Economy and Trade
@@ -48,6 +53,16 @@ The Roman economic-history debate, long polarized between "primitivist" (exploit
 
 - ~~Bang's book was sampled only in its framing chapters...~~ **Resolved 2026-10-25:** a full deep read of Part II (*portorium*, Ch. 4) and Ch. 5 ("Community: Cult, Courts, Credit and Collaboration") now backs four dedicated sub-pages — [[concepts/roman-portorium-customs-system]], [[concepts/roman-collegia-courts-and-dispute-resolution]], [[concepts/roman-commercial-credit-and-partnership]], and [[concepts/clientelization-mechanics-in-the-roman-bazaar]] — which detail the customs administration, legal/credit infrastructure, and the concrete mechanisms of clientelization only named here before.
 - Neither source directly states whether Scarre's concrete trade-route data would support or complicate Bang's "discontinuous, opaque markets" characterization — this page treats them as complementary (abstract model + physical map) rather than testing one against the other, which is itself an inference this wiki has not verified against primary evidence. ^[ambiguous]
+
+- labour, taxation, markets, slavery, and trade are presented as analytical source claims, not one integrated market. ^[ambiguous]
+- Relationship evidence: `related_to` Roman economy ^[ambiguous]
+- Relationship evidence: `uses` infrastructure/law only where explicit ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- labour, taxation, markets, slavery, and trade are presented as analytical source claims, not one integrated market. ^[ambiguous]
+- Relationship evidence: `related_to` Roman economy ^[ambiguous]
+- Relationship evidence: `uses` infrastructure/law only where explicit ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

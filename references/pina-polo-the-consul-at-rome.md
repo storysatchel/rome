@@ -5,18 +5,23 @@ tags: [consulship, roman-republic, magistracies, imperium, religion-and-politics
 sources: ["Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic"]
 summary: The first monograph since 1841 devoted solely to the Roman consulship, empirically cataloguing consuls' civil tasks (religion, diplomacy, legislation, jurisdiction, elections) from 367–50 BC.
 provenance:
-  extracted: 0.75
-  inferred: 0.2
-  ambiguous: 0.05
-base_confidence: 0.57
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:54Z"
-updated: "2026-10-24T06:49:54Z"
+updated: "2026-10-29T00:00:00Z"
 relationships:
   - target: "[[references/sandberg-magistrates-and-assemblies]]"
     type: related_to
+facets:
+  domain: []
+  type: ['reference']
+  period: []
+  place: []
+  material: []
+  subject: []
 ---
 
 # The Consul at Rome
@@ -56,6 +61,16 @@ Pina Polo frames his contribution explicitly against the "highly theoretical" le
 - [[scenarios/the-trial-of-dictator-gaius-maenius]] — the 314 BC dictator C. Maenius's overreach investigating aristocrats for electoral fraud, forcing his resignation.
 - [[scenarios/the-prosecution-campaign-against-manlius-vulso]] — tribunes Nerva and Turdus's 177 BC attempt to strip consul A. Manlius Vulso of his command after his Histrian defeat.
 - [[scenarios/metellus-celer-vs-tribune-flavius]] — the 60 BC clash in which tribune Flavius briefly imprisoned consul Metellus Celer over Pompey's veteran land bill.
+
+- sampled source claims are additive only; preserve provenance and ambiguous markers. ^[ambiguous]
+- Relationship evidence: retain only bounded types and exact targets ^[ambiguous]
+- Relationship evidence: consolidate duplicate source evidence under one page intent ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- sampled source claims are additive only; preserve provenance and ambiguous markers. ^[ambiguous]
+- Relationship evidence: retain only bounded types and exact targets ^[ambiguous]
+- Relationship evidence: consolidate duplicate source evidence under one page intent ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

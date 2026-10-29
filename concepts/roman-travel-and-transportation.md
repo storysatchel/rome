@@ -5,20 +5,25 @@ tags: [roman-roads, travel, vehicles, infrastructure, latin-literature]
 sources: ["[[references/hudson-rhetoric-roman-transportation]]", "[[references/casson-travel-ancient-world]]", "[[references/scarre-penguin-atlas-ancient-rome]]"]
 summary: Rome's road network made the empire the first Mediterranean-wide space where ordinary travel was practical — and its vehicles became a coded moral/political language in Latin literature.
 provenance:
-  extracted: 0.65
-  inferred: 0.3
-  ambiguous: 0.05
-base_confidence: 0.9
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T20:25:00Z"
-updated: "2026-10-24T20:25:00Z"
+updated: "2026-10-29T00:00:00Z"
 relationships:
   - target: "[[concepts/roman-provincial-administration]]"
     type: related_to
   - target: "[[concepts/roman-economy-and-trade]]"
     type: related_to
+facets:
+  domain: ['economic', 'military']
+  type: ['concept']
+  period: []
+  place: []
+  material: ['vehicles']
+  subject: []
 ---
 
 # Roman Travel and Transportation
@@ -38,6 +43,14 @@ Two distinct but complementary angles on the same phenomenon: Casson and Scarre 
 
 - Casson's and Hudson's books were sampled only partially (specific chapters, not cover-to-cover); Casson's chapters on sea travel, inns, and the mail system, and Hudson's four other vehicle-type chapters (beyond the *lectica* material quoted in his Introduction), remain unexamined.
 - Neither Casson nor Hudson directly addresses how the *cost* asymmetry Scarre documents (cheap sea vs. expensive land transport) shaped which vehicles described in Hudson's literary sources were actually used for which journeys — this connection is this page's own synthesis, not a claim any one source makes. ^[inferred]
+
+- infrastructure, road capacity, military bases, and movement are source-scoped; no empire-wide transport claim inferred. ^[ambiguous]
+- Relationship evidence: `uses`, `implements`, `related_to` as bounded and evidenced ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- infrastructure, road capacity, military bases, and movement are source-scoped; no empire-wide transport claim inferred. ^[ambiguous]
+- Relationship evidence: `uses`, `implements`, `related_to` as bounded and evidenced ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

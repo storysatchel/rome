@@ -5,15 +5,20 @@ tags: [propaganda, material-culture, elite-self-presentation, coinage, engraved-
 sources: ["[[references/golyzniak-engraved-gems-propaganda]]", "[[references/gruen-culture-national-identity]]"]
 summary: Romans used captured art, sculpture, coinage, and engraved gems as interlocking media for elite and state self-presentation and family promotion.
 provenance:
-  extracted: 0.6
-  inferred: 0.35
-  ambiguous: 0.05
-base_confidence: 0.73
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:17Z"
-updated: "2026-10-24T06:58:17Z"
+updated: "2026-10-29T00:00:00Z"
+facets:
+  domain: []
+  type: ['concept']
+  period: []
+  place: []
+  material: ['culture']
+  subject: ['propaganda']
 ---
 
 # Art and Political Propaganda
@@ -32,6 +37,14 @@ Across the Republic and into the early Empire, Romans treated visual and materia
 - Golyzniak flags that distinguishing genuine family-propaganda gems from generic mythological/historical scenes with no political intent is methodologically fraught; the book's own catalogue only marks confirmed attributions.
 - The relative effectiveness of gems versus coinage/sculpture as propaganda is asserted via the glass-copy argument but acknowledged by Golyzniak himself to "seem weaker if compared to coinage or sculpture at first glance" — the comparative weighting of a highly private but widely-copied medium remains unresolved.
 - Gruen's account of Roman sculptors being essentially unattested in the 3rd–2nd century BC record (Greek artists dominating instead) raises an open question, not addressed by either source, about how "Roman" this propaganda art actually was in authorship versus patronage. ^[inferred]
+
+- visual/material representation and legitimacy remain source-qualified; tentative propaganda labels are not promoted automatically. ^[ambiguous]
+- Relationship evidence: `uses`, `is associated with`, `related_to`, `replaces` only when bounded evidence related_to them ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- visual/material representation and legitimacy remain source-qualified; tentative propaganda labels are not promoted automatically. ^[ambiguous]
+- Relationship evidence: `uses`, `is associated with`, `related_to`, `replaces` only when bounded evidence related_to them ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 - [[references/golyzniak-engraved-gems-propaganda]]

@@ -5,15 +5,20 @@ tags: [roman-republic, constitution, magistracies, roman-italy, augurs, space]
 sources: ["Gargola, Daniel J. — The Shape of the Roman Order: The Republic and Its Space"]
 summary: Gargola reads the Roman Republic (3rd–1st c. BC) as a spatial order, tracing how magistrates, assemblies, priests, and law organized the city, Italy, and empire as distinct zones of action.
 provenance:
-  extracted: 0.7
-  inferred: 0.25
-  ambiguous: 0.05
-base_confidence: 0.57
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:54Z"
-updated: "2026-10-24T06:49:54Z"
+updated: "2026-10-29T00:00:00Z"
+facets:
+  domain: []
+  type: ['reference']
+  period: []
+  place: []
+  material: []
+  subject: []
 ---
 
 # The Shape of the Roman Order
@@ -50,6 +55,16 @@ Gargola positions the book against two established camps: those who treat Rome a
 ## Related Scenarios
 
 - [[scenarios/the-sententia-minuciorum-boundary-arbitration]] — the 117 BC Roman-arbitrated boundary dispute between Genua and the Langenses Viturii, discussed as part of Gargola's analysis of Roman spatial order in Italy.
+
+- sampled source claims are additive only; preserve provenance and ambiguous markers. ^[ambiguous]
+- Relationship evidence: retain only bounded types and exact targets ^[ambiguous]
+- Relationship evidence: consolidate duplicate source evidence under one page intent ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- sampled source claims are additive only; preserve provenance and ambiguous markers. ^[ambiguous]
+- Relationship evidence: retain only bounded types and exact targets ^[ambiguous]
+- Relationship evidence: consolidate duplicate source evidence under one page intent ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

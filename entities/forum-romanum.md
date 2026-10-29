@@ -4,16 +4,24 @@ category: entities
 tags: [location-district, forum, rome, trials, oratory]
 sources: ["Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic", "van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic", "Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny", "Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate", "Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic"]
 summary: Rome's central civic space — marketplace, law court, and site of the *contio* (public meeting) and *rostra* (speaker's platform) — where most of this wiki's trial and oratory scenarios take place.
-provenance: {extracted: 0.5, inferred: 0.45, ambiguous: 0.05}
-base_confidence: 0.9
+provenance:
+  sources: 
+base_confidence: "0.55"
 lifecycle: draft
 lifecycle_changed: "2026-10-25"
 tier: core
 created: "2026-10-25T00:30:00Z"
-updated: "2026-10-25T00:30:00Z"
+updated: "2026-10-29T00:00:00Z"
 relationships:
   - target: "[[entities/rome]]"
     type: part_of
+facets:
+  domain: []
+  type: ['location/building']
+  period: []
+  place: ['rome']
+  material: []
+  subject: []
 ---
 
 # Forum Romanum
@@ -38,6 +46,16 @@ Specific structures within the Forum (the Rostra, the [[entities/curia-hostilia|
 - [[scenarios/the-clodius-milo-street-war-and-trial]]
 - [[scenarios/the-trial-of-lucius-opimius]]
 - [[scenarios/the-murder-of-gaius-memmius]]
+
+- named civic/administrative space appears across archaeology, governance, memory, and domestic-politics contexts. ^[ambiguous]
+- Relationship evidence: `part_of` Rome ^[ambiguous]
+- Relationship evidence: `related_to` civic administration/memory only when source cites it ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
+
+- named civic/administrative space appears across archaeology, governance, memory, and domestic-politics contexts. ^[ambiguous]
+- Relationship evidence: `part_of` Rome ^[ambiguous]
+- Relationship evidence: `related_to` civic administration/memory only when source cites it ^[ambiguous]
+- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
 
 ## Sources
 

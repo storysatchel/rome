@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:50Z"
-updated: "2026-10-24T06:49:50Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # A History of Rome During the Later Republic and Early Principate
@@ -22,15 +22,15 @@ A. H. J. Greenidge (Tutor and late Fellow of Hertford College, Lecturer in Ancie
 
 ## Core Argument / Thesis
 
-Greenidge frames the period opening with the Gracchi not as a sudden rupture but as the sharpened recurrence of a recurring Roman social pattern: "the burden of military service, the curse of debt, the poverty of an agrarian proletariate, the hunger for land" had "filled the air" since the fourth century BC, and the crisis of 133 BC differs from earlier agitation only "in degree," not in kind. The deeper engine of change he locates in the economic and cultural effects of Rome's absorption of Hellenistic wealth and taste after the wars of conquest — the "new cosmopolitan culture" that reshaped the habits, housing, and ambitions of the Roman nobility and set the material stage for the political conflicts of the Gracchan era.
+The period opening with the Gracchi can be read not as a sudden rupture but as the sharpened recurrence of an older Roman social pattern: "the burden of military service, the curse of debt, the poverty of an agrarian proletariate, the hunger for land" had "filled the air" since the fourth century BC, and the crisis of 133 BC differs from earlier agitation only "in degree," not in kind. In this reconstruction, the deeper engine of change lay in the economic and cultural effects of Rome's absorption of Hellenistic wealth and taste after the wars of conquest — the "new cosmopolitan culture" that reshaped the habits, housing, and ambitions of the Roman nobility and set the material stage for the political conflicts of the Gracchan era.
 
 ## Key Claims and Evidence
 
 - The book devotes roughly its first hundred pages to social and economic conditions — urbanization of the wealthy, the rise of lucrative house property and "islands" (insulae), the transformation of the Roman domus from a single working Atrium into specialized reception, dining, and gallery spaces — before turning to political narrative, a structural choice Greenidge explains in his preface as filling a gap left by existing general textbooks on constitutional history.
 - Tiberius Gracchus's tribunate (133 BC) is presented through a standard sequence: his agrarian bill, Marcus Octavius's veto, Gracchus's deposition of Octavius, passage of the law, the Attalus bequest dispute, and his death in the riot over re-election — treated largely as settled narrative rather than contested reconstruction.
-- Jugurtha's rise and the Numidian succession crisis (Micipsa's death, the murder of Hiempsal, the siege and fall of Cirta, the massacre of Italian traders) receive close attention; Greenidge gives a notably skeptical reading of the Roman senate's 116 BC decision to divide Numidia between Jugurtha and Adherbal, arguing the debate was likely swayed by corruption from Jugurtha's agents and that Scaurus's vocal opposition was partly performative — intended to signal that the decision had not been reached "wholly in defiance of the claims of the suppliant."
+- Jugurtha's rise and the Numidian succession crisis (Micipsa's death, the murder of Hiempsal, the siege and fall of Cirta, the massacre of Italian traders) receive close attention; the Roman senate's 116 BC decision to divide Numidia between Jugurtha and Adherbal may have been swayed by corruption from Jugurtha's agents while Scaurus's vocal opposition was partly performative — intended to signal that the decision had not been reached "wholly in defiance of the claims of the suppliant."
 - The volume ends with Marius's election to a second consulship following the Roman disaster at Arausio (105 BC), framed as the point where military necessity overrode constitutional norms against successive consulships.
-- Greenidge treats the rivalry between [[entities/marius]] and [[entities/sulla]] as already visible in embryonic form during the Jugurthine War, with Sulla's campaign to secure Bocchus's betrayal of Jugurtha setting up a personal rivalry that would shape the following decades.^[inferred]
+- The rivalry between [[entities/marius]] and [[entities/sulla]] may already have been visible in embryonic form during the Jugurthine War, with Sulla's campaign to secure Bocchus's betrayal of Jugurtha setting up a personal rivalry that would shape the following decades.^[inferred]
 
 ## Structure / Scope
 
@@ -53,3 +53,5 @@ Greenidge positions the volume as deliberately omitting introductory constitutio
 
 ## Sources
 - Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate
+
+- Source note: Greenidge, Volume I, supplies the continuity interpretation of Gracchan conflict and the possible corruption/performative-opposition reading of the Numidian settlement. The Marius–Sulla linkage is inferential; this is a 1904 reconstruction, not a statement of current consensus.

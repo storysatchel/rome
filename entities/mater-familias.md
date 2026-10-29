@@ -3,7 +3,7 @@ title: Mater Familias
 category: entities
 tags: [roman-household, household-economy, domestic-life, gender, roman-women]
 sources: ["[[references/draycott-roman-domestic-medical-practice]]"]
-summary: The senior female figure of a Roman household, identified by Draycott as one of the household's human members with a role in domestic health knowledge and care.
+summary: The senior female figure of a Roman household, potentially involved in maintaining and transmitting domestic health knowledge, though the division of care responsibilities remains uncertain.
 provenance:
   extracted: 0.5
   inferred: 0.45
@@ -13,24 +13,24 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:58Z"
-updated: "2026-10-24T06:58:58Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Mater Familias
 
-The *mater familias* was the senior female figure of a Roman household — placed by Draycott alongside the *pater familias*, the estate manager, the housekeeper, slaves, and freedpersons as one of the [[concepts/roman-household]]'s human members whose responsibilities included acquiring, maintaining, and transmitting the household's health knowledge.
+The *mater familias* was the senior female figure of a Roman household. Alongside the *pater familias*, estate manager, housekeeper, slaves, and freedpersons, she belonged to a [[concepts/roman-household]] in which health knowledge could be acquired, maintained, and transmitted.
 
 ## Biography / Role
 
-- Draycott's chapter on the household's human members treats the *mater familias* as a distinct healthcare-relevant role within the domestic sphere, part of her larger argument that the [[concepts/roman-household]] was an active, scholarly-neglected site within Rome's "medical marketplace."
-- Epigraphic evidence Draycott cites from elite households (Livia Drusilla's *familia urbana*, and comparable staff lists from the Statilii, Volusii, and Iunii families) includes specialized female healthcare roles — *obstetrices* (midwives), an *unctrix* (anointer), and *ad unguentum* staff (makers of oils/unguents/perfumes) — work plausibly overseen or directed by a household's *mater familias*, though the citing page attributes this staffing to the household as a whole rather than naming the *mater familias* as the specific supervisor. ^[inferred]
-- The book's bioarchaeological evidence on Roman health and nutrition (e.g. skeletal and isotopic data from Rome, Pompeii, Herculaneum) is framed by Draycott as part of reconstructing household-level, not just professional, medical practice — a domestic sphere in which the *mater familias* is named as one of the relevant human actors, alongside the household's other free, freed, and enslaved members. ^[inferred]
+- Domestic healthcare involved more than professional practitioners. The household itself was an active site within Rome's "medical marketplace," and its senior female members were among the possible participants in care and the transmission of knowledge.
+- Elite household inscriptions — from Livia Drusilla's *familia urbana* and comparable staff lists of the Statilii, Volusii, and Iunii — attest specialized female healthcare workers: *obstetrices* (midwives), an *unctrix* (anointer), and *ad unguentum* staff (makers of oils, unguents, or perfumes). A *mater familias* might have directed some of this work, but these staff lists do not establish her as its supervisor. ^[inferred]
+- Skeletal and isotopic evidence from Rome, Pompeii, and Herculaneum can illuminate household health and nutrition alongside written evidence for domestic care. It does not by itself identify the responsibilities of a particular household member. ^[inferred]
 
 ## Open Questions
 
-- The single citing source names the *mater familias* as one category within a chapter on household healthcare roles but does not independently elaborate her specific duties, legal standing, or authority relative to the *pater familias* in the material available from this source. ^[ambiguous]
-- How health-related responsibilities were divided between the *mater familias* and other household staff (the housekeeper, enslaved *medicae*) is not spelled out in the available excerpt.
+- The specific healthcare duties and authority of a *mater familias* cannot be reconstructed simply from her inclusion among household members. ^[ambiguous]
+- How were health-related responsibilities divided among the *mater familias*, housekeeper, enslaved *medicae*, and other household members?
 
 ## Sources
 
-- [[references/draycott-roman-domestic-medical-practice]]
+- [[references/draycott-roman-domestic-medical-practice]] — Draycott's chapter on the household's human members names the *mater familias* among healthcare-relevant roles; elite staff inscriptions and bioarchaeological evidence support the wider account of domestic medicine. Her supervision of medical staff is an inference, not a specific claim in the available citing page, which does not elaborate her legal standing or precise division of duties.

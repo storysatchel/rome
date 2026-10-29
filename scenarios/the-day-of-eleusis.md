@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Day of Eleusis: Popillius Laenas's Ultimatum to Antiochus IV
@@ -29,7 +29,7 @@ After defeating the Ptolemies in battle and believing himself unstoppable, the S
 
 ## What Happened
 
-As Antiochus's massive army advanced, it was halted by the unexpected sight of a lone elderly man leaning on a walking stick. When the stranger identified himself as a Roman senator acting in the name of the Senate, Antiochus grew nervous. Popillius ordered Antiochus and his army to turn back and abandon the war against the Ptolemies.^[inferred — Campbell's narrative compresses the episode into a single dramatic encounter without naming the "circle in the sand" detail found in other ancient accounts]
+As Antiochus's massive army advanced, it was halted by the unexpected sight of a lone elderly man leaning on a walking stick. When the stranger identified himself as a Roman senator acting in the name of the Senate, Antiochus grew nervous. Popillius ordered Antiochus and his army to turn back and abandon the war against the Ptolemies.^[inferred]
 
 ## Outcome
 
@@ -37,8 +37,9 @@ Antiochus, afraid of provoking Roman military retaliation, obeyed and turned his
 
 ## Open Questions
 
-- Campbell's account does not specify the exact location (traditionally Eleusis, near Alexandria) or quote Popillius's famous ultimatum in detail.
+- The exact location (traditionally Eleusis, near Alexandria) and wording of Popillius's ultimatum are not established here.
 
 ## Sources
 
 - Campbell, Phillip — The Ancient World (From the Dawn of History to the Conversion of Constantine)
+- Source scope: Campbell compresses the episode into a single dramatic encounter, without the "circle in the sand" detail found in other ancient accounts, an exact location, or a detailed quotation of the ultimatum.

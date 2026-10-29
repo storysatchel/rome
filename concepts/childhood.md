@@ -33,13 +33,13 @@ Roman childhood involved relations of care, dependence, and shared upbringing th
 
 An epitaph for Arria Gemina identifies her as Arrius Germanus’ fellow nursling even though her husband commissioned the commemoration. Another inscription, CIL 6.15323, records Tiberius Claudius Evaristus commemorating his *collactius*, Tiberius Claudius Zenon. Their shared names may suggest additional connections, but the nursing terminology itself does not establish biological kinship or a precise legal status.
 
-An inscription from Pisaurum, CIL 11.6345, records the praetorian soldier Gaius Tadius Sabinus providing burial for his nurse Maria Marcellina and his fellow nursling Caedius Rufinus. Because Sabinus was old enough to serve, the connection had survived well beyond infancy. The source suggests that Marcellina may have nursed her own son alongside Sabinus, but the inscription does not explicitly establish that reconstruction.
+An inscription from Pisaurum, CIL 11.6345, records the praetorian soldier Gaius Tadius Sabinus providing burial for his nurse Maria Marcellina and his fellow nursling Caedius Rufinus. Because Sabinus was old enough to serve, the connection had survived well beyond infancy. Marcellina may have nursed her own son alongside Sabinus, but the inscription does not explicitly establish that reconstruction.
 
 ## Childhood as a historical category
 
-Gianni’s discussion of Martial’s poems for Erotion draws attention to a different problem: literary language of affection could overlap with erotic language, even when the subject was a young enslaved child. The book treats this as a reason to examine Roman assumptions rather than automatically impose modern expectations of innocence.
+Martial’s poems for Erotion pose a different problem: literary language of affection could overlap with erotic language, even when the subject was a young enslaved child. That overlap calls for examining Roman assumptions rather than automatically imposing modern expectations of innocence.
 
-Its comparisons with Petronius underscore enslaved children’s exposure to sexual exploitation, but also require care: satirical and provocative narratives are not straightforward records of every household. The historical question is how age, vulnerability, and status operated together, not whether every Roman shared an identical response.
+Comparisons with Petronius underscore enslaved children’s exposure to sexual exploitation, but also require care: satirical and provocative narratives are not straightforward records of every household. The historical question is how age, vulnerability, and status operated together, not whether every Roman shared an identical response.
 
 ## Related Pages
 
@@ -47,4 +47,4 @@ Its comparisons with Petronius underscore enslaved children’s exposure to sexu
 
 ## Sources
 
-- `_raw/Gaia Gianni_2025_All in the Family.epub`, section.98–section.100 on fellow nurslings, military commemoration, and interpretive uncertainties; section.187–section.189 on Martial, Erotion, and literary representations of children; section.26 on childhood scholarship (B04; original passage IDs: `raw-e8bf402daebc`, `raw-0a39e9a8dffe`, `raw-9b58f991139e`).
+- Gaia Gianni, `_raw/Gaia Gianni_2025_All in the Family.epub`, section.98–section.100 on fellow nurslings, military commemoration, and the possible reconstruction of Marcellina’s nursing relationship; section.187–section.189 for the interpretation of Martial, Erotion, and literary representations of children; section.26 on childhood scholarship (B04; original passage IDs: `raw-e8bf402daebc`, `raw-0a39e9a8dffe`, `raw-9b58f991139e`).

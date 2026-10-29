@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29"
 relationships:
   - target: "[[entities/cato-the-elder]]"
     type: related_to
@@ -33,17 +33,17 @@ In 204 BC, while Scipio (later Africanus) was in Sicily preparing his invasion o
 
 ## What Happened
 
-Cato, serving as Scipio's quaestor in Sicily in 204 BC during preparations for the African invasion, objected to how freely Scipio was spending military funds. The complaint is recorded by Plutarch, but the source cautions against overstating the conflict: there is no evidence Cato did anything beyond voicing the complaint — he did not attempt to actively prevent or formally block Scipio's spending. This fits the broader pattern of the quaestor-general relationship in this period: although the quaestor was technically a senatorial representative with independent magisterial standing, he remained an inferior magistrate operating under his commander's imperium, and Polybius states explicitly that quaestors faithfully obeyed their consuls. The modern scholarly reading cautions against retrojecting the later, famous political antagonism between Cato and the Scipios onto this 204 BC incident — treating it instead as a demonstration of the structural limits of a quaestor's power over his own commander, which may be precisely why ancient historians thought it worth recording at all. ^[inferred]
+Cato, serving as Scipio's quaestor in Sicily in 204 BC during preparations for the African invasion, objected to how freely Scipio was spending military funds. The complaint is recorded by Plutarch, but the extent of the conflict is uncertain: there is no evidence Cato did anything beyond voicing the complaint — he did not attempt to actively prevent or formally block Scipio's spending. This fits the broader pattern of the quaestor-general relationship in this period: although the quaestor was technically a senatorial representative with independent magisterial standing, he remained an inferior magistrate operating under his commander's imperium, and Polybius states explicitly that quaestors faithfully obeyed their consuls. The later, famous political antagonism between Cato and the Scipios cannot be assumed to explain this 204 BC incident. One interpretation instead treats it as evidence of the structural limits of a quaestor’s power over his own commander; that may also help explain why ancient historians recorded the complaint. ^[inferred]
 
 ## Outcome
 
-No formal consequence followed: Scipio's spending continued, Cato's complaint was registered but not acted upon, and Scipio proceeded with his African invasion as planned. The incident's main legacy is evidentiary rather than political — it is cited by modern scholars as one of the only concrete glimpses of how the general-quaestor financial relationship actually functioned (and its limits) in the Middle Republic, well before the far more elaborate quaestorial account-keeping practices attested for the late Republic (as in the later Verres case).
+No formal consequence is attested: there is no recorded intervention restraining Scipio’s spending, and he proceeded with his African invasion. The incident offers a rare concrete glimpse of the general-quaestor financial relationship and its possible limits in the Middle Republic, well before the more elaborate quaestorial account-keeping practices attested for the late Republic, as in the later Verres case.
 
 ## Open Questions
 
-- Whether this incident fed into the much later political rivalry between Cato and the Scipio family (culminating in Cato's prosecutions of Scipio Africanus's associates in the 180s BC) is explicitly flagged by the source as an unwarranted retrojection rather than a demonstrated causal link. ^[ambiguous]
+- Whether this incident fed into the much later political rivalry between Cato and the Scipio family (culminating in Cato's prosecutions of Scipio Africanus's associates in the 180s BC) is not demonstrated; reading that later rivalry back into the incident risks retrojection. ^[ambiguous]
 - The specific expenditures Cato objected to are not detailed in the extracted material.
 
 ## Sources
 
-- Elizabeth H. Pearson — Exploring the Mid-Republican Origins of Roman Military Administration: With Stylus and Spear (citing Plutarch, *Cato Maior* 3.5–6; Polybius 6.12.15)
+- Elizabeth H. Pearson — Exploring the Mid-Republican Origins of Roman Military Administration: With Stylus and Spear (citing Plutarch, *Cato Maior* 3.5–6; Polybius 6.12.15); Pearson’s interpretation limits the evidence to a complaint and rejects an assumed causal link with Cato’s later rivalry with the Scipios. The structural reading of quaestorial subordination above follows that discussion.

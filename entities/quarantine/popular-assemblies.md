@@ -21,11 +21,11 @@ summary: "Republican assemblies voted through unequal corporate units and accept
 tags: ["domain/political", "period/republic", "subject/mapping", "subject/propaganda", "type/entity"]
 tier: "supporting"
 title: "popular assemblies"
-updated: "2026-10-29T21:52:55Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 # Popular assemblies
 
-Roman Republican popular assemblies gave citizens a role in collective decisions, but their procedures did not distribute political initiative or voting weight equally. *Reconstructing the Roman Republic* emphasizes the openly hierarchical organization of voting and the presiding officeholder’s control of the agenda.
+Roman Republican popular assemblies gave citizens a role in collective decisions, but their procedures did not distribute political initiative or voting weight equally. Voting was openly hierarchical, and the presiding officeholder controlled the agenda.
 
 ## Voting through centuries and tribes
 
@@ -43,7 +43,7 @@ The magistrate could also refuse the *renuntiatio*, the formal proclamation of a
 
 ## Legislative reform without equal initiative
 
-In the second century BCE, procedures increasingly became subjects of legislation. The *leges tabellariae* introduced secret ballots successively in electoral, judicial, and legislative assemblies, while laws on *ambitus* sought to regulate campaigning. The book interprets this resort to statutes as a response to pressure on customary rules. Such changes altered political practice without removing the corporate organization of voting or the officeholders’ control of proposals.
+In the second century BCE, procedures increasingly became subjects of legislation. The *leges tabellariae* introduced secret ballots successively in electoral, judicial, and legislative assemblies, while laws on *ambitus* sought to regulate campaigning. This resort to statutes can be interpreted as a response to pressure on customary rules. Such changes altered political practice without removing the corporate organization of voting or officeholders' control of proposals.
 
 ## Related Pages
 
@@ -53,5 +53,5 @@ In the second century BCE, procedures increasingly became subjects of legislatio
 
 ## Sources
 
-- `_raw/Reconstructing the Roman Republicepub.pdf`, p.35.1–p.37.1, on voting units, agenda control, electoral proclamation, secret ballots, and campaign legislation.
-- `_raw/Reconstructing the Roman Republicepub.decrypted.epub`, section 35, on institutionalized hierarchy. Source IDs retained in frontmatter.
+- `_raw/Reconstructing the Roman Republicepub.pdf`, p.35.1–p.37.1 — voting units, agenda control, electoral proclamation, secret ballots, and campaign legislation; interpretation of legislative regulation as a response to pressure on customary rules.
+- `_raw/Reconstructing the Roman Republicepub.decrypted.epub`, section 35 — institutionalized hierarchy and the procedural limits of popular initiative. Source IDs retained in frontmatter.

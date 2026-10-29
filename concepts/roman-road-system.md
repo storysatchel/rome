@@ -29,9 +29,9 @@ The Roman road system supported imperial government, military communication, tro
 
 ## Expansion and the Via Appia
 
-The Via Appia, begun in 312 BCE, connected Rome with Capua. The source presents it as a turning point in long-distance paved road construction: it bore its planner’s name and followed a deliberately straight alignment. Later roads extended the network beyond Italy, including the Via Egnatia in northern Greece and the Via Domitia through southern Gaul toward Spain.
+The Via Appia, begun in 312 BCE, connected Rome with Capua. It marked a turning point in long-distance paved road construction: it bore its planner’s name and followed a deliberately straight alignment. Later roads extended the network beyond Italy, including the Via Egnatia in northern Greece and the Via Domitia through southern Gaul toward Spain.
 
-As the empire expanded, so did the network’s geographical reach. The source estimates roughly 100,000 kilometres of paved highways, a measure of its scale rather than proof that every road shared identical construction or condition.
+As the empire expanded, so did the network’s geographical reach. One estimate places its extent at roughly 100,000 kilometres of paved highways, a measure of its scale rather than proof that every road shared identical construction or condition.
 
 ## Engineering and upkeep
 
@@ -41,7 +41,7 @@ Maintenance demanded sustained resources. Even part of the Via Appia fell into p
 
 ## Interurban roads and urban congestion
 
-The source distinguishes roads capable of sustaining substantial traffic from narrow urban side streets unsuitable for two-way wheeled movement. Newly planned cities could have broader networks, while Rome’s winding streets imposed particular constraints. Complaints about Rome should therefore not be generalized to every road or city in the empire.
+Roads capable of sustaining substantial traffic must be distinguished from narrow urban side streets unsuitable for two-way wheeled movement. Newly planned cities could have broader networks, while Rome’s winding streets imposed particular constraints. Complaints about Rome should therefore not be generalized to every road or city in the empire.
 
 Traffic conditions emerged from both infrastructure and the volume and mixture of users. Road engineering supplied capacity, but it did not by itself eliminate congestion.
 
@@ -51,4 +51,4 @@ Traffic conditions emerged from both infrastructure and the volume and mixture o
 
 ## Sources
 
-- `_raw/Traffic and Congestion in the Roman Empireepub.pdf`, p.80.1–p.83.1, “Conclusion of chapter 1,” on network expansion, road engineering, maintenance, and urban capacity (B09; original passage ID: `raw-d9299b66cda6`). The parallel edition `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` remains in frontmatter; page locators here refer to the PDF.
+- `_raw/Traffic and Congestion in the Roman Empireepub.pdf`, p.80.1–p.83.1, “Conclusion of chapter 1,” on network expansion, the estimate of roughly 100,000 kilometres of paved highways, road engineering, maintenance, and urban capacity (B09; original passage ID: `raw-d9299b66cda6`). The parallel edition `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` remains in frontmatter; page locators here refer to the PDF.

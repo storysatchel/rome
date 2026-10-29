@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Lepidus's Failed Bid for Power Against Octavian, 36 BC
@@ -28,7 +28,7 @@ Marcus Aemilius Lepidus, the junior member of the Second Triumvirate alongside M
 
 ## What Happened
 
-Octavian defeated Sextus Pompey's fleet at the Battle of [[entities/naulochus|Naulochus]] in 36 BC, ending Pompey's hold on [[entities/sicilia|Sicily]] and restoring Rome's grain supply. In the campaign's aftermath, Lepidus, who had contributed forces to the victory, attempted to claim Sicily for himself and mount a direct challenge to Octavian's authority, effectively attempting a coup against his fellow triumvir. Octavian confronted Lepidus's camp personally; according to the tradition summarized here, Lepidus's own soldiers abandoned him and went over to Octavian rather than fight, collapsing the attempted power grab without a battle.^[inferred from the atlas's brief "Lepidus attempts rising against Octavian and is stripped of power" and general knowledge of Naulochus's aftermath]
+Octavian defeated Sextus Pompey's fleet at the Battle of [[entities/naulochus|Naulochus]] in 36 BC, ending Pompey's hold on [[entities/sicilia|Sicily]] and restoring Rome's grain supply. In the campaign's aftermath, Lepidus, who had contributed forces to the victory, attempted to claim Sicily for himself and mount a direct challenge to Octavian's authority, effectively attempting a coup against his fellow triumvir. In the reconstructed account followed here, Octavian confronted Lepidus's camp personally; Lepidus's own soldiers abandoned him and went over to Octavian rather than fight, collapsing the attempted power grab without a battle.^[inferred]
 
 ## Outcome
 
@@ -40,4 +40,4 @@ Lepidus was stripped of his triumviral powers and his provinces, retaining only 
 
 ## Sources
 
-- Scarre, Chris — The Penguin Historical Atlas of Ancient Rome ("The Civil Wars", pp. 34-35: map note "36 BC Lepidus attempts rising against Octavian and is stripped of power; Octavia takes Africa")
+- Scarre, Chris — The Penguin Historical Atlas of Ancient Rome ("The Civil Wars", pp. 34-35: map note "36 BC Lepidus attempts rising against Octavian and is stripped of power; Octavia takes Africa"). The account of Octavian's personal confrontation and troop defections is reconstructed from this brief note and general knowledge of Naulochus's aftermath, not detailed in the atlas note itself.

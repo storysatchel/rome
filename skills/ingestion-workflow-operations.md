@@ -82,6 +82,7 @@ Enrichment requires renewed research, not just an editorial pass over existing e
 - Open with a useful description of the subject, then use headings specific to its history, function, or argument.
 - Write connected prose. Do not publish a literal “Propositions” section, a list of retrieved quotations, or generic Scope/Boundary boilerplate.
 - Keep source paths, page locators, and extraction markers out of the narrative. Consolidate precise source attribution into compact notes under `## Sources`; use unobtrusive footnotes only when a claim needs distinct attribution.
+- Apply subject-first prose to every article, not just new or recently enriched pages. Keep routine modern scholarly attribution in source notes rather than narrating “X argues,” “Y agrees with Z,” or “the source describes.” State the substantive interpretation directly and retain its uncertainty: disputed chronology stays disputed, alternative reconstructions stay alternatives, and allegations do not become facts. Source notes must identify which interpretation each source supports when accounts differ. Bibliographic identity and authorship remain explicit in articles actually about a book or scholar; ancient testimony stays distinguishable from established events.
 - Retain source identity and page/section locators. Do not count alternate PDF/EPUB encodings as independent corroboration.
 - Omit unsupported claims rather than padding an article. An unresolved pronoun or a sentence about another person is not evidence about the page subject.
 

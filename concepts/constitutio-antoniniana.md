@@ -25,7 +25,7 @@ updated: "2026-10-29T21:50:41Z"
 ---
 # Constitutio Antoniniana
 
-The *Constitutio Antoniniana* was Caracalla’s collective grant of Roman citizenship in 212 CE. The source describes its beneficiaries cautiously as “all—or many” of the peoples within the empire. Its effect should not be simplified into the disappearance of every intermediate legal status.
+The *Constitutio Antoniniana* was Caracalla’s collective grant of Roman citizenship in 212 CE. It reached all or many of the peoples within the empire, though its precise coverage requires caution. Its effect should not be simplified into the disappearance of every intermediate legal status.
 
 ## Citizenship and different forms of Latinity
 

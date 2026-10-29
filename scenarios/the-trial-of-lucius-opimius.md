@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Trial of Lucius Opimius for Killing Citizens Without Trial
@@ -37,9 +37,10 @@ Opimius was acquitted. The verdict effectively validated the senatus consultum u
 
 ## Open Questions
 
-- The exact composition of the court (full popular assembly versus a special tribunal) is unclear from the fragmentary rhetorical sources Greenidge cites.
+- The exact composition of the court (full popular assembly versus a special tribunal) remains unclear from the fragmentary rhetorical evidence.
 - The outcome of a related, less-detailed prosecution and condemnation of the radical politician Carbo the following year (119 BC) is mentioned only in passing and not detailed enough here to stand as its own scenario.
 
 ## Sources
 
 - Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate
+- Source limitation: the fragmentary rhetorical sources cited by Greenidge leave the court's composition uncertain.

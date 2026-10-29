@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Pleminius Affair at Locri — A Garrison Atrocity Becomes a Senate Proxy War
@@ -41,9 +41,10 @@ Fabius's motion to summarily condemn or recall Scipio failed; instead, a motion 
 
 ## Open Questions
 
-- Pleminius's own ultimate legal fate after the commission's investigation is not detailed in the summarized account.
+- Pleminius's ultimate legal fate after the commission's investigation remains unspecified here.
 - Whether Scipio genuinely bore responsibility for Pleminius's conduct, or was merely an absentee commander exploited by his political rivals, remains explicitly contested within the ancient tradition itself. ^[ambiguous]
 
 ## Sources
 
 - McCall, Jeremiah — Clan Fabius, Defenders of Rome
+- Source limitation: McCall's summarized account does not detail Pleminius's ultimate legal fate after the investigation.

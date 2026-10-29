@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29T22:41:12Z"
 relationships:
   - target: "[[concepts/roman-provincial-administration]]"
     type: related_to
@@ -44,8 +44,9 @@ Verres evidently escaped formal consequences for the Carbo-era embezzlement at t
 ## Open Questions
 
 - The precise date and campaign during which Verres served as Carbo's quaestor, and the exact sums involved, are not specified beyond Cicero's later, selectively framed account. ^[ambiguous]
-- Whether Carbo himself was aware of or complicit in the fraud (since one set of books was nominally kept "on his behalf") is left ambiguous by the source. ^[ambiguous]
+- Whether Carbo himself was aware of or complicit in the fraud (since one set of books was nominally kept "on his behalf") remains ambiguous. ^[ambiguous]
 
 ## Sources
 
 - Elizabeth H. Pearson — Exploring the Mid-Republican Origins of Roman Military Administration: With Stylus and Spear (citing Cicero, *In Verrem* 1.4.11, 2.1.14.36–37)
+- Pearson's discussion leaves Carbo's awareness of or complicity in the alleged fraud ambiguous; the account depends on Cicero's later prosecutorial framing.

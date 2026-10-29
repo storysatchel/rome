@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - Roman people held extensive formal powers over legislation, war and elections, but practical participation must be distinguished from constitutional ideology (Introduction, pp. 1–2). ^[ambiguous]
-- Roman people held extensive formal powers over legislation, war and elections, but practical participation must be distinguished from constitutional ideology (Introduction, pp. 1–2).   - Late Republican politics was aristocratic despite popular institutions; Senate monopolized experience, office, military and religious authority (Introduction, pp. 1–2).   - “Democratic” interpretations (especially Millar) and symbolic/consensus models each illuminate only part of the relationship between ideology and practice (Introduction, pp. 2–16).   - Crowd size, social composition and meeting type materially shaped *contio*, assemblies and elections (contents; blurb; Introduction).   - *Libertas* was a flexible core ideology claimed by populares, optimates, Caesar and Augustus, enabling competing political legitimations (Introduction, pp. 9–13). ^[ambiguous]
+- Roman people held extensive formal powers over legislation, war and elections, but practical participation must be distinguished from constitutional ideology (Introduction, pp. 1–2). One interpretation nevertheless sees late Republican politics as aristocratic, with senatorial dominance in experience, office, military and religious authority. On this reading, “democratic” and symbolic-consensus models each illuminate only part of the relationship between ideology and practice; their relative explanatory weight remains disputed. Crowd size, social composition and meeting type materially shaped *contio*, assemblies and elections (contents; blurb; Introduction). *Libertas* was a flexible core ideology claimed by populares, optimates, Caesar and Augustus, enabling competing political legitimations (Introduction, pp. 9–13). ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -40,6 +40,10 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - Senate `contradicts` popular/democratic readings of political power (pp. 2–16) ^[ambiguous]
 - *libertas* `uses` political legitimation (pp. 9–13) ^[ambiguous]
 - public meetings `part_of` symbolic consensus and practical decision-making (pp. 13–16) ^[ambiguous]
+
+## Sources
+
+- Henrik Mouritsen, *Plebs and Politics in the Late Roman Republic* (first published 2001; 2004 edition), introduction, pp. 1–2: aristocratic interpretation of political practice; pp. 2–16: critique of democratic readings, especially Fergus Millar’s, alongside symbolic-consensus models. This is Mouritsen’s interpretation of the gap between constitutional powers and participation, not an uncontested verdict on popular influence.
 
 ## Related live pages
 

@@ -33,7 +33,7 @@ Unmarried and childless people faced inheritance restrictions, but the consequen
 
 ## Manumission for marriage
 
-The *lex Aelia Sentia* normally required a slave to be at least thirty for full manumission. An exception applied to a woman freed in order to marry her patron. This enabled the patron to have legitimate children with a younger freedwoman wife. Although her consent to marriage was formally expected, the source stresses the unequal power relationship in which that consent was obtained.
+The *lex Aelia Sentia* normally required a slave to be at least thirty for full manumission. An exception applied to a woman freed in order to marry her patron. This enabled the patron to have legitimate children with a younger freedwoman wife. Although her consent to marriage was formally expected, it was obtained within an unequal power relationship.
 
 ## Divorce and remarriage
 

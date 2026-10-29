@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Reate–Interamna Dispute over the Draining of Lake Velinus
@@ -33,11 +33,11 @@ Cicero, writing to Atticus (*Ad Atticum* IV.15) while serving as Reate's advocat
 
 ## Outcome
 
-The surviving sources do not record the commission's final ruling ^[ambiguous], but the canal was never reversed: it remained in continuous use (with later re-cuttings, the last in the 16th century CE) down to the translator's own time, by which point the resulting waterfall had become a tourist attraction and a source of hydroelectric power for Terni (ancient Interamna).
+The surviving sources do not record the commission's final ruling ^[ambiguous], but the canal was never reversed: it remained in continuous use (with later re-cuttings, the last in the 16th century CE) into the modern period, when the resulting waterfall had become a tourist attraction and a source of hydroelectric power for Terni (ancient Interamna).
 
 ## Open Questions
 
 - The commission's formal verdict in 54 BCE is not preserved in the surviving record. ^[ambiguous]
 
 ## Sources
-- Cato & Varro — Roman Farm Management (Varro, *De Re Rustica* III, with translator's footnote citing Cicero, *Ad Atticum* IV.15)
+- Cato & Varro — Roman Farm Management (Varro, *De Re Rustica* III, with translator's footnote citing Cicero, *Ad Atticum* IV.15). The translator's footnote supplies the canal's continued use, later re-cuttings, and modern tourist and hydroelectric roles, describing conditions in the translator's own time.

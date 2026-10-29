@@ -29,7 +29,7 @@ The *Codex Theodosianus*, or Theodosian Code, is a major Roman codification. It 
 
 ## Constitutions within a legal structure
 
-A. J. B. Sirks places the Theodosian Code within a longer Roman tradition of organizing law. Earlier codes partly followed the structure of the praetorian edict, while juristic commentaries and teaching texts offered other systematic arrangements. The Theodosian Code belongs to this developing intellectual and legal framework.
+The Theodosian Code belongs to a longer Roman tradition of organizing law. Earlier codes partly followed the structure of the praetorian edict, while juristic commentaries and teaching texts offered other systematic arrangements. These precedents form its intellectual and legal framework.
 
 For interpretation, this means that a constitution has more than one context: the circumstances of its original issue and the later context in which compilers selected and arranged it. A provision retained in a code could serve as a rule for future cases even if no fresh instance of its original problem was known.
 
@@ -50,4 +50,4 @@ The individual enactments’ addressees also need interpretation. A named high o
 
 ## Sources
 
-- `_raw/lega-article-p265_10.pdf`, p.2.1–p.5.1, printed pp.266–269, on systematic codification, addressees, reactive legislation, continuity, and gaps in the recorded law (B05; original passage ID: `raw-bcf044fa2946`).
+- A. J. B. Sirks, `_raw/lega-article-p265_10.pdf`, p.2.1–p.5.1, printed pp.266–269, on systematic codification, addressees, reactive legislation, continuity, and gaps in the recorded law (B05; original passage ID: `raw-bcf044fa2946`).

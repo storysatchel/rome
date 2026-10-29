@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T21:00:00Z"
-updated: "2026-10-24T21:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[entities/velabrum]]"
     type: part_of
@@ -18,7 +18,7 @@ relationships:
 
 # Temple of Felicitas
 
-A temple dedicated to Felicitas ("Good Fortune"), located in the [[entities/velabrum]]. Cassius Dio specifically places [[entities/julius-caesar]]'s 46 BC triumphal chariot-axle breakdown at this temple, an irony noted by both ancient and modern readers given the temple's name.
+A temple dedicated to Felicitas ("Good Fortune"), located in the [[entities/velabrum]]. Cassius Dio places [[entities/julius-caesar]]'s 46 BC triumphal chariot-axle breakdown at this temple; the association of mechanical failure with "Good Fortune" gives the episode an ironic setting.
 
 ## Appears In
 
@@ -26,4 +26,4 @@ A temple dedicated to Felicitas ("Good Fortune"), located in the [[entities/vela
 
 ## Sources
 
-- Hudson, Jared — The Rhetoric of Roman Transportation: Vehicles in Latin Literature
+- Hudson, Jared — The Rhetoric of Roman Transportation: Vehicles in Latin Literature — Cassius Dio's placement of the axle breakdown at the Temple of Felicitas and the irony of its name.

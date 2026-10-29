@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Trial of Clodius for the Bona Dea Sacrilege
@@ -38,9 +38,10 @@ Clodius walked free, but the trial's open corruption became a public scandal in 
 
 ## Open Questions
 
-- The exact sum Crassus paid, and how many jurors were bribed versus genuinely sympathetic, is not specified in either source.
+- The exact sum Crassus paid, and how many jurors were bribed versus genuinely sympathetic, remain unspecified here.
 
 ## Sources
 
 - Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.
 - Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny
+- Source limitation: neither Pennell nor Watts specifies the sum Crassus paid or the number of bribed jurors.

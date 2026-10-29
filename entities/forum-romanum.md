@@ -26,7 +26,7 @@ facets:
 
 # Forum Romanum
 
-The Forum Romanum was Rome's central open square, serving simultaneously as marketplace, law court, and the primary venue for public political life. Per Morstein-Marx, it hosted the *contio* — the non-voting public meeting at which magistrates addressed the Roman People from the *rostra* (speaker's platform) — as well as the standing criminal courts (*quaestiones perpetuae*), whose tribunals sat in the open Forum itself rather than in dedicated courthouses. Most of this wiki's trial scenarios (drawn especially from Alexander's trial catalog) and political-speech scenarios are set here.
+The Forum Romanum was Rome's central open square, serving simultaneously as marketplace, law court, and the primary venue for public political life. The Forum hosted the *contio*—the non-voting public meeting at which magistrates addressed the Roman People from the *rostra*—as well as the standing criminal courts (*quaestiones perpetuae*), whose tribunals sat directly in the open Forum rather than in enclosed courthouses. Many of the Republic's criminal trials and public political speeches took place in this central civic space.
 
 ## Buildings and Features
 

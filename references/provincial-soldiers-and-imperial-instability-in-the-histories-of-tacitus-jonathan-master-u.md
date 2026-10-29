@@ -3,7 +3,7 @@ title: "*Provincial Soldiers and Imperial Instability in the Histories of Tacitu
 category: references
 tags: ["type/reference", "period/principate", "domain/military", "domain/political", "place/rome"]
 sources: ["B05:Jonathan Master_2016_Provincial Soldiers and Imperial Instabi.epub"]
-summary: "Tacitus emphasizes provincial soldiers in the civil wars and Batavian revolt; Rome’s military increasingly depends on non-Italian manpower."
+summary: "One reading of Tacitus links provincial soldiers’ roles in civil war and the Batavian revolt to unequal incorporation, military dependence and tensions in provincial identity."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -31,7 +31,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- Tacitus emphasizes provincial soldiers in the civil wars and Batavian revolt; Rome’s military increasingly depends on non-Italian manpower; exclusionary treatment and unequal rewards make provincial troops restive; provincial soldiers destabilize empire through civil-war participation and separatist revolt; stability requires deeper incorporation and reorientation of provincial identities; Tacitus’ *Histories* offers implicit lessons for Trajanic policy; ethnic-soldier categories are produced through imperial institutions, not simply inherited identities. ^[ambiguous]
+- Provincial soldiers occupy a prominent place in Tacitus’ account of the civil wars and Batavian revolt. One reading connects Rome’s growing reliance on non-Italian manpower with exclusionary treatment, unequal rewards, restiveness, civil-war participation and separatist revolt. On this interpretation, deeper incorporation and a reorientation of provincial identities were conditions of imperial stability; the *Histories* may therefore offer implicit lessons for Trajanic policy. Ethnic-soldier categories, in this account, were shaped by imperial institutions rather than simply inherited. These are interpretive connections, not explicit policy prescriptions securely attributable to Tacitus. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -39,6 +39,10 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - exclusionary military hierarchy `contradicts` imperial stability (Introduction) ^[ambiguous]
 - Batavian revolt `related_to` provincial soldiers (Introduction) ^[ambiguous]
 - Tacitus’ *Histories* `related_to` Trajanic policy (Introduction) ^[ambiguous]
+
+## Sources
+
+- Jonathan Master, *Provincial Soldiers and Imperial Instability in the Histories of Tacitus* (2016), introduction: provincial military dependence, exclusion and incorporation, institutionally shaped identities, and the proposed relevance of the *Histories* to Trajanic policy.
 
 ## Related live pages
 

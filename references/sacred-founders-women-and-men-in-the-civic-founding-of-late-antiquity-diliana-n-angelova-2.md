@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:10Z"
 facets:
   domain: [political]
   type: [reference]
@@ -36,7 +36,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - Augustus’ adoption and renaming of Livia connected her to the Julian/Aeneadic and Romulean legitimating genealogies and complicated male-centered imperial narratives (intro, pp. 12–18). ^[ambiguous]
 - Sacrosa… ^[ambiguous]
 - Sacrosanctity, freedom from tutela, statues, cult, and civic honors institutionalized women’s public status while remaining politically negotiated (intro, pp. 8–15). ^[ambiguous]
-- The book uses fragmentary monuments, coins, statue bases, rituals, and texts to trace how women and men could be represented as sacred founders; the San Vitale mosaics extend this argument into late antiquity (conclusion). ^[ambiguous]
+- Fragmentary monuments, coins, statue bases, rituals, and texts preserve representations of women and men as sacred founders; the San Vitale mosaics provide a late antique case (conclusion). ^[ambiguous]
 
 ## Evidence-linked relationships
 

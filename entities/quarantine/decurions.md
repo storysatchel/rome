@@ -35,7 +35,7 @@ A case discussed by Modestinus involved a civic loan inadequately secured by lan
 
 ## Protecting the property behind public service
 
-Imperial policy restricted transfers designed to evade liturgical obligations and barred certain potentially conflicting activities. Decurions could not ordinarily lease their own town’s revenues. A law of 382 forbade them from managing another person’s property, threatening exile for the councillor as well as punishment for the employer. Kehoe reads this partly as an attempt to keep their resources directed toward their own estates and civic duties.
+Imperial policy restricted transfers designed to evade liturgical obligations and barred certain potentially conflicting activities. Decurions could not ordinarily lease their own town’s revenues. A law of 382 forbade them from managing another person’s property, threatening exile for the councillor as well as punishment for the employer. This measure sought to keep decurial resources directed toward their own estates and civic liturgies.
 
 The system was not entirely inflexible. Councils short of members could recruit men of less prestigious occupations, and impoverished decurions might receive maintenance, especially where they had spent their resources on their town. These accommodations reveal efforts to sustain the municipal institution as well as to compel its members.
 

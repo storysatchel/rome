@@ -29,13 +29,13 @@ Dennis P. Kehoe is the author of the 2022 chapter “Private Property Rights and
 
 ## Property rights and fiscal priorities
 
-Kehoe argues that clear property rights and predictable legal institutions could encourage investment and agricultural specialization. Yet the government also needed stable tax revenue and local landowning elites willing and able to administer cities. Public policy therefore placed limits on landowners’ freedom to transfer property, pledge it for credit, or divert resources away from civic obligations.
+Clear property rights and predictable legal institutions fostered private agricultural investment, but imperial and civic fiscal demands repeatedly placed boundaries on landowner autonomy. Public policy therefore placed limits on landowners’ freedom to transfer property, pledge it for credit, or divert resources away from civic obligations.
 
 His analysis distinguishes two linked objectives: keeping taxable land productive and preserving the municipal structure. Treasury liens and councils’ claims on decurions’ land could constrain private choices even while the legal system protected ownership.
 
 ## Councillors and public claims
 
-The chapter illustrates these pressures through rules tying decurions to their towns and restricting routes out of civic service. Entry into the clergy, monasteries, or imperial office could prompt claims on a departing councillor’s property. Kehoe also interprets prohibitions on managing other people’s estates as protecting the economic resources needed for municipal duties, alongside their explicit concern for social status. The evidence identifies his research and argument, not a fuller personal biography.
+The chapter illustrates these pressures through rules tying decurions to their towns and restricting routes out of civic service. Entry into the clergy, monasteries, or imperial office could prompt claims on a departing councillor’s property. Statutory prohibitions against decurions managing other individuals' estates protected the financial solvency required for municipal liturgies, alongside their concern for aristocratic status. The evidence identifies his research and argument, not a fuller personal biography.
 
 ## Related Pages
 

@@ -33,9 +33,9 @@ Cassius Dio criticizes the emperor not simply for introducing a foreign god, but
 
 ## Reported weddings and their interpretation
 
-Gellérfi examines traditions about male wedding partners as part of a wider study distinguishing wedding ceremonies from legally or socially established marriages. Dio reports a union with Hierocles, a Carian slave and charioteer, while the *Historia Augusta* describes a wedding to the athlete Zoticus. The study gives greater weight to Dio’s account and argues that the Hierocles tradition suggests some continuing partnership.
+Ancient traditions describing male wedding partners reflect ceremonial or polemical accounts rather than legally established marriages. Dio reports a union with Hierocles, a Carian slave and charioteer, while the *Historia Augusta* describes a wedding to the athlete Zoticus. The study gives greater weight to Dio’s account and argues that the Hierocles tradition suggests some continuing partnership.
 
-Such reports do not demonstrate that every attributed ceremony created a recognized marriage. The distinction matters especially in texts that use feminization, sexual subordination, and wedding language to attack political figures. Gellérfi contrasts these accounts with Cicero’s explicitly metaphorical portrayal of Antony as Curio’s bride, which cannot establish that a ceremony occurred.
+Such reports do not demonstrate that every attributed ceremony created a recognized marriage. The distinction matters especially in texts that use feminization, sexual subordination, and wedding language to attack political figures. Such accounts differ markedly from metaphorical invective, such as Cicero's depiction of Antony as Curio's bride, which did not claim that a ritual ceremony occurred.
 
 ## Related Pages
 
@@ -43,6 +43,8 @@ Such reports do not demonstrate that every attributed ceremony created a recogni
 - [[concepts/roman-law-and-trials]]
 
 ## Sources
+
+- Gergő Gellérfi, *Nubit amicus: same-sex weddings in Rome*: distinction between ceremonial performance and recognized marriage status.
 
 - _raw/142624.pdf — p.4.1
 - _raw/142624.pdf — p.3.1–p.5.1: methodological distinction between weddings and marriage, invective, and the Elagabalus traditions.

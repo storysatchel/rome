@@ -15,7 +15,7 @@ updated: "2026-10-24T21:15:00Z"
 
 # Gaius Rabirius
 
-A former senator, elderly by 63 BC, accused by Titus Labienus of the murder — some forty years earlier, during the suppression of Saturninus's revolt in 100 BC — of a man who was Labienus's uncle and a follower of Saturninus. The charge was the archaic *perduellio* ("treason," roughly a military-sense charge later superseded by *maiestas*). Cicero defended Rabirius. Two sibling batches independently covered this trial from different source books — see both scenario accounts below for complementary detail (Marin emphasizes the political theater; Morstein-Marx emphasizes the oratorical/procedural mechanics).
+A former senator, elderly by 63 BC, accused by Titus Labienus of the murder — some forty years earlier, during the suppression of Saturninus's revolt in 100 BC — of a man who was Labienus's uncle and a follower of Saturninus. The charge was the archaic *perduellio* ("treason," roughly a military-sense charge later superseded by *maiestas*). Cicero defended Rabirius. The trial featured both intense popular political agitation and archaic procedural mechanics—see both scenario accounts below for details of the perduellio indictment and Cicero's defense.
 
 ## Appears In
 

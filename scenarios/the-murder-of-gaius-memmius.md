@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Murder of Gaius Memmius During the Consular Election of 99 BC
@@ -30,7 +30,7 @@ In 99 BC the tribune Lucius Appuleius Saturninus, already elected to an unpreced
 
 ## What Happened
 
-With the election for the second consular seat actually underway, hired agents of Saturninus and Glaucia beat Gaius Memmius to death in order to remove him as a rival candidate. ^[extracted] The Senate responded the next day by declaring both Saturninus and Glaucia public enemies and calling on Marius — their former political ally — to defend the republic against them. ^[extracted] After a pitched battle in the [[entities/forum-romanum|Forum]] on 10 December 100 BC [as dated in the source], Marius captured Saturninus and his followers on the [[entities/capitoline-hill|Capitol]] and, despite assurances of safety, Saturninus was stoned to death in the [[entities/curia-hostilia|Curia Hostilia]]; Glaucia was dragged from a nearby house and also killed. ^[extracted]
+With the election for the second consular seat actually underway, hired agents of Saturninus and Glaucia beat Gaius Memmius to death in order to remove him as a rival candidate. ^[extracted] The Senate responded the next day by declaring both Saturninus and Glaucia public enemies and calling on Marius — their former political ally — to defend the republic against them. ^[extracted] After a pitched battle in the [[entities/forum-romanum|Forum]] dated to 10 December 100 BC, Marius captured Saturninus and his followers on the [[entities/capitoline-hill|Capitol]] and, despite assurances of safety, Saturninus was stoned to death in the [[entities/curia-hostilia|Curia Hostilia]]; Glaucia was dragged from a nearby house and also killed. This dating conflicts with the placement of the election account in 99 BC above. ^[extracted]
 
 ## Outcome
 
@@ -38,9 +38,10 @@ Memmius's murder directly destroyed Saturninus and Glaucia's political faction: 
 
 ## Open Questions
 
-- The source material gives the Forum battle a December 100 BC date immediately following a 99 BC election account, suggesting some chronological compression or ambiguity in the underlying narrative that is not fully resolved here. ^[ambiguous]
+- The sequence remains chronologically unresolved here: a battle dated to December 100 BC follows an election account placed in 99 BC. ^[ambiguous]
 - The identities and fates of the hired agents who actually killed Memmius are not recorded.
 
 ## Sources
 
 - Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic
+- Source chronology: Marin's account gives the Forum battle a December 100 BC date immediately following an election account placed in 99 BC; the chronological compression or ambiguity is retained rather than silently reconciled.

@@ -14,16 +14,16 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Consul Who Remembered His Own Auspicial Error a Year Too Late (163/162 BC)
 
-In one of the most striking episodes in Driediger-Murphy's case for Romans taking augury as sincerely binding (rather than as elite political theater), the consul Ti. Sempronius Gracchus — father of the future tribunes — voluntarily reported, a year after the fact and while serving far away in his province, a ritual flaw in his own conduct of the previous year's consular elections. The report forced the sitting consuls he had helped elect to abdicate mid-term.
+The consul Ti. Sempronius Gracchus — father of the future tribunes — voluntarily reported, a year after the fact and while serving far away in his province, a ritual flaw in his own conduct of the previous year's consular elections. The report forced the sitting consuls he had helped elect to abdicate mid-term. His self-report can be read as evidence that augury was sincerely binding rather than merely elite political theater, though his motives remain disputed.
 
 ## Parties & Stakes
 
-- **Ti. Sempronius Gracchus** ([[entities/tiberius-sempronius-gracchus-cos-177-163]]), cos. 163 and an augur — presided over the disputed election, initially resisted the haruspices' adverse ruling, then voluntarily reported his own error a year later.
+- **Ti. Sempronius Gracchus** ([[entities/quarantine/tiberius-sempronius-gracchus-cos-177-163]]), cos. 163 and an augur — presided over the disputed election, initially resisted the haruspices' adverse ruling, then voluntarily reported his own error a year later.
 - **P. Cornelius Scipio Nasica Corculum** ([[entities/publius-cornelius-scipio-nasica-corculum]]) and **C. Marcius Figulus** ([[entities/gaius-marcius-figulus]]), cos. 162 — elected under the flawed auspices; forced to abdicate once the error was confirmed.
 - The College of Haruspices — initially consulted after an *in-religionem* incident during the election, and ruled Gracchus "not a lawful presiding officer" (*non iustus rogator*).
 - The Senate and the College of Augurs — ultimately accepted Gracchus's self-report and ordered the new consuls to step down.
@@ -38,9 +38,9 @@ Both consuls for 162 BC abdicated mid-term because of an error their predecessor
 
 ## Open Questions
 
-- What specifically triggered Gracchus's recollection — described vaguely as rereading "the books" — is unclear; whether this refers to his personal augural notes or to a more formal ritual text is debated among the modern scholars Driediger-Murphy cites. ^[ambiguous]
-- Modern scholarship is divided (a division Driediger-Murphy explicitly engages) on whether Gracchus's self-report reflects genuine religious conviction or a politically calculated maneuver whose true motive is lost to us; Driediger-Murphy argues for sincerity as the more economical reading of the evidence. ^[ambiguous]
+- What specifically triggered Gracchus's recollection — described vaguely as rereading "the books" — is unclear; whether this refers to his personal augural notes or to a more formal ritual text remains debated. ^[ambiguous]
+- Whether Gracchus's self-report reflects genuine religious conviction or a politically calculated maneuver whose true motive is lost to us remains disputed. Sincerity offers one reading of his apparently disadvantageous confession, but it does not establish his motives. ^[ambiguous]
 
 ## Sources
 
-- Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control, Ch. 3 ("The Effects of Augury on Roman Public Life")
+- Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control, Ch. 3 ("The Effects of Augury on Roman Public Life"). Driediger-Murphy argues that sincerity is the more economical interpretation of Gracchus's self-report, while engaging political explanations and disagreement over the identity of "the books" he reread.

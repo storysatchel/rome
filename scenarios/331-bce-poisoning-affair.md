@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29"
 ---
 
 # The 331 BCE Poisoning Affair — Mass Trial of Roman Matrons
@@ -29,7 +29,7 @@ In 331 BCE, during a period in which many Romans were dying of an unexplained il
 
 ## What Happened
 
-The affair unfolded against a backdrop of an unexplained spike in deaths at Rome. A household slave's testimony that her mistress's circle of matrons were preparing poisonous concoctions under the guise of medicine set off a cascading investigation: once the first twenty were implicated, attendants (likely enslaved household staff) belonging to 170 further matrons came forward with similar accusations against their own mistresses, expanding the affair to roughly 190 accused women across the patrician and plebeian elite. Draycott treats the episode as a case study in the structural ambiguity of Roman domestic medicine: the same Latin vocabulary (*venenum*, qualified only by *bonum* or *malum*, "good" or "bad") covered medicinal remedies, poisons, and magical substances alike, so that an accusation of poisoning and a claim of healing could rest on the identical physical evidence.
+The affair unfolded against a backdrop of an unexplained spike in deaths at Rome. A household slave's testimony that her mistress's circle of matrons were preparing poisonous concoctions under the guise of medicine set off a cascading investigation: once the first twenty were implicated, attendants (likely enslaved household staff) belonging to 170 further matrons came forward with similar accusations against their own mistresses, expanding the affair to roughly 190 accused women across the patrician and plebeian elite. One possible reading of the episode emphasizes the structural ambiguity of Roman domestic medicine: the same Latin vocabulary (*venenum*, qualified only by *bonum* or *malum*, "good" or "bad") covered medicinal remedies, poisons, and magical substances alike, so that an accusation of poisoning and a claim of healing could rest on the identical physical evidence.
 
 ## Outcome
 
@@ -41,4 +41,4 @@ All of the accused matrons were found guilty, per the surviving tradition, thoug
 - The fate of the convicted matrons after judgment is not specified in the source material consulted.
 
 ## Sources
-- Draycott, Jane — Roman Domestic Medical Practice in Central Italy: From the Middle Republic to the Early Empire (citing Livy, *History of Rome*)
+- Draycott, Jane — Roman Domestic Medical Practice in Central Italy: From the Middle Republic to the Early Empire (citing Livy, *History of Rome*); the interpretation of the affair through the overlapping vocabulary of medicine, poison, and magical substances follows this discussion, without resolving the women’s guilt.

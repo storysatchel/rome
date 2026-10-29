@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The AD 204 Ruling Against Jewish Merchants Over Stolen Goods
@@ -29,7 +29,7 @@ A specific imperial rescript from AD 204, issued jointly by the emperors Septimi
 
 ## What Happened
 
-Under Roman law, a stolen item could always be reclaimed by its original owner from whoever currently possessed it, no matter how many times it had changed hands or whether the current holder had purchased it in good faith — a rule generally considered by legal scholars to be an obstacle to trade, since buyers could never be fully certain of clear title. Jewish law took a more commerce-friendly, "even-handed" approach: it recognized the original owner's right to recover the item but required the owner to reimburse the innocent buyer the sum paid for it. In the case resolved in AD 204, a group of Jewish merchants had invoked this principle after some of their merchandise was identified by its original owner as stolen goods, apparently expecting compensation before returning the items. The emperors Severus and Caracalla rejected this, ruling unyieldingly in favor of strict Roman law. Their rescript went further, admonishing the merchants: "See to it, therefore, henceforth to be more careful in your dealings, lest you may incur not only losses of this nature but also the suspicion of criminal activity."
+Under Roman law, a stolen item could always be reclaimed by its original owner from whoever currently possessed it, no matter how many times it had changed hands or whether the current holder had purchased it in good faith — a potential obstacle to trade, since buyers could never be fully certain of clear title. Jewish law took a more commerce-friendly, "even-handed" approach: it recognized the original owner's right to recover the item but required the owner to reimburse the innocent buyer the sum paid for it. In the case resolved in AD 204, a group of Jewish merchants had invoked this principle after some of their merchandise was identified by its original owner as stolen goods, apparently expecting compensation before returning the items. The emperors Severus and Caracalla rejected this, ruling unyieldingly in favor of strict Roman law. Their rescript went further, admonishing the merchants: "See to it, therefore, henceforth to be more careful in your dealings, lest you may incur not only losses of this nature but also the suspicion of criminal activity."
 
 ## Outcome
 
@@ -41,4 +41,4 @@ The merchants lost their claim for compensation and were forced to return the go
 
 ## Sources
 
-- Bang, Peter Fibiger — The Roman Bazaar: A Comparative Study of Trade and Markets in a Tributary Empire (discussing a ruling by Severus and Caracalla, AD 204; citing Talmudic and Roman legal parallels)
+- Bang, Peter Fibiger — The Roman Bazaar: A Comparative Study of Trade and Markets in a Tributary Empire (discussing a ruling by Severus and Caracalla, AD 204; citing Talmudic and Roman legal parallels). The discussion supplies the comparison of Roman title rules as an obstacle to trade with the more "even-handed" Jewish rule protecting innocent buyers.

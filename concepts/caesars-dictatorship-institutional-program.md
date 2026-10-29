@@ -25,23 +25,27 @@ relationships:
 
 # Caesar's Dictatorship: The Institutional Program
 
-The parent page and [[entities/julius-caesar]] both treat "Caesar's dictatorship" as a single structural category — the terminal institution before Augustus. Marin's Chapter 8 gives this category concrete content: a specific, dated set of governing measures covering amnesty policy, magistracy counts, senate composition, provincial administration, debt, and the calendar, several of which directly anticipate or constrain what Augustus inherited.
+Caesar's dictatorship (48–44 BC) instituted a comprehensive program of administrative, legislative, and institutional reforms that systematically centralized authority while retaining traditional Republican magistracies and assemblies.
 
 ## Key Ideas
 
-- **Amnesty as a deliberate break with precedent.** On returning to Rome in September 45 BC, Caesar's first major act was a general amnesty for everyone who had fought against him in the civil war. Marin frames this explicitly against the precedent set by Marius and Sulla, both of whom "embarked upon violent and bloody attacks on their enemies" as dictators — Caesar's amnesty was "at least" a deliberate effort "not to emulate Sulla," which calmed remaining senatorial fears even as his later *Anticato* pamphlet (savaging the dead Cato) undermined the amnesty's credibility.
-- **Senate expansion.** Caesar raised the senate's membership to 900, replenishing a body depleted by civil-war deaths and rewarding Italian provincials who had supported him — a move Marin reads as continuing the post–Social War project of binding Italy into the Roman political structure, begun in the early 90s BC.
+- **Amnesty and clementia:** On returning to Rome in September 45 BC, Caesar declared a general amnesty for surviving opponents in the civil war. In deliberate contrast to the violent proscriptions of Marius and Sulla, this policy of *clementia* sought to reconcile the aristocracy and restore public order, though pardoned senators often resented owing their survival to individual executive grace. ^[inferred]
+- **Senate expansion.** Caesar expanded the Senate to 900 members, replenishing war losses and incorporating municipal aristocrats from Italy and Cisalpine Gaul, advancing the integration of Italian elites into the imperial government.
 - **Magistracy expansion paired with election suspension.** Caesar increased the praetorship from 8 to 16 holders, the aedileship from 4 to 6, and the quaestorship from 20 to 40, while the functions of each office stayed the same — diluting the prestige and individual power of each post. Simultaneously, no elections were held at all in 47 BC or for most of 46–45 BC; Caesar instead personally appointed prefects (including eight assisting Lepidus as *magister equitum* while Caesar campaigned in Spain) and, from October 45, controlled who filled the suffect consulships (Quintus Fabius Maximus and Gaius Trebonius) while himself remaining dictator throughout.
-- **Provincial governor term limits.** Caesar capped propraetors at one year and proconsuls at two years in their provinces — a measure Marin reads as a check against any future commander repeating Caesar's own roughly ten-year hold on Gaul, the command that had made his private army possible in the first place. ^[inferred] (Marin states the term-limit measure and Caesar's own ten-year Gaul tenure as separate facts; the causal "check against repeating his own command" reading is the page's synthesis.)
+- **Provincial tenure limits:** Caesar restricted propraetorian commands to one year and proconsular commands to two years, curbing the prolonged military governorships that had destabilized the Republic.
 - **Economic and social measures.** Caesar cut the number of citizens eligible for free grain, required large landowners to draw one-third of their labor force from the free urban poor rather than slaves, cancelled roughly a quarter of all outstanding debt, banned the *collegia* (urban associations) that [[entities/publius-clodius-pulcher|Clodius]] had revived and that had fueled 50s-BC street violence, extended Roman citizenship to Greek teachers and doctors to encourage immigration of skilled non-citizens, and removed the publican tax-farming system in Asia in favor of direct provincial tax collection.
-- **Calendar reform.** Caesar's reworking of the calendar — converting from a lunar to a 365¼-day solar year with a leap day every four years — corrected an accumulated drift Marin estimates had left the pre-reform year running as long as 444 days; this is presented as his most durable non-political legacy.
-- **Honors preceding "Caesar as King?"** By late 45–44 BC the senate had voted Caesar *praefectus morum* (overseer of morals, parallel to the censorship) and *dictator perpetuus* (dictator for life) — honors Marin notes may have been offered by a "weakened senate" anticipating Caesar's expectations rather than at his explicit request, setting up the final crisis Marin's next section narrates.
+- **Calendar reform:** The introduction of the Julian calendar replaced the chaotic lunar calendar with a 365¼-day solar cycle, establishing uniform administrative and agricultural timekeeping across the empire.
+- **Monarchical honors and ideological crisis:** By 45–44 BC, the Senate conferred unprecedented divine and royal honors (*dictator perpetuo*, public statues among kings, golden throne), intensifying fears that Caesar intended to replace the Republic with Hellenistic monarchy.
 
 ## Open Questions
 
-- Marin does not resolve whether the magistracy expansion (doubling praetors, etc.) was intended as a genuine broadening of opportunity for Caesar's new senatorial appointees or primarily a mechanism for diluting the independent power of any single office-holder — both readings are consistent with her account but she does not adjudicate between them. ^[ambiguous]
-- The election suspension of 47–45 BC sits in tension with Caesar's framing (elsewhere in Marin's narrative) as restoring "ordinary business of state" after the civil war; Marin reports both facts without reconciling how the one-year gap in elections fits a restoration narrative. ^[ambiguous]
+Whether the expansion of magistracies was intended to broaden political representation or merely reward personal partisans remains an open question.
+The suspension of regular consular elections during the civil wars stood in sharp contrast to public claims of restoring the ancestral Republic.
 
 ## Sources
+
+- Brian Campbell, *The Ancient World*.
+- Edward J. Watts, *Mortal Republic*.
+- Theodor Mommsen, *History of Rome*.
 
 - [[references/marin-blood-in-the-forum]]

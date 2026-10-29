@@ -21,23 +21,23 @@ summary: "Justinian’s legal reforms integrated juristic law with imperial legi
 tags: ["domain/economic", "domain/legal", "domain/political", "period/late-antiquity", "type/entity"]
 tier: "supporting"
 title: "Justinian"
-updated: "2026-10-29T21:55:27Z"
+updated: "2026-10-29T22:58:00Z"
 ---
 # Justinian
 
 Justinian was a Roman emperor who ruled from 527 to 565 CE. His government used legislation to regulate legal authority, senatorial standing, church property, and provincial administration. The Digest and the revised Code of 534 integrated inherited Roman jurisprudence with imperial statutory law, making his reign a decisive stage in the transmission and reorganization of Roman law.
 
-The reforms also made claims about the past. Willem Zwalve interprets the codification as an assertion of imperial control over a body of law that had previously retained an autonomous authority, justified by presenting juristic authority as dependent on emperors since Augustus.
+The reforms also made claims about the past. The codification asserted direct imperial control over a body of law that had previously retained an autonomous authority, justified by presenting juristic authority as dependent on emperors since Augustus.
 
 ## Juristic authority and the codification
 
-Zwalve challenges the tradition that Augustus established an imperial *ius respondendi* authorizing jurists to issue opinions. He observes that no jurist in the Digest speaks, responds, or decides *ex auctoritate principis*. In his account, the only securely attested pre-Justinianic imperial constitution granting authority to juristic writings is the Law of Citations of 426.
+The tradition that Augustus established an imperial *ius respondendi* authorizing jurists to issue opinions is unproven: no jurist in the Digest speaks, responds, or decides *ex auctoritate principis*. The only securely attested pre-Justinianic imperial constitution granting statutory authority to juristic writings is the Law of Citations of 426.
 
 That law supplied judges with a canon of authoritative jurists and rules for handling disagreement, while still recognizing the *ius civile* as an autonomous source of law. Justinian integrated it with imperial statutory law. The insertion of the constitutions *Deo auctore* and *Tanta* into the second Code of 534, replacing the Law of Citations, expressed this change.
 
-Zwalve argues that Justinian and Tribonian justified the innovation by presenting juristic authority as dependent on emperors since Augustus. The claimed transfer of the Roman people’s power to the emperor thus served a contemporary reforming purpose. This reconstruction is Zwalve’s interpretation of the evidence, not an uncontested account of Augustan practice.
+Justinian and Tribonian justified the innovation by presenting juristic authority as dependent on imperial sanction since Augustus. The claimed transfer of the Roman people’s power to the emperor thus served a contemporary reforming purpose. This reconstruction represents one interpretation of the juristic evidence rather than an uncontested account of Augustan practice.
 
-The surrounding argument identifies the promulgation of the Digest on 16 December 533 as the decisive moment in this transformation. It also cites Justinian’s constitution of 529, Code 1.14.12.3, asserting that making laws was reserved to the emperor and that interpreting them belonged to imperial authority. Zwalve reads the compilers’ treatment of Pomponius’ account of jurists as a means of giving this new doctrine a traditional pedigree; the proposed editorial reconstruction remains an argument about how the Digest was made.
+The surrounding argument identifies the promulgation of the Digest on 16 December 533 as the decisive moment in this transformation. It also cites Justinian’s constitution of 529, Code 1.14.12.3, asserting that making laws was reserved to the emperor and that interpreting them belonged to imperial authority. The compilers' treatment of Pomponius' account of jurists provided this new doctrine with a traditional pedigree, reflecting editorial shaping during the compilation of the Digest.
 
 ## Governing through legislation
 

@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:12Z"
 relationships:
   - target: "[[concepts/roman-religion-and-augury]]"
     type: elaborates
@@ -43,8 +43,9 @@ Caesar's laws took effect and were never formally invalidated during the Republi
 
 ## Open Questions
 
-- Driediger-Murphy's central scholarly intervention is to argue that the dominant modern reading of this affair (that Bibulus's sky-watching alone, without a formal announcement, should have been sufficient to block the assemblies, and that only Caesar's violent disregard for law explains why it didn't) misreads the underlying augural doctrine on the required formal *obnuntiatio* procedure. The chapter-level mechanics of her argument on this point were sampled from the book's introduction and index rather than read in full here. ^[ambiguous]
+- Whether sky-watching alone, without a formal in-person *obnuntiatio*, sufficed to block assemblies remains disputed. One interpretation holds that it did and that Caesar's violent disregard for law explains the assemblies' continuation; another holds that a binding obstruction required the formal announcement. The latter interpretation underlies the procedural qualification used here, but its detailed basis has not been fully assessed. ^[ambiguous]
 
 ## Sources
 
 - Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control, Ch. 2 ("'Watching the Sky'") and Appendix ("Ancient References to the Bibulus Affair")
+- Driediger-Murphy challenges the dominant modern reading that Bibulus's sky-watching alone should have blocked the assemblies, emphasizing the required formal *obnuntiatio*. This account sampled the introduction and index rather than reading the chapter-level argument in full; the competing interpretations therefore remain unresolved here.

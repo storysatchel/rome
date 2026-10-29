@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:30Z"
-updated: "2026-10-24T19:11:30Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Execution of Julius Canus by Caligula
 
-This is a historical-anecdotal episode as related in Seneca's *On Tranquillity of Mind* (ch. 14), presented as a real event from Seneca's own era rather than distant legend — Seneca stresses that "the circumstance that he was born in our own age cannot dim our admiration of him." It is a small, specific instance of arbitrary imperial violence against a private citizen in [[entities/rome|Rome]] ^[inferred: Seneca's text does not name the city, but Caligula's court was based at Rome], not part of any larger political crisis already covered in this wiki.
+Julius Canus faced an arbitrary execution ordered by Caligula after a personal confrontation, responding with the philosophical composure celebrated in Seneca's *On Tranquillity of Mind* (ch. 14). Seneca presents the episode as a real event from his own era rather than distant legend, stressing that "the circumstance that he was born in our own age cannot dim our admiration of him." The confrontation presumably occurred in [[entities/rome|Rome]] ^[inferred: Seneca's text does not name the city, but Caligula's court was based at Rome].
 
 ## Parties & Stakes
 
@@ -42,4 +42,4 @@ Canus is executed, one of several deaths Seneca groups under the phrase "Caligul
 
 ## Sources
 
-- Seneca — Stoic Philosophy of Seneca
+- Seneca — Stoic Philosophy of Seneca, *On Tranquillity of Mind*, ch. 14.

@@ -15,7 +15,7 @@ updated: "2026-10-24T19:09:16Z"
 
 # Gaius Maenius (dictator 314 BC)
 
-C. Maenius was appointed dictator in 314 BC to investigate conspiracies in Campania. He extended his investigation to prominent Romans suspected of seeking magistracies fraudulently, provoking complaints that forced him and his *magister equitum* [[entities/marcus-folius-magister-equitum]] to resign. The episode's historicity is contested by modern scholars.
+C. Maenius was appointed dictator in 314 BC to investigate conspiracies in Campania. He extended his investigation to prominent Romans suspected of seeking magistracies fraudulently, provoking complaints that forced him and his *magister equitum* [[entities/marcus-folius-magister-equitum]] to resign. The episode's historicity remains contested.
 
 ## Appears In
 

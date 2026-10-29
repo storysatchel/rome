@@ -3,7 +3,7 @@ title: Magistrates and Assemblies
 category: references
 tags: [comitia, legislation, roman-republic, tribunate, constitutional-history]
 sources: ["Sandberg, Kaj — Magistrates and Assemblies: A Study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)"]
-summary: Sandberg's 2001 study argues specific Roman magistracies had non-random preferences for specific legislative assemblies, challenging the consensus that comitial competence was undifferentiated.
+summary: Specific Roman magistracies may have favored particular legislative assemblies, an alternative to undifferentiated comitial competence rather than a definitive reconstruction.
 provenance:
   extracted: 0.75
   inferred: 0.2
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:54Z"
-updated: "2026-10-24T06:49:54Z"
+updated: "2026-10-29T22:41:10Z"
 relationships:
   - target: "[[references/botsford-roman-assemblies]]"
     type: uses
@@ -25,16 +25,16 @@ Kaj Sandberg published *Magistrates and Assemblies: A Study of Legislative Pract
 
 ## Core Argument / Thesis
 
-Sandberg challenges the "commonly assumed" scholarly consensus — represented explicitly by Ernst Meyer and Jochen Bleicken — that after the *lex Hortensia* of 287 BC there was no meaningful distribution of legislative competence among Rome's different popular assemblies, i.e., that it was essentially indifferent in which assembly form a law was passed. Since it is well established which specific assembly elected which magistrates, Sandberg argues it is reasonable to suspect — and sets out to demonstrate — that the passage of legislation was similarly subject to discernible patterns or conventions linking particular categories of [[concepts/roman-magistracies|magistrates]] to particular categories of law and particular [[concepts/popular-assemblies-rome|assemblies]], even without rigid formal "competence" in a modern constitutional sense.
+The "commonly assumed" model of legislative competence holds that after the *lex Hortensia* of 287 BC there was no meaningful distribution of legislative competence among Rome's different popular assemblies, i.e., that it was essentially indifferent in which assembly form a law was passed. An alternative reconstruction starts from the established allocation of magistrate elections to specific assemblies and proposes that the passage of legislation was similarly subject to discernible patterns or conventions linking particular categories of [[concepts/roman-magistracies|magistrates]] to particular categories of law and particular [[concepts/popular-assemblies-rome|assemblies]], even without rigid formal "competence" in a modern constitutional sense.
 
 ## Key Claims and Evidence
 
-- Roman popular sovereignty rested, at least in theory, on the principle that only the people could confer magistracies (and *imperium*), judge capital crimes, and make law; this popular will was expressed only through the *comitia* (a formal voting assembly), never the *contio* (a mere meeting for debate or announcement) — a distinction Sandberg credits to Botsford's and Lily Ross Taylor's prior scholarship. ^[extracted]
+- Roman popular sovereignty rested, at least in theory, on the principle that only the people could confer magistracies (and *imperium*), judge capital crimes, and make law; this popular will was expressed only through the *comitia* (a formal voting assembly), never the *contio* (a mere meeting for debate or announcement). ^[extracted]
 - Three voting-unit types produced three distinguishable assemblies: the *comitia curiata* (by *curiae*, the oldest, reflecting primitive clan society and largely reduced by the late Republic to 30 lictors representing the curiae), the *comitia centuriata* (by *centuriae*, instituted per tradition by Servius Tullius, functioning as a military-derived body that could only meet *extra pomerium* and became chiefly an electoral body for the chief magistracies), and the *comitia tributa* (by the 35 tribes, fixed in number by 241 BC).
-- The precise relationship between the *concilium plebis* (the plebeian assembly, traditionally established after the first *secessio* of 494 BC, presided over by a tribune) and the *comitia tributa* is disputed — some treat them as wholly distinct bodies, others as effectively identical — and Sandberg flags this as a problem of "greatest relevance" to his study, reserved for extended treatment.
+- The precise relationship between the *concilium plebis* (the plebeian assembly, traditionally established after the first *secessio* of 494 BC, presided over by a tribune) and the *comitia tributa* is disputed — some treat them as wholly distinct bodies, others as effectively identical; this uncertainty directly affects reconstructions of legislative practice.
 - A bill (*rogatio*, from *rogare*, "to ask") underwent a formal *promulgatio* (public posting and recitation, typically weeks before the vote) followed by public debate in a series of *contiones* featuring prepared *suasiones* and *dissuasiones*, before the *contio* was dissolved and reconstituted as a *comitia* for voting; citizens could only answer *uti rogas* ("as you propose") or *antiquo* ("I prefer the old state of things"), never amend the text.
 - Originally *lex* denoted only decisions of the full *populus*, while a decision of the *concilium plebis* under a tribune was a *plebiscitum*; after the *lex Hortensia* of 287 BC gave plebiscites the same binding force on all citizens (the *exaequatio legibus*), the two terms became interchangeable in common usage, though some inscriptions preserve the older technical distinction.
-- The *patrum auctoritas* — the formal assent of the senate (or perhaps only patrician senators) once required for comitial decisions to take legal effect — became a mere formality over time, a development Sandberg treats as part of the broader trajectory from aristocratic to more genuinely popular constitutional practice. ^[inferred]
+- The *patrum auctoritas* — the formal assent of the senate (or perhaps only patrician senators) once required for comitial decisions to take legal effect — became a mere formality over time, a development that may form part of the broader trajectory from aristocratic to more genuinely popular constitutional practice. ^[inferred]
 - Earlier scholarship (Mommsen's *Römisches Staatsrecht*, Bleicken's *Lex publica* and *Die Verfassung der römischen Republik*, Lintott's *The Constitution of the Roman Republic*) consistently treated the various assemblies collectively, in relation to the senate and magistrates as the other "elements" of a tripartite constitution — a framing descending from Polybius himself — without probing why several distinct assemblies coexisted; Sandberg identifies this collective treatment, alongside the Gelzerian emphasis on *clientela* over institutions as drivers of Roman politics, as the main reason the institutional mechanics of comitial legislation had received only "incidental attention" before his study.
 
 ## Structure / Scope
@@ -47,7 +47,7 @@ Sandberg positions his book within, but also against, a century of German-domina
 
 ## Open Questions
 
-- Sandberg explicitly concedes that the evidentiary base is "extremely limited" and that "many other interpretations than those that will be offered here are perfectly possible" — he frames the book's goal as showing existing consensus views are problematic rather than proving a definitive alternative. ^[ambiguous]
+- The evidentiary base is "extremely limited" and that "many other interpretations than those that will be offered here are perfectly possible" — he frames the book's goal as showing existing consensus views are problematic rather than proving a definitive alternative. ^[ambiguous]
 - The exact institutional boundary between the *concilium plebis* and the *comitia tributa* is deferred to a dedicated later chapter (4.2.2) and is treated throughout as unresolved in the wider field. ^[ambiguous]
 
 ## Related Scenarios
@@ -56,5 +56,7 @@ Sandberg positions his book within, but also against, a century of German-domina
 - [[scenarios/the-prosecution-campaign-against-manlius-vulso]] — the 177 BC tribunician bid to strip consul A. Manlius Vulso of his command after his Histrian defeat.
 
 ## Sources
+
+- Interpretive provenance: the alternative pattern of legislative competence follows Sandberg (2001), against Meyer and Bleicken; the *comitia*/*contio* distinction draws on Botsford and Lily Ross Taylor as credited there. The evidence is limited and does not establish a definitive alternative.
 
 - Sandberg, Kaj — Magistrates and Assemblies: A Study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)

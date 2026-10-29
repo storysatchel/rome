@@ -25,7 +25,7 @@ updated: "2026-10-29T21:54:20Z"
 ---
 # coloni
 
-*Coloni* were cultivators whose relations to land varied considerably. Kehoe’s account distinguishes the secure tenures used on imperial estates from the late antique bound colonate. Treating all tenants as one uniformly unfree class obscures these differences.
+*Coloni* were cultivators whose relations to land varied considerably, ranging from secure tenures on imperial estates to the late antique bound colonate. Treating all tenants as one uniformly unfree class obscures these differences.
 
 ## Imperial estates and secure cultivation
 
@@ -35,7 +35,7 @@ Cultivators could also press claims against imperial agents. A third-century pet
 
 ## Bound tenants and restrictions on sale
 
-The origins and operation of the bound colonate remain debated. Kehoe interprets its principal purpose as securing taxation by keeping cultivators on their land. In 357, Constantius II prohibited an owner selling or giving away land from privately retaining its bound coloni for transfer elsewhere. Another law forbade the separate sale of coloni and slaves registered on an estate.
+The origins and operation of the bound colonate remain debated. Its primary function was securing imperial taxation and agricultural continuity by preventing cultivators from abandoning their holdings. In 357, Constantius II prohibited an owner selling or giving away land from privately retaining its bound coloni for transfer elsewhere. Another law forbade the separate sale of coloni and slaves registered on an estate.
 
 These rules constrained owners as well as cultivators. The government treated the labour attached to land as essential to production and tax revenue, not simply as an asset an owner could move or sell at will. Protected cultivation rights could meanwhile make the distinction between tenancy and ownership difficult in practice.
 
@@ -45,6 +45,8 @@ These rules constrained owners as well as cultivators. The government treated th
 - [[concepts/roman-law-and-trials]]
 
 ## Sources
+
+- Dennis P. Kehoe, *Private Property Rights and Public Claims on Land*: imperial leaseholds, agrarian contracts, and the late Roman bound colonate.
 
 - _raw/9789004525139-BP000002.pdf — p.13.1
 - _raw/9789004525139-BP000002.pdf — p.7.1

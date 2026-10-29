@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[entities/marcus-claudius-marcellus]]"
     type: mentions
@@ -28,7 +28,7 @@ In 215 BC, at the height of Hannibal's invasion of Italy, the newly elected cons
 
 - **M. Claudius Marcellus** ([[entities/marcus-claudius-marcellus]]), cos. 215 (his second consulship) — took the formal first auspices of his new term, heard thunder, and was consequently declared *vitio creatus* ("wrongly elected" due to ritual flaw).
 - The College of Augurs — pronounced the thunder a disqualifying sign for Marcellus's inaugural auspication.
-- The Senate majority — modern scholars (cited skeptically by Driediger-Murphy) have long suspected this body of using the ritual ruling to remove Marcellus from the consulship for underlying political reasons, since a plebeian holding both consulships alongside a patrician colleague in a crisis year may have been seen as undesirable.
+- The Senate majority — may have used the ritual ruling to remove Marcellus from the consulship for underlying political reasons; the political-motive interpretation remains disputed.
 
 ## What Happened
 
@@ -36,16 +36,16 @@ Newly elected consuls took a specific set of initial auspices on entering office
 
 ## Outcome
 
-Marcellus stepped down from the consulship almost as soon as he had assumed it, one of the clearest attested Republican cases of a magistrate submitting to augural law even against his own evident interest. Driediger-Murphy cites the episode as a key counterexample to the "functionalist" scholarly view that Roman elites treated augury as a tool to be manipulated for political convenience: here, a powerful, militarily indispensable consul complied with an unfavorable ritual finding that cost him real power, with no plausible political benefit to himself from doing so.
+Marcellus stepped down from the consulship almost as soon as he had assumed it, one of the clearest attested Republican cases of a magistrate submitting to augural law even against his own evident interest. His abdication challenges the view that Roman elites treated augury only as a tool to be manipulated for political convenience: a powerful, militarily indispensable consul complied with an unfavorable ritual finding that cost him real power, with no plausible political benefit to himself from doing so. This does not settle whether other senators promoted the ruling for political reasons.
 
 ## Outcome Notes
 
-Ancient and modern scholars alike (Livy, Plutarch; modern historians like Linderski and Scullard) have speculated that the senate majority's underlying motive for pressing the ritual finding may have been political — discomfort with a plebeian consul's growing military prominence — but even on this reading, the *mechanism* used to remove him was binding religious ritual, not an open political vote, underscoring how seriously the apparatus of augural law was treated even when politically convenient.
+Livy and Plutarch suggest that the senate majority's underlying motive for pressing the ritual finding may have been political — discomfort with a plebeian consul's growing military prominence. Even on this reading, the *mechanism* used to remove him was binding religious ritual, not an open political vote, underscoring how seriously the apparatus of augural law was treated even when politically convenient.
 
 ## Open Questions
 
-- Whether the augural ruling against Marcellus was religiously sincere or politically engineered by senators uncomfortable with his prominence is explicitly debated among the modern scholars Driediger-Murphy cites, and she does not claim to resolve the question definitively for this specific case. ^[ambiguous]
+- Whether the augural ruling against Marcellus was religiously sincere or politically engineered by senators uncomfortable with his prominence remains disputed; this case does not definitively resolve the issue. ^[ambiguous]
 
 ## Sources
 
-- Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control, Ch. 1 ("Report versus Reality in Augury"), citing Livy 23.31.12–14 and Plutarch, *Marcellus* 12
+- Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control, Ch. 1 ("Report versus Reality in Augury"), citing Livy 23.31.12–14 and Plutarch, *Marcellus* 12. Driediger-Murphy uses the abdication against purely functionalist readings of augury and treats political explanations skeptically without definitively resolving this case. The political-motive interpretation is also discussed by Linderski and Scullard.

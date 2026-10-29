@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-29T22:01:41Z"
+updated: "2026-10-29T23:09:56Z"
 ---
 
 # Hot Cache
@@ -9,9 +9,9 @@ updated: "2026-10-29T22:01:41Z"
 
 ## Recent Activity
 
+- [2026-10-29T23:09:56Z] Completed vault-wide attribution refactor across all articles: modern scholarly narration ("X argues", "according to Y") was converted to direct subject-focused exposition, contested historical interpretations were preserved with precise uncertainty, and specific scholarly attributions and locators were consolidated into `## Sources` notes.
 - [2026-10-29T22:01:41Z] Re-researched 87 entity, concept, and scenario articles against underlying source sections, expanding their substance and replacing extraction lists with cohesive prose and compact source notes. Direct writes are enabled; Git is the review and rollback boundary.
 - [2026-10-29T20:16:20Z] Committed 91 new focused entity, concept, and scenario articles plus 13 live-page patches. Eighty duplicate staged reference files matched existing live pages byte-for-byte and were cleared; no category page or patch remained staged. Internal `_meta/` and `_work/` control artifacts remain for audit provenance.
-- [2026-10-29T19:06:35Z] Committed the audited Roman-history ingest: 80 new reference pages and 13 consolidated live-page patches are active; all 95 raw sources passed hash checks and moved to `_raw/_archived/`, with provenance recorded in `.manifest.json`.
 
 ## Active Threads
 

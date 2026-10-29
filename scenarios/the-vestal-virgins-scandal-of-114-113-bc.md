@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 Amid a decade dominated by a narrow clique of senatorial families, [[entities/rome|Rome]] was shaken by allegations that three [[entities/vestal-virgins|Vestal Virgins]] had broken their vows of chastity. The priestesses were initially tried before a panel of Roman priests — who were themselves all senators — and the outcomes split sharply along the social class of the men the Vestals were accused of consorting with.
@@ -23,7 +23,7 @@ Amid a decade dominated by a narrow clique of senatorial families, [[entities/ro
 
 - **An unnamed Vestal accused of a liaison with a Roman equite** — outcome: convicted in 114 BC and buried alive, the traditional punishment for an unchaste Vestal
 - **Two unnamed Vestals accused of relations with senatorial men** — initially acquitted by the senatorial panel of priests
-- **A tribune of 113 BC (unnamed in Watts's account)** — goal: correct the perceived double standard; proposed a law creating a special, independent court to retry the case
+- **A tribune of 113 BC (unidentified here)** — goal: correct the perceived double standard; proposed a law creating a special, independent court to retry the case
 - **The Roman public** — stakes: trust that the courts would not simply protect senators' families from consequences
 
 ## What Happened
@@ -36,9 +36,10 @@ The new commission retried the matter, and all three Vestals were ultimately put
 
 ## Open Questions
 
-- Neither Watts nor Mommsen names the three Vestals or their alleged partners in detail; Mommsen's brief reference (via the "Peducaean law of 641 [113 BC]") corroborates the special court's creation but adds no further names.
+- The identities of the three Vestals and their alleged partners remain unspecified here.
 
 ## Sources
 
 - Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny
 - Mommsen, Theodor — The History of Rome (Books 1-5)
+- Source scope: Watts does not name the tribune, and neither Watts nor Mommsen identifies the three Vestals or their alleged partners in detail. Mommsen's reference to the "Peducaean law of 641 [113 BC]" corroborates the special court's creation without adding names.

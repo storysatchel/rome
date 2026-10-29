@@ -41,7 +41,7 @@ The route linked the Capitol, where the consuls’ inaugural parade had ended, t
 
 ## A disputed boundary of command
 
-Scholars disagree over the *pomerium*’s precise role in this transition. Mommsen treated crossing Rome’s sacred boundary as the change from civil magistrate to military commander. Giovannini objected that the surviving descriptions do not identify that boundary as decisive, emphasizing instead senatorial authorization and the symbolic adoption of military dress. The ceremony’s significance is clearer than a single uncontested legal interpretation of it.
+The *pomerium*’s precise role in this transition is disputed. One interpretation treats crossing Rome’s sacred boundary as the change from civil magistrate to military commander. An alternative objects that the surviving descriptions do not identify that boundary as decisive, emphasizing instead senatorial authorization and the symbolic adoption of military dress. The ceremony’s significance is clearer than a single uncontested legal interpretation of it.
 
 ## Related Pages
 
@@ -49,4 +49,4 @@ Scholars disagree over the *pomerium*’s precise role in this transition. Momms
 
 ## Sources
 
-- `_raw/The Consul at Romepdf.pdf`, p.156.1–p.157.1, printed pp.144–145, on Juno Sospita; p.227.1–p.229.1, printed pp.215–217, on duties, delays, procession, and the debate over the *pomerium* (B08; original passage IDs: `raw-4a65ba39c368`, `raw-e2c171df8400`).
+- `_raw/The Consul at Romepdf.pdf`, p.156.1–p.157.1, printed pp.144–145, on Juno Sospita; p.227.1–p.229.1, printed pp.215–217, on duties, delays, procession, and the *pomerium* debate: Mommsen treated crossing the boundary as the decisive transition, while Giovannini emphasized authorization and military dress instead (B08; original passage IDs: `raw-4a65ba39c368`, `raw-e2c171df8400`).

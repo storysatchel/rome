@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29"
 ---
 
 # The Caepio–Scaurus Mutual Prosecution Feud (92/91 BC)
 
-Two of the Late Republic's most senior and bitterest rivals, Q. Servilius Caepio and M. Aemilius Scaurus, each accused the other of extortion (*repetundae*) in the same short window of late 92 to early 91 BC — and each tried to manipulate the courts' scheduling rules to see his own rival tried first (Alexander, cases #96–97).
+Two of the Late Republic's most senior and bitterest rivals, Q. Servilius Caepio and M. Aemilius Scaurus, each accused the other of extortion (*repetundae*) in the same short window of late 92 to early 91 BC — and each tried to manipulate the courts' scheduling rules to see his own rival tried first.
 
 ## Parties & Stakes
 

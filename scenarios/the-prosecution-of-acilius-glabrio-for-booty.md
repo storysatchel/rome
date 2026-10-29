@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Tribunician Prosecution of Acilius Glabrio Over War Booty (189 BC)
@@ -29,7 +29,7 @@ In early 189 BC, M'. Acilius Glabrio — consul of 191 BC and victor over Antioc
 
 ## What Happened
 
-The surviving fragment of Cato's speech shows him taking the occasion to emphasize his own excellent handling of military matters during the [[entities/hispania|Spanish]] campaign, implicitly contrasting it with Glabrio's alleged deficiencies in accounting for the Thermopylae booty. ^[extracted] The prosecution came at a politically charged moment: Cato and Glabrio were about to stand as rival candidates for the censorship of 189 BC, and Astin notes it is reasonable, though not provable, that rivalry for that office motivated or intensified the attack. ^[inferred]
+The surviving fragment of Cato's speech shows him taking the occasion to emphasize his own excellent handling of military matters during the [[entities/hispania|Spanish]] campaign, implicitly contrasting it with Glabrio's alleged deficiencies in accounting for the Thermopylae booty. ^[extracted] The prosecution came at a politically charged moment: Cato and Glabrio were about to stand as rival candidates for the censorship of 189 BC. Rivalry for that office may have motivated or intensified the attack, though this cannot be proved. ^[inferred]
 
 ## Outcome
 
@@ -38,8 +38,9 @@ The precise verdict is not recorded in the surviving sources, but Glabrio's cand
 ## Open Questions
 
 - The two tribunes who brought the charge are not named in the surviving record.
-- Whether the prosecution was motivated primarily by genuine financial malfeasance or by censorial electoral rivalry is explicitly debated by modern scholars. ^[ambiguous]
+- Whether the prosecution was motivated primarily by genuine financial malfeasance or by censorial electoral rivalry remains disputed. ^[ambiguous]
 
 ## Sources
 
 - Astin, A.E. — Cato the Censor
+- Astin regards censorial rivalry as a reasonable but unprovable explanation for the attack; the relative weight of electoral rivalry and financial malfeasance remains disputed.

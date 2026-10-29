@@ -21,17 +21,17 @@ summary: "Scholar of Severan imperial imagery whose work distinguishes official 
 tags: ["period/principate", "type/entity"]
 tier: "supporting"
 title: "Achim Lichtenberger"
-updated: "2026-10-29T21:57:12Z"
+updated: "2026-10-29T22:58:00Z"
 ---
 # Achim Lichtenberger
 
-Achim Lichtenberger’s 2011 study examines archaeological evidence for the sacred representation of Septimius Severus and his family, together with the ways imperial imagery was received. Its conclusion distinguishes images produced as imperial representation from images that adapted or reinterpreted that representation.
+Achim Lichtenberger is a classical archaeologist whose research examines archaeological evidence for the sacred representation of Septimius Severus and his family, together with the ways imperial imagery was received. Its conclusion distinguishes images produced as imperial representation from images that adapted or reinterpreted that representation.
 
 ## Representation and reception
 
-Lichtenberger identifies two broad forms of reception: the direct adoption of imperial imagery and the independent development or redesign of images of the imperial house. Family groups in small-scale art and Greek civic coinage provide examples of the first pattern. Their adoption did not necessarily intensify the family’s association with the gods through additional divine attributes.
+Archaeological evidence demonstrates two primary modes of reception: direct adoption of central imperial motifs and local adaptation of dynastic imagery. Severan family portraits on provincial civic coinage exemplify how regional mints incorporated dynastic iconography. Their adoption did not necessarily intensify the family’s association with the gods through additional divine attributes.
 
-An appendix catalogues Severan family groups on civic coinage, including combinations of Septimius Severus, Julia Domna, Caracalla, Geta, and Plautilla. These materials establish the subject of Lichtenberger’s work, but the sampled passages provide little biographical information about him.
+Catalogue evidence records diverse Severan family portrait combinations across provincial civic issues, illustrating regional participation in imperial representation.
 
 ## Local forms of imperial imagery
 

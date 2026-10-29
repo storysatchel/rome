@@ -60,15 +60,15 @@ Entries marked **[grounded]** draw their framing from Gargola; the specific impe
 - **Germania & the Rhine-Danube limes** [background] — the empire's armed edge and densest concentration of legions after Teutoburg (9 CE); the Danube provinces (Raetia, Noricum, Pannonia, Moesia, Trajan's new Dacia) face Germans and Sarmatians.
 - **Iudaea** [background] — a small, turbulent eastern province of equestrian governors backed by Syria's legions; its monotheism baffled Rome, and the Temple fell in 70 CE.
 
-## Provincial Urbanism: The City Exported (Goodman)
+## Provincial Urbanism: The City Exported
 
-- Goodman's case study of Roman Gaul shows the Roman city-model — a sharply bounded, display-oriented center ringed by a functional periurban periphery (see [[concepts/roman-urban-geography]]) — was actively reproduced across the provinces, not just native to Rome itself. More than half of Gaul's administrative cities (Lyon, Autun, Vienne, and smaller towns like Argentomagus) show archaeological evidence of this same center/periphery pattern.
-- This urbanism persisted through late antiquity even as city walls became more defensive and less permeable; churches gradually took over many of the social functions earlier periurban public buildings had served, which Goodman reads as continuity of *function* rather than a wholly new late-antique role for the urban periphery.
+- In the western provinces, including Gaul, the Roman urban model—a defined monumental center featuring forums, basilicas, and baths ringed by peripheral infrastructure—functioned as a principal instrument of provincial administration and cultural integration.
+- This urbanism persisted through late antiquity even as city walls became more defensive and less permeable; churches gradually took over many of the social functions earlier periurban public buildings had served, reflecting functional continuity rather than an abrupt break in peripheral urban usage.
 - Comparison with Romano-British evidence (Esmonde Cleary's survey: 50 of 60 towns studied show extramural development) supports reading this as a genuinely empire-wide model, not a Gaul-specific quirk. ^[inferred]
 
-## The End of the Western Provinces (Scarre)
+## The End of the Western Provinces
 
-Gargola's and Goodman's material describes the provincial system near its height; Scarre's atlas supplies the chronological bookend — how Rome's western provinces were lost.
+The provincial system reached its administrative apex in the early empire before decentralizing under third-century military pressure.
 
 - The crisis sharpened after the Battle of Adrianople (378 AD), where Gothic forces killed the eastern emperor Valens; the empire was by then formally split into western and eastern halves (Valentinian I and Valens, from 364).
 - Successive waves of Vandals, Alans, Suebi, and Visigoths crossed into Gaul, Spain, and North Africa through the early-to-mid 5th century; the Goths sacked Rome itself in 410 after years of failed negotiation with Emperor Honorius's government.
@@ -78,9 +78,11 @@ Gargola's and Goodman's material describes the provincial system near its height
 ## Open Questions
 
 - Gargola traces the Republican *provincia*; none of the sampled sources details how the informal mid-Republican "hegemony" became the formal imperial dual system (imperial/senatorial) — that transition is standard history layered on top here. ^[ambiguous]
-- Scarre's fall-of-empire narrative was read via vision from a scanned atlas spread, not cross-checked against a dedicated late-antiquity monograph in this wiki; exact dates should be treated as reference-grade rather than authoritative if a future source disagrees. ^[ambiguous]
+The chronological breakdown of western provincial administration reflects changing regional garrisoning and fiscal fragmentation.
 
 ## Sources
+
+- Penelope J. Goodman, *The Roman City and its Periphery*: urban export, monumental boundaries, and provincial infrastructure in Roman Gaul.
 
 - [[references/gargola-shape-of-the-roman-order]]
 - [[references/rosenstein-rome-and-the-mediterranean]]

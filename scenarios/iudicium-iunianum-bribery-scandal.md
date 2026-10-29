@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Iudicium Iunianum: A Bribed Jury and Its Cascading Prosecutions (74–70 BC)
 
-The *iudicium Iunianum* ("Junian trial," named for its presiding magistrate) of 74 BC convicted Statius Albius Oppianicus of attempted poisoning — but became notorious because at least one juror, G. Aelius Paetus Staienus, was bribed by both the prosecution and the defense simultaneously, and the resulting scandal spawned a string of separate prosecutions against individual jurors and the presiding official over the following four years (Alexander, cases #149, #153–154, #159–162, #170, #172, #175). Cicero's *Pro Cluentio* (69 or 66 BC) is the chief surviving source, defending the original prosecutor, Cluentius, against a later charge that he himself had corrupted the jury.
+The *iudicium Iunianum* ("Junian trial," named for its presiding magistrate) of 74 BC convicted Statius Albius Oppianicus of attempted poisoning — but became notorious because at least one juror, G. Aelius Paetus Staienus, was bribed by both the prosecution and the defense simultaneously, and the resulting scandal spawned a string of separate prosecutions against individual jurors and the presiding official over the following four years. Cicero's *Pro Cluentio* (69 or 66 BC) is the chief surviving source, defending the original prosecutor, Cluentius, against a later charge that he himself had corrupted the jury.
 
 ## Parties & Stakes
 

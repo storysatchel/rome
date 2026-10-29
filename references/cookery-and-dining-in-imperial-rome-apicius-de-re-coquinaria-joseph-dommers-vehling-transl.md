@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: []
   type: [reference]
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - The volume combines a critical review of Apicius, English translation of recipes/excerpts from Vinidarius, notes, facsimiles and culinary terminology (front matter, contents). ^[ambiguous]
-- The volume combines a critical review of Apicius, English translation of recipes/excerpts from Vinidarius, notes, facsimiles and culinary terminology (front matter, contents).   - Transmission is composite and unstable: manuscript/printed traditions, medieval interventions and uncertain attribution affect the received cookbook (contents; Introduction “The Book of Apicius”).   - Pompeii’s archaeological remains are presented as key evidence for domestic/public foodways, kitchens, shops, utensils and dining contexts (Introduction “Pompeii,” pp. 4–8).   - Literary witnesses (Petronius, Athenaeus, Horace, Plutarch, Seneca, Pliny) are useful but selective, moralizing or satirical; they require source criticism (Introduction, pp. 4–9).   - Apicius denotes several famous Roman gastronomes; M. Gabius Apicius is associated with Augustus/Tiberius, but authorial identity of the recipe collection is uncertain (Introduction, pp. 8–9). ^[ambiguous]
+- The volume combines a critical review of Apicius, English translation of recipes/excerpts from Vinidarius, notes, facsimiles and culinary terminology (front matter, contents).   - Transmission is composite and unstable: manuscript/printed traditions, medieval interventions and uncertain attribution affect the received cookbook (contents; Introduction “The Book of Apicius”).   - Pompeii’s archaeological remains provide evidence for domestic/public foodways, kitchens, shops, utensils and dining contexts (Introduction “Pompeii,” pp. 4–8).   - Literary witnesses (Petronius, Athenaeus, Horace, Plutarch, Seneca, Pliny) are useful but selective, moralizing or satirical; they require source criticism (Introduction, pp. 4–9).   - Apicius denotes several famous Roman gastronomes; M. Gabius Apicius is associated with Augustus/Tiberius, but authorial identity of the recipe collection is uncertain (Introduction, pp. 8–9). ^[ambiguous]
 
 ## Evidence-linked relationships
 

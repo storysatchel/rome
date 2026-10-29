@@ -3,7 +3,7 @@ title: "*The Transformation of Economic Life under the Roman Empire*"
 category: references
 tags: ["type/reference", "period/principate", "domain/economic", "place/rome"]
 sources: ["B01:9789004401624-13529.pdf"]
-summary: "Roman economic life is studied as an agrarian, urban, imperial system."
+summary: "Roman economic life combined agrarian production, urban demand and imperial institutions."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:10Z"
 facets:
   domain: [economic]
   type: [reference]
@@ -31,7 +31,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- Roman economic life is studied as an agrarian, urban, imperial system. ^[ambiguous]
+- Roman economic life combined agrarian production, urban demand and imperial institutions. ^[ambiguous]
 - Redistribution, taxation, markets, and long-distance exchange interacted rather than forming a modern free-market economy. ^[ambiguous]
 - Cities and the army were major consumers and redistributive institutions. ^[ambiguous]
 - Regional variation complicates single models of Roman economic growth. ^[ambiguous]

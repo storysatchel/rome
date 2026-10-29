@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Mamilian Commission: Mass Treason Trials over Jugurtha (109 BC)
 
-In 109 BC the tribune C. Mamilius Limetanus carried a law establishing a special standing commission (*quaestio extraordinaria*) to try Romans suspected of having taken bribes from King Jugurtha of [[entities/numidia]] or otherwise colluded with him against Roman interests. Staffed by equestrian jurors (the *Gracchani*, so called because their composition followed C. Gracchus's earlier reform giving equites control of extortion-court juries), the commission convicted most of the senior Roman commanders and politicians it tried in a single compressed wave of prosecutions (Alexander, cases #52–57).
+In 109 BC the tribune C. Mamilius Limetanus carried a law establishing a special standing commission (*quaestio extraordinaria*) to try Romans suspected of having taken bribes from King Jugurtha of [[entities/numidia]] or otherwise colluded with him against Roman interests. Staffed by equestrian jurors (the *Gracchani*, so called because their composition followed C. Gracchus's earlier reform giving equites control of extortion-court juries), the commission convicted most of the senior Roman commanders and politicians it tried in a single compressed wave of prosecutions.
 
 ## Parties & Stakes
 
@@ -42,9 +42,9 @@ The commission produced a near-total sweep of convictions against the political 
 
 ## Open Questions
 
-- Whether the trial of A. Postumius Albinus occurred at all, or whether his undiminished later career (if he is the same man as the cos. 99 of that name) implies acquittal rather than non-prosecution, is explicitly left open by Alexander. ^[ambiguous]
+- Whether the trial of A. Postumius Albinus occurred at all, or whether his undiminished later career (if he is the same man as the cos. 99 of that name) implies acquittal rather than non-prosecution, remains open. ^[ambiguous]
 - The precise division of cases among the three *quaesitores* is not fully recoverable from the surviving citations.
 
 ## Sources
 
-- Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), cases #52–57
+- Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), cases #52–57. Alexander leaves open whether A. Postumius Albinus was tried and, if so, acquitted; the inference from his later career depends on identifying him with the consul of 99.

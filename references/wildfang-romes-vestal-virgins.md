@@ -3,7 +3,7 @@ title: Rome's Vestal Virgins
 category: references
 tags: [vestal-virgins, roman-religion, priesthoods, incestum, roman-women]
 sources: ["Wildfang, Robin Lorsch — Rome's Vestal Virgins"]
-summary: Argues the Vestals' rituals were purification/storage rites (not fertility rites) rooted in their unique liminal status outside any Roman family cult.
+summary: One interpretation links Vestal purification and storage rites, rather than fertility rites, to a liminal status outside individual Roman family cults.
 provenance:
   extracted: 0.85
   inferred: 0.1
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:51:55Z"
-updated: "2026-10-24T06:51:55Z"
+updated: "2026-10-29T22:41:10Z"
 relationships:
   - target: "[[entities/vestal-virgins]]"
     type: uses
@@ -27,17 +27,17 @@ Robin Lorsch Wildfang (then project coordinator at Studenterkurset i Sønderjyll
 
 ## Core Argument / Thesis
 
-Wildfang develops a two-pronged thesis. First, against a long scholarly tradition reading Vestal ritual as fertility rites or reflections of ordinary female domestic roles, she argues the Vestals' rites were concerned with purification, storage, and the preparation of harvested grain into food — not fertility. Second, she argues many of the Vestals' most puzzling features (their legal independence, their exclusion from marriage, their unique dress and hairstyle) are explained by their dual, paradoxical status: full members of the Roman citizen class (*virgines*) who were simultaneously non-members of Rome's family-cult structure, a status that let them represent the Roman state as a whole in religious matters without risk of pollution from any individual family's cult. ^[inferred, synthesizing the author's stated two-part argument]
+One reconstruction challenges the traditional reading of Vestal ritual as fertility rites or reflections of ordinary female domestic roles: the Vestals' rites were concerned with purification, storage, and the preparation of harvested grain into food — not fertility. In this interpretation, many of the Vestals' most puzzling features (their legal independence, their exclusion from marriage, their unique dress and hairstyle) are explained by their dual, paradoxical status: full members of the Roman citizen class (*virgines*) who were simultaneously non-members of Rome's family-cult structure, a status that let them represent the Roman state as a whole in religious matters without risk of pollution from any individual family's cult. ^[inferred, synthesizing the author's stated two-part argument]
 
 ## Key Claims and Evidence
 
 - Vesta's fire is consistently described by ancient sources (Dionysius of Halicarnassus, Plutarch, Ovid) as sterile/barren rather than generative, and always contrasted with explicitly masculine fertile-fire imagery (e.g., Vulcan) — evidence against the standard fertility reading of the cult.
 - The Vestals' three ritual substances — *mola salsa* (spelt flour and salt) and *muries* (brine) — are prepared from scratch, stored in the *aedes Vestae*'s *penus*, and used in purificatory rites (Fordicidia, October Horse ashes feeding into the Parilia), supporting a purification/storage reading rather than fertility.
-- Water used in Vestal rites had to be fresh, running water from the spring of Juturna that never touched bare earth, carried in spill-proof vessels — framed by the author as evidence of a purificatory rather than fertility function for water in the cult.
-- The *sex crines* hairstyle, shared by Vestals and brides, is argued (against prior scholarship assuming imitation) to mark a shared liminal status of leaving one family's cult without yet (or ever, for Vestals) joining another's — the *captio* rite paralleling, but not completing, the *cum manu* marriage rite's removal from the birth family's cult.
+- Water used in Vestal rites had to be fresh, running water from the spring of Juturna that never touched bare earth, carried in spill-proof vessels — evidence, in this interpretation, of a purificatory rather than fertility function for water in the cult.
+- The *sex crines* hairstyle, shared by Vestals and brides, may mark, rather than simply imitate bridal practice, a shared liminal status of leaving one family's cult without yet (or ever, for Vestals) joining another's — the *captio* rite paralleling, but not completing, the *cum manu* marriage rite's removal from the birth family's cult.
 - In the Regal and early Republican periods, Vestals in Roman historical narrative appear as passive figures, with incestum accusations (Wildfang catalogs nine episodes before the end of the Second Punic War) clustering specifically at moments when the accused Vestal's family or faction was itself embroiled in political turmoil the state needed to address — not simply at any moment of danger.
-- By the first century BC, the Vestals become markedly more active agents: in 73 BC, Fabia (half-sister of Cicero's wife Terentia) was accused of incestum with Catiline, and Licinia was separately accused with her cousin M. Licinius Crassus; both were acquitted, Fabia via a vigorous legal defense and Licinia by proving an innocent real-estate motive for the meeting. Wildfang reads both charges as driven partly by Optimate-vs-Populares factional politics (Fabia's accuser Clodius and Licinia's accuser Plotius were both Optimates) and credits the acquittals to the Vestals' growing "sophistication" as independent legal and economic actors who could marshal elite advocates.
-- The Vestals collectively intervened with Sulla to spare Julius Caesar's life after he refused to divorce Cinna's daughter — Suetonius' account places the Vestals' appeal ahead of that of Caesar's other advocates (Mamercus Aemilius and Cotta) in rhetorical emphasis, which Wildfang reads as evidence the Vestal order could act with unified political effect for the first time in this period.
+- By the first century BC, the Vestals become markedly more active agents: in 73 BC, Fabia (half-sister of Cicero's wife Terentia) was accused of incestum with Catiline, and Licinia was separately accused with her cousin M. Licinius Crassus; both were acquitted, Fabia via a vigorous legal defense and Licinia by proving an innocent real-estate motive for the meeting. One reading links both charges partly to Optimate-vs-Populares factional politics (Fabia's accuser Clodius and Licinia's accuser Plotius were both Optimates) and links the acquittals to the Vestals' growing "sophistication" as independent legal and economic actors who could marshal elite advocates.
+- The Vestals collectively intervened with Sulla to spare Julius Caesar's life after he refused to divorce Cinna's daughter — Suetonius' account places the Vestals' appeal ahead of that of Caesar's other advocates (Mamercus Aemilius and Cotta) in rhetorical emphasis, which may suggest the Vestal order could act with unified political effect for the first time in this period.
 
 ## Structure / Scope
 
@@ -55,9 +55,11 @@ A subsequent re-scour pass mined Chapters 6–7's "nine episodes" catalog of ear
 
 ## Open Questions
 
-- Wildfang acknowledges the historicity of the Regal/early-Republican incestum episodes is fundamentally unverifiable beyond the fact that an accusation and punishment probably occurred — details and even Vestal names may be later authorial invention. ^[ambiguous]
+- The historicity of the Regal/early-Republican incestum episodes is fundamentally unverifiable beyond the fact that an accusation and punishment probably occurred — details and even Vestal names may be later authorial invention. ^[ambiguous]
 - Whether the scapegoat-at-moments-of-crisis pattern she proposes (accusation tied to a Vestal's factional affiliation, not simply to generalized danger) holds for all nine early cases, or only the best-documented ones (the 216 BC Opimia/Floronia case after Cannae), was not independently verified in full here. ^[ambiguous]
 
 ## Sources
+
+- Interpretive provenance: the purification/storage and family-cult reconstruction follows Wildfang’s two-part thesis; the political readings of the 73 BC trials and Caesar’s rescue follow Chapters 6–7. These are interpretations of literary testimony, not independently established explanations.
 
 - Wildfang, Robin Lorsch — Rome's Vestal Virgins

@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:12Z"
 relationships:
   - target: "[[entities/vestal-virgins]]"
     type: uses
@@ -22,7 +22,7 @@ relationships:
 
 # The Vestal Incestum Trials of 114–113 BC: Aemilia, Licinia, and Marcia
 
-In December 114 BC, a slave belonging to T. Betucius Barrus, an *eques*, informed on the Vestal [[entities/aemilia-vestal-114-bc]], touching off a scandal that eventually ran through two separate tribunals and condemned Vestals who had just been acquitted (Alexander, cases #38–44). The episode is one of the best-documented instances of the Republic's *quaestio apud pontifices* — the special religious tribunal, presided over by the pontifices, reserved for a Vestal accused of breaking her vow of chastity (*incestum*).
+In December 114 BC, a slave belonging to T. Betucius Barrus, an *eques*, informed on the Vestal [[entities/aemilia-vestal-114-bc]], touching off a scandal that eventually ran through two separate tribunals and condemned Vestals who had just been acquitted. The episode is one of the best-documented instances of the Republic's *quaestio apud pontifices* — the special religious tribunal, presided over by the pontifices, reserved for a Vestal accused of breaking her vow of chastity (*incestum*).
 
 ## Parties & Stakes
 
@@ -36,7 +36,7 @@ In December 114 BC, a slave belonging to T. Betucius Barrus, an *eques*, informe
 
 ## What Happened
 
-The pontifical college, under its normal jurisdiction over Vestal chastity, tried all three Vestals in December 114 BC. Only Aemilia was condemned; Licinia and Marcia were acquitted, Licinia with Crassus speaking in her defense. The acquittals did not settle the matter. Public outrage — fanned, per the later tradition, by a portent in which a bolt of lightning struck and killed a girl riding a horse, read as a sign that the first verdicts had been insufficiently severe — led a tribune, L. Cassius Longinus Ravilla, to carry a bill establishing a special *quaestio extraordinaria* to reopen the case the following year.^[inferred from the sequence of charges in Alexander's entries, which does not spell out the political mechanics in full] Ravilla's court retried Licinia and Marcia and this time condemned both. The same court also investigated the orator M. Antonius, who was formally entered as a defendant despite having the right (under the *lex Memmia*) to decline entry while absent *rei publicae causa* — he waived the privilege and spoke in his own defense, winning acquittal with the help of a slave witness. A fourth, more doubtful defendant, (Ser.?) Fulvius Flaccus (cos. 135), may also have been swept into the same investigation and was acquitted; his identification is uncertain even among ancient sources, which record only that "a Fulvius" was involved.
+The pontifical college, under its normal jurisdiction over Vestal chastity, tried all three Vestals in December 114 BC. Only Aemilia was condemned; Licinia and Marcia were acquitted, Licinia with Crassus speaking in her defense. The acquittals did not settle the matter. Public outrage — fanned, per the later tradition, by a portent in which a bolt of lightning struck and killed a girl riding a horse, read as a sign that the first verdicts had been insufficiently severe — led a tribune, L. Cassius Longinus Ravilla, to carry a bill establishing a special *quaestio extraordinaria* to reopen the case the following year. The political mechanics of this transition are reconstructed rather than fully established here.^[inferred] Ravilla's court retried Licinia and Marcia and this time condemned both. The same court also investigated the orator M. Antonius, who was formally entered as a defendant despite having the right (under the *lex Memmia*) to decline entry while absent *rei publicae causa* — he waived the privilege and spoke in his own defense, winning acquittal with the help of a slave witness. A fourth, more doubtful defendant, (Ser.?) Fulvius Flaccus (cos. 135), may also have been swept into the same investigation and was acquitted; his identification is uncertain even among ancient sources, which record only that "a Fulvius" was involved.
 
 ## Outcome
 
@@ -44,9 +44,10 @@ Of the three Vestals originally tried, all three were ultimately dead or disgrac
 
 ## Open Questions
 
-- Whether Ravilla's special court was legally permitted to retry defendants already acquitted by the pontifices, or whether Roman jurisprudence at this date simply did not yet recognize double jeopardy in this context, is not resolved in Alexander's entries. ^[ambiguous]
+- Whether Ravilla's special court was legally permitted to retry defendants already acquitted by the pontifices, or whether Roman jurisprudence at this date simply did not yet recognize double jeopardy in this context, remains unresolved here. ^[ambiguous]
 - The identity and even existence of the fourth defendant, "a Fulvius," is itself uncertain in the ancient record.
 
 ## Sources
 
 - Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), cases #38–44
+- Source scope: the transition to the special court is inferred from the sequence of charges in Alexander's entries, which do not spell out the political mechanics in full or resolve the double-jeopardy question.

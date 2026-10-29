@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29T22:41:12Z"
 relationships:
   - target: "[[entities/tribunes-of-the-plebs]]"
     type: related_to
@@ -39,7 +39,7 @@ In 171 BC, the opening year of the Third Macedonian War against Perseus, the pra
 
 Lucretius, commanding the fleet at [[entities/cephallenia|Cephallenia]], sent his brother Marcus to sail to [[entities/chalcis|Chalcis]]. Meanwhile his legate Publius Lentulus had begun besieging [[entities/haliartus|Haliartus]] with a contingent of allied Boeotian troops; when Lucretius's deputy arrived at Chalcis, he ordered Lentulus, in the praetor's name, to abandon the siege. "The end of this siege gave way to a new one": Lucretius surrounded Haliartus himself with 10,000 marines and 2,000 of an allied king's troops under a commander named Athenaeus, took the city, and sold the population into slavery.
 
-The pattern repeated across Roman operations in Greece that year: friendly cities were attacked, their leading citizens killed or driven into exile, the rest sold as slaves; other cities were subjected to extortionate demands for money and grain and forced to billet sailors, with attendant abuses. Allied delegations traveled to Rome to complain. The senate responded with conciliatory gestures — kind words, gifts, assurances the abuses lacked senatorial sanction — and a new rule that future requisitions from allies required senate authorization. ^[inferred, connecting Rosenstein's general account of the backlash to the specific Haliartus episode from Sage]
+The pattern repeated across Roman operations in Greece that year: friendly cities were attacked, their leading citizens killed or driven into exile, the rest sold as slaves; other cities were subjected to extortionate demands for money and grain and forced to billet sailors, with attendant abuses. Allied delegations traveled to Rome to complain. The senate responded with conciliatory gestures — kind words, gifts, assurances the abuses lacked senatorial sanction — and a new rule that future requisitions from allies required senate authorization. The connection between this broader backlash and Haliartus specifically is inferred. ^[inferred]
 
 More concretely, in 170 BC two tribunes of the plebs brought Lucretius, the praetor who had commanded the fleet the previous year, to trial for his abuses against the allies in Greece. He was found guilty and condemned to exile and a substantial fine. His successor in the fleet command was separately censured by the senate for similar transgressions.
 
@@ -49,10 +49,11 @@ Haliartus was destroyed as a functioning city and its population enslaved. Gaius
 
 ## Open Questions
 
-- The exact legal charge and procedure under which the tribunes prosecuted Lucretius is detailed in the companion page [[scenarios/the-trial-of-gaius-lucretius]] (drawn from a different source, Botsford), which names the prosecuting tribunes and the fine levied.
-- Whether Lentulus's abandoned first siege and Lucretius's successful second siege targeted exactly the same walls/population, or whether some evacuation occurred between the two, is unclear from the sourcebook excerpt. ^[ambiguous]
+- The exact legal charge, procedure, prosecuting tribunes, and fine are discussed in the companion page [[scenarios/the-trial-of-gaius-lucretius]].
+- Whether Lentulus's abandoned first siege and Lucretius's successful second siege targeted exactly the same walls/population, or whether some evacuation occurred between the two, remains unclear. ^[ambiguous]
 
 ## Sources
 
 - Sage, Michael M. — The Republican Roman Army: A Sourcebook
 - Rosenstein, Nathan — Rome and the Mediterranean 290 to 146 BC: The Imperial Republic
+- Source mapping: Sage supplies the Haliartus siege episode; Rosenstein supplies the broader account of allied abuses and the senatorial response. Linking that response specifically to Haliartus is an inference. The companion trial page draws on Botsford for procedural details.

@@ -21,7 +21,7 @@ summary: "Legal historian whose 2025 review argues for reading Roman imperial co
 tags: ["domain/economic", "domain/legal", "period/late-antiquity", "subject/roman-law", "type/entity"]
 tier: "supporting"
 title: "A.J.B. Sirks"
-updated: "2026-10-29T21:57:12Z"
+updated: "2026-10-29T22:58:00Z"
 ---
 # A.J.B. Sirks
 
@@ -29,15 +29,15 @@ A.J.B. Sirks is identified in his 2025 review essay as a Fellow of All Souls Col
 
 ## Codification and legal interpretation
 
-Sirks argues that Roman legislation often responded to particular events, but that a rule’s later inclusion in a code did not require a recurrence of the event that first prompted it. Rules also anticipated future cases and belonged within an existing legal framework. In his account, the Theodosian and Justinianic codes should therefore be read as systematic bodies of law, rather than as collections of unrelated historical reactions.
+Roman legislation often responded to specific crises or petitions, but a rule's inclusion in an imperial code did not require a recurrence of the event that first prompted it. Codified constitutions operated as prospective rules within an established jurisprudence; the Theodosian and Justinianic codes are therefore best approached as systematic bodies of law rather than as mere compilations of ad hoc historical reactions.
 
-This approach matters especially for the laws on the colonate. Sirks treats the texts grouped under a title as parts of a legal system; their chronological arrangement does not by itself determine how they should be interpreted. His review consequently challenges an explanation of Justinian’s agrarian legislation based primarily on the circumstances surrounding individual enactments.
+This approach matters especially for the laws on the colonate. Texts grouped under an imperial title functioned as parts of an integrated legal system; their chronological sequence alone does not determine how they should be interpreted. Explaining agrarian legislation solely through the transient circumstances of individual enactments obscures how compiled law operated.
 
 ## The work of the compiler
 
-Sirks grounds his argument in the instructions for Justinian’s Code. Compilers were to remove obsolete, duplicate, and contradictory material and could shorten, combine, or adapt constitutions before assigning them to suitable titles. A constitution’s survival therefore gives it a new context as a rule selected for current application. Its original occasion remains historically interesting, but does not exhaust its meaning in the completed Code.
+This systematic reading is supported by the formal instructions issued for Justinian’s Code: Compilers were to remove obsolete, duplicate, and contradictory material and could shorten, combine, or adapt constitutions before assigning them to suitable titles. A constitution’s survival therefore gives it a new context as a rule selected for current application. Its original occasion remains historically interesting, but does not exhaust its meaning in the completed Code.
 
-He also distinguishes a law’s named official recipient from its ultimate audience. Preambles can reveal what the emperor sought to communicate and to whom; where they are absent, the rule’s contents offer a more limited basis for inference. His criticism of Battistella is consequently methodological, combining the analysis of legal systems with caution about claims of political communication.
+A law’s named official recipient must also be distinguished from its wider audience. While preambles can reveal intended imperial communication, where they are absent the substantive rule offers a narrower basis for reconstructing political rhetoric. The resulting methodology combines structural analysis of legal systems with caution regarding claims of public messaging.
 
 ## Related Pages
 

@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[entities/lucius-licinius-lucullus]]"
     type: related_to
@@ -38,17 +38,17 @@ During the winter of 68 BC, while pursuing Mithridates VI of Pontus into Armenia
 
 Lucullus had kept his legions in the field for years pursuing Mithridates, driving deep into Armenia after Tigranes. By the winter of 68 BC two of his legions — II and III — had had enough and mutinied, refusing to continue the campaign. Lucullus pulled his army back to Nisibis to wait out the winter rather than force the issue immediately. But the respite did not resolve the underlying breakdown: the following spring, when Lucullus tried to move the army against Mithridates near Zela, the same legions mutinied a second time rather than fight. This second, renewed refusal proved fatal to Lucullus's command — shortly afterward Pompey arrived to take over the Mithridatic command, and the mutinous soldiers were discharged entirely, with no punishment recorded for their repeated refusal to obey orders. ^[extracted, synthesizing the sequence]
 
-The episode is cited in modern scholarship as a case where a unit's strong internal cohesion (built from years of fighting together under the same commander) made it, paradoxically, more resistant to central control rather than more loyal — the legions trusted each other's collective judgment that the war should end more than they trusted Lucullus's insistence on continuing it. ^[inferred]
+The episode suggests that a unit's strong internal cohesion (built from years of fighting together under the same commander) could, paradoxically, make it more resistant to central control rather than more loyal — on this interpretation, the legions trusted each other's collective judgment that the war should end more than they trusted Lucullus's insistence on continuing it. ^[inferred]
 
 ## Outcome
 
-Lucullus's command effectively ended with the second mutiny; Pompey assumed control of the war against Mithridates and ultimately brought it to a conclusion that Lucullus had been denied. The mutinous legions suffered no formal punishment, discharged rather than disciplined — a pattern the sources note was increasingly common for mutinies in this late-Republican period, when field armies' loyalty to the state had grown looser than their loyalty to each other or to whichever commander could offer an end to their grievances.
+Lucullus's command effectively ended with the second mutiny; Pompey assumed control of the war against Mithridates and ultimately brought it to a conclusion that Lucullus had been denied. The mutinous legions suffered no formal punishment, discharged rather than disciplined — a pattern increasingly common for mutinies in this late-Republican period, when field armies' loyalty to the state had grown looser than their loyalty to each other or to whichever commander could offer an end to their grievances.
 
 ## Open Questions
 
-- The specific grievances driving the mutiny (pay, length of service, or simple exhaustion with an apparently unwinnable pursuit of Mithridates) are referenced in general terms but not itemized in the extracted material.
-- Whether political maneuvering in Rome (by political rivals seeking to hand Pompey additional commands) played any role in encouraging the second mutiny is not addressed in the extracted passage. ^[ambiguous]
+- The specific grievances driving the mutiny (pay, length of service, or simple exhaustion with an apparently unwinnable pursuit of Mithridates) remain uncertain here.
+- Whether political maneuvering in Rome (by political rivals seeking to hand Pompey additional commands) played any role in encouraging the second mutiny remains unresolved here. ^[ambiguous]
 
 ## Sources
 
-- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Plut. *Luc.* 32–35; Cass. Dio 36.14; Front. *Str.* 2.1.14)
+- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Plut. *Luc.* 32–35; Cass. Dio 36.14; Front. *Str.* 2.1.14). The discussion supplies the cohesion-versus-control interpretation and places the unpunished discharge in a broader late-Republican pattern; the consulted extract neither itemizes grievances nor addresses possible political encouragement from Rome.

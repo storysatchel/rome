@@ -3,7 +3,7 @@ title: Roman Republican Augury: Freedom and Control
 category: references
 tags: [roman-religion, augury, divination, late-republic, cicero]
 sources: ["Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control"]
-summary: Argues that Romans saw augury as genuine communication with Jupiter's real will, not elite manipulation, reversing the modern 'control' consensus on Roman divination.
+summary: In a revisionist interpretation, Roman augury communicated Jupiter's independent will rather than merely enabling elite manipulation; the contrast with functionalist readings remains interpretive.
 provenance:
   extracted: 0.85
   inferred: 0.1
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:51:55Z"
-updated: "2026-10-24T06:51:55Z"
+updated: "2026-10-29T22:41:11Z"
 relationships:
   - target: "[[concepts/roman-religion-and-augury]]"
     type: uses
@@ -34,7 +34,7 @@ Driediger-Murphy's central claim is that modern scholarship has inverted the Rom
 - Cicero's *De Legibus* 2.31 is the key ancient text cited for the augurs' formal powers: the right to adjourn or nullify assemblies, invalidate laws, and compel a consul's abdication — powers Cicero (himself an augur from 53/52 BC) openly celebrates.
 - The author catalogs the functionalist consensus in detail (Linderski, Scheid, Rüpke, and a long list of others cited in the introduction's footnotes) before building her counter-case chapter by chapter, examining: (Ch. 1) whether augural "report" created rather than merely conveyed signs; (Ch. 2) whether *servare de caelo* ("sky-watching") reliably and technically sufficed to block assemblies, using the Bibulus affair of 59 BC as an extended case study; (Ch. 3) the real political effects and motives behind augury's use in public life, including the *augurium salutis* and the behavior of Cicero, Bibulus, and other named actors.
 - She distinguishes this project from, but engages with, constitutional/structural approaches to the auspices (Vervaet, Drogula, Berthelet) that focus on magistrates' formal powers rather than theological content.
-- Draws on anthropological critiques of functionalist divination theory (Eidinow on Dodona, Kearns on Greek ritual) to argue that ancient participants experienced divination as "a crucial interdependence with the divine," not merely a social-consensus mechanism. ^[inferred]
+- Ancient participants may have experienced divination as "a crucial interdependence with the divine," rather than merely a social-consensus mechanism. This interpretation draws on anthropological critiques of functionalist divination theory.  ^[inferred]
 
 ## Structure / Scope
 
@@ -55,3 +55,4 @@ A subsequent re-scour pass read Chapters 1–3 in full for specific named instan
 ## Sources
 
 - Driediger-Murphy, Lindsay G. — Roman Republican Augury: Freedom and Control (Oxford Classical Monographs)
+- Interpretation note: the independent-divine-will reading and the quotation "a crucial interdependence with the divine" belong to Driediger-Murphy’s revisionist case; its anthropological comparanda include Eidinow on Dodona and Kearns on Greek ritual. The description of a functionalist "consensus" is the book’s framing, not a finding of unanimity here.

@@ -3,7 +3,7 @@ title: "Death and Dynasty in Early Imperial Rome: Key Sources, with Text, Transl
 category: references
 tags: ["type/reference", "period/principate", "domain/political", "place/rome", "subject/propaganda"]
 sources: ["B03:Death and Dynasty in Early Imperial Romepdf.pdf"]
-summary: J. Bert Lott presents and interprets Roman texts and inscriptions on dynastic deaths, succession, memorialization, and imperial ideology.
+summary: Dynastic deaths and their public commemoration communicated succession, legitimacy, and imperial ideals in early imperial Rome.
 provenance:
   extracted: 0.85
   inferred: 0.10
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: [political]
   type: [reference]
@@ -32,13 +32,13 @@ relationships:
 
 # Death and Dynasty in Early Imperial Rome
 
-> [!tldr] J. Bert Lott uses Roman inscriptions, senatorial decrees, laws, and literary texts to explain how dynastic deaths communicated succession and imperial ideals.
+> [!tldr] Dynastic deaths communicated succession and imperial ideals through inscriptions, senatorial decrees, laws, and literary texts.
 
 ## Scope
 
 Lott assembles key sources on the deaths and commemorations of Gaius Caesar, Lucius Caesar, Germanicus, and Drusus. The book includes Latin texts, translations, commentary, Tacitean excerpts, and biographies of the emperors.
 
-The introduction treats death as a public dynastic event. Rituals, monuments, official business, and Senate-produced memorial guidelines transformed private loss into communication about succession and the stability of the Principate.
+Death could become a public dynastic event: rituals, monuments, official business, and Senate-produced memorial guidelines transformed private loss into communication about succession and the stability of the Principate.
 
 ## Evidence and argument
 

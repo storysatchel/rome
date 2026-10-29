@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: [political]
   type: [reference]
@@ -35,14 +35,18 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - Constantinople’s rise and the 395 division challenged administrative unity, though modern scholarship may overstate the split (pp. 1–2). ^[ambiguous]
 - *Concordia* and *discordia* were political, religious, cultural and social tools for constructing identities (p. 2). ^[ambiguous]
 - Contemporaries could regard multiple regions/commanders as one indivisible *imperi… ^[ambiguous]
-- Contemporaries could regard multiple regions/commanders as one indivisible *imperium Romanum*; unity, unification and uniqueness should be distinguished (Inglebert, pp. 10–16). ^[ambiguous]
-- Legal, commercial, civic and cultural continuities, citizenship extension and professional administration remained major unifying factors (Inglebert, pp. 16–17). ^[ambiguous]
+- Contemporaries could regard multiple regions/commanders as one indivisible *imperium Romanum*; unity, unification and uniqueness should be distinguished (pp. 10–16). ^[ambiguous]
+- Legal, commercial, civic and cultural continuities, citizenship extension and professional administration remained major unifying factors (pp. 16–17). ^[ambiguous]
 
 ## Evidence-linked relationships
 
 - *Concordia Augustorum* `related_to` imperial unity (pp. 2, 10–16) ^[ambiguous]
 - Constantinople `related_to` administrative/political rebalancing (pp. 1–2, 15–16) ^[ambiguous]
 - Roman citizenship and law `related_to` integration/unity (pp. 1–2, 16–17) ^[ambiguous]
+
+## Sources
+
+- *East and West in the Roman Empire of the Fourth Century: An End to Unity?*, source `B00:9789004291935-31629.pdf`: Introduction, pp. 1–2; Hervé Inglebert, pp. 10–17, on indivisible *imperium*, distinctions among unity, unification, and uniqueness, and continuing unifying factors.
 
 ## Related live pages
 

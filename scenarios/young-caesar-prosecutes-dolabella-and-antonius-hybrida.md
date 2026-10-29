@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T19:11:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Young Caesar's Prosecutions of Dolabella and Antonius Hybrida
@@ -39,9 +39,10 @@ Caesar lost both cases outright but achieved exactly what he seems to have wante
 
 ## Open Questions
 
-- Whether Caesar genuinely wanted to win is disputed; some scholars read the acquittals as a deliberately low-risk way to gain fame without making a permanent enemy.
+- Whether Caesar genuinely wanted to win remains disputed; the acquittals may have offered a relatively low-risk route to fame without making a permanent enemy, but this need not have been his intended outcome.
 - The exact content of the speech against Antonius Hybrida is almost entirely lost.
 
 ## Sources
 
 - van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic
+- The scholarly interpretation that the acquittals offered Caesar a low-risk route to fame without a permanent enemy bears on his disputed intentions; it does not establish that he sought to lose.

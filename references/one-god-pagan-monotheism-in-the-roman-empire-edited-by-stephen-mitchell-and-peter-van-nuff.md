@@ -3,7 +3,7 @@ title: "*One God: Pagan Monotheism in the Roman Empire*"
 category: references
 tags: ["type/reference", "period/principate", "period/late-antiquity", "subject/propaganda", "domain/political"]
 sources: ["B06:One Godpdf.pdf"]
-summary: "The volume evaluates “pagan monotheism” conceptually and historically rather than assuming it as an objective ancient category (Introduction, pp. 5–7, 14–15)."
+summary: "“Pagan monotheism” is a contested analytical category, not an objective ancient classification (Introduction, pp. 5–7, 14–15)."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 facets:
   domain: [political]
   type: [reference]
@@ -31,8 +31,8 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- The volume evaluates “pagan monotheism” conceptually and historically rather than assuming it as an objective ancient category (Introduction, pp. 5–7, 14–15). ^[ambiguous]
-- The volume evaluates “pagan monotheism” conceptually and historically rather than assuming it as an objective ancient category (Introduction, pp. 5–7, 14–15).   - Polytheism remained dominant through the high Empire; one-god language often expressed superiority of a deity without exclusive worship (Introduction, pp. 9–12).   - Philosophical claims about a single divine power acquired increased religious significance in the Roman period and interacted with Jewish and Christian ideas (Introduction, pp. 3–8, 10–15).   - Religious change also involved ritual, social organization, identity, textual authority and political power, not simply numerical belief in one versus many gods (Introduction, pp. 2–6).   - Theos Hypsistos, “one god” acclamations, Isis/Sarapis, Mithras and other cults remain contested evidence whose local contexts matter (Introduction, pp. 9–14). ^[ambiguous]
+- “Pagan monotheism” is a contested analytical category, not an objective ancient classification (Introduction, pp. 5–7, 14–15). ^[ambiguous]
+- “Pagan monotheism” is a contested analytical category, not an objective ancient classification (Introduction, pp. 5–7, 14–15).   - Polytheism remained dominant through the high Empire; one-god language often expressed superiority of a deity without exclusive worship (Introduction, pp. 9–12).   - Philosophical claims about a single divine power acquired increased religious significance in the Roman period and interacted with Jewish and Christian ideas (Introduction, pp. 3–8, 10–15).   - Religious change also involved ritual, social organization, identity, textual authority and political power, not simply numerical belief in one versus many gods (Introduction, pp. 2–6).   - Theos Hypsistos, “one god” acclamations, Isis/Sarapis, Mithras and other cults remain contested evidence whose local contexts matter (Introduction, pp. 9–14). ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -44,3 +44,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Related live pages
 
 - [[concepts/art-and-political-propaganda]], [[entities/rome]]
+
+## Sources
+
+- Source note: *One God*, Introduction, pp. 5–7, 14–15: conceptual and historical caution about the category “pagan monotheism”; other existing locators identify the sampled claims.

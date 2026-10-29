@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 facets:
   domain: []
   type: [reference]
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - Domitian (81–96 CE) presented himself in divine terms and was later subjected to condemnation/erasure of memory. ^[ambiguous]
-- Domitian (81–96 CE) presented himself in divine terms and was later subjected to condemnation/erasure of memory.   - His reign produced a major literary, cultural, monumental, and infrastructural revival of Rome after the Julio-Claudian/Flavian crises.   - The volume uses an interdisciplinary approach combining imperial politics, monuments, archaeology, literature, and exhibition objects.   - Domitian’s innovations are analyzed through the tension between novelty and anchoring in inherited Roman traditions.   - The project reassesses Domitian beyond hostile posthumous literary traditions and damnatio memoriae. ^[ambiguous]
+- Domitian (81–96 CE) presented himself in divine terms and was later subjected to condemnation/erasure of memory.   - His reign produced a major literary, cultural, monumental, and infrastructural revival of Rome after the Julio-Claudian/Flavian crises.   - The volume uses an interdisciplinary approach combining imperial politics, monuments, archaeology, literature, and exhibition objects.   - Domitian’s innovations combined novelty with anchoring in inherited Roman traditions.   - The project reassesses Domitian beyond hostile posthumous literary traditions and damnatio memoriae. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -45,3 +45,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Related live pages
 
 - [[entities/rome]], [[concepts/art-and-political-propaganda]]
+
+## Sources
+
+- Source note: *God on Earth*, introduction and sampled exhibition material: the novelty/tradition framing is an interpretation of Domitian’s innovations; hostile posthumous traditions remain a distinct evidentiary problem.

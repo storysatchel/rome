@@ -36,7 +36,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - The study focuses especially on Roman Italy from the later second century BCE through the first century CE, with emphasis on late Republic and early Principate (pp. 3, 23–25). ^[ambiguous]
 - The Praeneste Nile Mosaic is an important early visual geography and precedent for later Roman *Nilotica* (contents/introduction pp. 9, 23–24). ^[ambiguous]
 - Triumphs, landscape painting, itineraries, descriptive prose, philosophy and epic are distinct representational media, not necessarily one coherent imperial map system (introduction pp. 26–29). ^[ambiguous]
-- Merrills critiques overly monolithic readings of Augustan geography and argues that geographical authority remained contested (pp. 26–29). ^[ambiguous]
+- Geographical authority under Augustus may have remained contested rather than forming the monolithic system assumed in some interpretations (pp. 26–29). ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -45,6 +45,10 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - review) ^[ambiguous]
 - relates to geographical imagery (`uses`) ^[ambiguous]
 - relates to geographical knowledge (`uses`, argument is qualified/contested) ^[ambiguous]
+
+## Sources
+
+- Andy Merrills, *Roman Geographies of the Nile: From the Late Republic to the Early Empire*, pp. 26–29: critique of monolithic readings of Augustan geography and the interpretation of geographical authority as contested. Other sampled claims retain their locators above.
 
 ## Related live pages
 

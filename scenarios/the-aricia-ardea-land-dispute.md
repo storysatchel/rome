@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Aricia–Ardea Land Dispute: How Two Cities Asked Rome to Arbitrate and Both Lost
@@ -29,7 +29,7 @@ In 446 BC a conflict arose between the Latin cities of Aricia and Ardea over pos
 
 ## What Happened
 
-Livy and Dionysius of Halicarnassus record that when Rome, asked to judge the dispute between Aricia and Ardea, could not reach a decision, it resolved the impasse by declaring the contested land to belong to Rome itself as public land (*ager publicus*) — a pattern Roselaar notes recurred later with a similar dispute between Nola and Naples arbitrated by the jurist Labeo (see [[scenarios/labeos-arbitration-of-the-nola-naples-boundary-dispute]]). ^[extracted] Both petitioning cities ended up losing the land to the very arbiter they had asked to settle their quarrel.
+Livy and Dionysius of Halicarnassus record that when Rome, asked to judge the dispute between Aricia and Ardea, could not reach a decision, it resolved the impasse by declaring the contested land to belong to Rome itself as public land (*ager publicus*). A similar outcome is reported for the later dispute between Nola and Naples arbitrated by the jurist Labeo (see [[scenarios/labeos-arbitration-of-the-nola-naples-boundary-dispute]]). ^[extracted] Both petitioning cities ended up losing the land to the very arbiter they had asked to settle their quarrel.
 
 ## Outcome
 
@@ -43,3 +43,4 @@ Neither Aricia nor Ardea received the disputed territory; it instead became Roma
 ## Sources
 
 - Roselaar, Saskia T. — Public Land in the Roman Republic
+- Roselaar draws the comparison between the Aricia–Ardea arbitration and Labeo's later Nola–Naples arbitration; the suspicion of opportunistic annexation is an interpretation, not an explicit ancient explanation.

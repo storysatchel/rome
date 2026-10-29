@@ -10,12 +10,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T21:28:00Z"
+updated: "2026-10-29T22:41:25Z"
 ---
 
 # Appius Claudius Pulcher (consul 54 BCE)
 
-Appius Claudius Pulcher, Roman consul in 54 BCE and an augur, appears in Varro's *De Re Rustica* III as a bird-fancying host at a gathering of aviary enthusiasts near Reate, en route to presiding over a senatorial commission adjudicating the long-running dispute between Reate and Interamna over the draining of Lake Velinus. He corresponded with and was personally acquainted with [[entities/cicero]], who served as Reate's advocate in the case. Separately (per Botsford), he secretly contracted with consular candidates [[entities/gaius-memmius-cos-candidate54]] and [[entities/gnaeus-domitius-calvinus]] for a cash forfeiture if they failed, once elected, to produce false augural witnesses testifying that he had properly carried a *lex curiata de imperio* during his own consulship.
+Appius Claudius Pulcher, Roman consul in 54 BCE and an augur, appears in Varro's *De Re Rustica* III as a bird-fancying host at a gathering of aviary enthusiasts near Reate, en route to presiding over a senatorial commission adjudicating the long-running dispute between Reate and Interamna over the draining of Lake Velinus. He corresponded with and was personally acquainted with [[entities/cicero]], who served as Reate's advocate in the case. Separately, he secretly contracted with consular candidates [[entities/gaius-memmius-cos-candidate54]] and [[entities/gnaeus-domitius-calvinus]] for a cash forfeiture if they failed, once elected, to produce false augural witnesses testifying that he had properly carried a *lex curiata de imperio* during his own consulship.
 
 ## Appears In
 
@@ -25,4 +25,4 @@ Appius Claudius Pulcher, Roman consul in 54 BCE and an augur, appears in Varro's
 ## Sources
 
 - Cato & Varro — Roman Farm Management
-- Botsford, George Willis — The Roman Assemblies from their Origin to the End of the Republic
+- Botsford, George Willis — The Roman Assemblies from their Origin to the End of the Republic: the contracted false testimony concerning the *lex curiata de imperio*.

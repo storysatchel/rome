@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T19:11:16Z"
+updated: "2026-10-29T22:50:00Z"
 ---
 
 # Helvius Mancia's Public Denunciation of Pompey
@@ -37,7 +37,7 @@ There is no record of Pompey having an effective comeback. The episode stands as
 
 ## Open Questions
 
-- The exact procedural context of Pompey's and Mancia's appearance in the Libo trial is debated among modern scholars (formal defense testimony vs. a preliminary public hearing).
+- The exact procedural context of Pompey's and Mancia's appearance in the Libo trial remains uncertain: whether it was formal defense testimony or a preliminary public hearing is not securely attested in surviving sources.
 
 ## Sources
 

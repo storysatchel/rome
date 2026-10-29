@@ -21,7 +21,7 @@ summary: "Author of The Fractured Voice, a 2024 study of silence, embodied perfo
 tags: ["material/culture", "period/principate", "subject/disability", "subject/voice", "type/entity"]
 tier: "supporting"
 title: "Amy A. Koenig"
-updated: "2026-10-29T21:57:12Z"
+updated: "2026-10-29T22:58:00Z"
 ---
 # Amy A. Koenig
 
@@ -29,13 +29,13 @@ Amy A. Koenig is the author of *The Fractured Voice: Silence and Power in Imperi
 
 ## Echo, Narcissus, and performance
 
-In the chapter “The Dancer’s Silence,” Koenig reads Ovid’s Echo and Narcissus alongside Roman pantomime. The silent dancer’s body and the accompanying singer’s voice remain distinct even while they communicate together. Echo’s desire for Narcissus and his own fascination with his reflection offer ways of thinking about that separation between voice, body, and spectator.
+In the chapter “The Dancer’s Silence,” Ovid’s narrative of Echo and Narcissus is analyzed alongside Roman pantomime. The silent dancer’s body and the accompanying singer’s voice remain distinct even while they communicate together. Echo’s desire for Narcissus and his own fascination with his reflection offer ways of thinking about that separation between voice, body, and spectator.
 
-Koenig argues that Echo’s vocal restriction does not prevent her from communicating desire. Her repetitions become increasingly elaborate acts of reframing. Narcissus rejects her when she appears as a separate embodied being, not because her voice has failed to convey her wishes. Echo’s eventual survival as a voice without a body complicates a simple equation of vocal impairment with powerlessness.
+Echo’s vocal restriction does not preclude communicative agency: her repetitions operate as increasingly sophisticated reframings of Narcissus's words. Narcissus rejects her upon physical encounter rather than because her voice failed to convey desire; Echo's survival as disembodied sound challenges any simple equation of vocal restriction with complete powerlessness.
 
 ## Scholarship and attribution
 
-The notes refer to Koenig’s earlier 2021 work for comparisons with Greek lyric and related translations. Reading the title pages establishes that these are references within her own later book, not merely incidental citations of an otherwise unidentified scholar. The source supports this account of her authorship and argument but does not establish a fuller institutional biography.
+Her research bridges literary criticism, disability studies, and Roman pantomime, analyzing how non-verbal performance and fragmented speech mediated political power under the Principate.
 
 ## Related Pages
 

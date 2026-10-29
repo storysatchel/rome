@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T21:52:00Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Titus Labienus
@@ -19,9 +19,10 @@ Tribune of the plebs in 63 BC and nephew of the tribune Saturninus, killed in 10
 
 ## Appears In
 
-- [[scenarios/trial-of-rabirius-for-saturninus-killing]] (via Morstein-Marx)
-- [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]] (via Marin)
+- [[scenarios/trial-of-rabirius-for-saturninus-killing]]
+- [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]]
 
 ## Sources
 
-- Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic
+- Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic — [[scenarios/trial-of-rabirius-for-saturninus-killing]].
+- Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic — [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]].

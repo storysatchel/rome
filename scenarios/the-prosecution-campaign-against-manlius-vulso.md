@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # Tribunes Nerva and Turdus's Campaign to Recall and Prosecute A. Manlius Vulso
@@ -38,10 +38,11 @@ The veto preserved Manlius's command and shielded him from the threatened prosec
 
 ## Open Questions
 
-- Whether Manlius was ever brought to trial after his command finally ended is not stated in either source. ^[ambiguous]
+- Whether Manlius was ever brought to trial after his command finally ended remains uncertain. ^[ambiguous]
 - The vetoing tribune's identity and motive are not recorded. ^[ambiguous]
 
 ## Sources
 
 - Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic
 - Sandberg, Kaj — Magistrates and Assemblies: A Study of Legislative Practice in Republican Rome (Acta Instituti Romani Finlandiae)
+- Source limitation: neither Pina Polo nor Sandberg states whether Manlius was tried after his command ended.

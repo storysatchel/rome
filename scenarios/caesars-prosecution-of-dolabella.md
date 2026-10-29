@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29"
 relationships:
   - target: "[[entities/julius-caesar]]"
     type: mentions
@@ -22,7 +22,7 @@ relationships:
 
 # A Young Caesar's Failed Prosecution of Cn. Cornelius Dolabella (77 BC)
 
-In 77 BC, a 23-year-old [[entities/julius-caesar]] — not yet a senator, let alone a general or dictator — made his debut as a prosecutor in [[entities/rome|Rome]]'s extortion court, charging the former consul Cn. Cornelius Dolabella with plundering [[entities/macedonia|Macedonia]] during his governorship (Alexander, case #140). The episode predates by decades everything the wiki's existing Caesar material covers and shows Caesar's earliest recorded public act as a courtroom loss.
+In 77 BC, a 23-year-old [[entities/julius-caesar]] — not yet a senator, let alone a general or dictator — made his debut as a prosecutor in [[entities/rome|Rome]]'s extortion court, charging the former consul Cn. Cornelius Dolabella with plundering [[entities/macedonia|Macedonia]] during his governorship. The episode predates by decades everything the wiki's existing Caesar material covers and shows Caesar's earliest recorded public act as a courtroom loss.
 
 ## Parties & Stakes
 

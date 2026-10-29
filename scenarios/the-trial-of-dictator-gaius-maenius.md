@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Trial of the Dictator Gaius Maenius for Abuse of Office
@@ -37,8 +37,9 @@ Maenius and Folius resigned the dictatorship and mastership of the horse; no fur
 
 ## Open Questions
 
-- Pina Polo notes the episode's historicity "has been vigorously contested" by modern scholars — it may be an annalistic invention projecting later political anxieties about dictatorial overreach onto the early Republic. ^[ambiguous]
+- The episode's historicity is strongly contested: it may be an annalistic invention projecting later political anxieties about dictatorial overreach onto the early Republic. ^[ambiguous]
 
 ## Sources
 
 - Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic
+- Pina Polo notes that the episode's historicity "has been vigorously contested" by modern scholars; the annalistic-invention explanation remains a possibility.

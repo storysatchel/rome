@@ -27,18 +27,21 @@ relationships:
 
 ## Key Ideas
 
-- Morstein-Marx's "invisible optimate" chapter (one of two chapters making up his "Contional Ideology" section) argues that Republican contional discourse perennially restaged the same unchallengeable premises rather than evolving toward "an incremental democratization" of the system — a kind of recurring political drama of competing personalities rather than a genuine clash of programmatic alternatives. He terms this an "ideological monotony": the absence of real ideological alternatives in contional discourse, reflecting an "intellectual impasse" in which neither elite nor mass could conceive of a genuine alternative to the ancestral Republic's paternalist bargain of elite hegemony and popular deference.
-- Tiersch, in the *Institutions and Ideology* volume, analyzes *optimates* and *populares* as a "semantic battle" in which conservative orators tried — ultimately unsuccessfully — to exclude *popularis* claims from legitimate political vocabulary, implying the terms were themselves rhetorical weapons contested in real time rather than stable, agreed-upon labels for fixed factions. ^[inferred] (synthesis of Tiersch's framing against Morstein-Marx's "invisible optimate" argument, read together)
+- **Contional rhetoric and shared ideology:** In public rhetoric before the assembly, politicians across all factions perennially restaged shared constitutional premises rather than presenting programmatic alternatives. Orators on the Rostra avoided exclusive partisan labels, framing themselves as faithful guardians of popular interests and traditional *res publica* values. ^[inferred]
+- Political contestation operated as a semantic struggle: rival politicians claimed identical foundational values (*libertas*, *concordia*, *salus populi*), deploying *popularis* or conservative rhetoric as situational weapons rather than fixed party programs. ^[inferred]
 - The *Institutions and Ideology* editors' cross-cutting argument that Republican institutional complexity (forty-plus new magistrates per year, competing venues, multiple paths to authority) resists collapse into a single binary — people versus senate, *populares* versus conservatives — directly complicates any reading of *optimates*/*populares* as two coherent, opposed camps; the volume frames this as a corrective to the historiography's older binary habit.
-- The volume positions itself, and by extension this binary, against Fergus Millar's "democratic" reading of the Republic (the *contio*'s centrality as evidence of real popular sovereignty) and the skeptical counter-readings of Hölkeskamp (elite image-building ritual) and Mouritsen (an unrepresentative, politically marginal contional crowd) — noting Morstein-Marx's own later work (2013, 2014) partially revised his earlier "ideological monotony" position, signaling the field's attempt to find a middle path. ^[inferred]
+- The degree to which the late Republic possessed democratic character remains debated: while assemblies possessed formal legislative and electoral power, elite control over assembly summoning, candidate lists, and contional speech heavily circumscribed popular initiative. ^[inferred]
 - Rosillo-López's chapter in the same volume shows non-elite Romans nonetheless maintained high awareness of senior politicians' public identities despite the absence of formal party structures — a finding that sits in tension with treating *optimates*/*populares* as merely elite rhetorical labels with no popular purchase, since the labels evidently meant something to audiences even without organized parties behind them. ^[ambiguous]
 
 ## Open Questions
 
-- Whether *optimates* and *populares* denoted genuinely distinct, durable policy programs or were primarily rhetorical self-descriptions deployed situationally by individual orators is not resolved across the two citing sources: Morstein-Marx's "ideological monotony" thesis leans toward the latter (a shared ideology performed by all sides), while Tiersch's "semantic battle" framing implies more active, programmatic contestation over the vocabulary itself. ^[ambiguous]
+Whether *optimates* and *populares* represented distinct, coherent political philosophies or tactical rhetorical stances adopted by rival factions remains an enduring debate in Republican historiography.
 - The editors of *Institutions and Ideology* flag more broadly that applying the term "ideology" — grounded in twentieth-century political debates — to Republican Rome risks implying a more organized, programmatic phenomenon than existed, especially for non-elite political thought; they proceed with the term while acknowledging this tension rather than resolving it, a caveat that applies directly to how firmly *optimates*/*populares* should be read as ideological camps. ^[ambiguous]
 
 ## Sources
+
+- Robert Morstein-Marx, *Mass Oratory and Political Power*: contional ideology and the absence of optimate rhetoric on the Rostra.
+- Claudia Tiersch: semantic competition over *libertas* and civic values.
 
 - [[references/morsteinmarx-mass-oratory]]
 - [[references/vanderblom-gray-steel-institutions-ideology]]

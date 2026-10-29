@@ -3,7 +3,7 @@ title: Lucius Licinius Lucullus
 category: entities
 tags: [lucullus, engraved-gems, propaganda, late-republic, self-presentation]
 sources: ["[[references/golyzniak-engraved-gems-propaganda]]"]
-summary: Late Republican general cited by Golyzniak as a figure promoted through portraiture on engraved gems, in the period when gem imagery began performing propaganda functions.
+summary: Late Republican general associated with individual portraiture on engraved gems during the transition from family imagery to personal political promotion.
 provenance:
   extracted: 0.75
   inferred: 0.2
@@ -13,22 +13,22 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-29T22:41:25Z"
 ---
 
 # Lucius Licinius Lucullus
 
-Lucullus appears in Gołyźniak's study of engraved gems as one of a cluster of late Republican strongmen (alongside Pompey, Caesar, Sextus Pompey, and Augustus) whose individual portraits were used on glyptic media for self-promotion.
+Lucullus was a late Republican general associated with the use of individual portraits on engraved gems for political self-promotion. He belongs to an early first-century generation in which personal imagery increasingly supplemented older family symbols.
 
 ## Biography / Role
 
-- Gołyźniak identifies Lucullus, along with Pompey, Caesar, Sextus Pompey, and Augustus, as a figure promoted through individual portraiture on gems — in contrast to the earlier practice (before the late 2nd century BC) of relying mainly on portraits of famous ancestors or deliberately crafted family symbols rather than images of the living individual.
-- The book's evidentiary chapters are organized chronologically from the "Beginnings" (3rd–2nd century BC) through early-1st-century figures — [[entities/sulla]], [[entities/marius]], and Lucullus — before reaching the late Republic's major and minor politicians and, finally, Augustus; Lucullus is thus positioned as part of a transitional generation between the anonymous family-symbol era and the fully developed individual-portrait propaganda of Pompey, Caesar, and Augustus. ^[inferred]
+- Individual portraiture associated with Lucullus, Pompey, Caesar, Sextus Pompey, and Augustus contrasts with earlier reliance on famous ancestors or deliberately crafted family symbols rather than images of living politicians.
+- Lucullus, [[entities/sulla]], and [[entities/marius]] can be placed in a transitional generation between that earlier emphasis and the more developed individual-portrait promotion of the late Republic. This periodization is an inference from the cited study’s chronological organization, not independent evidence identifying particular gems. ^[inferred]
 
 ## Open Questions
 
-- The citing page does not detail which specific gems or iconographic motifs are attributed to Lucullus himself, beyond grouping him with Sulla and Marius as part of this early-1st-century chapter; the particular visual evidence for his case remains unspecified in the extracted claims.
+The evidence summarized here does not identify specific gems or iconographic motifs securely attributable to Lucullus. His inclusion in a broader grouping cannot substitute for that object-level evidence.
 
 ## Sources
 
-- [[references/golyzniak-engraved-gems-propaganda]]
+- [[references/golyzniak-engraved-gems-propaganda]]: Gołyźniak identifies Lucullus among politicians promoted through gem portraits. The study’s sequence from “Beginnings” to the early first-century grouping of Sulla, Marius, and Lucullus supplies the basis for the transitional periodization; specific Lucullan objects are not detailed in the extracted claims.

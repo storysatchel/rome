@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[entities/vestal-virgins]]"
     type: uses
@@ -22,7 +22,7 @@ relationships:
 
 # The Post-Cannae Vestal Scandal: Opimia and Floronia (216 BC)
 
-Shortly after the catastrophic Roman defeat at [[entities/cannae|Cannae]] in 216 BC, with Hannibal's army still rampaging through Italy, two Vestals, Opimia and Floronia, were accused and convicted of *incestum* in the same year — one of the best-attested and most dramatic Vestal scandals of the whole Republic, and a case Wildfang reads as a deliberate attempt by Roman authorities to reassert control over women's public behavior during a moment of civic panic, rather than a response to any specific sexual offense.
+Shortly after the catastrophic Roman defeat at [[entities/cannae|Cannae]] in 216 BC, with Hannibal's army still rampaging through Italy, two Vestals, Opimia and Floronia, were accused and convicted of *incestum* in the same year — one of the best-attested and most dramatic Vestal scandals of the whole Republic. The case can be read as a deliberate attempt by Roman authorities to reassert control over women's public behavior during a moment of civic panic, rather than a response to any specific sexual offense, though this remains an interpretation of its political setting.
 
 ## Parties & Stakes
 
@@ -33,11 +33,11 @@ Shortly after the catastrophic Roman defeat at [[entities/cannae|Cannae]] in 216
 
 ## What Happened
 
-In the immediate aftermath of Cannae — Rome's worst single military defeat of the war, with tens of thousands of citizen-soldiers dead and Hannibal's army active nearby — the city descended into visible public panic. Livy records that women in particular took to the streets in open, prolonged mourning, their grief so disruptive that the annual rites of Ceres had to be postponed because too few women were free of mourning obligations to perform them; later the same year, women again appeared publicly and vocally when the senate debated (and refused) ransoming captured soldiers. Amid this breakdown of expected female domestic restraint, the Vestals Opimia and Floronia were accused, tried, and convicted of incestum. Wildfang argues the timing is not coincidental: with Roman women's public behavior itself identified by the senate (via Fabius Maximus's emergency proposals) as a problem requiring forcible correction, the symbolically loaded punishment of two Vestals — figures whose chastity was supposed to represent and safeguard Roman civic order as a whole — served as a dramatic, state-sanctioned correction aimed at restoring control over Roman women's conduct generally, independent of whatever the Vestals had or had not actually done.
+In the immediate aftermath of Cannae — Rome's worst single military defeat of the war, with tens of thousands of citizen-soldiers dead and Hannibal's army active nearby — the city descended into visible public panic. Livy records that women in particular took to the streets in open, prolonged mourning, their grief so disruptive that the annual rites of Ceres had to be postponed because too few women were free of mourning obligations to perform them; later the same year, women again appeared publicly and vocally when the senate debated (and refused) ransoming captured soldiers. Amid this breakdown of expected female domestic restraint, the Vestals Opimia and Floronia were accused, tried, and convicted of incestum. The timing may be significant: with Roman women's public behavior itself identified by the senate (via Fabius Maximus's emergency proposals) as a problem requiring forcible correction, the symbolically loaded punishment of two Vestals — figures whose chastity was supposed to represent and safeguard Roman civic order as a whole — may have served as a dramatic, state-sanctioned correction aimed at restoring control over Roman women's conduct generally, independent of whatever the Vestals had or had not actually done.
 
 ## Outcome
 
-Opimia was buried alive at the [[entities/colline-gate|Colline Gate]] per the standard Vestal execution ritual; Floronia escaped the same fate only by suicide. Her alleged lover Cantilius was beaten to death by the Pontifex Maximus personally, with his own hands, in the [[entities/comitium|Comitium]] — an unusually brutal and public punishment even by the standards of Vestal-incestum cases, reflecting (per Wildfang) the extremity of the crisis atmosphere in which the case was decided.
+Opimia was buried alive at the [[entities/colline-gate|Colline Gate]] per the standard Vestal execution ritual; Floronia escaped the same fate only by suicide. Her alleged lover Cantilius was beaten to death by the Pontifex Maximus personally, with his own hands, in the [[entities/comitium|Comitium]] — an unusually brutal and public punishment even by the standards of Vestal-incestum cases, which may reflect the extremity of the crisis atmosphere in which the case was decided.
 
 ## Open Questions
 
@@ -45,4 +45,4 @@ Opimia was buried alive at the [[entities/colline-gate|Colline Gate]] per the st
 
 ## Sources
 
-- Wildfang, Robin Lorsch — Rome's Vestal Virgins, Ch. 6–7 ("The Vestals in the Romans' history"), citing Livy 22.57.2–3
+- Wildfang, Robin Lorsch — Rome's Vestal Virgins, Ch. 6–7 ("The Vestals in the Romans' history"), citing Livy 22.57.2–3. Wildfang reads the trials as a deliberate correction of women's public conduct during post-Cannae panic, and Cantilius's unusually brutal punishment as reflecting the crisis atmosphere; these are contextual interpretations, not established evidence of the Vestals' conduct.

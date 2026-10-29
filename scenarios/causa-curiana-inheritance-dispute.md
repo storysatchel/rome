@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29"
 ---
 
 # The Causa Curiana: M'. Curius's Inheritance Dispute (94/93 BC)
 
-A will-interpretation lawsuit before the *centumviri* (the Roman court for inheritance disputes) pitted two of the era's leading orators, L. Licinius Crassus and Q. Mucius Scaevola, against each other over a single clause of testamentary Latin (Alexander, case #93). The case became a touchstone in later Roman legal and rhetorical education for the clash it staged between literal and purposive interpretation of legal texts.
+A will-interpretation lawsuit before the *centumviri* (the Roman court for inheritance disputes) pitted two of the era's leading orators, L. Licinius Crassus and Q. Mucius Scaevola, against each other over a single clause of testamentary Latin. The case became a touchstone in later Roman legal and rhetorical education for the clash it staged between literal and purposive interpretation of legal texts.
 
 ## Parties & Stakes
 
@@ -38,7 +38,7 @@ The court found for Curius, endorsing Crassus's argument for interpreting the te
 
 ## Open Questions
 
-- The exact year (94 vs. 93 BC) depends on dating Scaevola's proconsulship in [[entities/asia-province|Asia]], which is itself disputed in the sources Alexander cites.
+- The exact year (94 vs. 93 BC) depends on dating Scaevola's proconsulship in [[entities/asia-province|Asia]], which is itself disputed.
 
 ## Sources
 

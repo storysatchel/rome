@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Prosecution of Fulvius Nobilior Over the Plundered Art of Ambracia (187 BC)
@@ -30,7 +30,7 @@ After completing the Aetolian War by capturing [[entities/ambracia|Ambracia]] �
 
 ## What Happened
 
-Summoned Ambraciote witnesses delivered damaging testimony in [[entities/rome|Rome]], claiming Fulvius had stripped every temple of its images, committing what amounted to sacrilege, and had spared only terracotta objects while taking everything else of value. ^[extracted] Gruen argues this accusation, rather than reflecting genuine impiety on Fulvius's part, actually demonstrates that official Roman policy disapproved of sacrilegious plunder — which is precisely why his rivals thought the charge would stick, and why the Senate responded by referring the disputed items to the pontifical college for a formal sacred/profane determination, mirroring the precedent set with the Capuan spoils in 210 BC. ^[inferred] Gruen notes Fulvius was, by all other indications, a man of considerable religious learning (he later composed a treatise on Rome's religious calendar), undermining the caricature of him as an indiscriminate, irreverent looter. ^[inferred]
+Summoned Ambraciote witnesses delivered damaging testimony in [[entities/rome|Rome]], claiming Fulvius had stripped every temple of its images, committing what amounted to sacrilege, and had spared only terracotta objects while taking everything else of value. ^[extracted] The accusation may indicate official Roman disapproval of sacrilegious plunder rather than establish Fulvius's impiety: that disapproval would explain why rivals thought the charge would stick and why the Senate referred the disputed items to the pontifical college for a formal sacred/profane determination, mirroring the Capuan precedent of 210 BC. ^[inferred] Fulvius's considerable religious learning — he later composed a treatise on Rome's religious calendar — also complicates the caricature of an indiscriminate, irreverent looter, without by itself disproving the witnesses' allegations. ^[inferred]
 
 ## Outcome
 
@@ -38,9 +38,10 @@ The Senate's referral of the Ambracia art objects to the pontiffs for categoriza
 
 ## Open Questions
 
-- The specific identities of the political rivals (*inimici*) who orchestrated the prosecution are not named in Gruen's account.
-- Whether the Ambraciote testimony was essentially accurate or deliberately exaggerated by Fulvius's rivals for political effect is explicitly debated by Gruen, who leans toward viewing it as rhetorically inflated. ^[ambiguous]
+- The specific identities of the political rivals (*inimici*) who orchestrated the prosecution remain unspecified here.
+- Whether the Ambraciote testimony was essentially accurate or deliberately exaggerated for political effect remains disputed; rhetorical inflation is a possible interpretation, not an established fact. ^[ambiguous]
 
 ## Sources
 
 - Gruen, Erich S. — Culture and National Identity in Republican Rome
+- Gruen interprets the accusation and pontifical referral as evidence of official disapproval of sacrilegious plunder, rather than proof of Fulvius's impiety, and invokes Fulvius's religious learning against the caricature of an irreverent looter. He leans toward rhetorical inflation of the Ambraciote testimony and does not identify the political rivals.

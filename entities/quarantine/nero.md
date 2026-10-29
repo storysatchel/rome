@@ -21,7 +21,7 @@ summary: "Nero’s afterlife in Flavian building programs and accounts of sexual
 tags: ["material/culture", "period/principate", "subject/propaganda", "subject/roman-law", "type/entity"]
 tier: "supporting"
 title: "Nero"
-updated: "2026-10-29T21:55:27Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 # Nero
 
@@ -31,22 +31,22 @@ Nero remained a powerful reference point after his death. The Flavian response t
 
 ## The Flavians and Neronian Rome
 
-The introduction to *Flavian Responses to Nero’s Rome* rejects a straightforward opposition between Nero and his successors. Vespasian, Titus, and Domitian could imitate Augustus and distance themselves from Nero while still negotiating the physical city his reign had helped create. Their building programs therefore need to be examined in relation both to Augustan precedents and to Neronian initiatives.
+The Flavian response to Nero was not a straightforward rejection. Vespasian, Titus, and Domitian could imitate Augustus and distance themselves from Nero while negotiating the physical city his reign had helped create. Their building programs combined Augustan precedents with inherited Neronian initiatives.
 
-The volume treats these architectural responses as a counterpart to literary narratives. Nero’s example was not always avoidable or erasable, and the idea that Rome had been restored to its citizens was itself part of the discourse through which subsequent rulers characterized their rule.
+These architectural responses complicate literary narratives of a clean break. Nero's example was not always avoidable or erasable, and claims that Rome had been restored to its citizens were themselves a way for later rulers to characterize their rule.
 
-The specific cases include the Palatine palaces and the Templum Pacis. Aurora Raimondi Cominesi traces Flavian reuse of the Domus Transitoria and Domus Aurea, finding continuity even under rulers who publicly condemned Nero; Domitian’s reuse differed especially in scale. Eric Moormann interprets the display of art and reused Neronian materials in the Templum Pacis as an appropriation for Flavian peace and legitimacy. Both cases complicate the notion that a successor could simply remove Nero from the urban landscape.
+Flavian reuse of the Domus Transitoria and Domus Aurea suggests continuity even under rulers who publicly condemned Nero; Domitian's reuse differed especially in scale. The display of art and reused Neronian materials in the Templum Pacis can be interpreted as appropriating that inheritance for Flavian peace and legitimacy. A successor could not simply remove Nero from the urban landscape.
 
 ## Literary traditions and claims about marriage
 
-Gergő Gellérfi discusses Nero alongside Elagabalus in a study of accounts of weddings between men. He cautions against using these imperial stories as straightforward evidence for ordinary same-sex weddings. The exceptional portrayal of an emperor and the legal status of a union are separate questions.
+Stories of Nero's and Elagabalus's weddings between men should not be treated as straightforward evidence for ordinary same-sex weddings. An emperor's exceptional portrayal, the occurrence of a ceremony, and a union's legal status are separate questions.
 
-The traditions are nevertheless specific about ceremonies. Dio describes Nero marrying Sporus, assigning a dowry, and celebrating the wedding publicly after having Sporus castrated because of his resemblance to the deceased Sabina. Tacitus describes Nero taking the bridal role in a ceremony with Pythagoras, including veil, torches, and marriage bed. Gellérfi contrasts Dio’s comparatively matter-of-fact narration with the scandalizing presentations of Tacitus and Suetonius. These are attributed ancient reports, not grounds for treating every associated allegation as established fact.
+The traditions are nevertheless specific about ceremonies. Dio describes Nero marrying Sporus, assigning a dowry, and celebrating the wedding publicly after having Sporus castrated because of his resemblance to the deceased Sabina. Tacitus describes Nero taking the bridal role in a ceremony with Pythagoras, including veil, torches, and marriage bed. Dio's comparatively matter-of-fact account contrasts with the scandalizing presentations of Tacitus and Suetonius. These are attributed ancient reports, not grounds for treating every associated allegation as established fact.
 
-Gellérfi also distinguishes wedding ceremonies from legally recognized *matrimonium*: in his account, the latter required one man and one woman. His discussion of Cicero’s metaphorical presentation of Antony as a bride illustrates the need to read genre and rhetoric carefully, but it is not evidence about Nero’s own conduct.
+Wedding ceremonies also need to be distinguished from legally recognized *matrimonium*, conventionally requiring one man and one woman. Cicero's metaphorical presentation of Antony as a bride illustrates the importance of genre and rhetoric, but is not evidence about Nero's conduct.
 
 ## Sources
 
-- `_raw/Mark Heerink, Esther_2025_Flavian Responses to Nero's Rome.epub`, sections 18–20, on Flavian building programs, the Palatine, and the Templum Pacis.
-- `_raw/142624.pdf`, p.4.1, p.7.1, and p.10.1, Gergő Gellérfi, “Nubit amicus: Same-sex weddings in Imperial Rome,” including Dio 62.28, Tacitus, *Annals* 15.37, and Suetonius, *Nero* 27–29. Source IDs retained in frontmatter.
+- `_raw/Mark Heerink, Esther_2025_Flavian Responses to Nero's Rome.epub`, sections 18–20 — introduction's interpretation of continuity and distancing; Aurora Raimondi Cominesi on Flavian reuse of the Palatine palaces and Domitian's scale; Eric Moormann on the Templum Pacis as appropriation for Flavian peace and legitimacy.
+- `_raw/142624.pdf`, p.4.1, p.7.1, and p.10.1 — Gergő Gellérfi, “Nubit amicus: Same-sex weddings in Imperial Rome,” on exceptional imperial stories versus ordinary practice, ceremony versus legally recognized *matrimonium*, and differences in narrative tone; includes Dio 62.28, Tacitus, *Annals* 15.37, and Suetonius, *Nero* 27–29. Source IDs retained in frontmatter.
 - `_raw/Dominaepub.decrypted.epub`, sections 16 and 271, on Nero’s reign, Julio-Claudian descent, birth, and parents (source ID: B04:Dominaepub.decrypted.epub).

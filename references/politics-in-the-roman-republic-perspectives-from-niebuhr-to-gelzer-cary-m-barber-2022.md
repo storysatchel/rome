@@ -3,7 +3,7 @@ title: "*Politics in the Roman Republic: Perspectives from Niebuhr to Gelzer*"
 category: references
 tags: ["type/reference", "period/republic", "domain/political", "subject/propaganda", "place/rome"]
 sources: ["B06:Politics in the Roman Republic- Perspectives From Niebuhr to Gelzerpdf.pdf"]
-summary: "The work reassesses Barthold Niebuhr, Theodor Mommsen, Friedrich Münzer and Matthias Gelzer as foundational interpreters of Roman Republican politics (Abstract; ch. 1)."
+summary: "Niebuhr, Mommsen, Münzer and Gelzer shaped foundational methods for reconstructing Republican politics; their legacy invites historically contextualized reassessment rather than dismissal."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - The work reassesses Barthold Niebuhr, Theodor Mommsen, Friedrich Münzer and Matthias Gelzer as foundational interpreters of Roman Republican politics (Abstract; ch. 1). ^[ambiguous]
-- The work reassesses Barthold Niebuhr, Theodor Mommsen, Friedrich Münzer and Matthias Gelzer as foundational interpreters of Roman Republican politics (Abstract; ch. 1).   - Their methods made Republican political history susceptible to critical/scientific inquiry, systematized evidence and shaped modern frameworks (Abstract).   - Anglophone scholarship has often marginalized or caricatured these historians, producing cumulative historiographical neglect (ch. 1, pp. 2–15).   - Mommsen’s constitutionalist model, Münzer/Gelzer’s social-historical/prosopographical traditions and later Symean critiques form a connected historiographical continuum (contents; ch. 1).   - Barber advocates critical reuse and historically informed reevaluation rather than teleological dismissal of older scholarship (ch. 1, pp. 5–15). ^[ambiguous]
+- Niebuhr, Mommsen, Münzer and Gelzer systematized evidence and helped establish critical methods for Republican political history (Abstract). Mommsen’s constitutionalism, Münzer’s and Gelzer’s social-historical and prosopographical approaches, and Syme’s later critiques form a connected historiographical continuum (contents; ch. 1). One assessment finds that Anglophone scholarship has often marginalized or caricatured these historians; critical reuse and historically informed reevaluation offer an alternative to teleological dismissal. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -41,6 +41,10 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - Münzer and Gelzer `related_to` social-historical/prosopographical tradition (contents ch. 5) ^[ambiguous]
 - Syme `contradicts`/revises Mommsenian constitutionalism (contents ch. 6 ^[ambiguous]
 - ch. 1) ^[ambiguous]
+
+## Sources
+
+- Cary M. Barber, *Politics in the Roman Republic: Perspectives from Niebuhr to Gelzer* (2022), chapter 1, pp. 2–15: assessment of Anglophone neglect; pp. 5–15: case for critical reuse and contextual reevaluation of older scholarship. The abstract and contents supply the methodological and historiographical scope described above.
 
 ## Related live pages
 

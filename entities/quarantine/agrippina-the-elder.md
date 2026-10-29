@@ -21,7 +21,7 @@ summary: "Granddaughter of Augustus, wife of Germanicus, and a dynastic figure w
 tags: ["period/late-republic", "period/principate", "period/republic", "subject/propaganda", "type/entity"]
 tier: "supporting"
 title: "Agrippina the Elder"
-updated: "2026-10-29T21:57:12Z"
+updated: "2026-10-29T22:41:25Z"
 ---
 # Agrippina the Elder
 
@@ -29,7 +29,7 @@ Agrippina the Elder (14 BC–AD 33) was the daughter of Julia the Elder and Marc
 
 ## Germanicus and the imperial family
 
-Agrippina accompanied Germanicus on campaign in Germany. After his death, she and her children became targets of a campaign that *Domina* attributes to Sejanus and Tiberius. Her sons Nero and Drusus Caesar were later murdered, and Agrippina herself died in AD 33.
+Agrippina accompanied Germanicus on campaign in Germany. After his death, she and her children became targets of persecution associated with Sejanus and Tiberius. Her sons Nero and Drusus Caesar were later murdered, and Agrippina herself died in AD 33.
 
 ## Posthumous memory
 

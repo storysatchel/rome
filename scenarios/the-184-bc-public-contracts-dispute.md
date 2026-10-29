@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The 184 BC Public Contracts Dispute — Titus Flamininus Overturns Cato's Censorial Auctions
@@ -41,9 +41,10 @@ The contracts were annulled and re-auctioned under marginally better terms for c
 
 ## Open Questions
 
-- Whether the Senate's motive was genuinely fiscal prudence (fear of contractor defaults) or primarily personal payback against Cato on Titus Flamininus's behalf is explicitly debated by Astin. ^[ambiguous]
+- Whether the Senate's motive was genuinely fiscal prudence (fear of contractor defaults) or primarily personal payback against Cato on Titus Flamininus's behalf remains disputed. ^[ambiguous]
 - The full substance of the charge implied against Cato in the Caelius affair is not preserved.
 
 ## Sources
 
 - Astin, A.E. — Cato the Censor
+- Astin debates the competing fiscal-prudence and personal-retaliation explanations for the Senate's annulment of the contracts.

@@ -16,7 +16,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:50Z"
-updated: "2026-10-24T06:49:50Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The History of Rome (Books 1-5)
@@ -31,10 +31,10 @@ Mommsen's organizing argument, per the Cambridge Library Collection's own framin
 
 - Mommsen frames Roman history as one of four parallel "culminating points" of Mediterranean civilization (Egyptian/Coptic, Aramaean/Syrian, Hellenic, and Italian/Roman), each developing independently before converging — an explicitly comparative-civilizational opening frame rather than a Rome-centered just-so narrative.
 - Book III's analysis of the "Government and the Governed" in the mid-Republic (the period after the Punic Wars) argues that the formal stability of the Roman constitution in this era was deceptive: he writes that this period's constitutional stability "was here, as everywhere, not a sign of the health of the state, but a token of incipient sickness and the harbinger of revolution" — directly implicating the growing practice of appealing political and military disputes to the comitia (popular assemblies), which he judges structurally incapable of actually governing.
-- Mommsen identifies Gaius Flaminius (consul 223, 217 BC) as a precursor whom "the statesmen of the following generation" blamed as the originator of the demagogic political style that led "to the reforms of the Gracchi, and... the democratico-monarchical revolution that followed" — explicitly drawing a direct causal line from mid-Republican populism to the Gracchi to Caesar's eventual monarchy.
+- Gaius Flaminius (consul 223, 217 BC) appears in this reconstruction as a precursor whom "the statesmen of the following generation" blamed as the originator of the demagogic political style that led "to the reforms of the Gracchi, and... the democratico-monarchical revolution that followed" — explicitly drawing a direct causal line from mid-Republican populism to the Gracchi to Caesar's eventual monarchy.
 - The practical abolition of the dictatorship after Quintus Fabius's political crisis in 217 BC (with only rare, limited exceptions, e.g. urban dictators) is presented as the loss of a constitutional "corrective" that the Senate could ill afford to lose, since collegiate (dual) magistracies needed exactly this kind of emergency check.
 - Sulla's constitutional reforms (Book IV, "The Sullan Constitution") are analyzed in granular administrative detail: restoring minimum-age and office-sequence (cursus honorum) requirements, mandating a two-year gap and ten-year interval between magistracies, curbing the tribunate's legislative-initiative power by subjecting it to senatorial permission and barring ex-tribunes from higher office, and separating civil (consul/praetor, in Rome) from military (proconsul/propraetor, in the provinces) authority — with Italy itself (boundary moved from the Aesis to the Rubicon) reorganized as demilitarized "home" territory governed by ordinary magistrates rather than army commanders.
-- Mommsen treats the extension of Roman citizens' direct interference in military command and foreign policy — citing examples from the election of anti-Hannibal commanders to Scipio's threat to appeal to the people if denied the African command — as symptomatic of the same disease as the land-distribution crisis: both represent the "sovereign" popular assembly intruding into domains (finance, military command) it was constitutionally and practically unfit to manage.
+- In this nineteenth-century constitutional reading, the extension of Roman citizens' direct interference in military command and foreign policy — citing examples from the election of anti-Hannibal commanders to Scipio's threat to appeal to the people if denied the African command — is symptomatic of the same disease as the land-distribution crisis: both represent the "sovereign" popular assembly intruding into domains (finance, military command) it was constitutionally and practically unfit to manage.
 
 ## Structure / Scope
 
@@ -57,3 +57,5 @@ Mommsen's work is explicitly positioned by its own translator's preface as both 
 
 ## Sources
 - Mommsen, Theodor — The History of Rome (Books 1-5)
+
+- Source note: Mommsen, Book III (“Government and the Governed”), supplies the constitutional-decay diagnosis and Flaminius/popular-interference interpretation; Book IV (“The Sullan Constitution”) supplies the reform reconstruction. These normative and institutional readings belong to the work’s nineteenth-century framework, not settled conclusions; the final chapter supplies the quoted defense of Caesar’s monarchy.

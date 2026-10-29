@@ -3,7 +3,7 @@ title: "*Traffic and Congestion in the Roman Empire*"
 category: references
 tags: ["type/reference", "domain/economic", "domain/political", "period/republic", "period/principate"]
 sources: ["B09:Traffic and Congestion in the Roman Empireepub.decrypted.epub", "B09:Traffic and Congestion in the Roman Empireepub.pdf"]
-summary: "Same argument set as the decrypted EPUB: Roman roads were primarily military but served commercial/civilian movement; congestion was principally urban."
+summary: "Roman roads were primarily military but served commercial/civilian movement; congestion was principally urban."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:10Z"
 facets:
   domain: [economic, political]
   type: [reference]
@@ -31,7 +31,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- Same argument set as the decrypted EPUB: Roman roads were primarily military but served commercial/civilian movement; congestion was principally urban; regulation and barricades constrained movement; Pompeii, Xanten, and Rome provide contrasting urban cases; infrastructure expansion was generally not chosen over competing priorities (PDF opening description; conclusion/summary section). ^[ambiguous]
+- Roman roads were primarily military but served commercial/civilian movement; congestion was principally urban; regulation and barricades constrained movement; Pompeii, Xanten, and Rome provide contrasting urban cases; infrastructure expansion was generally not chosen over competing priorities (PDF opening description; conclusion/summary section). ^[ambiguous]
 - Roman roads formed an unusually extensive, engineered network, developed in response to expanding military, political, and commercial needs; straight routes, bridges, dams, and tunnels helped preserve speed and continuity (`ch1.xhtml`, “Roads,” introduction; `ch5.xhtml`, “Summary”). ^[ambiguous]
 - Road capacity depended on physical infrastructure (width, paving, drainage, bridges, maintenance) and on the type and volume of users; legal classifications distinguished public/private/local roads and pedestrian, animal, and wheeled access (`ch1.xhtml`, introduction and “Different types of roads and streets”). ^[ambiguous]
 - Interurban delay was generally limited by relatively low user density and good road surfaces; urban congestion concentrated at gates, narrow streets, intersections, and constrained routes (`ch5.xhtml`, “Summary”). ^[ambiguous]

@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Secret Wager Over Fake Witnesses to a Lex Curiata
@@ -36,9 +36,10 @@ The direct outcome of the wager (whether the witnesses were in fact produced, or
 
 ## Open Questions
 
-- Whether this scheme was ever carried out, exposed, or penalized is not known from the source. ^[ambiguous]
-- The precise identity of Appius's consular colleague in the arrangement is not given by Botsford. ^[ambiguous]
+- Whether this scheme was ever carried out, exposed, or penalized remains uncertain. ^[ambiguous]
+- The precise identity of Appius's consular colleague in the arrangement is not established here. ^[ambiguous]
 
 ## Sources
 
 - Botsford, George Willis — The Roman Assemblies from their Origin to the End of the Republic
+- Source limitations: Botsford does not identify Appius's consular colleague or establish whether the scheme was carried out, exposed, or penalized.

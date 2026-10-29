@@ -21,7 +21,7 @@ summary: "Pompey’s intervention in the Hasmonean conflict brought Judea under 
 tags: ["domain/political", "period/late-republic", "period/principate", "subject/propaganda", "type/scenario"]
 tier: "supporting"
 title: "Pompey's Judean Conquest (63 BC)"
-updated: "2026-10-29T21:53:47Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 # Pompey's Judean Conquest (63 BC)
 
@@ -33,7 +33,7 @@ Diodorus and Josephus’ *Jewish Antiquities* describe a delegation claiming to 
 
 ## Problems with the appeal
 
-The source questions the account rather than accepting it as a straightforward expression of popular opinion. Kingship had been established decades before the two brothers’ dispute, not introduced by them. Moreover, the Hasmonean kings were themselves high priests. An appeal to abolish their kingship cannot simply be equated with support for “priestly monarchy.”
+The account cannot be accepted without qualification as a straightforward expression of popular opinion. Kingship had been established decades before the two brothers’ dispute, not introduced by them. Moreover, the Hasmonean kings were themselves high priests. An appeal to abolish their kingship cannot simply be equated with support for “priestly monarchy.”
 
 ## Conquest and continuing resistance
 
@@ -41,11 +41,11 @@ The Roman settlement did not end dynastic opposition. Later rebellions led by Ar
 
 ## An indirect Roman settlement
 
-Pompey left Hyrcanus as high priest rather than appointing a king or directly annexing Judea. Internal government remained in local hands under the watch of the Roman governor of Syria. The source interprets this as a means of securing control while avoiding the administrative burdens of annexation, not as a continuation of independent Hasmonean sovereignty.
+Pompey left Hyrcanus as high priest rather than appointing a king or directly annexing Judea. Internal government remained in local hands under the watch of the Roman governor of Syria. This arrangement can be interpreted as a means of securing control while avoiding the administrative burdens of annexation, not as a continuation of independent Hasmonean sovereignty.
 
 ## Why the delegation story may have circulated
 
-Attempts to identify the reported delegation as Pharisees, Sadducees, Essenes, or priests do not yield a secure result. The source ultimately argues that the account probably served Pompeian propaganda. On returning to Rome, Pompey faced demands for scrutiny and ratification of his eastern settlements; a story in which Judeans requested intervention and the abolition of kingship could help justify his actions. That is the modern author’s reconstruction of the story’s purpose, not a demonstrated admission by its ancient narrators. Even if some petitioners existed, their claim to represent the entire nation remains unproven.
+Attempts to identify the reported delegation as Pharisees, Sadducees, Essenes, or priests do not yield a secure result. The account may instead have served Pompeian propaganda. On returning to Rome, Pompey faced demands for scrutiny and ratification of his eastern settlements; a story in which Judeans requested intervention and the abolition of kingship could help justify his actions. This purpose is a modern reconstruction, not a demonstrated admission by its ancient narrators. Even if some petitioners existed, their claim to represent the entire nation remains unproven.
 
 ## Related Pages
 
@@ -53,5 +53,5 @@ Attempts to identify the reported delegation as Pharisees, Sadducees, Essenes, o
 
 ## Sources
 
-- `_raw/Judea Under Roman Dominationpdf.pdf` — p.107.1; p.108.1; p.109.1; p.110.1; p.96.1; p.97.1; earlier contextual locators retained: p.99.1; p.104.1; p.121.1.
+- `_raw/Judea Under Roman Dominationpdf.pdf` — p.107.1; p.108.1; p.109.1; p.110.1; p.96.1; p.97.1; earlier contextual locators retained: p.99.1; p.104.1; p.121.1. The discussion questions the delegation's representative character, interprets indirect rule as control without annexation's administrative burdens, and argues that the delegation account probably served Pompeian propaganda. The last claim is a reconstruction of purpose, not an ancient admission.
 - Original citation ID: `^e074052990d6c4ba`.

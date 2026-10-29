@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29"
 ---
 
 # Caesar's Axle Breaks at the Velabrum During His Gallic Triumph
@@ -28,7 +28,7 @@ During his quadruple triumph of 46 BC — celebrating victories in Gaul, Egypt, 
 
 ## What Happened
 
-As Caesar's chariot carried him through the [[entities/velabrum|Velabrum]] — a low, marshy district near the [[entities/forum-boarium|Forum Boarium]] on the triumphal route — its axle broke, very nearly pitching him out onto the pavement in front of the assembled crowds. Suetonius records the event tersely as part of a catalogue of portents and embarrassments associated with Caesar's later career. Cassius Dio, writing independently, places the breakdown at the [[entities/temple-of-felicitas|temple of Felicitas]] — an irony not lost on ancient or modern readers, given the temple's name ("Good Fortune"). Pliny the Elder separately attests to Roman superstition surrounding vehicle crashes, noting that Caesar and others took care about riding in vehicles again after such an accident.^[inferred]
+As Caesar's chariot carried him through the [[entities/velabrum|Velabrum]] — a low, marshy district near the [[entities/forum-boarium|Forum Boarium]] on the triumphal route — its axle broke, very nearly pitching him out onto the pavement in front of the assembled crowds. Suetonius records the event tersely as part of a catalogue of portents and embarrassments associated with Caesar's later career. Cassius Dio, writing independently, places the breakdown at the [[entities/temple-of-felicitas|temple of Felicitas]] — a symbolically suggestive location given the temple’s name ("Good Fortune"), though this does not establish how the contemporary crowd interpreted the accident. Pliny the Elder separately attests to Roman superstition surrounding vehicle crashes, noting that Caesar and others took care about riding in vehicles again after such an accident.^[inferred]
 
 ## Outcome
 

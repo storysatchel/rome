@@ -31,17 +31,17 @@ BGU 4.1050 is a marriage contract preserved on papyrus for Dionysios and Isidora
 
 Dionysios undertook not to mistreat or abuse Isidora, expel her, or bring another woman into the house. Isidora was not to damage the household or be with another man. She was also not to sleep away from home or be absent for a day without Dionysios’ approval.
 
-The source treats this differentiation as typical of such contracts. The husband’s duties were expressed as protection of his wife from abuse; the wife’s duties protected the marriage and, with it, her husband’s reputation.
+This differentiation was a recognizable contractual pattern. The husband’s duties were expressed as protection of his wife from abuse; the wife’s duties protected the marriage and, with it, her husband’s reputation.
 
 ## A restriction on mobility
 
-The clause concerning absence makes the contract especially useful for studying women’s movement. Its exact practical application is uncertain: the source leaves open whether it should be read literally or together with the other clauses more abstractly. At minimum, it presents Isidora’s movement as subject to her husband’s consent, rather than as an independent freedom.
+The clause concerning absence makes the contract especially useful for studying women’s movement. Its exact practical application is uncertain: it may be read literally or together with the other clauses more abstractly. At minimum, it presents Isidora’s movement as subject to her husband’s consent, rather than as an independent freedom.
 
 ## What one contract can establish
 
-The surrounding discussion places this papyrus alongside other, very different evidence for mobility, including Luke’s presentation of an unmarried Mary travelling to visit Elisabeth. The contrast does not establish a universal difference between married and unmarried women: the sources differ in genre, location, and circumstances.
+Other evidence for mobility differs markedly: Luke, for example, presents an unmarried Mary travelling to visit Elisabeth. The contrast does not establish a universal difference between married and unmarried women: the sources differ in genre, location, and circumstances.
 
-The authors emphasize that abundant but individualized evidence is difficult to combine into a single model. BGU 4.1050 is therefore strong evidence for the obligations articulated in this marriage and for a recognizable contractual pattern, but not a direct measure of all women’s actual travel.
+Abundant but individualized evidence is difficult to combine into a single model. BGU 4.1050 is therefore strong evidence for the obligations articulated in this marriage and for a recognizable contractual pattern, but not a direct measure of all women’s actual travel.
 
 ## Sources
 

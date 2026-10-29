@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 facets:
   domain: [legal, economic]
   type: [reference]
@@ -31,7 +31,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- Roman legislation often reacted to events but codified rules were general prospective norms; Justinian’s and Theodosius’ Codes are systematic legal systems, not unrelated fragments; chronology within a title is not decisive for legal validity; codification selection itself communicates contemporary relevance; imperial laws addressed officials while communicating to ultimate audiences behind them; the *coloni* title (CJ 11.48) should be read as a systematic body concerning land, taxation, labor, and legal status; Battistella’s event-only model is criticized as overly speculative. ^[ambiguous]
+- Roman legislation often reacted to events but codified rules were general prospective norms; Justinian’s and Theodosius’ Codes are systematic legal systems, not unrelated fragments; chronology within a title is not decisive for legal validity; codification selection itself communicates contemporary relevance; imperial laws addressed officials while communicating to ultimate audiences behind them; the *coloni* title (CJ 11.48) should be read as a systematic body concerning land, taxation, labor, and legal status; an event-only model remains disputed as overly speculative. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -43,3 +43,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Related live pages
 
 - [[concepts/roman-economy-and-trade]], [[concepts/roman-law-and-trials]], [[entities/rome]]
+
+## Sources
+
+- Source note: Sirks disputes Battistella’s event-only model (pp. 269–282); the systematic reading of the codes above is the article’s interpretation, not an uncontested account.

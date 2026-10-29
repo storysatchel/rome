@@ -3,7 +3,7 @@ title: "Divination, Prediction and the End of the Roman Republic"
 category: references
 tags: ["type/reference", "period/late-republic", "domain/political", "place/rome", "subject/roman-religion-and-augury"]
 sources: ["B03:Divination, Prediction and the End of the Roman Republicpdf.pdf"]
-summary: Federico Santangelo examines how divination and prediction shaped Roman political decisions from the late Republic into the early Principate.
+summary: Divination and prediction shaped Roman political decisions from the late Republic into the early Principate.
 provenance:
   extracted: 0.85
   inferred: 0.10
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: [political]
   type: [reference]
@@ -32,11 +32,11 @@ relationships:
 
 # Divination, Prediction and the End of the Roman Republic
 
-> [!tldr] Federico Santangelo shows how Roman divination was embedded in government, elite competition, and the political transformation from Republic to Principate.
+> [!tldr] Roman divination was embedded in government, elite competition, and the political transformation from Republic to Principate.
 
 ## Scope and thesis
 
-Santangelo studies the intersection of Roman politics, culture, and divination during the last two centuries of the Republic and the early Principate. The book treats divination as part of governmental decision-making and political communication, not as a separate religious sphere.
+During the last two centuries of the Republic and the early Principate, divination intersected with Roman politics and culture through governmental decision-making and political communication, rather than occupying a separate religious sphere.
 
 ## Political cases
 
@@ -49,7 +49,7 @@ The cases complement [[concepts/roman-religion-and-augury]] and illuminate the i
 
 ## Source criticism
 
-The book compares literary, institutional, and religious evidence. Interpretations of prodigies and predictions are mediated by authors and later political contexts; their reported meaning cannot be assumed to equal the participants' private beliefs. ^[inferred]
+Literary, institutional, and religious evidence must be read together. Interpretations of prodigies and predictions are mediated by authors and later political contexts; their reported meaning cannot be assumed to equal the participants' private beliefs. ^[inferred]
 
 ## Open questions
 

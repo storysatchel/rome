@@ -25,7 +25,7 @@ updated: "2026-10-29T21:50:41Z"
 ---
 # army distribution and cost
 
-The size and distribution of the Roman army were practical constraints on imperial expansion. In Susan P. Mattern’s account, Roman concerns about available military strength and the financial costs of war, conquest, and occupation help explain the limits of the empire’s growth.
+The size and distribution of the Roman army were practical constraints on imperial expansion. Roman concerns about available military strength and the financial costs of war, conquest, and occupation help explain the limits of the empire’s growth.
 
 ## Deployment and the limits of the evidence
 
@@ -35,14 +35,14 @@ This uneven evidence requires a distinction between the importance of deployment
 
 ## Concentrating force without losing territory
 
-Expansion required troops that could be assembled without making existing possessions vulnerable. Mattern finds this concern in literary discussions of the forces needed to conquer and garrison Britain or Ireland. It was a constraint on the use of the army, not merely on its total size.
+Expansion required troops that could be assembled without making existing possessions vulnerable. Literary discussions of the forces needed to conquer and garrison Britain or Ireland illustrate this concern. It was a constraint on the use of the army, not merely on its total size.
 
 Rome generated substantial military information, including rosters, duty lists, casualty lists, and strength reports. Augustus left an account of legions and auxiliaries, while provincial administration maintained detailed records. How much of this reached emperors or governors in a usable summary remains uncertain.
 
 ## Information and strategic priorities
 
-The source’s main focus is the period from Actium to 235 CE. It interprets expansion through a tension between honour-driven pressure to conquer or retain territory and the costs of occupation and dispersal. Military numbers in surviving narratives must also be handled critically: casualty figures could be shaped by patriotic display, self-glorification, or the language of revenge.
+Between Actium and 235 CE, expansion can be interpreted through a tension between honour-driven pressure to conquer or retain territory and the costs of occupation and dispersal. Military numbers in surviving narratives must also be handled critically: casualty figures could be shaped by patriotic display, self-glorification, or the language of revenge.
 
 ## Sources
 
-- `_raw/Susan P. Mattern_1999_Rome and the Enemy.epub`, section.3–section.4 on chronology and constraints; section.132–section.134 on concentration of force, military records, and numerical evidence (B08; original passage IDs: `raw-810cd82f39fb`, `raw-74dfe5d67ef7`).
+- Susan P. Mattern, `_raw/Susan P. Mattern_1999_Rome and the Enemy.epub`, section.3–section.4 for the chronology and interpretation of constraints on expansion; section.132–section.134 on concentration of force, military records, and numerical evidence (B08; original passage IDs: `raw-810cd82f39fb`, `raw-74dfe5d67ef7`).

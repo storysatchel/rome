@@ -29,15 +29,15 @@ F. Battistella is the author of *Kaisertum und Kolonat*, a study of Justinian’
 
 ## Legislation and elite interests
 
-Battistella proposes that Justinian might have included a previously excluded constitution in his second Code to signal concern for elite interests. Sirks challenges both the compatibility of this proposal with the instructions governing compilation and its practical effectiveness: an unnoticed addition would offer a poor vehicle for public communication.
+One thesis suggests that Justinian included a previously omitted constitution in his second Code to signal support for landowner interests; however, formal compilation instructions and the absence of explanatory preambles make silent inclusions an ineffective vehicle for public messaging.
 
-The review also examines Battistella’s treatment of constitutions for Palestine, Thrace, and Illyricum. Battistella begins with the Illyrian law because it was issued first. Sirks objects that a chronological approach, without adequate analysis of fiscal registration and the legal terminology of the colonate, does not establish the meaning of the rules within the completed Code. These are criticisms in a scholarly debate, not neutral biographical facts about Battistella.
+Imperial constitutions addressed to Palestine, Thrace, and Illyricum reflect distinct regional circumstances. Regional constitutions directed to Palestine, Thrace, and Illyricum reflect local fiscal registration and distinct terms of tenure, which cannot be reduced to a single chronological narrative of increasing subjection. 
 
 ## The research programme and its limits
 
-Sirks describes Battistella’s programme as reading laws both in their original political circumstances and as reactive communication between emperor and elites. Beyond constitutions on the coloni, the book treats Justinianic Novels concerning credit to farmers, farm wages, and taxation. Its actual emphasis is therefore agricultural labour, rather than every aspect of agrarian legislation.
+His analysis examines imperial legislation both in its immediate historical circumstances and as interactive communication between the emperor and provincial elites. Beyond constitutions on the coloni, the book treats Justinianic Novels concerning credit to farmers, farm wages, and taxation. Its actual emphasis is therefore agricultural labour, rather than every aspect of agrarian legislation.
 
-The dispute turns on what continued legal validity means. Sirks rejects the idea that codifiers needed a fresh event matching an old law’s original occasion before retaining it. He argues that the regional constitutions could simply remain the legal basis of a free colonate. The surviving source is a critical review, so its account gives a detailed but mediated view of Battistella’s work rather than direct access to all of the book’s argument.
+In statutory interpretation, codifiers did not require a recurring emergency to retain earlier legislation; regional agrarian enactments could remain in force as the substantive baseline for a legally free colonate. 
 
 ## Related Pages
 

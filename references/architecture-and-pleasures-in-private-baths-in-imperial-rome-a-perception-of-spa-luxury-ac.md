@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: []
   type: [reference]
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - Ancient Latin authors describe private baths as spaces of architectural pleasure and luxury. ^[ambiguous]
-- Ancient Latin authors describe private baths as spaces of architectural pleasure and luxury.   - Materials, marble, water, heat, light, and spatial arrangement contribute to perceptions of spa luxury.   - Literary descriptions provide evidence for cultural ideals even where archaeological traces are limited.   - The article contrasts functional bathing with elite villa/private-bath display and sensory experience. ^[ambiguous]
+- Ancient Latin authors describe private baths as spaces of architectural pleasure and luxury.   - Materials, marble, water, heat, light, and spatial arrangement contribute to perceptions of spa luxury.   - Literary descriptions provide evidence for cultural ideals even where archaeological traces are limited.   - Functional bathing coexisted with elite villa/private-bath display and sensory experience. ^[ambiguous]
 
 ## Evidence-linked relationships
 

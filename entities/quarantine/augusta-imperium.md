@@ -29,17 +29,17 @@ The *augusta* was an imperial woman bearing a title whose visual expression incr
 
 ## From dynastic motherhood to sovereignty
 
-Angelova interprets the so-called ivories of Ariadne as a shift away from an emphasis on sacred fecundity. Their imagery foregrounds the empress’s authority: the symbolic mother of victory becomes a victorious sovereign in her own right.
+The so-called ivories of Ariadne reflect a shift away from an emphasis on sacred fecundity. Their imagery foregrounds the empress’s authority: the symbolic mother of victory becomes a victorious sovereign in her own right.
 
-This development had earlier precedents. Angelova identifies Flaccilla, consort of the founder of the Theodosian dynasty, as the first *augusta* whose portrayal did not explicitly emphasize childbearing. The argument concerns how imperial authority was represented, rather than establishing an identical constitutional position for every empress.
+This development had earlier precedents. Flaccilla, consort of Theodosius I, was the first *augusta* whose portrayal did not explicitly emphasize childbearing. The argument concerns how imperial authority was represented, rather than establishing an identical constitutional position for every empress.
 
 ## Insignia, faith, and the transmission of rule
 
-Flaccilla’s coins of 383 show her in a jeweled diadem and imperial cloak fastened by a jeweled brooch. Their imagery connects the empress with the state’s well-being and Christian victory without making childbearing the principal message. In Angelova’s interpretation, matching imperial costume expresses a new degree of partnership with the emperor.
+Flaccilla’s coins of 383 show her in a jeweled diadem and imperial cloak fastened by a jeweled brooch. Their imagery connects the empress with the state’s well-being and Christian victory without making childbearing the principal message. Matching imperial costume expressed a new degree of visual partnership with the emperor.
 
 A Christian genealogy of this authority emerges in Ambrose’s funeral oration for Theodosius I. His account makes Helena an active partner in establishing Christian monarchy through relics of the cross incorporated into Constantine’s diadem and bridle. This is a legitimating narrative, not independent verification of the relics’ discovery.
 
-Historical acts of succession gave the theme political substance: Pulcheria helped elevate Marcian, Ariadne helped bring Anastasios to power, and Verina crowned the pretender Leontios. Angelova reads these cases alongside coins that include empresses within imperial victory. The visual argument remains more specific than a claim that all *augustae* exercised identical formal powers.
+Historical acts of succession gave the theme political substance: Pulcheria helped elevate Marcian, Ariadne helped bring Anastasios to power, and Verina crowned the pretender Leontios. Historical accessions reinforce the visual evidence that included empresses within representations of imperial victory. The visual argument remains more specific than a claim that all *augustae* exercised identical formal powers.
 
 ## Related Pages
 
@@ -47,6 +47,8 @@ Historical acts of succession gave the theme political substance: Pulcheria help
 - [[concepts/roman-law-and-trials]]
 
 ## Sources
+
+- Diliana Angelova, *Ivories of Ariadne and Ideas of Imperial Authority*: late antique imperial female iconography and diadem imagery.
 
 - _raw/Angelova-IvoriesAriadneIdeas-2004.pdf — p.9.1
 - _raw/Angelova-IvoriesAriadneIdeas-2004.pdf — p.8.1–p.10.1: dynastic roles, Flaccilla’s insignia, Helena’s Christian genealogy, and succession examples.

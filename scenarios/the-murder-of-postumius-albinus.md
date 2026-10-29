@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Murder of Postumius Albinus During the Siege of Pompeii
@@ -23,7 +23,7 @@ During the Social War, in the 89 BC campaign season, troops serving under Sulla'
 
 ## Parties & Stakes
 
-- **Postumius Albinus** ([[entities/postumius-albinus]]) — stakes: his life; the exact cause of the mutiny against him is not detailed in Watts's account
+- **Postumius Albinus** ([[entities/postumius-albinus]]) — stakes: his life; the exact cause of the mutiny against him remains unclear here
 - **The mutinous soldiers (unnamed)** — goal: escape punishment for murdering their commander; stakes: their lives, which depended entirely on Sulla's discretion
 - **Lucius Cornelius Sulla** ([[entities/sulla]]) — goal: maintain army morale and personal loyalty during a dangerous siege; resources: his authority to grant clemency, which he used calculatedly rather than out of mercy
 
@@ -33,12 +33,13 @@ The circumstances that provoked the mutiny and killing are not spelled out, but 
 
 ## Outcome
 
-The killers went unpunished and remained in Sulla's army. Watts frames this as a calculated long-term investment: by sparing men who by law deserved death, Sulla created soldiers who owed their very lives to him personally rather than to the Roman state — a debt he would later be able to call in, most dramatically when he marched his army on Rome itself in 88 BC.
+The killers went unpunished and remained in Sulla's army. Sparing men who by law deserved death may have served as a calculated long-term investment: they owed their lives to Sulla personally rather than to the Roman state, potentially strengthening the personal loyalty on which he later drew when he marched his army on Rome in 88 BC.
 
 ## Open Questions
 
-- Watts does not explain what specifically triggered the soldiers to turn on Postumius Albinus during the siege.
+- What specifically triggered the soldiers to turn on Postumius Albinus during the siege remains unclear.
 
 ## Sources
 
 - Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny
+- Watts interprets the clemency as a calculated long-term investment in soldiers' personal indebtedness to Sulla, connected to the later march on Rome; this is an interpretation of its political effect, not a demonstrated motive. His account does not explain the immediate trigger for the mutiny.

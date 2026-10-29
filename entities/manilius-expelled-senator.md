@@ -10,12 +10,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # "Manilius" (Expelled Senator of 184 BC)
 
-According to Plutarch, one of the senators expelled from the Senate during Cato's censorship of 184 BC was a man named "Manilius," said to have had good prospects of reaching the consulship. Modern scholars suspect this is a garbled rendering of "Manlius" and debate whether he can be identified with any known praetorian-rank figure (candidates include A. Manlius Vulso or P. Manlius), but no identification is secure. Plutarch records that he was expelled for kissing his wife in broad daylight with their daughter looking on.
+According to Plutarch, one of the senators expelled from the Senate during Cato's censorship of 184 BC was a man named "Manilius," said to have had good prospects of reaching the consulship. The name may be a garbled rendering of "Manlius"; possible identifications include A. Manlius Vulso or P. Manlius, but none is secure. Plutarch records that he was expelled for kissing his wife in broad daylight with their daughter looking on.
 
 ## Appears In
 
@@ -23,4 +23,4 @@ According to Plutarch, one of the senators expelled from the Senate during Cato'
 
 ## Sources
 
-- Astin, A.E. — Cato the Censor
+- Astin, A.E. — Cato the Censor — Plutarch's account of the expulsion and the disputed identification of "Manilius" with a known Manlius.

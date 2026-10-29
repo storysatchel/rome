@@ -31,19 +31,19 @@ The *Codex Justinianus* is a codification of imperial constitutions and a source
 
 Justinian’s compilers were instructed to examine earlier collections and later constitutions, removing material that was redundant, contradictory, or obsolete. They could shorten, combine, and adapt texts before assigning them to appropriate titles. The second edition of 534 also incorporated Justinian’s more recent decisions.
 
-In A. J. B. Sirks’ interpretation, the retained constitutions should therefore be read first as valid rules of general force, not simply as isolated evidence for the circumstances in which they had originally been issued.
+On a systematic legal reading, the retained constitutions should therefore be read first as valid rules of general force, not simply as isolated evidence for the circumstances in which they had originally been issued.
 
 ## Reading the Code as a system
 
 A title brings together rules on a subject, but it need not contain every applicable rule. Understanding Justinianic law also requires the Digest and Institutes, both of which had legal authority, as well as awareness of the wider legal framework.
 
-This matters particularly for the colonate. Sirks argues that the chronological order of constitutions within a title should not obscure their function together as a legal system. An older text did not require a new contemporary crisis to justify its retention if its rule still applied to possible future cases.
+This matters particularly for the colonate: the chronological order of constitutions within a title should not obscure their function together as a legal system. An older text did not require a new contemporary crisis to justify its retention if its rule still applied to possible future cases.
 
 ## Codification and imperial authority
 
 The first Code of 529 and its replacement in 534 also communicated order and authority. Introductory constitutions presented Justinian’s own role in that achievement. This political dimension need not turn every retained older law into a fresh policy initiative.
 
-Sirks emphasizes the evidentiary problem: to demonstrate policy through selection, one must establish not only what was retained but what was omitted. For the colonate, defects in the surviving Theodosian Code make that comparison difficult. The Code can illuminate imperial government without allowing every selection to be assigned a specific contemporary cause.
+Demonstrating policy through selection requires establishing not only what was retained but what was omitted. For the colonate, defects in the surviving Theodosian Code make that comparison difficult. The Code can illuminate imperial government without allowing every selection to be assigned a specific contemporary cause.
 
 ## Related Pages
 
@@ -52,4 +52,4 @@ Sirks emphasizes the evidentiary problem: to demonstrate policy through selectio
 
 ## Sources
 
-- `_raw/lega-article-p265_10.pdf`, p.2.1–p.3.1 and p.5.1–p.9.1, printed pp.266–267 and 269–273, on compilation, legal validity, the 529 and 534 editions, communication of authority, and limits on reconstructing policy (B05; original passage ID: `raw-bcf044fa2946`).
+- A. J. B. Sirks, `_raw/lega-article-p265_10.pdf`, p.2.1–p.3.1 and p.5.1–p.9.1, printed pp.266–267 and 269–273, for the systematic legal interpretation of compilation, legal validity, the 529 and 534 editions, communication of authority, and limits on reconstructing policy (B05; original passage ID: `raw-bcf044fa2946`).

@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T21:48:00Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Quintus Caecilius Metellus Numidicus
@@ -19,9 +19,10 @@ Roman consul of 109 BC who commanded Roman forces against Jugurtha in Numidia. H
 
 ## Appears In
 
-- [[scenarios/the-exile-of-metellus-numidicus]] (via Watts)
-- [[scenarios/marius-gold-ring-sulla-seal-rivalry]] (via Golyzniak)
+- [[scenarios/the-exile-of-metellus-numidicus]]
+- [[scenarios/marius-gold-ring-sulla-seal-rivalry]]
 
 ## Sources
 
-- Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny
+- Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny — [[scenarios/the-exile-of-metellus-numidicus]].
+- Golyzniak, Pawel — Engraved Gems and Propaganda in the Roman Republic and under Augustus — [[scenarios/marius-gold-ring-sulla-seal-rivalry]].

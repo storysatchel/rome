@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Fabius–Tullius Land Dispute: Cicero's Pro Tullio (71 BC)
 
-A property dispute between two otherwise obscure landowners, P. Fabius and M. Tullius (no relation to Cicero despite the shared name), escalated into an armed confrontation near [[entities/thurii|Thurii]] in southern Italy — then still recovering from its occupation by Spartacus's slave army the previous year — and produced one of Cicero's early civil-law speeches (Alexander, case #173).
+A property dispute between two otherwise obscure landowners, P. Fabius and M. Tullius (no relation to Cicero despite the shared name), escalated into an armed confrontation near [[entities/thurii|Thurii]] in southern Italy — then still recovering from its occupation by Spartacus's slave army the previous year — and produced one of Cicero's early civil-law speeches.
 
 ## Parties & Stakes
 
@@ -34,7 +34,7 @@ The two men's properties bordered each other in the region of [[entities/thurii|
 
 ## Outcome
 
-No definite verdict survives. A late-nineteenth-century editor characterized Cicero's performance as "probably successful," but Alexander notes this is an inference from the speech's rhetorical confidence, not from any recorded judgment.
+No definite verdict survives. A successful outcome for Cicero is possible, but inferring it from the speech's rhetorical confidence cannot substitute for a recorded judgment.
 
 ## Open Questions
 
@@ -43,4 +43,4 @@ No definite verdict survives. A late-nineteenth-century editor characterized Cic
 
 ## Sources
 
-- Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), case #173
+- Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), case #173. Alexander notes that a late-nineteenth-century editor's description of Cicero's performance as "probably successful" rests on rhetorical confidence, not a recorded verdict.

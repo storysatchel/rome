@@ -29,15 +29,15 @@ Claims of divine support were a resource in Roman political competition. They ne
 
 ## Competition for divine support
 
-The source connects the growing prominence of long-term claims to divine favour in the late Republic with extraordinary commands and the concentration of power among fewer leading men. Successful claims encouraged imitation, while competitive politics encouraged increasingly ambitious assertions. The greater survival of contemporary evidence also affects how visible this development is to historians.
+The growing prominence of long-term claims to divine favour in the late Republic may be connected with extraordinary commands and the concentration of power among fewer leading men. Successful claims encouraged imitation, while competitive politics encouraged increasingly ambitious assertions. The greater survival of contemporary evidence also affects how visible this development is to historians.
 
-Divine legitimation could take different forms. Ancestry from a god or hero supplied an inherited claim to distinction; auspices or a personal association with a deity could support a particular action or career. Amber Gartrell’s analysis emphasizes a continuing requirement of credibility: success made divine favour plausible, while repeated failure could undermine it.
+Divine legitimation could take different forms. Ancestry from a god or hero supplied an inherited claim to distinction; auspices or a personal association with a deity could support a particular action or career. Such claims required continuing credibility: success made divine favour plausible, while repeated failure could undermine it.
 
 Sulla’s titles *Felix* and *Epaphroditus* connected exceptional fortune and Venus’ support to his extraordinary position. Pompey and Caesar later made competing claims involving Venus through the temples of Venus Victrix and Venus Genetrix. The claim was no longer merely that a family had a divine ancestor, but that a particular leader deserved pre-eminence.
 
 ## Antony and the loss of legitimacy
 
-Plutarch’s account of Antony provides an example of divine support narrated in reverse. Sounds of a departing revel were interpreted as the departure of the god with whom Antony had identified, Dionysus. The modern analysis treats this story as the breaking of a “legitimacy loop”: a leader no longer considered worthy of divine favour was also losing human allegiance.
+Plutarch’s account of Antony provides an example of divine support narrated in reverse. Sounds of a departing revel were interpreted as the departure of the god with whom Antony had identified, Dionysus. The story can be read as the breaking of a “legitimacy loop”: a leader no longer considered worthy of divine favour was also losing human allegiance.
 
 This is an interpretation of the narrative, not independent proof that a supernatural sign caused Antony’s navy and cavalry to desert. Its significance lies in the way divine abandonment and political defeat could be made to explain one another.
 
@@ -48,4 +48,4 @@ This is an interpretation of the narrative, not independent proof that a superna
 
 ## Sources
 
-- `_raw/9789004537460-64196.pdf`, p.26.1–p.28.1, printed pp.11–13, Amber Gartrell, “A Divine Right to Rule?”, on belief and forms of divine support; p.33.1–p.35.1, printed pp.18–20, on credibility, Antony, Sulla, and rival Venus claims (B01; original passage IDs: `raw-785e1b53efe1`, `raw-b47327f8dcd7`).
+- `_raw/9789004537460-64196.pdf`, p.26.1–p.28.1, printed pp.11–13, Amber Gartrell, “A Divine Right to Rule?”, on belief and forms of divine support; p.33.1–p.35.1, printed pp.18–20, for the credibility and “legitimacy loop” interpretation, Antony, Sulla, and rival Venus claims (B01; original passage IDs: `raw-785e1b53efe1`, `raw-b47327f8dcd7`).

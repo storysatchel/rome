@@ -33,11 +33,11 @@ Forfeiture of property was a standard feature of interdiction, although the exac
 
 ## Distinguishing interdiction from a tribunician edict
 
-The tribunician edict discussed in Cicero’s *Verrine* oration should not automatically be identified with interdiction. In the interpretation presented in *A History of Exile in the Roman Republic*, that edict appears to list men already barred from Rome rather than to impose a new interdiction. It neither uses the formula *aquae et ignis interdictio* nor specifies the accompanying penalties, such as forfeiture of property. These differences matter because not every prohibition on entering Rome was the same legal measure.
+The tribunician edict discussed in Cicero’s *Verrine* oration should not automatically be identified with interdiction. On one interpretation, that edict appears to list men already barred from Rome rather than to impose a new interdiction. It neither uses the formula *aquae et ignis interdictio* nor specifies the accompanying penalties, such as forfeiture of property. These differences matter because not every prohibition on entering Rome was the same legal measure.
 
 ## Individual measures and tailored sanctions
 
-The distinction also reflects procedure. A plebiscite could prevent the return of a person who had fled before condemnation, while a general tribunician edict could cover the larger numbers convicted in provincial proceedings or standing courts. The source presents this as a possible explanation for the declining use of individual interdiction after Sulla, not as a securely documented administrative reform.
+The distinction also reflects procedure. A plebiscite could prevent the return of a person who had fled before condemnation, while a general tribunician edict could cover the larger numbers convicted in provincial proceedings or standing courts. This offers a possible explanation for the declining use of individual interdiction after Sulla, not a securely documented administrative reform.
 
 Cicero’s exile shows how a measure could be tailored. Clodius attempted to prevent reoccupation of Cicero’s house by establishing a shrine of Libertas on its site. Cicero disputed the legality of the consecration, arguing that the bill lacked proper authorization. The episode warns against assuming that every interdiction carried one unvarying package of sanctions.
 
@@ -47,4 +47,4 @@ Cicero’s exile shows how a measure could be tailored. Clodius attempted to pre
 
 ## Sources
 
-- `_raw/A History of Exile in the Roman Republicpdf.pdf`, p.47.1–p.49.1, printed pp.35–37, on the tribunician edict, individual plebiscites, property, and Cicero’s house (B02; original passage ID: `raw-f0dad1f33031`).
+- `_raw/A History of Exile in the Roman Republicpdf.pdf`, p.47.1–p.49.1, printed pp.35–37, for the interpretation distinguishing the tribunician edict from individual interdiction and the possible explanation for its decline, as well as property and Cicero’s house (B02; original passage ID: `raw-f0dad1f33031`).

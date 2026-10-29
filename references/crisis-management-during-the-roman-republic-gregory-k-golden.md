@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: [political, military]
   type: [reference]
@@ -36,16 +36,16 @@ relationships:
 
 ## Scope and thesis
 
-Golden defines a crisis as a situation in which Roman decision-makers perceived a threat to valued state interests and expected that a response was required within a limited time. The study focuses primarily on military-security crises and political crises that threatened the physical safety or functioning of Republican governing institutions.
+A crisis, in the working definition used here, involved Roman decision-makers perceiving a threat to valued state interests and expecting that a response was required within a limited time. The study focuses primarily on military-security crises and political crises that threatened the physical safety or functioning of Republican governing institutions.
 
-The book treats the Roman government as the combined decision-making system of the Senate, magistrates, and Roman People. It therefore complements the vault's pages on [[concepts/roman-senate]] and [[concepts/roman-magistracies]] rather than treating crisis response as an abstract executive function.
+Republican government combined the decision-making powers of the Senate, magistrates, and Roman People. This institutional setting complements the vault's pages on [[concepts/roman-senate]] and [[concepts/roman-magistracies]] rather than treating crisis response as an abstract executive function.
 
 ## Crisis-response mechanisms
 
 - The early Republic relied heavily on the extraordinary office of the dictator as a concentrated emergency command.
 - As Rome expanded, regular magistrates, prorogued commands, and broader institutional resources increasingly handled emergencies; the dictatorship was used less often after the Second Punic War.
 - Later Republican responses included the declaration of a *tumultus*, the *iustitium* suspension of ordinary business, emergency military levies, and the *senatus consultum ultimum*.
-- Golden argues that the dictatorships of Sulla and Caesar revived the title in an unprecedented form rather than simply continuing the early Republican constitutional office.
+- The dictatorships of Sulla and Caesar can be understood as unprecedented revivals of the title rather than simple continuations of the early Republican constitutional office.
 
 ## Case studies
 
@@ -53,7 +53,7 @@ The book examines the Second Punic War, the upheavals associated with the Gracch
 
 ## Source criticism
 
-Golden emphasizes that ancient narratives are especially useful for reconstructing crisis episodes but can project later expectations onto earlier Republican events. The early Republican accounts of dictatorship and crisis response therefore require source criticism rather than being read as straightforward administrative transcripts.
+Ancient narratives are especially useful for reconstructing crisis episodes but can project later expectations onto earlier Republican events. The early Republican accounts of dictatorship and crisis response therefore require source criticism rather than being read as straightforward administrative transcripts.
 
 ## Open questions
 
@@ -63,4 +63,5 @@ Golden emphasizes that ancient narratives are especially useful for reconstructi
 ## Sources
 
 - *Crisis Management during the Roman Republic: The Role of Political Institutions in Emergencies*, Gregory K. Golden, Cambridge University Press, 2013.
+- Source note: Golden supplies the working definition of crisis and the interpretation of Sulla’s and Caesar’s dictatorships as unprecedented revivals.
 - Source file: `Crisis Management During the Roman Republicpdf.pdf`

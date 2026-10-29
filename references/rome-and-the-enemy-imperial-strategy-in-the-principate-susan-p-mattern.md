@@ -3,7 +3,7 @@ title: "*Rome and the Enemy: Imperial Strategy in the Principate*"
 category: references
 tags: ["type/reference", "period/principate", "domain/military", "domain/political", "subject/imperial-strategy"]
 sources: ["B08:Susan P. Mattern_1999_Rome and the Enemy.epub"]
-summary: "(Preface) Study asks why Roman leadership made major foreign-war and peace decisions, rather than assuming modern strategic expertise."
+summary: "Honor, status competition, terror and retaliation offer one explanation of Roman war and peace decisions from Actium to AD 235, alongside military and financial constraints."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -31,8 +31,8 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- (Preface) Study asks why Roman leadership made major foreign-war and peace decisions, rather than assuming modern strategic expertise. (Preface) Scope is Actium (31 BCE) to fall of Severus Alexander (235 CE), when the Augustan provincial/army/tax system broadly persisted. (Preface) International relations are presented less as geopolitical chess than competition for status, violent demonstration, posturing and terror. (Preface) Honor/image, conquest, terror and retaliation help explain expan… ^[ambiguous]
-- (Preface) Study asks why Roman leadership made major foreign-war and peace decisions, rather than assuming modern strategic expertise. (Preface) Scope is Actium (31 BCE) to fall of Severus Alexander (235 CE), when the Augustan provincial/army/tax system broadly persisted. (Preface) International relations are presented less as geopolitical chess than competition for status, violent demonstration, posturing and terror. (Preface) Honor/image, conquest, terror and retaliation help explain expansion and retention of places of questionable strategic/economic value, while army distribution and financial cost constrained growth. (Introduction, ch.1) Ultimate major foreign-policy decisions increasingly lay with the emperor and his circle, although governors retained limited discretion. (Introduction, ch.1) Senatorial/equestrian rank, patronage and prestige—not demonstrable military specialization alone—structured high command. (Contents; chs. “Image of the World,” “Strategy,” “Income and Ex… ^[ambiguous]
+- Roman war and peace decisions may be understood through competition for status, violent demonstration, posturing and terror rather than assumed modern strategic expertise. Honor, image, conquest and retaliation help explain expansion and retention of places of questionable strategic or economic value, while army distribution and financial cost constrained growth. This is an interpretive model, not a rule for every campaign. ^[ambiguous]
+- The scope extends from Actium (31 BCE) to the fall of Severus Alexander (235 CE), when the Augustan provincial, army and tax system broadly persisted. Ultimate major foreign-policy decisions increasingly lay with the emperor and his circle, although governors retained limited discretion. Senatorial and equestrian rank, patronage and prestige—not demonstrable military specialization alone—structured high command. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -40,6 +40,10 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - relates to local/rapid military decisions subject to imperial limits (ch.1) ^[ambiguous]
 - relates to constrain expansion (Preface) ^[ambiguous]
 - relates to produce status/honor (Preface). These are analytical relationships, not a claim that every campaign followed one rule ^[ambiguous]
+
+## Sources
+
+- Susan P. Mattern, *Rome and the Enemy: Imperial Strategy in the Principate* (1999), preface: scope and status-centered interpretation of warfare, with military and financial constraints; introduction and chapter 1: imperial decision-making, governors’ discretion and high command. The sampled contents also identify chapters titled “Image of the World,” “Strategy,” and an incompletely preserved “Income and Ex…”.
 
 ## Related live pages
 

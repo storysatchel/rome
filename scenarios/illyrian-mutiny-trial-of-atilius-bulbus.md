@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[concepts/roman-law-and-trials]]"
     type: related_to
@@ -33,19 +33,19 @@ Between 78 and 76 BC, M. Atilius Bulbus, an officer serving under C. Cosconius's
 
 ## What Happened
 
-The source records this incident tersely, as one of eight mutinies or near-mutinies between 78 and 44 BC that occurred outside the context of Rome's internal civil wars, cited to show that military indiscipline was not solely a product of civil-war-era instability. Bulbus, serving as an officer under Cosconius's Illyrian command, incited a legionary mutiny for reasons the sources do not record. Cosconius succeeded in restoring order without (so far as the record shows) significant bloodshed or loss of control over the province. Bulbus was afterward tried in Rome for his role in the affair — the case survives at all only because Cicero mentions it decades later while discussing an unrelated matter in his speech *Pro Cluentio*. ^[extracted]
+The Illyrian incident was one of eight mutinies or near-mutinies between 78 and 44 BC that occurred outside the context of Rome's internal civil wars, suggesting that military indiscipline was not solely a product of civil-war-era instability. Bulbus, serving as an officer under Cosconius's Illyrian command, incited a legionary mutiny for reasons the sources do not record. Cosconius succeeded in restoring order without (so far as the record shows) significant bloodshed or loss of control over the province. Bulbus was afterward tried in Rome for his role in the affair — the case survives at all only because Cicero mentions it decades later while discussing an unrelated matter in his speech *Pro Cluentio*. ^[extracted]
 
-The incident is grouped by modern scholarship with a closely parallel case from the same years: C. Atilius Paetus Staienus, quaestor to Mam. Aemilius Lepidus in Gaul (77–75 BC), who likewise incited a mutiny for unrecorded reasons, was likewise suppressed by his commander, and was likewise tried (successfully) in Rome. The near-identical shape of the two cases — junior officer incites mutiny, senior commander restores order, officer faces trial back in Rome — suggests a functioning, if imperfectly documented, system for holding individual officers accountable for inciting indiscipline, distinct from how commanders themselves were punished (or not) for failures of leadership. ^[inferred]
+A closely parallel case occurred in the same years: C. Atilius Paetus Staienus, quaestor to Mam. Aemilius Lepidus in Gaul (77–75 BC), likewise incited a mutiny for unrecorded reasons, was likewise suppressed by his commander, and was likewise tried (successfully) in Rome. The near-identical shape of the two cases — junior officer incites mutiny, senior commander restores order, officer faces trial back in Rome — suggests a functioning, if imperfectly documented, system for holding individual officers accountable for inciting indiscipline, distinct from how commanders themselves were punished (or not) for failures of leadership. ^[inferred]
 
 ## Outcome
 
-Order was restored in Illyria without recorded further incident. Bulbus faced trial in Rome, though the outcome of that trial (acquittal or conviction) is not preserved in the extracted material — only that he was "tried," in contrast to the explicit notice that Staienus's parallel trial was "successful" (implying conviction or a successful prosecution). ^[ambiguous]
+Order was restored in Illyria without recorded further incident. Bulbus faced trial in Rome, though its outcome (acquittal or conviction) remains uncertain here. Staienus's parallel trial is described as "successful," implying conviction or a successful prosecution. ^[ambiguous]
 
 ## Open Questions
 
 - The cause of the mutiny Bulbus incited is entirely unrecorded.
-- Whether Bulbus was convicted or acquitted at his Roman trial is not stated in the extracted passage; only the fact of the trial itself survives.
+- Whether Bulbus was convicted or acquitted at his Roman trial remains unresolved here.
 
 ## Sources
 
-- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Cic. *Clu.* 97)
+- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Cic. *Clu.* 97). The discussion groups Bulbus and Staienus among eight non-civil-war mutinies or near-mutinies of 78–44 BC. The consulted passage says Bulbus was "tried" without specifying the verdict, unlike its description of Staienus's trial as "successful."

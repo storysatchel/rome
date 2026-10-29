@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 facets:
   domain: [legal, political]
   type: [reference]
@@ -33,7 +33,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 - Integration is multifaceted, involving juridical, political, social, religious and cultural inclusion (Preface, pp. ix–xii). ^[ambiguous]
 - Roman citizenship and municipalization, culminating in the *Constitutio Antoniniana* of 212, structured long-term incorporation (pp. x–xi). ^[ambiguous]
-- Legal pluralism could integrate empire through procedures while preserving local laws and jurisdictions (Clifford Ando, pp. 5–10). ^[ambiguous]
+- Legal pluralism could integrate empire through procedures while preserving local laws and jurisdictions (pp. 5–10). ^[ambiguous]
 - Military service, citizenship grants, imperial cult and adoption of Roman institutio… ^[ambiguous]
 - Military service, citizenship grants, imperial cult and adoption of Roman institutions acted as integrative forces while local traditions persisted (Preface/introduction, pp. xi–xii; p. 3). ^[ambiguous]
 - Integration was reciprocal: Rome also adopted external architectural, religious and cultural models (introduction, p. 3). ^[ambiguous]
@@ -48,3 +48,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Related live pages
 
 - [[entities/rome]], [[concepts/roman-law-and-trials]], [[concepts/art-and-political-propaganda]]
+
+## Sources
+
+- Source note: Clifford Ando, pp. 5–10, supplies the legal-pluralism interpretation; the Preface and introduction locators above identify the other sampled claims.

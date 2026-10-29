@@ -29,7 +29,7 @@ Roman contract law did not treat every agreement as enforceable simply because t
 
 ## Obligation and legal form
 
-The source cautions against projecting this developed classification into early Roman law. Systematic classification began to emerge with jurists such as Quintus Mucius Scaevola in the early first century BCE. Earlier legal protection centred on obligations associated with transactions and the procedural formulas through which a remedy could be sought.
+This developed classification should not be projected into early Roman law. Systematic classification began to emerge with jurists such as Quintus Mucius Scaevola in the early first century BCE. Earlier legal protection centred on obligations associated with transactions and the procedural formulas through which a remedy could be sought.
 
 The older *legis actiones* demanded precisely spoken formulas. A claim had to fit the prescribed form, and an error in the ritual words could invalidate the case. Thus the history of enforceability involves both substantive duties and the procedures available to enforce them.
 

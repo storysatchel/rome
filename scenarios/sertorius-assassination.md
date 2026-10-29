@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Assassination of Sertorius by His Own Officer Perperna
@@ -29,7 +29,7 @@ Quintus Sertorius was a Roman general of the Marian faction who, after Sulla's v
 
 ## What Happened
 
-Sertorius's long resistance in [[entities/hispania|Spain]] had frustrated successive Roman commanders, and the Roman Senate under Sulla's settlement regarded him as an outlaw. According to the atlas's summary of events, Sertorius was murdered by his own officer in 72 BC — Perperna organized the killing, reportedly at a banquet, as part of a conspiracy among discontented Roman officers in Sertorius's entourage who resented his dominance and feared the war was unwinnable.^[inferred] Perperna then attempted to take over command of Sertorius's forces.
+Sertorius's long resistance in [[entities/hispania|Spain]] had frustrated successive Roman commanders, and the Roman Senate under Sulla's settlement regarded him as an outlaw. In 72 BC he was murdered by his own officer, Perperna, reportedly at a banquet. The killing may have formed part of a conspiracy among discontented Roman officers who resented Sertorius's dominance and feared the war was unwinnable.^[inferred] Perperna then attempted to take over command of Sertorius's forces.
 
 ## Outcome
 
@@ -37,8 +37,9 @@ With Sertorius dead, his coalition of Roman exiles and Spanish allies rapidly co
 
 ## Open Questions
 
-- The exact motives and number of conspirators around Perperna are not detailed in the source consulted here and would require Plutarch's *Life of Sertorius* for fuller narrative.
+- The exact motives and number of conspirators around Perperna remain uncertain.
 
 ## Sources
 
 - Scarre, Chris — The Penguin Historical Atlas of Ancient Rome (map "The Roman Empire, 60 BC", pp. 28-29: "Sertorius sent to Spain to crush rebel general; Sertorius murdered by his own officer 72 BC")
+- Source scope: the atlas supplies the date and killing by an officer; the banquet setting and reconstruction of officer discontent extend beyond its summary. Plutarch's *Life of Sertorius* was identified as a fuller narrative but was not consulted here.

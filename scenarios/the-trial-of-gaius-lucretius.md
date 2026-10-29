@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Trial of Gaius Lucretius for Cruelty Toward the Chalcidians
@@ -37,8 +37,9 @@ Lucretius was convicted and fined a million asses; the case stands as an example
 
 ## Open Questions
 
-- Whether Lucretius ever paid the fine in full, or what became of his later career, is not addressed in the source. ^[ambiguous]
+- Whether Lucretius ever paid the fine in full, and what became of his later career, remain unspecified here. ^[ambiguous]
 
 ## Sources
 
 - Botsford, George Willis — The Roman Assemblies from their Origin to the End of the Republic
+- Source limitation: Botsford does not address payment of the fine or Lucretius's later career.

@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 facets:
   domain: [political]
   type: [reference]
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - historical Livia is more complex than hostile Tacitean and modern fictional portrayals; she maintained influence and esteem across Augustus’ and Tiberius’ reigns; her public role was powerful but constitutionally ambiguous; Augustus’ arrangements elevated her near an institutional position, while Tiberius resisted that status; evidence is uneven and poisoning allegations are generally “not proven”; the book combines chronological biography, thematic analysis, literary/material sources, and appendices. ^[ambiguous]
-- same edition-level thesis: Livia’s political influence and public symbolism were substantial but constitutionally undefined; Barrett rejects simplistic poisoner stereotypes; her career links Augustus’ and Tiberius’ reigns; analysis combines life narrative, themes, literary/material evidence, and appendices; PDF contents and opening pages confirm coverage of family, marriage, public figure, imperial household, patronage, death, and reputation. ^[ambiguous]
+- same edition-level thesis: Livia’s political influence and public symbolism were substantial but constitutionally undefined; poisoner stereotypes are not established by the uneven evidence; her career links Augustus’ and Tiberius’ reigns; analysis combines life narrative, themes, literary/material evidence, and appendices; PDF contents and opening pages confirm coverage of family, marriage, public figure, imperial household, patronage, death, and reputation. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -48,3 +48,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Related live pages
 
 - [[entities/rome]], [[concepts/art-and-political-propaganda]]
+
+## Sources
+
+- Source note: Barrett supplies the reassessment of Livia and rejection of sensationalized poisoning stereotypes (Preface; pp. 9–12); allegations remain unproven.

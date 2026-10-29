@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Marius's Narrow Acquittal on Electoral Bribery Charges (116 BC)
@@ -28,7 +28,7 @@ Before he became the famous reformer of the Roman army and seven-time consul, Ga
 
 ## What Happened
 
-Having barely won election as praetor for 116 BC, Marius was promptly charged with *ambitus* — illegal bribery of voters — a charge common enough in an era Marin describes as one where "the infamous bribery... seemingly characterized every election." Marius mounted a defense and secured an acquittal, though apparently by the narrowest of margins. ^[extracted] The episode came not long after Marius, as tribune of the plebs, had already alienated the powerful Metelli family by pushing through a law narrowing the passages used for voting, to prevent outside interference with voters at the polls — a reform the Senate had initially rejected before Marius took it directly to the people. ^[extracted]
+Having barely won election as praetor for 116 BC, Marius was promptly charged with *ambitus* — illegal bribery of voters — amid pervasive allegations of electoral corruption. Marius mounted a defense and secured an acquittal, though apparently by the narrowest of margins. ^[extracted] The episode came not long after Marius, as tribune of the plebs, had already alienated the powerful Metelli family by pushing through a law narrowing the passages used for voting, to prevent outside interference with voters at the polls — a reform the Senate had initially rejected before Marius took it directly to the people. ^[extracted]
 
 ## Outcome
 
@@ -41,4 +41,4 @@ Marius was acquitted and retained his praetorship. His political relationship wi
 
 ## Sources
 
-- Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic
+- Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic. Marin describes the electoral climate as one where "the infamous bribery... seemingly characterized every election"; the account says Marius "managed to secure" acquittal without giving a vote count.

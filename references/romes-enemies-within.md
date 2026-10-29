@@ -34,8 +34,8 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - Imperial succession and governance in the first century AD were repeatedly shaped by conspiracies, assassinations, treason trials, mutinies and civil wars (contents and timeline, EPUB lines 146–198, 374–500). | ^[ambiguous]
 - The book organizes first-century imperial history around conspiracies, assassinations and contested succession (PDF pp. 6–15). ^[ambiguous]
 - Imperial succession and governance in the first century AD were repeatedly shaped by conspiracies, assassinations, treason trials, mutinies and civil wars (contents and timeline, EPUB lines 146–198, 374–500). ^[ambiguous]
-- Caesar’s murder on 15 March 44 BC is presented as a model case where personal grievance, status anxiety, aristocratic lineage and constitutional rhetoric converged (chapter 1, EPUB lines 902–992). ^[ambiguous]
-- The author argues that personal grievances often outweighed abstract republican ideology among Caesar’s assassins, while later sources sanitized motives (chapter 1, EPUB lines 952–984). ^[ambiguous]
+- Caesar’s murder on 15 March 44 BC can be interpreted as a convergence of personal grievance, status anxiety, aristocratic lineage and constitutional rhetoric. ^[ambiguous]
+- One interpretation gives personal grievances greater weight than abstract republican ideology among Caesar’s assassins and treats later accounts as sanitizing their motives; the relative importance of these motives remains uncertain. ^[ambiguous]
 - Bodyguards, amici, clients and military forces were crucial to both conspirators’ opportunities and rulers’ vulnerability (chapter 1, EPUB lines 984–992). ^[ambiguous]
 - The narrative follows plots from Augustus through Tiberius, Caligula, Claudius, Nero and Domitian, with the Praetorian Guard recurring as political actor (contents/timeline). ^[ambiguous]
 - Family trees and a detailed timeline frame conspiracies as networks involving dynastic marriage, adoption, patronage and succession (figures/timeline, EPUB lines 324–368, 374–500). ^[ambiguous]
@@ -55,6 +55,10 @@ This staged reference consolidates title-page, contents, introduction, and repre
 - relates to Caesar (`contradicts`) ^[ambiguous]
 - relates to Spanish bodyguard (`uses`) ^[ambiguous]
 - relates to social networks for conspiracy (`uses`) ^[ambiguous]
+
+## Sources
+
+- *Rome’s Enemies Within: Imperial Conspiracies and Assassinations in the Roman Empire during the First Century AD*, chapter 1, EPUB lines 902–992: the combined personal, status, lineage and constitutional interpretation of Caesar’s assassination; lines 952–984: the argument that personal grievances often outweighed republican ideology and that later sources sanitized motives. These motive assignments are the book’s interpretation, not direct proof of each conspirator’s intentions.
 
 ## Related live pages
 

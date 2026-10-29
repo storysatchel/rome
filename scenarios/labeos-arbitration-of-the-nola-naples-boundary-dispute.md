@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Labeo's Arbitration of the Nola–Naples Boundary Dispute
@@ -29,7 +29,7 @@ Cicero's *De Officiis* and Valerius Maximus both record a case in which the juri
 
 ## What Happened
 
-Rather than award the disputed land to either Nola or Naples, Labeo decided it should belong to the Roman state — converting it into *ager publicus*. Roselaar notes this as one of several instances in which Roman magistrates or jurists, called in to settle a boundary question between two non-Roman communities, resolved the impasse by declaring the disputed land Roman public property rather than granting it to either claimant, a pattern also seen in the archaic dispute between Aricia and Ardea (see [[scenarios/the-aricia-ardea-land-dispute]]). ^[extracted]
+Rather than award the disputed land to either Nola or Naples, Labeo decided it should belong to the Roman state — converting it into *ager publicus*. This was one of several instances in which Roman magistrates or jurists, called in to settle a boundary question between two non-Roman communities, resolved the impasse by declaring the disputed land Roman public property rather than granting it to either claimant, a pattern also seen in the archaic dispute between Aricia and Ardea (see [[scenarios/the-aricia-ardea-land-dispute]]). ^[extracted]
 
 ## Outcome
 
@@ -38,8 +38,8 @@ Neither Nola nor Naples received the disputed territory; it became Roman public 
 ## Open Questions
 
 - The exact date of the case and the precise extent of the disputed land are not specified in the cited sources.
-- Which Labeo is meant (the jurist tradition includes several figures of this name across generations) is not clarified by Roselaar's citation. ^[ambiguous]
+- Which Labeo is meant (the jurist tradition includes several figures of this name across generations) remains unclear here. ^[ambiguous]
 
 ## Sources
 
-- Roselaar, Saskia T. — Public Land in the Roman Republic
+- Roselaar, Saskia T. — Public Land in the Roman Republic. Roselaar groups the Nola–Naples arbitration with other boundary settlements that converted disputed territory into Roman public land, including Aricia–Ardea; the citation does not clarify which Labeo was involved.

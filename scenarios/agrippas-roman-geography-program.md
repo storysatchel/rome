@@ -21,7 +21,7 @@ summary: "Agrippa’s lost geographical display brought the wider world into Aug
 tags: ["domain/political", "period/late-republic", "period/principate", "subject/as", "type/scenario"]
 tier: "supporting"
 title: "Agrippa's Roman Geography Program"
-updated: "2026-10-29T21:53:47Z"
+updated: "2026-10-29"
 ---
 # Agrippa's Roman Geography Program
 
@@ -33,7 +33,7 @@ The display belonged to a period of intensified census-taking, land surveys, and
 
 ## A disputed legacy
 
-Comparisons with Pliny’s *Natural History* show why the display matters to interpretations of Roman knowledge. Some scholars read Pliny’s geography as an attempt to emulate or surpass Agrippa’s project. The source cautions against treating such works as a single, definitive imperial picture: Pliny assembled competing accounts and accumulated fragments, deriving authority from the scale and diligence of his compilation. Agrippa’s lost display therefore provides a point of comparison, not proof that Roman geographical writing followed one uniform programme.
+Comparisons with Pliny’s *Natural History* show why the display matters to interpretations of Roman knowledge. Pliny’s geography may be read as an attempt to emulate or surpass Agrippa’s project, but that interpretation does not establish a single, definitive imperial picture: Pliny assembled competing accounts and accumulated fragments, deriving authority from the scale and diligence of his compilation. Agrippa’s lost display therefore provides a point of comparison, not proof that Roman geographical writing followed one uniform programme.
 
 ## Completing the display
 
@@ -44,4 +44,5 @@ Pliny names Agrippa about thirty times in the geographical books of the *Natural
 ## Sources
 
 - `_raw/Roman Geographies of the Nilepdf.pdf` — p.45.1; p.46.1; p.47.1; p.48.1; earlier contextual locators retained: p.25.1; p.308.1; p.26.1 (original historiographical context).
+- Interpretive note: *Roman Geographies of the Nile*, p.45.1–p.48.1, discusses the comparison between Agrippa’s display and Pliny’s compilation; the emulation/surpassing interpretation and the caution against a uniform imperial programme belong to that modern discussion.
 - Original citation ID: `^278fd49e6d337983`.

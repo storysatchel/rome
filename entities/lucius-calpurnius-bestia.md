@@ -15,7 +15,7 @@ updated: "2026-10-24T19:13:14Z"
 
 # L. Calpurnius Bestia (cos. 111 BC)
 
-Consul in 111 BC, who led the initial Roman campaign against Jugurtha and negotiated a peace treaty widely suspected (including by Sallust) of having been secured through Numidian bribery. Prosecuted by the tribune C. Memmius before the 109 BC Mamilian Commission; probably convicted, per Alexander's reading of the fragmentary evidence.
+Consul in 111 BC, who led the initial Roman campaign against Jugurtha and negotiated a peace treaty widely suspected (including by Sallust) of having been secured through Numidian bribery. Prosecuted by the tribune C. Memmius before the 109 BC Mamilian Commission; probably convicted, according to the surviving judicial fragments.
 
 ## Appears In
 

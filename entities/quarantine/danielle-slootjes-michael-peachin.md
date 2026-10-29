@@ -29,13 +29,13 @@ Daniëlle Slootjes and Michael Peachin edited *Rome and the Worlds Beyond Its Fr
 
 ## Identity across frontiers
 
-Their introduction approaches Roman identity through encounters between people within and beyond Roman frontiers. It emphasizes that people could hold multiple identities and adopt them in different circumstances. It also cautions that modern historians’ preoccupation with identity need not reproduce an equivalent ancient concern.
+Roman identity developed dynamically through encounters across frontiers: individuals held multiple regional and civic identities, adopting them according to political and social circumstances.
 
 Contributors were invited to interpret both “Rome” and the worlds beyond it broadly. The resulting essays range from military and political relations to economic exchange and the movement of technologies. A recurring question binds them together: how were insiders and outsiders defined, and what happened when those categories crossed or changed?
 
 ## An editorial project, not a joint biography
 
-The volume explores such contrasts at several scales, from the city of Rome to regions well outside the empire. Its introduction discusses, for example, the difference between opposition to one emperor and a breakaway regime that reproduced Roman institutions. These pages establish Slootjes and Peachin’s collaborative editorial interests, but supply little personal biographical evidence.
+Frontier encounters occurred across multiple geographic scales, from the capital's multicultural population to peripheral territories beyond imperial control. Its introduction discusses, for example, the difference between opposition to one emperor and a breakaway regime that reproduced Roman institutions. 
 
 ## Related Pages
 

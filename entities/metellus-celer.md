@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T21:38:00Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Quintus Caecilius Metellus Celer
@@ -19,10 +19,10 @@ Q. Caecilius Metellus Celer, consul of 60 BC, opposed both the publicans' demand
 
 ## Appears In
 
-- [[scenarios/metellus-celer-vs-tribune-flavius]] (via Pina Polo)
-- [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]] (via Marin)
+- [[scenarios/metellus-celer-vs-tribune-flavius]]
+- [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]]
 
 ## Sources
 
-- Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic
-- Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic
+- Pina Polo, Francisco — The Consul at Rome: The Civil Functions of the Consuls in the Roman Republic — [[scenarios/metellus-celer-vs-tribune-flavius]].
+- Marin, Pamela — Blood in the Forum: The Struggle for the Roman Republic — [[scenarios/the-trial-of-gaius-rabirius-for-perduellio]].

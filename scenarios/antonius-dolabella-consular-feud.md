@@ -4,7 +4,7 @@ category: scenarios
 domain: political
 tags: [consular-election, augural-obstruction, personal-grudge, mark-antony, adultery]
 sources: ["van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic"]
-summary: Mark Antony used his office of augur to try to invalidate P. Cornelius Dolabella's 44 BC consular election, a grudge rooted in Dolabella's affair with Antony's ex-wife.
+summary: Mark Antony used his office of augur to challenge Dolabella's 44 BC consular election; Cicero attributed the feud to an alleged affair with Antony's former wife, but that hostile explanation is uncertain.
 provenance:
   extracted: 0.8
   inferred: 0.15
@@ -14,16 +14,16 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T19:11:16Z"
+updated: "2026-10-29"
 ---
 
 # Mark Antony's Election Feud With Dolabella
 
-Julius Caesar wished P. Cornelius Dolabella to be elected consul for 44 BC alongside Mark Antony, intending to leave both in charge while he campaigned against Parthia. Antony, however, had personal reasons to resent Dolabella: he had divorced his wife Antonia on grounds of her adultery with Dolabella. Unable to voice this grievance openly, Antony resorted to his religious office of augur to obstruct his rival's political advancement.
+Julius Caesar wished P. Cornelius Dolabella to be elected consul for 44 BC alongside Mark Antony, intending to leave both in charge while he campaigned against Parthia. Antony used his religious office of augur to obstruct Dolabella’s advancement. Cicero’s hostile explanation connected this obstruction to Antony’s divorce from Antonia over her alleged adultery with Dolabella; personal resentment is a possible motive, not an independently established explanation of the feud.
 
 ## Parties & Stakes
 
-- **Mark Antony** ([[entities/mark-antony]]) — goal: block or discredit Dolabella's election out of personal animus while appearing to act on religious grounds; resources: consular authority over elections, the augurate.
+- **Mark Antony** ([[entities/mark-antony]]) — goal: block or discredit Dolabella’s election through religious objections; personal animus is the motive alleged by Cicero; resources: consular authority over elections, the augurate.
 - **P. Cornelius Dolabella** ([[entities/publius-cornelius-dolabella]]) — goal: secure the consulship Caesar had promised him; resources: Caesar's backing.
 
 ## What Happened

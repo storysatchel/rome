@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:54Z"
-updated: "2026-10-24T06:49:54Z"
+updated: "2026-10-29T22:41:11Z"
 relationships:
   - target: "[[references/sandberg-magistrates-and-assemblies]]"
     type: related_to
@@ -29,12 +29,12 @@ Botsford sets out to follow "a conservative historical method as opposed to the 
 
 ## Key Claims and Evidence
 
-- The *populus Romanus* comprised patricians, plebeians, and clients from the earliest recoverable period; Botsford argues at length against the view that the primitive state was exclusively patrician, concluding "the Latin language gives no hint of an exclusively patrician populus."
-- Ancient authors (Cicero, Livy, Dionysius of Halicarnassus, Plutarch) uniformly derive the patriciate from Romulus's selection of a council of elders (the *patres*) who became the original [[concepts/roman-senate|senate]], with *patricii* denoting their descendants — though Botsford shows the etymological tradition deriving *patricius* from *patrem ciere* ("one who can cite a father") created lasting confusion by conflating the term with *ingenuus* (freeborn).
+- In one reconstruction, the *populus Romanus* comprised patricians, plebeians, and clients from the earliest recoverable period rather than an exclusively patrician citizen body: "the Latin language gives no hint of an exclusively patrician populus."
+- Ancient authors (Cicero, Livy, Dionysius of Halicarnassus, Plutarch) uniformly derive the patriciate from Romulus's selection of a council of elders (the *patres*) who became the original [[concepts/roman-senate|senate]], with *patricii* denoting their descendants — though the etymological tradition deriving *patricius* from *patrem ciere* ("one who can cite a father") created lasting confusion by conflating the term with *ingenuus* (freeborn).
 - The curiate assembly (*comitia curiata*), based on the 30 *curiae* subdividing the three archaic tribes (Tities, Ramnes, Luceres), is the oldest Roman voting body, predating the city's foundation in origin; by the Republic it survived chiefly to pass the *lex curiata de imperio* confirming the *imperium* of newly elected magistrates, along with certain adoption and testamentary formalities — eventually represented by 30 lictors rather than actual citizen attendance.
-- Botsford's analysis of the *lex curiata de imperio* (building on his own 1908 article) surveys Cicero's *De lege agraria* extensively to argue that the centuries or tribes actually conferred *imperium* or *potestas* on magistrates, while the curiate assembly's role was merely to confirm or formally sanction a grant already made — a reading bearing directly on how the [[concepts/consulship|consulship]] derived its legal authority.
+- On one reading of Cicero’s *De lege agraria*, the centuries or tribes actually conferred *imperium* or *potestas* on magistrates, while the curiate assembly’s role was merely to confirm or formally sanction a grant already made — a reading bearing directly on how the [[concepts/consulship|consulship]] derived its legal authority.
 - The book distinguishes sharply between the *contio* (a meeting called for debate or announcement, with no formal decision) and the *comitia* proper (a voting assembly reaching a binding decision) — a terminological distinction later scholars (including Sandberg) treat as foundational.
-- Drawing on comparative evidence from Homeric Greece, the Germanic tribes, the Celts, and the Slavs, Botsford situates the Roman assembly within a broader pattern of early political development in which assemblies originally ratified decisions of kings and councils rather than initiating policy, and majority rule was foreign to primitive practice. ^[inferred]
+- Comparative evidence from Homeric Greece, the Germanic tribes, the Celts, and the Slavs suggests a possible place for the Roman assembly within a broader pattern of early political development in which assemblies originally ratified decisions of kings and councils rather than initiating policy, and majority rule was foreign to primitive practice. ^[inferred]
 - The *comitia tributa* and *concilium plebis*, based on the citizenry's division into (eventually) 35 tribes, grew in political importance from 449 BC onward, with jurisdiction and legislative functions expanding markedly after the *lex Hortensia* of 287 BC gave plebiscites full force of law.
 
 ## Structure / Scope
@@ -58,3 +58,4 @@ Writing in 1909, Botsford positioned his work explicitly against Niebuhr's and M
 ## Sources
 
 - Botsford, George Willis — The Roman Assemblies from their Origin to the End of the Republic
+- Interpretation note: the inclusive primitive *populus*, the quoted linguistic argument, the confirmatory reading of the *lex curiata* (developed from Botsford’s 1908 article using *De lege agraria*), and the comparative model of early assemblies are Botsford’s historical reconstructions, not settled constitutional facts.

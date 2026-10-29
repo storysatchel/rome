@@ -3,7 +3,7 @@ title: Jupiter
 category: entities
 tags: [roman-religion, latin-confederacy, regal-period, cult, mythology]
 sources: ["[[references/pennell-ancient-rome]]"]
-summary: Chief god of the Roman and broader Latin pantheon; Pennell cites his cult at Alba as the religious anchor of the early Latin Confederacy's thirty towns.
+summary: Chief god of the Roman and Latin pantheons; the cult of Jupiter Latiaris linked Latin communities through shared religious observance.
 provenance:
   extracted: 0.55
   inferred: 0.4
@@ -13,22 +13,22 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:58Z"
-updated: "2026-10-24T06:58:58Z"
+updated: "2026-10-29T22:41:25Z"
 ---
 
 # Jupiter
 
-Jupiter was the chief deity of the Roman state pantheon, worshipped from Rome's earliest attested political organization onward. Pennell's survey of early Rome cites Jupiter specifically through the cult title *Jupiter Latiaris*, the god's role as the religious anchor binding together the early Latin Confederacy under Alba Longa's leadership.
+Jupiter was the chief deity of the Roman state pantheon. Under the cult title *Jupiter Latiaris*, he also supplied a shared religious focus for the Latin towns associated with Alba Longa.
 
 ## Key Ideas
 
-- Pennell opens his account of early Roman geography and ethnography by describing the Latin Confederacy — thirty towns under Alba's religious leadership — gathering at the Latin festival to Jupiter Latiaris, situating this cult alongside Italy's early ethnic groupings (Iapygian, Etruscan, Italian) and the Etruscan twelve-city confederacy as part of the pre-Roman political landscape of early-first-millennium-BC Italy.
-- The cult of Jupiter Latiaris functioned as a supra-civic religious bond among the Latin towns prior to Rome's absorption of the Latin Confederacy following the Latin War (340–338 BC) — the Confederacy's dissolution and absorption into the *Ager Romanus* is treated by Pennell as a separate, later military-political episode, implying (though the citing excerpt does not state outright) that Jupiter's shared cult had been one of the chief cohering institutions of the pre-Roman Latin league. ^[inferred]
+- Traditional accounts describe thirty Latin towns gathering under Alba’s religious leadership for a festival to Jupiter Latiaris. This cult formed part of the political and religious landscape of early Italy alongside other regional groupings, including the Etruscan twelve-city confederacy.
+- Shared worship could function as a supra-civic bond before Rome’s absorption of the Latin Confederacy following the Latin War of 340–338 BC. Treating the cult as one of the league’s chief cohering institutions is an inference from the relationship between festival and confederacy, not a directly stated constitutional description. ^[inferred]
 
 ## Open Questions
 
-- The single citing source mentions Jupiter only in the single context of his Latiaris cult title and the Alban festival; Jupiter's broader role in Roman state religion (the Capitoline triad, his cult on the Capitoline Hill, his association with the consulship and triumph) is not addressed in the material available from this source and would require additional citing pages to substantiate. ^[ambiguous]
+The evidence summarized here concerns the Latiaris cult and Alban festival. It does not document Jupiter’s broader roles in the Capitoline triad, the consulship, or the triumph. ^[ambiguous]
 
 ## Sources
 
-- [[references/pennell-ancient-rome]]
+- [[references/pennell-ancient-rome]]: opening geographical and ethnographic account of early Italy, the thirty-town Latin Confederacy and its festival to Jupiter Latiaris; later account of the Latin War and absorption into the *Ager Romanus*. The interpretation of shared worship as an institutional bond is inferred from these passages.

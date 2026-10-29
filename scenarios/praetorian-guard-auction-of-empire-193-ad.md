@@ -21,7 +21,7 @@ summary: "After murdering Pertinax in AD 193, the Praetorian Guard entertained c
 tags: ["domain/military", "period/late-republic", "period/principate", "subject/is", "type/scenario"]
 tier: "supporting"
 title: "Praetorian Guard Auction of Empire (193 AD)"
-updated: "2026-10-29T21:53:47Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 # Praetorian Guard Auction of Empire (193 AD)
 
@@ -29,7 +29,7 @@ The murder of Pertinax in AD 193 was followed by the notorious bidding contest f
 
 ## The confrontation with Pertinax
 
-Laetus began executing praetorians while claiming to act on Pertinax’s orders. The source suggests, without treating it as certain, that he was diverting attention from himself. Two hundred praetorians went to the Palatine and forced their way into the palace. Pertinax attempted negotiation rather than calling on the vigiles or imperial horse guards to defend him.
+Laetus began executing praetorians while claiming to act on Pertinax’s orders, possibly to divert attention from himself. Two hundred praetorians went to the Palatine and forced their way into the palace. Pertinax attempted negotiation rather than calling on the vigiles or imperial horse guards to defend him.
 
 One soldier broke the momentary hesitation of the intruders and stabbed Pertinax and Eclectus. Pertinax’s body was decapitated and his head displayed on a spear.
 
@@ -37,7 +37,7 @@ One soldier broke the momentary hesitation of the intruders and stabbed Pertinax
 
 The Guard then offered its backing to competing candidates. Didius Julianus and Flavius Sulpicianus made rival promises of cash to the soldiers. Sulpicianus offered 20,000 sestertii per praetorian; Julianus countered with 25,000.
 
-The source warns that Dio’s theatrical description of this “auction” needs caution. Even so, the episode presents the Guard’s support as a commodity over which rival claimants bid, following its violent removal of the reigning emperor.
+Dio’s theatrical description of this “auction” requires caution. Even so, the episode presents the Guard’s support as a commodity over which rival claimants bid, following its violent removal of the reigning emperor.
 
 ## The limits of purchased support
 
@@ -49,5 +49,5 @@ During the transfer of power, tribunes instructed the praetorians to leave their
 
 ## Sources
 
-- `_raw/Praetorianepub.decrypted.epub` — section.286; section.287; section.288; section.289; section.290; earlier contextual locators retained: section.284; section.8.
+- `_raw/Praetorianepub.decrypted.epub` — section.286; section.287; section.288; section.289; section.290; earlier contextual locators retained: section.284; section.8. The discussion tentatively interprets Laetus's executions as a diversion and cautions against accepting Dio's theatrical “auction” narrative uncritically.
 - Original citation ID: `^3171593dd4384881`.

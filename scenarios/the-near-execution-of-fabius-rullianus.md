@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Near-Execution of Fabius Rullianus by Dictator Papirius Cursor (325 BC)
@@ -37,9 +37,10 @@ Papirius, while furious, recognized the people's authority to pardon Rullianus, 
 
 ## Open Questions
 
-- Whether Rullianus's victory and subsequent report directly to the Senate were a calculated plan to steal the dictator's glory, as some ancient sources imply, or simply an exploitation of a battlefield opportunity, is left ambiguous by McCall. ^[ambiguous]
-- The historicity of the extended speeches Livy attributes to both sides is doubted even by McCall.
+- Whether Rullianus's victory and subsequent report directly to the Senate were a calculated plan to steal the dictator's glory, as some ancient sources imply, or simply an exploitation of a battlefield opportunity remains ambiguous. ^[ambiguous]
+- The historicity of the extended speeches Livy attributes to both sides is doubtful.
 
 ## Sources
 
 - McCall, Jeremiah — Clan Fabius, Defenders of Rome
+- McCall leaves the glory-seeking versus battlefield-opportunity interpretation ambiguous and doubts the historicity of Livy's extended speeches.

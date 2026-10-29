@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Postumius–Fabius Gurges Provincial Command Dispute (291 BC)
@@ -38,9 +38,10 @@ The Senate's rebuke stood in Gurges's favor; he continued as proconsul in Samniu
 
 ## Open Questions
 
-- Postumius's ultimate fate or any further consequence to his career from this overreach is not detailed in the summarized account. ^[ambiguous]
+- Postumius's ultimate fate and any further consequence to his career from this overreach remain unspecified here. ^[ambiguous]
 - The full text and tone of the Senate's rebuke to Postumius does not survive beyond the fragmentary notice.
 
 ## Sources
 
 - McCall, Jeremiah — Clan Fabius, Defenders of Rome
+- Source limitation: McCall's summarized account does not detail Postumius's ultimate fate or further career consequences.

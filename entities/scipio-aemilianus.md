@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Publius Cornelius Scipio Aemilianus Africanus
@@ -25,7 +25,7 @@ Scipio Aemilianus (Africanus the Younger) is the dramatic occasion and visionary
 - Cicero's *De Amicitia* is framed as a dialogue in which Gaius Laelius Sapiens discusses friendship with his sons-in-law Fannius and Quintus Mucius Scaevola, set a few days after the death of Laelius's lifelong friend Scipio Aemilianus in 129 BC — his death is the dialogue's dramatic and emotional occasion.
 - *Scipio's Dream*, the only substantial surviving portion of Book 6 of Cicero's earlier dialogue *De Republica*, depicts Scipio Aemilianus receiving a vision in which the elder Scipio Africanus (his adoptive grandfather) and his own father appear to him; the vision tells him that earthly fame is brief and "worthless" compared to the reward reserved in the heavens for those who serve the *res publica*, with the universe described as nine concentric spheres producing the "music of the spheres."
 - *Scipio's Dream* survives independently of the rest of *De Republica* because the fifth-century grammarian Macrobius preserved and commented on it, while the bulk of *De Republica* was lost until Angelo Mai recovered portions from a Vatican palimpsest in 1821.
-- As a primary source, the pairing of these two works functions as foundational evidence for the Republican ideology of elite *amicitia* — the networks of political friendship and reciprocal obligation that secondary scholarship (e.g. the Part II "Political Alliances" discussion in [[references/vanderblom-gray-steel-institutions-ideology]]) treats as a structural feature of Republican politics, with Scipio Aemilianus and Laelius's friendship serving as its exemplary case. ^[inferred]
+- Scipio Aemilianus and Laelius's friendship offered an exemplary image of elite *amicitia*: political friendship and reciprocal obligation linking aristocratic households. Reading the friendship dialogue alongside the dream's account of service to the *res publica* connects personal ties with Republican ideals of public duty. ^[inferred]
 
 ## Open Questions
 
@@ -34,3 +34,4 @@ Scipio Aemilianus (Africanus the Younger) is the dramatic occasion and visionary
 ## Sources
 
 - [[references/cicero-de-amicitia-scipios-dream]]
+- [[references/vanderblom-gray-steel-institutions-ideology]] — Part II, “Political Alliances,” for the modern interpretation of elite *amicitia* as a structural feature of Republican politics. The connection between that interpretation and the two Ciceronian works is a synthesis, not a directly stated ancient claim.

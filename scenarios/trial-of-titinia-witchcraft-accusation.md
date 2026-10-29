@@ -14,19 +14,19 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Trial of Titinia: Prosecutors Who Claimed to Be Bewitched (79 BC)
 
-Around 79 BC, a woman named Titinia was sued in a private civil action (*iudicium privatum*) by two prosecutors who, mid-trial, claimed that she had used a spell against them that made them forget their rehearsed speeches — a rare, concretely dated Roman legal episode in which an explicit accusation of magical interference surfaces in forensic practice itself, rather than merely in literature (Alexander, case #133).
+Around 79 BC, a woman named Titinia was sued in a private civil action (*iudicium privatum*) by two prosecutors who, mid-trial, claimed that she had used a spell against them that made them forget their rehearsed speeches — a rare, concretely dated Roman legal episode in which an explicit accusation of magical interference surfaces in forensic practice itself, rather than merely in literature.
 
 ## Parties & Stakes
 
 - **Titinia** ([[entities/titinia-accused-of-spells]]) — defendant in a private suit; the underlying substance of the original claim against her is not recorded, only the prosecutors' mid-trial complaint of memory loss.
 - **Ser. Naevius** ([[entities/servius-naevius]]) — one of two prosecutors.
 - **C. Scribonius Curio** ([[entities/gaius-scribonius-curio-cos-76]]), cos. 76, cens. 61 — the other prosecutor.
-- **C. Aurelius Cotta** ([[entities/gaius-aurelius-cotta-cos-75]]), cos. 75, and **M. Tullius Cicero** (cos. 63) — advocates who appeared for Titinia's defense (Cicero's second recorded courtroom speech, per Alexander's cross-reference to Cicero's early oratorical career).
+- **C. Aurelius Cotta** ([[entities/gaius-aurelius-cotta-cos-75]]), cos. 75, and **M. Tullius Cicero** (cos. 63) — advocates who appeared for Titinia's defense; this is Cicero's second recorded courtroom speech.
 
 ## What Happened
 
@@ -39,8 +39,9 @@ No verdict for the underlying suit survives. The episode is preserved purely as 
 ## Open Questions
 
 - The substance of the original claim against Titinia, and any formal verdict in the case, are both unknown. ^[ambiguous]
-- Whether this case is the same as, or distinct from, a similarly dated case (#132) involving an *Arretina mulier* and a related free-status dispute is disputed by modern scholars Alexander cites. ^[ambiguous]
+- Whether this case is the same as, or distinct from, a similarly dated case involving an *Arretina mulier* and a related free-status dispute remains disputed. ^[ambiguous]
 
 ## Sources
 
 - Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), case #133
+- Alexander's case #133 supplies the Titinia episode and cross-references Cicero's early oratorical career for its place as his second recorded courtroom speech. Scholars cited by Alexander dispute whether it should be identified with case #132, involving an *Arretina mulier* and a related free-status dispute.

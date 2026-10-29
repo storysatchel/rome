@@ -29,7 +29,7 @@ Papyri make the Roman imperial cult in Egypt visible through places, documents, 
 
 ## Egyptian kingship and Roman imperial cult
 
-Roman emperors could be represented in the visual language of pharaonic kingship while bearing titles identifying them as Roman rulers. The source distinguishes this continuation of Egyptian religious tradition from the Roman imperial cult. The latter added political practices and forms of recognition rather than simply replacing Egyptian religion.
+Roman emperors could be represented in the visual language of pharaonic kingship while bearing titles identifying them as Roman rulers. This continuation of Egyptian religious tradition must be distinguished from the Roman imperial cult. The latter added political practices and forms of recognition rather than simply replacing Egyptian religion.
 
 ## Temples as religious and administrative places
 

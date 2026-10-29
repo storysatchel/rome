@@ -3,7 +3,7 @@ title: Gaius Marius
 category: entities
 tags: [marius, late-republic, jugurthine-war, military-reform, cursus-honorum]
 sources: ["[[references/greenidge-history-of-rome-later-republic]]"]
-summary: Seven-time consul whose second consulship (105 BC) marked constitutional norms against successive office-holding yielding to military necessity, per Greenidge.
+summary: Seven-time consul whose election in 105 BC to a second consulship for 104 BC reflected military emergency overriding norms against successive office-holding.
 provenance:
   extracted: 0.8
   inferred: 0.15
@@ -13,23 +13,23 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Gaius Marius
 
-Marius is a secondary but pivotal figure in Greenidge's narrative of 133–104 BC, entering the political reaction after Gaius Gracchus's death and rising through the Jugurthine War to a constitutionally unprecedented second consulship.
+Gaius Marius rose through the political struggles following Gaius Gracchus's death and the Jugurthine War. His election in 105 BC to a second consulship for 104 BC followed Rome's disaster at Arausio and exposed a tension between military necessity and norms against successive consulships.
 
 ## Biography / Role
 
-- Greenidge's volume ends with Marius's election to a second consulship following the Roman disaster at Arausio in 105 BC, which Greenidge frames as the point where military necessity overrode the Republic's constitutional norms against successive consulships.
-- Greenidge traces Marius's early career into the political reaction after 121 BC (the political fallout following Gaius Gracchus's death), and follows him through the Jugurthine War in detail, from the reign of Micipsa through Marius's and [[entities/sulla]]'s joint resolution of the conflict against Jugurtha.
-- Greenidge treats the rivalry between Marius and Sulla as already visible in embryonic form during the Jugurthine War: Sulla, then serving as Marius's quaestor, secured Bocchus's betrayal of Jugurtha, a personal success that set up a rivalry between the two men shaping the following decades of Roman politics. ^[inferred]
+- The second consulship can be interpreted as a moment when military emergency overrode restrictions on repeated office-holding.
+- Marius's early career unfolded during the political reaction after 121 BC. In the Jugurthine War he ultimately brought the conflict to an end with the assistance of his quaestor [[entities/sulla]].
+- Sulla secured Bocchus's betrayal of Jugurtha. This personal success can be seen as an early source of the competition for credit that later fueled Marius's rivalry with him, rather than proof that their later conflict was already inevitable. ^[inferred]
 
 ## Open Questions
 
-- Greenidge's volume covers only through 104 BC, so it does not itself narrate Marius's later, more famous military reforms or his subsequent consulships; those lie beyond the citing page's scope.
+- How much of the later rivalry with Sulla can be traced to competition for credit in the Jugurthine War, rather than to subsequent conflicts?
 
 ## Sources
 
-- [[references/greenidge-history-of-rome-later-republic]]
+- [[references/greenidge-history-of-rome-later-republic]] — Greenidge's account of the reaction after 121 BC, Marius's Jugurthine command, and election to the consulship for 104 BC; interpretation of military necessity overriding constitutional norms. The embryonic rivalry with Sulla is an inference from the division of credit over Jugurtha's capture. The volume ends in 104 BC and does not cover the later consulships or reforms.

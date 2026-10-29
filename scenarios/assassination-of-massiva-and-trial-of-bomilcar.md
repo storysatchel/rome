@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29"
 ---
 
 # The Assassination of Massiva and the Trial of Bomilcar
@@ -38,8 +38,8 @@ Jugurtha reconsidered: no outcome of Bomilcar's trial could restore his own repu
 
 ## Open Questions
 
-- Greenidge does not identify the assassin by name or clarify exactly how the plot was first traced back to Bomilcar.
+- The assassin’s identity and the precise steps by which the plot was traced to Bomilcar are not specified in the account used here.
 
 ## Sources
 
-- Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate
+- Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate; the account does not supply the assassin’s name or a complete reconstruction of the investigation.

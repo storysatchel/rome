@@ -21,7 +21,7 @@ summary: "Pompeii’s narrow streets and gates channelled wagons into restricted
 tags: ["domain/economic", "domain/political", "period/late-antiquity", "period/principate", "type/scenario"]
 tier: "supporting"
 title: "Pompeii Traffic Regulation"
-updated: "2026-10-29T21:53:47Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 # Pompeii Traffic Regulation
 
@@ -31,7 +31,7 @@ Pompeii’s traffic system was shaped by an old street plan in which most street
 
 Barricades forced wheeled traffic onto particular routes and allowed the city council to change circulation patterns. Wheel ruts survive in streets subsequently blocked by stones, showing that routes were altered over time. Stepping stones also constrained vehicles and the width of their axles.
 
-Obtuse corners made turning easier. Deeper wheel ruts at these corners suggest that drivers favoured them, although the source treats their use as a formal traffic rule as a possibility rather than a certainty.
+Obtuse corners made turning easier. Deeper wheel ruts at these corners suggest that drivers favoured them, although their use as a formal traffic rule remains a possibility rather than a certainty.
 
 ## The limits of legal restrictions
 
@@ -39,7 +39,7 @@ The wider Roman approach combined physical controls with legislation. The *Lex J
 
 ## Particular streets and the closed forum
 
-The source identifies Via dell’Abbondanza, Via Stabiana, and Via di Nola as among the few streets wide enough for two-way movement, requiring roughly 3.60 metres. A wagon from the House of Menander measured 1.42 metres between its wheels but 1.79 metres between its hubs: clearance depended on more than the wheel tracks alone, since raised pavements also had to leave room for the projecting hubs.
+Via dell’Abbondanza, Via Stabiana, and Via di Nola were among the few streets wide enough for two-way movement, requiring roughly 3.60 metres. A wagon from the House of Menander measured 1.42 metres between its wheels but 1.79 metres between its hubs: clearance depended on more than the wheel tracks alone, since raised pavements also had to leave room for the projecting hubs.
 
 The forum was blocked to wheeled traffic at all its entrances. Construction transport, especially important after the earthquake of AD 62, would have needed removed barriers or ramps. This was a restriction on access to a particular civic space, not simply a rule about direction of travel.
 
@@ -47,5 +47,5 @@ The exact directions followed on individual routes remain uncertain. No modern-s
 
 ## Sources
 
-- `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` — section.156; section.157; section.158; section.159; earlier contextual locators retained: section.190; section.194.
+- `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` — section.156; section.157; section.158; section.159; earlier contextual locators retained: section.190; section.194. This discussion identifies the streets wide enough for two-way movement and treats a formal rule favouring obtuse corners as possible, not certain.
 - Original citation ID: `^b17e4fe815d52097`.

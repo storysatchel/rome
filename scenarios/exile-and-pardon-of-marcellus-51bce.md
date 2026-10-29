@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:30Z"
-updated: "2026-10-24T19:11:30Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Senate's Plea for Marcellus's Pardon After Pharsalus
 
-This is a historical-anecdotal episode from Seneca's *Consolation to Helvia* (ch. 9-10), which quotes Marcus Junius Brutus's lost treatise *On Virtue* as its source. It is a small, specific political episode — distinct from the broader civil war and from Caesar's assassination, both already covered elsewhere in this wiki — concerning one defeated senator's exile and recall.
+The defeated senator Marcellus withdrew to Mytilene after the civil war and was eventually recalled through a collective Senate petition to Caesar. Seneca's *Consolation to Helvia* (ch. 9–10), quoting Marcus Junius Brutus's lost *On Virtue*, preserves the episode as an example of dignity in exile.
 
 ## Parties & Stakes
 
@@ -45,4 +45,4 @@ Caesar grants the Senate's petition and Marcellus is formally recalled, with Bru
 
 ## Sources
 
-- Seneca — Stoic Philosophy of Seneca
+- Seneca — Stoic Philosophy of Seneca, *Consolation to Helvia*, ch. 9–10, quoting Brutus's lost *On Virtue*.

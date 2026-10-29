@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T19:11:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Perduellio Trial of Gaius Rabirius, 63 BC
@@ -37,9 +37,10 @@ The archaic procedure never ran to full capital execution; the case was ultimate
 
 ## Open Questions
 
-- Whether Caesar's role as duumvir was by chance appointment or a deliberately engineered position is debated by modern scholars.
+- Whether Caesar's role as duumvir was a chance appointment or a deliberately engineered position remains disputed.
 
 ## Sources
 
 - Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic
 - van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic
+- The modern scholarly debate concerns whether Caesar's appointment as duumvir was accidental or deliberately engineered; neither explanation is treated as established here.

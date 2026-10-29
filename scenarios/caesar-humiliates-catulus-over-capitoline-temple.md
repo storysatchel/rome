@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T19:11:16Z"
+updated: "2026-10-29"
 ---
 
 # Caesar's Public Humiliation of Catulus Over the Capitoline Temple
@@ -32,7 +32,7 @@ Immediately on entering his praetorship, Caesar called a [[entities/forum-romanu
 
 ## Outcome
 
-Caesar achieved multiple goals at once: he avenged himself on Catulus for the Catilinarian slander (itself payback for the pontifical election loss), publicly embarrassed a senior statesman, reaffirmed his alliance with Pompey, and signaled his willingness to confront the established nobility. The broader political gambit — using his support for Pompey to push further controversial measures that year — nearly cost Caesar his praetorship when a related proposal triggered violence in the voting assembly, but he talked his way back into office.
+The confrontation publicly embarrassed a senior statesman, reaffirmed Caesar’s support for Pompey, and displayed his willingness to challenge the established nobility. Retaliation for Catulus’s Catilinarian allegation is a plausible motive, as is a connection between that allegation and the pontifical election defeat; neither private motive is independently established. The broader political gambit — using his support for Pompey to push further controversial measures that year — nearly cost Caesar his praetorship when a related proposal triggered violence in the voting assembly, but he talked his way back into office.
 
 ## Open Questions
 

@@ -3,7 +3,7 @@ title: "*War and Society in Imperial Rome 31 BC–AD 284*"
 category: references
 tags: ["type/reference", "domain/military", "domain/political", "period/principate", "material/culture"]
 sources: ["B09:Warfare and Society in Imperial Rome, C. 31 BC-AD 280epub.decrypted.epub", "B09:Warfare and Society in Imperial Rome, C. 31 BC-AD 280epub.pdf"]
-summary: "The PDF supports the same bounded claims as the EPUB: the standing imperial army was socially and politically dominant; Augustus centralized military control."
+summary: "The standing imperial army was socially and politically dominant; Augustus centralized military control."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:10Z"
 facets:
   domain: [military, political]
   type: [reference]
@@ -31,7 +31,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- The PDF supports the same bounded claims as the EPUB: the standing imperial army was socially and politically dominant; Augustus centralized military control; professional soldiers and provincial stationing connected army and society; warfare is analyzed through literary, epigraphic, numismatic, and architectural evidence; imperial military representation shaped public opinion (PDF pp. 1–15; chapter 1 opening). ^[ambiguous]
+- The standing imperial army was socially and politically dominant; Augustus centralized military control; professional soldiers and provincial stationing connected army and society; warfare is analyzed through literary, epigraphic, numismatic, and architectural evidence; imperial military representation shaped public opinion (PDF pp. 1–15; chapter 1 opening). ^[ambiguous]
 - The professional army permanently stationed in strategically important provinces was central to imperial economic, political, and social life (`Part02.xhtml`, description; `Part08.xhtml`, preface). ^[ambiguous]
 - Warfare shifted from Republican citizen militia and senate/assembly-influenced decisions toward imperial, personal control of war and peace, especially under Augustus (`Part11.xhtml`, “The Origins of War”). ^[ambiguous]
 - Augustus’ standing army transformed war-making capacity and tied military command to the emperor’s political legitimacy (`Part02.xhtml`; `Part11.xhtml`). ^[ambiguous]

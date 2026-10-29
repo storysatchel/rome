@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:30Z"
-updated: "2026-10-24T19:11:30Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Scipio Africanus's Self-Imposed Exile to Liternum
 
-This is a historical-anecdotal episode from Seneca's Letter 86 ("Scipio's Villa"), written as a travelogue from the actual ruined estate where Scipio Africanus, conqueror of Hannibal, spent his final years.
+Scipio Africanus, conqueror of Hannibal, spent his final years away from Rome at Liternum. Seneca's Letter 86 ("Scipio's Villa"), written after a visit to the ruined estate, portrays the withdrawal as a voluntary sacrifice to protect Roman liberty from Scipio's own extraordinary stature.
 
 ## Parties & Stakes
 
@@ -42,4 +42,4 @@ Scipio lived out his remaining years away from Rome in deliberate political obsc
 
 ## Sources
 
-- Seneca — Stoic Philosophy of Seneca
+- Seneca — Stoic Philosophy of Seneca, Letter 86 ("Scipio's Villa"). The letter reconstructs Scipio's withdrawal as a voluntary defense of liberty and describes the estate during Seneca's visit.

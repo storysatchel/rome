@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Fabius Gurges Fines a Bloc of Married Women for Adultery
@@ -28,7 +28,7 @@ Early in his public career, likely while serving as a junior magistrate such as 
 
 ## What Happened
 
-Livy's brief notice records only that Gurges, in a junior magisterial role, fined a bloc of married women for adultery — a case McCall notes echoes his father Rullianus's own moral-crusading debut prosecuting poisoners as a young aedile, suggesting the family cultivated a pattern of launching political careers through high-profile moral prosecutions. ^[inferred] No individual names, specific charges, or trial procedure survive beyond this bare notice. ^[extracted]
+Livy's brief notice records only that Gurges, in a junior magisterial role, fined a bloc of married women for adultery. The case echoes his father Rullianus's own moral-crusading debut prosecuting poisoners as a young aedile, suggesting the family may have cultivated a pattern of launching political careers through high-profile moral prosecutions. ^[inferred] No individual names, specific charges, or trial procedure survive beyond this bare notice. ^[extracted]
 
 ## Outcome
 
@@ -36,9 +36,9 @@ The matrons were collectively found guilty and fined; no further details of amou
 
 ## Open Questions
 
-- The precise magistracy Gurges held at the time is not recorded; McCall assumes aedile but flags this as uncertain. ^[ambiguous]
+- The precise magistracy Gurges held at the time is not recorded; an aedileship is a possible but uncertain reconstruction. ^[ambiguous]
 - The number and identities of the women involved, and the specific circumstances of the prosecution, are not preserved.
 
 ## Sources
 
-- McCall, Jeremiah — Clan Fabius, Defenders of Rome
+- McCall, Jeremiah — Clan Fabius, Defenders of Rome. McCall draws the parallel with Rullianus's prosecution of poisoners and assumes, with uncertainty, that Gurges was an aedile.

@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Lugdunum Penalized for Backing Clodius Albinus, AD 197
@@ -33,7 +33,7 @@ Civil war broke out between the several claimants to the imperial throne followi
 
 ## Outcome
 
-Having supported the losing claimant, Lugdunum was penalized by Severus in the settlement that followed — the exact nature of the penalty (fines, loss of privileges, physical damage to the city) is not elaborated in the source consulted here, though the episode is cited by Goodman as a marker of the political and military instability that began affecting Gaul from this period onward, as a prelude to the broader third-century crisis.^[ambiguous]
+Having supported the losing claimant, Lugdunum was penalized by Severus in the settlement that followed. The exact nature of the penalty (fines, loss of privileges, physical damage to the city) remains unspecified here. The episode marks the political and military instability beginning to affect Gaul in this period and can be understood as a prelude to the broader third-century crisis.^[ambiguous]
 
 ## Open Questions
 
@@ -41,4 +41,4 @@ Having supported the losing claimant, Lugdunum was penalized by Severus in the s
 
 ## Sources
 
-- Goodman, Penelope J. — The Roman City and its Periphery: From Rome to Gaul ("Gaul in Late Antiquity": "The civil war between Septimius Severus and Clodius Albinus...ended in battle at Lyon in AD 197, and the city was penalised for supporting Albinus.")
+- Goodman, Penelope J. — The Roman City and its Periphery: From Rome to Gaul ("Gaul in Late Antiquity": "The civil war between Septimius Severus and Clodius Albinus...ended in battle at Lyon in AD 197, and the city was penalised for supporting Albinus."). Goodman situates the episode as a marker of instability preceding the third-century crisis without elaborating the penalty's form.

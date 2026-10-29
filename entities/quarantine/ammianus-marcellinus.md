@@ -31,13 +31,13 @@ Ammianus Marcellinus was a late Roman soldier and historian. A member of the eli
 
 Military experience informs his accounts of campaigns and encounters with peoples beyond Roman territory. The word *limes* appears thirty-four times in the surviving history, making it important evidence in modern debates about Roman boundaries.
 
-Jan Willem Drijvers agrees with Isaac that the term usually denotes a frontier zone: he counts twenty-two such uses, eighteen on the Roman side and four on the non-Roman side. But Drijvers disputes an exclusively zonal interpretation. Depending on context, Ammianus can also mean a boundary line and probably a militarily defended border. This is a modern interpretation of his language, not an explicit theory of frontiers formulated by Ammianus himself.
+Most occurrences of *limes* denote a frontier zone rather than a single boundary line: twenty-two uses have this sense, eighteen on the Roman side and four on the non-Roman side. The term is not confined to that meaning, however. Depending on context, it can also designate a boundary line and possibly a militarily defended border. The extent of this last meaning remains disputed; these usages do not amount to an explicit theory of frontiers formulated by Ammianus himself.
 
 ## Careers across boundaries
 
 Ammianus’s narratives also disclose frontier regions as places of cultural contact. The Alamannic king Vadomarius, initially a Roman enemy, entered Roman service and pursued a distinguished career. In the eastern borderlands, Antoninus moved in the opposite direction: formerly a merchant and an accountant working for the Roman commander in Mesopotamia, he defected with military information and continued his career under the Persian king.
 
-Drijvers contrasts the unequal relationship between Rome and peoples on the Rhine and Danube with the more symmetrical encounter of the Roman and Sassanian empires. These cases make the *Res Gestae* evidence for mobility and accommodation as well as conflict.
+Relations across the Rhine and Danube were generally less evenly balanced than those between the Roman and Sassanian empires. Frontier encounters therefore varied in character: mobility and cultural accommodation could occur alongside unequal power and military conflict.
 
 ## Related Pages
 

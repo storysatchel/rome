@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Matricide Trial of Publicius Malleolus (101 BC)
 
-In 101 BC, a Roman named Publicius Malleolus was tried before the popular assembly (*iudicium populi*) for killing his own mother, and became one of the small number of Republican-era Romans definitely known to have suffered the archaic and gruesome *poena cullei* — execution by being sewn into a leather sack and thrown into the sea (Alexander, case #75).
+In 101 BC, a Roman named Publicius Malleolus was tried before the popular assembly (*iudicium populi*) for killing his own mother, and became one of the small number of Republican-era Romans definitely known to have suffered the archaic and gruesome *poena cullei* — execution by being sewn into a leather sack and thrown into the sea.
 
 ## Parties & Stakes
 

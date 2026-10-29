@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29"
 ---
 
 # The Roman Disaster at the Caudine Forks
@@ -36,7 +36,7 @@ The treaty was later repudiated by the Roman Senate, which declared it invalid o
 
 ## Open Questions
 
-- The historicity of the precise ritual details (the yoke ceremony) versus later Roman literary elaboration of the humiliation is debated among historians.
+- The precise ritual details, including the yoke ceremony, may reflect later Roman literary elaboration of the humiliation; their historicity remains disputed.
 
 ## Sources
 

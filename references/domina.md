@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: []
   type: [reference]
@@ -32,8 +32,8 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - Roman imperial women could exercise political and dynastic influence through family position, patronage, representation, and succession politics. ^[ambiguous]
-- Roman imperial women could exercise political and dynastic influence through family position, patronage, representation, and succession politics.   - The narrative follows Cleopatra, Fulvia, Livia, Agrippina the Elder, Messalina, Agrippina the Younger, Octavia, and Poppaea across the transition from Republic to Principate.   - Livia is presented as a central “dowager empress and matriarch” whose authority persisted after Augustus’ death.   - Julio-Claudian women’s public roles were negotiated through virtue, honor, chastity, marriage, motherhood, and imperial ideology.   - The epilogue extends the discussion to Severan and other empresses. ^[ambiguous]
-- The book examines women’s power and representation from Cleopatra/Fulvia/Livia through the Julio-Claudian court.   - Its chapter structure links women’s virtue, honor, chastity, marriage, dynastic succession, and imperial rule.   - Livia’s post-14 CE role is treated as a distinct phase of imperial matriarchal authority.   - Agrippina the Elder, Messalina, and Agrippina the Younger are treated as different modes of female intervention and vulnerability.   - An epilogue connects the Julio-Claudian story to Severan empresses. ^[ambiguous]
+- Roman imperial women could exercise political and dynastic influence through family position, patronage, representation, and succession politics.   - The narrative follows Cleopatra, Fulvia, Livia, Agrippina the Elder, Messalina, Agrippina the Younger, Octavia, and Poppaea across the transition from Republic to Principate.   - Livia’s position as “dowager empress and matriarch” allowed her authority to persist after Augustus’ death.   - Julio-Claudian women’s public roles were negotiated through virtue, honor, chastity, marriage, motherhood, and imperial ideology.   - The epilogue extends the discussion to Severan and other empresses. ^[ambiguous]
+- The book examines women’s power and representation from Cleopatra/Fulvia/Livia through the Julio-Claudian court.   - Its chapter structure links women’s virtue, honor, chastity, marriage, dynastic succession, and imperial rule.   - Livia’s post-14 CE role marked a distinct phase of imperial matriarchal authority.   - Agrippina the Elder, Messalina, and Agrippina the Younger are treated as different modes of female intervention and vulnerability.   - An epilogue connects the Julio-Claudian story to Severan empresses. ^[ambiguous]
 
 ## Evidence-linked relationships
 

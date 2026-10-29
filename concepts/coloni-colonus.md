@@ -33,15 +33,15 @@ The constitution requires runaway coloni held by a landowner in good faith to be
 
 ## Possession is not slavery
 
-The text uses *possidere*, “to possess,” but Sirks argues that census registration could support this language without making the colonus a slave. His criticism is directed at Battistella’s interpretation, which he considers to have been diverted by the phrase *coloni quos bona fide quisque possedit* into an inappropriate discussion of free people held in slavery.
+The text uses *possidere*, “to possess,” but census registration offers a possible explanation for this language without making the colonus a slave. The phrase *coloni quos bona fide quisque possedit* thus need not refer to free people held in slavery; that interpretation is disputed.
 
 The distinction is important: a legally free person could nevertheless be subject to restrictions on movement and compulsory duties. Conversely, the particular coloni regulated by this title should not automatically be equated with every tenant or every agricultural worker.
 
 ## Flight and the allocation of labour
 
-CJ 11.48.12 sought to deter harbouring fugitive coloni through a fine of twelve pounds of silver and an additional compensatory obligation. CJ 11.48.13 addressed transfers between estates of the same owner and the persistence of the resulting allocation after ownership later divided. Sirks reads these provisions in relation to census registration as well as the landowner’s need for labour.
+CJ 11.48.12 sought to deter harbouring fugitive coloni through a fine of twelve pounds of silver and an additional compensatory obligation. CJ 11.48.13 addressed transfers between estates of the same owner and the persistence of the resulting allocation after ownership later divided. These provisions can be read in relation to census registration as well as the landowner’s need for labour.
 
-Family formation could also be affected. CJ 11.48.16 required the return of an *originaria* who married a free man elsewhere, together with her children. The accompanying discussion distinguishes the rules governing recall from those determining the status of offspring. Land attachment, personal freedom, and family status were therefore related but legally separate questions.
+Family formation could also be affected. CJ 11.48.16 required the return of an *originaria* who married a free man elsewhere, together with her children. The rules governing recall must be distinguished from those determining the status of offspring. Land attachment, personal freedom, and family status were therefore related but legally separate questions.
 
 ## Related Pages
 
@@ -50,4 +50,4 @@ Family formation could also be affected. CJ 11.48.16 required the return of an *
 
 ## Sources
 
-- `_raw/lega-article-p265_10.pdf`, p.16.1–p.18.1, printed pp.280–282, on CJ 11.48.12–16, flight, possession, allocation between estates, and family status; contextual packet passage p.10.1, printed p.274, on the title’s scope (B05; original passage ID: `raw-25867aef268a`).
+- A. J. B. Sirks, `_raw/lega-article-p265_10.pdf`, p.16.1–p.18.1, printed pp.280–282, on CJ 11.48.12–16, flight, possession, allocation between estates, and family status, including his criticism of Battistella’s interpretation of possession as free people held in slavery and his census-based reading; contextual packet passage p.10.1, printed p.274, on the title’s scope (B05; original passage ID: `raw-25867aef268a`).

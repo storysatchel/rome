@@ -29,18 +29,18 @@ updated: "2026-10-29T21:50:41Z"
 
 ## Ox heads or an urban pattern?
 
-An established conjecture explains the name through real or artificial ox heads—*bucrania*—displayed nearby. The article “Ad Capita Bubula” proposes a different reading: that the name originally referred to a geometric pattern connected with Augustus’ reorganization of Rome into fourteen regions and 265 *vici*.
+An established conjecture explains the name through real or artificial ox heads—*bucrania*—displayed nearby. An alternative reading is that the name originally referred to a geometric pattern connected with Augustus’ reorganization of Rome into fourteen regions and 265 *vici*.
 
 ## The ideological location of a birthplace
 
-Richard Jackson King argues that the phrase helped position Augustus’ birth at the city’s urban centre, giving the place-name ideological weight. His reading connects the shrine at Augustus’ birthplace with the commemoration of founding heroes and with Augustus’ reorganization of Rome in 7 BCE.
+On the alternative reading, the phrase helped position Augustus’ birth at the city’s urban centre, giving the place-name ideological weight. This interpretation connects the shrine at Augustus’ birthplace with the commemoration of founding heroes and with Augustus’ reorganization of Rome in 7 BCE.
 
 ## The surveyors’ comparison
 
-The proposed geometry depends on a land-surveying text that uses *caput bubulum* for a diamond-shaped area divisible into two equilateral triangles. King suggests that multiple such shapes could evoke converging urban regions centred near Augustus’ birthplace.
+The proposed geometry depends on a land-surveying text that uses *caput bubulum* for a diamond-shaped area divisible into two equilateral triangles. Multiple such shapes could, on this reconstruction, evoke converging urban regions centred near Augustus’ birthplace.
 
-The comparison is suggestive rather than decisive. The surveying passage is of uncertain date and textually problematic, and the place-name itself is known only from Suetonius. King also notes that *caput* can describe a geographical extremity or centre, not only a literal head. These linguistic possibilities widen interpretation without proving which meaning originally produced the name.
+The comparison is suggestive rather than decisive. The surveying passage is of uncertain date and textually problematic, and the place-name itself is known only from Suetonius. Moreover, *caput* can describe a geographical extremity or centre, not only a literal head. These linguistic possibilities widen interpretation without proving which meaning originally produced the name.
 
 ## Sources
 
-- `_raw/KING-ADCAPITABUBULA-2010.pdf`, p.2.1–p.5.1, printed pp.450–453, Richard Jackson King, “Ad Capita Bubula: The Birth of Augustus and Rome’s Imperial Centre,” on Suetonius, the shrine, surveyors’ terminology, and alternative place-name meanings (B05; original passage ID: `raw-14754c293d1f`).
+- `_raw/KING-ADCAPITABUBULA-2010.pdf`, p.2.1–p.5.1, printed pp.450–453, Richard Jackson King, “Ad Capita Bubula: The Birth of Augustus and Rome’s Imperial Centre,” for the alternative geometric and ideological interpretation, Suetonius, the shrine, surveyors’ terminology, and possible place-name meanings (B05; original passage ID: `raw-14754c293d1f`).

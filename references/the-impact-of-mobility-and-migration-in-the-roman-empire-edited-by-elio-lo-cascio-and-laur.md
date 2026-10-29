@@ -3,7 +3,7 @@ title: "*The Impact of Mobility and Migration in the Roman Empire*"
 category: references
 tags: ["type/reference", "period/republic", "period/principate", "period/late-antiquity", "domain/economic"]
 sources: ["B00:9789004334809-34002.pdf"]
-summary: "Movement within the Roman world is analyzed through migration, mobility, law, identity, military service, diplomacy, trade and gender (Preface; contents, pp. v–vi)."
+summary: "Movement within the Roman world intersected with law, identity, military service, diplomacy, trade and gender (Preface; contents, pp. v–vi)."
 provenance:
   extracted: 0.65
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:10Z"
 facets:
   domain: [economic]
   type: [reference]
@@ -31,7 +31,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 
 ## Sampled claims
 
-- Movement within the Roman world is analyzed through migration, mobility, law, identity, military service, diplomacy, trade and gender (Preface; contents, pp. v–vi). ^[ambiguous]
+- Movement within the Roman world intersected with law, identity, military service, diplomacy, trade and gender (Preface; contents, pp. v–vi). ^[ambiguous]
 - Sources for mobility are abundant but fragmented, requiring cautious, context-sensitive interpretation (Tacoma/Lo Cascio, pp. 8–13). ^[ambiguous]
 - Roman authors often discuss migration indirectly through consequences for identity and Romanness rather than as an autonomous phenomenon (pp. 8–9). ^[ambiguous]
 - Labour, family, war, coercion, cit… ^[ambiguous]

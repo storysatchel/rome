@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Clodius–Milo Street War and the Murder Trial at Bovillae
@@ -38,9 +38,10 @@ Clodius's death provoked rioting in [[entities/rome|Rome]]; his body was burned 
 
 ## Open Questions
 
-- Pennell suggests Cicero "did not dare" deliver his prepared defense, while the surviving *Pro Milone* implies it was delivered in some form; the sources used here do not resolve this.
+- Whether Cicero delivered his prepared defense in some form or failed to deliver it as planned remains unresolved here; the surviving *Pro Milone* and the account that he "did not dare" deliver it do not straightforwardly agree.
 
 ## Sources
 
 - Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.
 - Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny
+- Pennell is the source for the claim that Cicero "did not dare" deliver his prepared defense; its relationship to the surviving *Pro Milone* is unresolved in the sources used here.

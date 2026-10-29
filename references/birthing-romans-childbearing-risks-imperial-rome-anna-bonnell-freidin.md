@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: []
   type: [reference]
@@ -44,7 +44,7 @@ The review describes a study of the Latin West and North Africa, with attention 
 - Freidin uses legal, poetic, medical, papyrological, and iconographic evidence to reconstruct reproductive risk and experience.
 - Soranus's early second-century *Gynecology* is a major medical source.
 - Amulets, material practices, fate, and fortune show that medical explanations coexisted with religious and social responses to risk.
-- The review presents the work as a new social history of Imperial Rome, including evidence from places such as second-century Aquincum in Pannonia.
+- Evidence from second-century Aquincum in Pannonia extends the discussion of childbearing beyond Rome itself.
 
 The topic complements the vault's broader Roman social history and can be read alongside [[entities/rome]] and questions of family continuity in [[concepts/roman-elite-adoption-practices]].
 

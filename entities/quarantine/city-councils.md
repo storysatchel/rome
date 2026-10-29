@@ -33,7 +33,7 @@ Aurelian made councils liable for the taxes on uncultivated lands in their terri
 
 ## Claims on elite property
 
-Municipal responsibilities also constrained the property of the landowning elite. In the later empire, councils exercised a degree of corporate control over land belonging to decurions. Kehoe argues that, in theory, much elite land was therefore subject to claims by both the imperial treasury, or *Fiscus*, and local councils. These overlapping claims limited the freedom of owners to sell land or use it in credit transactions.
+Municipal responsibilities also constrained the property of the landowning elite. In the later empire, councils exercised a degree of corporate control over land belonging to decurions. In legal theory, much elite land was subject to overlapping claims by both the imperial treasury (*Fiscus*) and local civic councils. These overlapping claims limited the freedom of owners to sell land or use it in credit transactions.
 
 ## Land transactions and the security of revenue
 

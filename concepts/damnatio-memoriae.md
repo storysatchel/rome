@@ -29,13 +29,13 @@ Domitian’s posthumous memory sanctions show that *damnatio memoriae* did not p
 
 ## Senate, army, and burial
 
-The account drawing on Suetonius contrasts senatorial hostility with military indignation and popular indifference. The Senate sought the removal of Domitian’s name from inscriptions, while soldiers remained attached to him. His body was cremated by his nurse and his ashes were eventually placed in the Temple of the Flavian Family. Sanctions against memory therefore did not erase every form of private commemoration.
+Suetonius contrasts senatorial hostility with military indignation and popular indifference. The Senate sought the removal of Domitian’s name from inscriptions, while soldiers remained attached to him. His body was cremated by his nurse and his ashes were eventually placed in the Temple of the Flavian Family. Sanctions against memory therefore did not erase every form of private commemoration.
 
 ## Selective alteration in Egypt
 
 Many images of Domitian survived in Egypt, particularly representations of him as pharaoh. At Deir el-Hagar, however, his personal name was covered with plaster, including the filling of incised hieroglyphs. The name “Caesar” in the other cartouche was left untouched, distinguishing rejection of an office-holder from respect for the imperial office.
 
-The source also records erasures in Greek votive inscriptions at Berenike, including the temple of Isis and a harbour-area temple. It suggests Roman or military involvement but does not establish it as fact. Why Deir el-Hagar was altered while neighbouring temples retained Domitian’s name remains unexplained.
+Erasures also survive in Greek votive inscriptions at Berenike, including the temple of Isis and a harbour-area temple. Roman or military involvement is possible but unproven. Why Deir el-Hagar was altered while neighbouring temples retained Domitian’s name remains unexplained.
 
 The contrast is not simply between Rome and Egypt. It is also between Domitian as Roman emperor and the pharaonic images embedded in Egyptian temple traditions.
 

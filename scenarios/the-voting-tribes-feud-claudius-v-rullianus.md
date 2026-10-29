@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Voting-Tribes Feud: Rullianus Undoes Appius Claudius's Censorship (304 BC)
@@ -29,7 +29,7 @@ Appius Claudius's censorship of 312 BC was, in Livy's telling, highly controvers
 
 ## What Happened
 
-When Rullianus and Decius Mus held the censorship of 304 BC, Rullianus took deliberate steps to unravel measures Claudius had put in place eight years earlier. According to a source quoted by McCall, "Fabius, for the sake of concord and at the same time to prevent elections remaining in the hands of the lowest-born, sifted out all the Forum crowd, throwing them into four tribes that he called 'urban.'" The move was reportedly so well received among the aristocracy that it earned Rullianus the cognomen "Maximus" — a title, McCall notes dryly, that his many military victories alone had not secured for him. ^[extracted] McCall suggests the underlying rivalry likely began with Claudius's opposition to Rullianus receiving a proconsulship in 307 BC, and speculates this friction originated in or was compounded by disagreements over the earlier 312 BC censorship itself. ^[inferred]
+When Rullianus and Decius Mus held the censorship of 304 BC, Rullianus took deliberate steps to unravel measures Claudius had put in place eight years earlier. The reorganization is described in the ancient account: "Fabius, for the sake of concord and at the same time to prevent elections remaining in the hands of the lowest-born, sifted out all the Forum crowd, throwing them into four tribes that he called 'urban.'" The move was reportedly so well received among the aristocracy that it earned Rullianus the cognomen "Maximus" — a title his many military victories alone had not secured for him. ^[extracted] The underlying rivalry may have begun with Claudius's opposition to Rullianus receiving a proconsulship in 307 BC; disagreements over the earlier 312 BC censorship may also have originated or compounded the friction. ^[inferred]
 
 ## Outcome
 
@@ -37,9 +37,10 @@ Rullianus's reorganization confined the "forum crowd" (urban, likely freedman-de
 
 ## Open Questions
 
-- Livy's hostile sources may have exaggerated or distorted both Claudius's original reform and its motives; McCall explicitly flags this ancient hostility toward Claudius as a potential source of bias. ^[ambiguous]
-- The precise mechanics of how voters were reassigned under either censorship are, per McCall, "impenetrable" from the surviving evidence.
+- Livy's hostile sources may have exaggerated or distorted both Claudius's original reform and its motives. ^[ambiguous]
+- The precise mechanics of voter reassignment under either censorship cannot be recovered securely from the surviving evidence.
 
 ## Sources
 
 - McCall, Jeremiah — Clan Fabius, Defenders of Rome
+- McCall supplies the quoted ancient description of Fabius's reorganization and contrasts the grant of "Maximus" with his earlier military victories. He suggests a connection between the rivalry and the 307 BC proconsulship dispute, speculates about friction over the 312 BC censorship, flags ancient hostility toward Claudius as a source of bias, and calls the reassignment mechanics "impenetrable."

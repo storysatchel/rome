@@ -3,7 +3,7 @@ title: Gaius Julius Caesar
 category: entities
 tags: [julius-caesar, late-republic, oratory, civil-war, roman-politics]
 sources: ["[[references/vanderblom-oratory-political-career]]", "[[references/watts-mortal-republic]]"]
-summary: Late Republican general-statesman whose dictatorship and assassination mark, in both cited sources, the terminal crisis of the Republic; van der Blom treats his oratory as a career "springboard."
+summary: Late Republican general and statesman whose career combined oratory with other sources of power; his dictatorship and assassination preceded Augustus’s consolidation of one-man rule.
 provenance:
   extracted: 0.7
   inferred: 0.25
@@ -13,26 +13,25 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:58:18Z"
-updated: "2026-10-24T06:58:18Z"
+updated: "2026-10-29T22:41:25Z"
 ---
 
 # Gaius Julius Caesar
 
-Caesar appears across these sources in two registers: as one of van der Blom's six non-Ciceronian case studies in a career built partly through oratory, and as the endpoint of a long structural decline in Watts's narrative of the Republic's death.
+Caesar built political prominence partly through oratory, alongside ancestry, wealth, patronage, military exploits, and personal charisma. His dictatorship and assassination belong to the terminal crises of the Republic, but their precise relationship to the establishment of Augustan autocracy requires more than a narrative of inevitable decline.
 
 ## Biography / Role
 
-- Van der Blom places Caesar among the politicians (alongside Gaius Gracchus and Cato the Younger) who actively sought out oratorical occasions rather than treating speech as a reactive obligation of office — in contrast to Pompey, Piso Caesoninus, and Mark Antony, who used other channels (visual spectacle, military reputation, patronage) to build their public profiles. Her case-study chapter frames his oratory specifically as a career "springboard," one route among several (ancestry, wealth, patronage, military exploits, charisma) that Republican politicians combined without a fixed hierarchy.
-- Aulus Gellius's *Attic Nights* is cited by van der Blom as a source preserving apparently verbatim fragments of Caesar's oratory (alongside Cato the Elder and Gaius Gracchus) that would otherwise be lost to history, valuable precisely because Gellius's interest was linguistic rather than political.
-- [[entities/sulla]]'s self-presentation as *felix* ("fortunate") is identified elsewhere in the van der Blom volume (*Institutions and Ideology in Republican Rome*) as a model Caesar later imitated — an early instance of a Roman strongman using personal-fortune branding as political capital. ^[inferred]
-- Watts's chapter structure (through "The Birth and Death of Caesar's Republic" to "The Republic of Octavian") treats Caesar's dictatorship as the structural hinge between a century of escalating political violence, beginning with the Gracchi, and the autocracy that followed under Octavian/Augustus — though the Watts page notes this reading rests on the chapter titles and index rather than a directly sampled body-text treatment of Caesar's civil war. ^[ambiguous]
-- Van der Blom's closing argument — that a rewritten *Brutus* (Cicero's history of orators) would admit figures like Sulla, Catiline, and Clodius by shifting its criterion from oratorical skill to the ability to project a coherent public narrative — implicitly places Caesar among the politicians Cicero's own Cicero-centric framework could not ignore even on strict oratorical terms. ^[inferred]
+- Caesar actively sought speaking opportunities rather than treating speech only as an obligation of office. Oratory could serve as a career “springboard,” without implying a fixed hierarchy among the resources that Republican politicians used to gain power.
+- Apparently verbatim fragments of his speeches survive in Aulus Gellius’s *Attic Nights*, alongside material from Cato the Elder and Gaius Gracchus. Gellius’s linguistic interests preserved evidence beyond the usual political narratives.
+- One broad reconstruction places Caesar’s dictatorship between a century of escalating political violence, beginning with the Gracchi, and the one-man rule consolidated by Octavian/Augustus. The support available here for this particular narrative placement is limited to chapter organization, not a directly examined account of Caesar’s civil war. ^[ambiguous]
+- Caesar was already prominent within Cicero’s oratorical history. A broader criterion based on the projection of a coherent public narrative would enlarge the field to politicians such as Sulla, Catiline, and Clodius; it would not make Caesar’s own importance newly visible. ^[inferred]
 
 ## Open Questions
 
-- The Watts page's treatment of Caesar's actual civil war narrative was not directly sampled (reading focused on the preface and early chapters), so its specific claims about Caesar remain reliant on chapter titles rather than confirmed body text.
+The material summarized here does not supply a directly sampled account of Caesar’s civil war from the narrative history cited below. Its chapter titles cannot establish detailed claims about the war’s causes or course.
 
 ## Sources
 
-- [[references/vanderblom-oratory-political-career]]
-- [[references/watts-mortal-republic]]
+- [[references/vanderblom-oratory-political-career]]: Caesar case study; active pursuit of speaking occasions, oratory as a “springboard,” Gellius’s preservation of fragments, and the concluding comparison with Cicero’s *Brutus*.
+- [[references/watts-mortal-republic]]: the chapter sequence “The Birth and Death of Caesar’s Republic” to “The Republic of Octavian” supplies the structural placement discussed above. The original reading focused on the preface and early chapters; Caesar’s civil-war narrative was not directly sampled.

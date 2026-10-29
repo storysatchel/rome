@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Fabius–Marcellus Temple Dedication Dispute (208 BC)
@@ -29,7 +29,7 @@ In 208 BC, consul Marcus Claudius Marcellus was detained in [[entities/rome|Rome
 
 ## What Happened
 
-Marcellus, rather than building a new temple from scratch, wanted simply to take over the existing temple to Honos — the one Fabius himself had dedicated some twenty or more years earlier — and rededicate it jointly to both Honos and Virtus. The pontiffs, with Fabius among their number, ruled this impermissible: a single inner chamber (*cella*) of a temple could not be dedicated to two different gods under the correct forms of sacred law. ^[extracted] McCall treats the episode as a vivid illustration of how religious procedure and political rivalry intertwined in Republican Rome — the pontiffs were not simply rubber-stamping Fabius's personal grudge, since genuine ritual correctness was at stake, but the ruling also conveniently blocked a maneuver by Fabius's longstanding rival. ^[inferred]
+Marcellus, rather than building a new temple from scratch, wanted simply to take over the existing temple to Honos — the one Fabius himself had dedicated some twenty or more years earlier — and rededicate it jointly to both Honos and Virtus. The pontiffs, with Fabius among their number, ruled this impermissible: a single inner chamber (*cella*) of a temple could not be dedicated to two different gods under the correct forms of sacred law. ^[extracted] The episode may illustrate how religious procedure and political rivalry intertwined in Republican Rome: genuine ritual correctness was at stake, while the ruling also conveniently blocked a maneuver by Fabius's longstanding rival. It need not have been merely a rubber stamp for a personal grudge. ^[inferred]
 
 ## Outcome
 
@@ -37,8 +37,9 @@ Marcellus was forced to build an entirely separate [[entities/temple-of-virtus|t
 
 ## Open Questions
 
-- Whether the pontifical ruling was motivated primarily by genuine theological concerns about single-cella dedications or by Fabius's personal rivalry with Marcellus is explicitly left open by McCall as a false binary — both likely operated simultaneously. ^[ambiguous]
+- Genuine theological concerns about single-cella dedications and Fabius's personal rivalry with Marcellus need not have been mutually exclusive motives; both may have operated simultaneously, though their relative weight remains uncertain. ^[ambiguous]
 
 ## Sources
 
 - McCall, Jeremiah — Clan Fabius, Defenders of Rome
+- McCall interprets the episode as an intersection of religious procedure and political rivalry, rejecting a simple either/or choice between ritual correctness and personal motives.

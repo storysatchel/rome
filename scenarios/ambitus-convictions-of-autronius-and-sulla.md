@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29"
 ---
 
 # The 66 BC Ambitus Convictions That Unseated Two Consuls-Elect
 
-In 66 BC, both men elected consul for the following year — P. Autronius Paetus and P. Cornelius Sulla (nephew of the dictator) — were convicted of electoral bribery (*ambitus*) under the *lex Calpurnia* before they could even take office, and were replaced by the men their prosecutors represented (Alexander, cases #200–201).
+In 66 BC, both men elected consul for the following year — P. Autronius Paetus and P. Cornelius Sulla (nephew of the dictator) — were convicted of electoral bribery (*ambitus*) under the *lex Calpurnia* before they could even take office, and were replaced by the men their prosecutors represented.
 
 ## Parties & Stakes
 
@@ -38,8 +38,8 @@ Rome entered 65 BC with Cotta and Torquatus as consuls instead of Autronius and 
 
 ## Open Questions
 
-- The precise division of labor between the elder and younger Torquatus as prosecutor and subordinate prosecutor in Sulla's trial is disputed among ancient and modern sources Alexander cites, hinging on an ambiguous phrase in Cicero's *Pro Sulla*. ^[ambiguous]
+- The precise division of labor between the elder and younger Torquatus as prosecutor and subordinate prosecutor in Sulla's trial remains disputed, hinging on an ambiguous phrase in Cicero's *Pro Sulla*. ^[ambiguous]
 
 ## Sources
 
-- Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), cases #200–201
+- Alexander, Michael C. — Trials in the Late Roman Republic, 149 BC to 50 BC (Phoenix Supplementary Volumes 26), cases #200–201; includes the competing identifications of the elder and younger Torquatus’s prosecutorial roles.

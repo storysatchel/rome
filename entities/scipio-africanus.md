@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T21:20:00Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Publius Cornelius Scipio Africanus
@@ -19,12 +19,12 @@ Roman general who conquered Spain from Carthage as a young proconsul and, as con
 
 ## Appears In
 
-- [[scenarios/the-pleminius-affair-at-locri]] (via McCall)
-- [[scenarios/cato-scipio-quaestor-funds-dispute]] (via Pearson)
-- [[scenarios/scipio-africanus-self-exile-liternum]] (via Seneca)
+- [[scenarios/the-pleminius-affair-at-locri]]
+- [[scenarios/cato-scipio-quaestor-funds-dispute]]
+- [[scenarios/scipio-africanus-self-exile-liternum]]
 
 ## Sources
 
-- McCall, Jeremiah — Clan Fabius, Defenders of Rome
-- Pearson, Elizabeth H. — Exploring the Mid-Republican Origins of Roman Military Administration
-- Seneca — Stoic Philosophy of Seneca
+- McCall, Jeremiah — Clan Fabius, Defenders of Rome — [[scenarios/the-pleminius-affair-at-locri]].
+- Pearson, Elizabeth H. — Exploring the Mid-Republican Origins of Roman Military Administration — [[scenarios/cato-scipio-quaestor-funds-dispute]].
+- Seneca — Stoic Philosophy of Seneca — [[scenarios/scipio-africanus-self-exile-liternum]].

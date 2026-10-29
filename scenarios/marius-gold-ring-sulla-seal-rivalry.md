@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Marius's Gold Ring Scandal and Sulla's Seal-Ring Rebuttal
 
-After his triumph over Jugurtha, Gaius Marius committed two breaches of customary Roman etiquette that scandalized the Senate, in a display Golyzniak links to his escalating personal rivalry with Quintus Caecilius Metellus Numidicus and his former quaestor Sulla, who fought back using a different medium entirely: an engraved gem seal.
+After his triumph over Jugurtha, Gaius Marius committed two breaches of customary Roman etiquette that scandalized the Senate. The display can be read as part of his escalating personal rivalry with Quintus Caecilius Metellus Numidicus and his former quaestor Sulla, who fought back using a different medium entirely: an engraved gem seal.
 
 ## Parties & Stakes
 
@@ -30,17 +30,17 @@ After his triumph over Jugurtha, Gaius Marius committed two breaches of customar
 
 ## What Happened
 
-Breaking with the well-established custom that a triumphator wear an iron ring (as a show of modesty and *pietas*, matching the rings worn by slaves and soldiers), Marius instead wore a gold ring during his triumphal procession — an act "much criticised," per Golyzniak's sources. Even more outrageous, Marius then appeared at the first senatorial meeting of his consulship still dressed in his triumphal robes; the senators were so offended that Marius had to leave and change clothes before the meeting could resume. ^[extracted] Golyzniak reads these acts as deliberate, confident provocations by Marius amid his fierce rivalry with both Metellus Numidicus (whom he had displaced as commander) and Sulla (his former quaestor, who had actually received Jugurtha's personal surrender). ^[inferred] Sulla, for his part, answered this private rivalry not with another public breach of etiquette but through a different, quieter medium: he had a personal seal gem engraved showing himself as the victor receiving Jugurtha's surrender — keeping his counter-propaganda within the private sphere of personal seals rather than public ceremony, which Golyzniak notes meant Sulla avoided the public criticism Marius received. ^[inferred]
+Breaking with the well-established custom that a triumphator wear an iron ring (as a show of modesty and *pietas*, matching the rings worn by slaves and soldiers), Marius instead wore a gold ring during his triumphal procession — an act described as "much criticised." Even more outrageous, Marius then appeared at the first senatorial meeting of his consulship still dressed in his triumphal robes; the senators were so offended that Marius had to leave and change clothes before the meeting could resume. ^[extracted] These acts may have been deliberate, confident provocations by Marius amid his fierce rivalry with both Metellus Numidicus (whom he had displaced as commander) and Sulla (his former quaestor, who had actually received Jugurtha's personal surrender). ^[inferred] Sulla, for his part, answered this private rivalry not with another public breach of etiquette but through a different, quieter medium: he had a personal seal gem engraved showing himself as the victor receiving Jugurtha's surrender. Keeping his counter-propaganda within the private sphere of personal seals rather than public ceremony may explain why Sulla avoided the public criticism Marius received. ^[inferred]
 
 ## Outcome
 
-Public opinion ran against Marius for his breach of custom, while Sulla's gem-based rebuttal drew no recorded ancient criticism — because it operated in the private sphere of a personal signet rather than violating public ceremonial norms. The episode is cited by Golyzniak as an early instance of engraved gems functioning as a tool of personal political propaganda in the late Republic, feeding directly into the Marius–Sulla rivalry that would later erupt into civil war.
+Public opinion ran against Marius for his breach of custom, while Sulla's gem-based rebuttal drew no recorded ancient criticism — possibly because it operated in the private sphere of a personal signet rather than violating public ceremonial norms. The episode offers an early example of engraved gems functioning as a tool of personal political propaganda in the late Republic, feeding into the Marius–Sulla rivalry that would later erupt into civil war.
 
 ## Open Questions
 
-- Whether Marius had his own portrait or any specific scene engraved on his gold ring is not known; Golyzniak notes this is merely likely by analogy with Sulla's response. ^[ambiguous]
+- Whether Marius had his own portrait or any specific scene engraved on his gold ring is not known; such decoration is merely a likelihood inferred by analogy with Sulla's response. ^[ambiguous]
 - The exact date of Sulla's seal commission relative to Marius's triumph is not precisely fixed in the source material.
 
 ## Sources
 
-- Golyzniak, Pawel — Engraved Gems and Propaganda in the Roman Republic and under Augustus
+- Golyzniak, Pawel — Engraved Gems and Propaganda in the Roman Republic and under Augustus. Golyzniak links the displays to Marius's rivalry with Metellus and Sulla, interprets the etiquette breaches as deliberate provocations, and contrasts criticism of Marius with the private medium of Sulla's seal. The phrase "much criticised" derives from the sources cited there. Decoration on Marius's ring is conjectured by analogy, not attested.

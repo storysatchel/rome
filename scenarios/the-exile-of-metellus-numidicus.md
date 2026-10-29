@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Oath Refusal and Exile of Metellus Numidicus
@@ -38,8 +38,9 @@ Metellus went into exile in 100 BC. The political tide turned quickly against Sa
 
 ## Open Questions
 
-- Watts does not specify the formal charge brought against Metellus or the exact vote by which he was condemned.
+- The formal charge brought against Metellus and the exact vote by which he was condemned remain unspecified here.
 
 ## Sources
 
 - Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny
+- Source limitation: Watts does not specify the formal charge or exact condemnation vote.

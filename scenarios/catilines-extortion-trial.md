@@ -13,13 +13,13 @@ lifecycle_reason: "Duplicate of scenarios/catiline-praevaricatio-acquittal-65-bc
 superseded_by: "[[scenarios/catiline-praevaricatio-acquittal-65-bc]]"
 tier: peripheral
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-25T01:40:00Z"
+updated: "2026-10-29"
 ---
 
 # Catiline's Trial for Extortion in Africa — merged
 
-This page duplicated [[scenarios/catiline-praevaricatio-acquittal-65-bc]] (same 65 BC trial of Lucius Sergius Catilina for extortion as governor of Africa). Pennell's account — and its contradiction with Alexander's more specialized account over whether Cicero was the defense counsel — has been merged into the canonical page's Open Questions. This page is kept only so existing links resolve.
+This page duplicated [[scenarios/catiline-praevaricatio-acquittal-65-bc]] (same 65 BC trial of Lucius Sergius Catilina for extortion as governor of Africa). The competing accounts of Cicero’s participation in the defense are retained in the canonical page’s Open Questions and Sources. This page is kept only so existing links resolve.
 
 ## Sources
 
-- Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.
+- Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.; its account makes Cicero defense counsel, conflicting with Alexander’s reconstruction of a contemplated but not undertaken defense. The disagreement is documented on the canonical page.

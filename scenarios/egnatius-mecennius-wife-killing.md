@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Egnatius Mecennius Kills His Wife for Drinking Wine
 
-Valerius Maximus (VI.3.9) records that a Roman named Egnatius Mecennius killed his wife for the offense of drinking wine, and that the killing went unpunished. Marquardt cites the case as an example of the extent of a husband's domestic disciplinary authority over his wife in early Roman practice: although the right to kill an adulterous wife caught in the act belonged to any husband (not derived from formal *manus*, and requiring at minimum the convening of a family tribunal for lesser offenses), Mecennius's killing of his wife for the much lesser offense of wine-drinking nonetheless escaped legal consequence, reflecting an older stratum of Roman criminal law under which such domestic punishment fell outside ordinary judicial reach.
+Valerius Maximus (VI.3.9) records that a Roman named Egnatius Mecennius killed his wife for the offense of drinking wine, and that the killing went unpunished. The episode can be read as an example of the extent of a husband's domestic disciplinary authority over his wife in early Roman practice: although the right to kill an adulterous wife caught in the act belonged to any husband (not derived from formal *manus*, and requiring at minimum the convening of a family tribunal for lesser offenses), Mecennius's killing of his wife for the much lesser offense of wine-drinking nonetheless escaped legal consequence. On this interpretation, it reflects an older stratum of Roman criminal law under which such domestic punishment fell outside ordinary judicial reach.
 
 ## Parties & Stakes
 
@@ -28,7 +28,7 @@ Valerius Maximus (VI.3.9) records that a Roman named Egnatius Mecennius killed h
 
 ## What Happened
 
-Per Valerius Maximus's brief account (preserved alongside other exempla of severe early Roman domestic discipline), Mecennius beat or otherwise killed his wife specifically because she had drunk wine — an offense elsewhere in Roman moralizing tradition treated as scandalous for a matron but nowhere else recorded as a capital matter. Marquardt notes that this impunity fell under an older provision of Roman criminal law (per Dionysius of Halicarnassus II.25) rather than reflecting any formal right attached to *manus*-marriage specifically.
+Per Valerius Maximus's brief account (preserved alongside other exempla of severe early Roman domestic discipline), Mecennius beat or otherwise killed his wife specifically because she had drunk wine — an offense elsewhere in Roman moralizing tradition treated as scandalous for a matron but nowhere else recorded as a capital matter. His impunity may reflect an older provision of Roman criminal law (Dionysius of Halicarnassus II.25) rather than a formal right attached specifically to *manus*-marriage.
 
 ## Outcome
 
@@ -37,7 +37,7 @@ The killing went legally unpunished, cited by later Roman moralists and jurists 
 ## Open Questions
 
 - The date of the incident is not given in the source material consulted. ^[ambiguous]
-- Whether the episode is a genuine isolated historical case or a moralizing exemplum of uncertain veracity (in the manner typical of Valerius Maximus's collection) is not addressed in Marquardt's text.
+- Whether the episode is a genuine isolated historical case or a moralizing exemplum of uncertain veracity (in the manner typical of Valerius Maximus's collection) remains unresolved here.
 
 ## Sources
-- Marquardt, Joachim (transl. Victor Henry) — La Vie Privée des Romains (Manuel des Antiquités Romaines, vol. XIV), citing Valerius Maximus VI.3.9
+- Marquardt, Joachim (transl. Victor Henry) — La Vie Privée des Romains (Manuel des Antiquités Romaines, vol. XIV), citing Valerius Maximus VI.3.9. Marquardt supplies the interpretation of domestic disciplinary authority and, with reference to Dionysius of Halicarnassus II.25, distinguishes older criminal-law impunity from rights attached to *manus*. His discussion does not assess the episode's historicity.

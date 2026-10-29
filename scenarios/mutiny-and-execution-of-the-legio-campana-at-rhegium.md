@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[entities/tribunes-of-the-plebs]]"
     type: related_to
@@ -37,7 +37,7 @@ At the end of the Pyrrhic War, around 280 BC, Rome stationed a garrison at Rhegi
 
 A garrison, probably comprising Campanian troops, is attested at Rhegium at the end of the Pyrrhic War. Polybius insists the garrison's leader was a Campanian named Decius, though Valerius Maximus gives a contradictory account; neither source claims the entire garrison was Campanian. The garrison turned on the city it was meant to protect and seized control of it — a mutiny-into-usurpation parallel to the roughly contemporary Mamertine seizure of Messana in Sicily (itself carried out by another mercenary garrison of Campanian origin), though the sources treat the two episodes separately. ^[inferred]
 
-Rome eventually recaptured Rhegium, and the mutineers who survived were executed. In 270 BC — years after the initial seizure — a tribune of the plebs raised a formal complaint that the executions had been carried out "in violation of citizen rights," implying that at least some of the executed garrison troops held some form of Roman citizenship (a detail the source connects to the broader, contested question of whether Campanians generally held *civitas sine suffragio*, citizenship without the vote, by this period). ^[ambiguous]
+Rome eventually recaptured Rhegium, and the mutineers who survived were executed. In 270 BC — years after the initial seizure — a tribune of the plebs raised a formal complaint that the executions had been carried out "in violation of citizen rights," implying that at least some of the executed garrison troops held some form of Roman citizenship. This bears on the broader, contested question of whether Campanians generally held *civitas sine suffragio*, citizenship without the vote, by this period. ^[ambiguous]
 
 ## Outcome
 
@@ -46,8 +46,8 @@ Rhegium was restored to Roman control. The garrison that had seized it was destr
 ## Open Questions
 
 - The precise date of the initial mutiny/seizure (the source situates it only broadly "at the end of the Pyrrhic War") and the length of the garrison's independent control of the city are not given.
-- Whether the entire garrison was executed, or only ringleaders, is not specified; the source notes neither Polybius nor Valerius Maximus claims the whole garrison was Campanian, leaving the makeup and fate of non-Campanian garrison members unclear. ^[ambiguous]
+- Whether the entire garrison was executed, or only ringleaders, is not specified; neither Polybius nor Valerius Maximus claims the whole garrison was Campanian, leaving the makeup and fate of non-Campanian garrison members unclear. ^[ambiguous]
 
 ## Sources
 
-- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Dion. Hal. *Ant. Rom.* 20.4; Polyb. 1.7.6–11; Val. Max. 2.7.15)
+- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Dion. Hal. *Ant. Rom.* 20.4; Polyb. 1.7.6–11; Val. Max. 2.7.15). The discussion connects the citizen-rights complaint to the disputed status of Campanians as *cives sine suffragio* and notes that neither Polybius nor Valerius Maximus identifies the entire garrison as Campanian.

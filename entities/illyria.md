@@ -15,7 +15,7 @@ updated: "2026-10-25T00:30:00Z"
 
 # Illyria (Illyricum)
 
-Illyria (Illyricum) was the eastern Adriatic coastal region, roughly corresponding to the modern western Balkans, brought under Roman influence and eventually direct control through a series of Illyrian Wars starting in the 3rd century BC. Armstrong and Fronda's study of Roman military society locates at least one mutiny-and-trial episode in this region, and it later included [[entities/dyrrachium]] and the inland region of [[entities/histria]].
+Illyria (Illyricum) was the eastern Adriatic coastal region, roughly corresponding to the modern western Balkans, brought under Roman influence and eventually direct control through a series of Illyrian Wars starting in the 3rd century BC. Surviving military records preserve at least one mutiny-and-trial episode in this region during early overseas campaigning, and the province later included [[entities/dyrrachium]] and the inland region of [[entities/histria]].
 
 ## Sources
 

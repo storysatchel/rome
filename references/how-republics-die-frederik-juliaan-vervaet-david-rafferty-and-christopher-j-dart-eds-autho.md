@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:09Z"
 facets:
   domain: [political]
   type: [reference]
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - The collection studies mechanisms and interpretations of republican collapse, especially the Roman Republic. ^[ambiguous]
-- The collection studies mechanisms and interpretations of republican collapse, especially the Roman Republic.   - Contributors connect Roman political breakdown with modern comparative discussions of populism, Caesarism, and strongmen.   - Late Republican elites framed demagoguery/populism as a threat, with concepts later reapplied in modern political thought.   - The volume is interdisciplinary, combining ancient history, political theory, and modern historical comparison.   - Index evidence shows coverage of Roman offices, civil conflict, Actium, and named Republican actors. ^[ambiguous]
+- The collection studies mechanisms and interpretations of republican collapse, especially the Roman Republic.   - Roman political breakdown offers comparisons with modern discussions of populism, Caesarism, and strongmen.   - Late Republican elites framed demagoguery/populism as a threat, with concepts later reapplied in modern political thought.   - The volume is interdisciplinary, combining ancient history, political theory, and modern historical comparison.   - Index evidence shows coverage of Roman offices, civil conflict, Actium, and named Republican actors. ^[ambiguous]
 
 ## Evidence-linked relationships
 
@@ -44,3 +44,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Related live pages
 
 - [[entities/rome]], [[concepts/art-and-political-propaganda]]
+
+## Sources
+
+- Source note: *How Republics Die*, sampled chapter abstracts: the comparisons with populism, Caesarism, and strongmen are interpretive; contents and index evidence establishes scope only.

@@ -3,7 +3,7 @@ title: "Exposure, Mutilation, and Riot: Violence at the Scalae Gemoniae in Early
 category: references
 tags: ["type/reference", "period/principate", "domain/political", "place/rome", "subject/violence"]
 sources: ["B03:Barry-ExposureMutilationRiot-2008.pdf"]
-summary: William D. Barry studies executions, corpse exposure, and collective violence at Rome's Scalae Gemoniae during the early Principate.
+summary: Executions, corpse exposure, and collective violence made Rome's Scalae Gemoniae a contested political space during the early Principate.
 provenance:
   extracted: 0.85
   inferred: 0.10
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: [political]
   type: [reference]
@@ -30,18 +30,18 @@ relationships:
 
 # Exposure, Mutilation, and Riot
 
-> [!tldr] William D. Barry analyzes the Scalae Gemoniae as a Roman political space where executions, exposed corpses, crowd violence, and imperial authority intersected.
+> [!tldr] At the Scalae Gemoniae, executions, exposed corpses, crowd violence, and imperial authority intersected in a contested Roman political space.
 
 ## Scope
 
-Barry examines the Scalae Gemoniae in the Roman Forum and their use during the early Principate. The article identifies the stairs as a contested public setting where emperors, soldiers, and the plebs negotiated punishment, legitimacy, and political order.
+During the early Principate, the Scalae Gemoniae in the Roman Forum served as a contested public setting where emperors, soldiers, and the plebs negotiated punishment, legitimacy, and political order.
 
 ## Episodes and argument
 
 - Corpses of state-executed criminals were exposed at the stairs from the reigns of Augustus or Tiberius onward.
-- The article examines collective violence around Piso's trial in AD 20, Sejanus's fall in AD 31, and the civil violence of AD 69.
+- Collective violence surrounded Piso's trial in AD 20, Sejanus's fall in AD 31, and the civil conflict of AD 69.
 - The treatment of Sejanus, Flavius Sabinus, and Vitellius shows how corpse mutilation and public display could become political action rather than merely post-execution punishment.
-- Barry traces a progression from symbolic destruction of statues to corpse mutilation, riot, and the crowd's participation in an emperor's violent removal.
+- One interpretation traces a progression from symbolic destruction of statues to corpse mutilation, riot, and the crowd's participation in an emperor's violent removal.
 
 These episodes connect Roman urban geography to the political authority of [[entities/rome]] and the early imperial order associated with [[entities/augustus]].
 
@@ -57,4 +57,5 @@ The argument depends on literary accounts, including Tacitus, Suetonius, and Cas
 ## Sources
 
 - William D. Barry, “Exposure, Mutilation, and Riot: Violence at the ‘Scalae Gemoniae’ in Early Imperial Rome,” *Greece & Rome* 55.2 (2008), 222–246. DOI: 10.1017/S0017383508000545.
+- Interpretive source: Barry, pp. 222–246, for the proposed progression from attacks on images to corpse mutilation and imperial removal.
 - Source file: `B03:Barry-ExposureMutilationRiot-2008.pdf`

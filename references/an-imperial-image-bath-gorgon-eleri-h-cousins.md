@@ -3,7 +3,7 @@ title: "An Imperial Image: The Bath Gorgon in Context"
 category: references
 tags: ["type/reference", "period/principate", "place/bath", "place/roman-britain", "subject/propaganda"]
 sources: ["B03:COUSINS-ImperialImageBath-2016.pdf"]
-summary: Eleri H. Cousins interprets the Gorgon pediment at Roman Bath as local sacred imagery embedded in a wider imperial visual language.
+summary: The Gorgon pediment at Roman Bath can be read as local sacred imagery embedded in a wider imperial visual language.
 provenance:
   extracted: 0.85
   inferred: 0.10
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: []
   type: [reference]
@@ -30,13 +30,13 @@ relationships:
 
 # An Imperial Image: The Bath Gorgon in Context
 
-> [!tldr] Eleri H. Cousins places the Gorgon from the Temple of Sulis Minerva at Roman Bath within the imperial visual culture shared by Rome and the provinces.
+> [!tldr] The Gorgon from the Temple of Sulis Minerva at Roman Bath combines local sacred imagery with the imperial visual culture shared by Rome and the provinces.
 
 ## Scope and thesis
 
-Cousins studies the pediment from the Temple of Sulis Minerva at Bath, constructed in the late Neronian or early Flavian period. The Gorgon, winged Victories, oak wreaths, and star imagery combine a local spring sanctuary with motifs associated with Roman victory and imperial power.
+The pediment from the Temple of Sulis Minerva at Bath dates to the late Neronian or early Flavian period. The Gorgon, winged Victories, oak wreaths, and star imagery combine a local spring sanctuary with motifs associated with Roman victory and imperial power.
 
-The article compares the Bath pediment with first- and second-century adaptations of imagery associated with the Forum of Augustus in Gaul and Spain. It argues that provincial monuments participated in a visual language of empire while adapting that language to local contexts. ^[inferred]
+Comparisons with first- and second-century adaptations of Forum of Augustus imagery in Gaul and Spain suggest that provincial monuments participated in a visual language of empire while adapting it to local contexts. ^[inferred]
 
 ## Bath and the imperial network
 
@@ -54,4 +54,5 @@ This makes the article useful alongside [[entities/rome]] and the vault's work o
 ## Sources
 
 - Eleri H. Cousins, “An Imperial Image: The Bath Gorgon in Context,” *Britannia* 47 (2016), 99–118. DOI: 10.1017/S0068113X16000131; JSTOR stable 44336599.
+- Interpretive source: Cousins, pp. 99–118, for the reading of the pediment within a locally adapted imperial visual language.
 - Source file: `B03:COUSINS-ImperialImageBath-2016.pdf`

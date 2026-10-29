@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Sententia Minuciorum — Rome Arbitrates a Boundary Dispute Between Genua and the Langenses Viturii
@@ -37,9 +37,10 @@ The Langenses retained a defined core of fields; a buffer zone of public land se
 
 ## Open Questions
 
-- The exact family relationship (if any) between the two legates named Minucius is not established in the source. ^[ambiguous]
+- The exact family relationship (if any) between the two legates named Minucius remains unestablished here. ^[ambiguous]
 - Whether the dispute involved prior violence between the two communities, or was purely a civil petition, is not stated. ^[ambiguous]
 
 ## Sources
 
 - Gargola, Daniel J. — The Shape of the Roman Order: The Republic and Its Space
+- Source limitation: Gargola's account does not establish the exact family relationship between the two Minucii.

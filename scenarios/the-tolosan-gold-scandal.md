@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Tolosan Gold Scandal and the Prosecution of Caepio
@@ -38,9 +38,10 @@ Caepio, his co-commander Mallius Maximus, and numerous other prominent men were 
 
 ## Open Questions
 
-- Mommsen notes the embezzlement charge was "probably well-founded but not proved," leaving the precise facts of the theft uncertain even to ancient observers.
+- The embezzlement charge remains unproved; its plausibility does not establish the precise facts of the theft.
 - The identity of the tribune who saved Caepio's life "by the sacrifice of his own civil existence" is not given.
 
 ## Sources
 
 - Mommsen, Theodor — The History of Rome (Books 1-5)
+- Mommsen characterizes the embezzlement charge as "probably well-founded but not proved"; the distinction between suspicion and proof is retained.

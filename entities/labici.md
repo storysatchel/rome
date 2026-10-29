@@ -18,7 +18,7 @@ relationships:
 
 # Labici
 
-Labici was a small Latin town whose territory Rome annexed in 418 BC. Roselaar cites this acquisition, together with the taking of [[entities/bola]] in 415 BC, as one of the few additions to Roman public land in the period surrounding the [[scenarios/the-aricia-ardea-land-dispute|Aricia–Ardea arbitration]].
+Labici was a small Latin town whose territory Rome annexed in 418 BC. This acquisition, along with the capture of [[entities/bola]] in 415 BC, was one of the few recorded additions to Roman public land in the period surrounding the [[scenarios/the-aricia-ardea-land-dispute|Aricia–Ardea arbitration]].
 
 ## Appears In
 

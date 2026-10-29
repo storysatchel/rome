@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:49:21Z"
-updated: "2026-10-24T06:49:21Z"
+updated: "2026-10-29T22:41:11Z"
 relationships:
   - target: "[[concepts/roman-military-organization-republic]]"
     type: extends
@@ -33,9 +33,9 @@ The editors explicitly disclaim an overarching argument: "the volume does [not] 
 
 - Polybius is credited as the first (extant) historian to treat an army as a systemic, socio-political institution rather than a backdrop for individual heroism, "bookending" his military digression (Histories 6.19–42) with discussions of the Roman constitution — an approach the editors trace partly to lost Hellenistic antecedents (Hieronymus of Cardia) but credit Polybius with transplanting to a Roman context.
 - The editors survey the "imperialism debate" lineage in detail: Mommsen's "defensive imperialism" (following Livy) → W.V. Harris's *War and Imperialism in Republican Rome* (1979), arguing Rome was a uniquely war-built, profit-seeking aristocratic society → A.M. Eckstein's "IR Realist" rebuttal that all ancient states were equally bellicose in an anarchic interstate system, with Roman success explained by superior alliance-management rather than exceptional militarism.
-- Nathan Rosenstein's own scholarship is credited with demonstrating that plunder from most Roman wars did not cover their cost — warfare before 167 BC was financed chiefly by citizen *tributum*, with indemnities, not booty, the larger long-run revenue source. [[concepts/roman-provincial-administration]]
-- Fred Drogula's chapter (Ch. 2) argues that early Roman military command was not a singular regal prerogative transferred intact to the consulship in 509 BC; instead, individual *gentes* (clans) commanded private warbands and conducted independent raiding/defense throughout the regal period and early Republic, with the *imperium* concept only gradually crystallizing. Evidence includes the Fabii's private war against Veii, Attus Clausus's retinue of 5,000, and the *Lapis Satricanus* inscription recording a *sodales* war-band dedication to Mars.
-- James Tan's and Jeremy Armstrong's chapters (on the 4th-century *dilectus*-*tributum* system and "organized chaos" in the manipular army c. 300 BC, respectively) extend the volume's state-formation theme: military obligation and tribal/economic contribution systems are treated as mechanisms binding central Italian communities into the Roman state. ^[inferred]
+- In one fiscal reconstruction, plunder from most Roman wars did not cover their cost: warfare before 167 BC was financed chiefly by citizen *tributum*, with indemnities, not booty, the larger long-run revenue source. [[concepts/roman-provincial-administration]]
+- One reconstruction rejects the transfer of a singular regal military prerogative intact to the consulship in 509 BC: individual *gentes* (clans) may instead have commanded private warbands and conducted independent raiding/defense throughout the regal period and early Republic, with *imperium* only gradually crystallizing. Evidence includes the Fabii's private war against Veii, Attus Clausus's retinue of 5,000, and the *Lapis Satricanus* inscription recording a *sodales* war-band dedication to Mars.
+- Military obligation and tribal/economic contribution systems may have bound central Italian communities into the Roman state through the 4th-century *dilectus*-*tributum* system and the "organized chaos" of the manipular army c. 300 BC. ^[inferred]
 - The volume notes a live methodological debate (Gauthier vs. Cadiou) over whether the "Marian reforms" constituted genuine institutional change or merely ad hoc wartime measures, reflecting a broader recent trend of questioning inherited narratives (also applied to the supposed early Roman hoplite phalanx, per Rosenstein's own "Phalanges in Rome?").
 - The editors note the volume's self-acknowledged gap: minimal engagement with archaeological evidence (beyond scattered Spanish camp references) and no dedicated treatment of the Roman navy or the imperialism debate as a topic in its own right.
 - Lee Brice's chapter catalogues dozens of specific named mutinies and officer-killings across the Republic's final century, including [[scenarios/murder-of-valerius-flaccus-and-the-fimbrian-mutiny]], [[scenarios/mutiny-of-lucullus-legions-against-further-campaign]], and [[scenarios/illyrian-mutiny-trial-of-atilius-bulbus]] — concrete incidents behind the volume's abstract argument that military indiscipline predates and outlasts the civil wars (a related mutiny-murder, that of the former consul Postumius Albinus, is covered via a separate source at [[scenarios/the-murder-of-postumius-albinus]]).
@@ -57,3 +57,4 @@ The editors explicitly situate the book against a historiographical backdrop run
 ## Sources
 
 - Armstrong, Jeremy; Fronda, Michael P. (eds.) — Romans at War: Soldiers, Citizens, and Society in the Roman Republic
+- Interpretation note: the fiscal reconstruction derives from Nathan Rosenstein’s scholarship as discussed in the volume; the private-warband model is Fred Drogula’s chapter 2; the *dilectus*-*tributum* and manipular-army interpretations are James Tan’s and Jeremy Armstrong’s chapters, respectively. These are reconstructions within a collection that disclaims a unified thesis.

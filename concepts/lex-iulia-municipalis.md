@@ -25,7 +25,7 @@ updated: "2026-10-29T21:50:41Z"
 ---
 # Lex Iulia Municipalis
 
-The *Lex Iulia Municipalis*, also called the *Tabula Heracleensis* in the source, preserves famous provisions concerning traffic in Rome. Found near Heraclea in southern Italy in 1732, the text regulates wagon movement within Rome and its continuously inhabited surroundings. The source notes disagreement over the law’s date.
+The bronze *Tabula Heracleensis*, discussed under the title *Lex Iulia Municipalis*, preserves famous provisions concerning traffic in Rome. Found near Heraclea in southern Italy in 1732, the text regulates wagon movement within Rome and its continuously inhabited surroundings. The law’s date is disputed.
 
 ## Daytime restrictions and explicit exceptions
 
@@ -35,13 +35,13 @@ Wagons brought in at night could return empty or carry away refuse during the re
 
 ## Prioritizing public traffic
 
-*Traffic and Congestion in the Roman Empire* interprets the scheme as separating private passenger and goods transport from public traffic, rather than simply protecting pedestrians from every vehicle. It argues that government transport associated with military service or large animals for games would also have been exempt, but acknowledges that some such categories are not expressly named in the text.
+The scheme can be interpreted as separating private passenger and goods transport from public traffic, rather than simply protecting pedestrians from every vehicle. On this reconstruction, government transport associated with military service or large animals for games would also have been exempt, although some such categories are not expressly named in the text.
 
-That distinction between statutory wording and the author’s reconstruction matters. The broad claim that all government traffic was exempt should not be treated as a verbatim provision.
+That distinction between statutory wording and reconstruction matters. The broad claim that all government traffic was exempt should not be treated as a verbatim provision.
 
 ## Traffic that remained
 
-Smaller barrows and pack animals were not subject to these wagon restrictions. The author also notes that private carriage ownership was inconvenient in narrow streets with scarce parking, and that some traders may already have preferred night deliveries. The rules thus operated within an existing mixture of vehicles, pedestrians, animals, and public services.
+Smaller barrows and pack animals were not subject to these wagon restrictions. Private carriage ownership was also inconvenient in narrow streets with scarce parking, and some traders may already have preferred night deliveries. The rules thus operated within an existing mixture of vehicles, pedestrians, animals, and public services.
 
 ## Related Pages
 

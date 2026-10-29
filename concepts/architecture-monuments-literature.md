@@ -29,7 +29,7 @@ Roman political thought can be studied through buildings and images as well as l
 
 ## Architecture as political evidence
 
-*The Ruler’s House* brings literary and material evidence together to investigate one-man rule. Imperial images and architecture expressed ideas about the ruler’s position, while domestic buildings could make questions of privacy and power visible at a smaller scale. The book’s treatment of houses at Pompeii places these questions in a town that came under Roman rule in the early first century BCE and was buried by Vesuvius in 79 CE.
+Literary and material evidence offer complementary perspectives on one-man rule. Imperial images and architecture expressed ideas about the ruler’s position, while domestic buildings could make questions of privacy and power visible at a smaller scale. Houses at Pompeii provide evidence from a town that came under Roman rule in the early first century BCE and was buried by Vesuvius in 79 CE.
 
 ## Literary models of domestic space
 
@@ -39,10 +39,10 @@ Vitruvius distinguishes domestic spaces through access as well as activity. Bedr
 
 ## Visibility and dependence
 
-The house could establish hierarchy by displaying its owner, but display also made the owner vulnerable to the visitor’s judgement. The book reads Pompeian paintings as drawing attention to this reversal: subordinate observers can acquire knowledge of the person who controls the setting.
+The house could establish hierarchy by displaying its owner, but display also made the owner vulnerable to the visitor’s judgement. Pompeian paintings can be read as drawing attention to this reversal: subordinate observers can acquire knowledge of the person who controls the setting.
 
 At imperial scale, a similar tension complicates the ruler’s privacy. The emperor needed his subjects’ recognition, while the political significance of his safety and conduct made his supposedly private life a communal concern. Architecture and literature thus illuminate not only displays of dominance but the dependence of power on audiences.
 
 ## Sources
 
-- `_raw/The Ruler's Houseepub.decrypted.epub`, section.25–section.27 on the ruler’s visibility and public/private power; section.164–section.165 on domestic access and Vitruvius 6.5.1 (B08; original passage IDs: `raw-94bd60dbb0f1`, `raw-0d6b21d399e6`).
+- `_raw/The Ruler's Houseepub.decrypted.epub`, section.25–section.27 for the interpretation of the ruler’s visibility, public/private power, and Pompeian paintings; section.164–section.165 on domestic access and Vitruvius 6.5.1 (B08; original passage IDs: `raw-94bd60dbb0f1`, `raw-0d6b21d399e6`).

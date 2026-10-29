@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29"
 ---
 
 # The Divorce of Spurius Carvilius Ruga — Rome's First No-Fault Divorce
@@ -32,12 +32,12 @@ Because the wife had done nothing wrong, Roman custom (which allowed a husband t
 
 ## Outcome
 
-The case became the textbook example cited by Roman jurists (via Aulus Gellius, *Noctes Atticae* IV.3) of the first "blameless" divorce and the practical origin of dowry-restitution law, even though Marquardt notes ancient sources could not agree on its exact date (proposed years range from 234 to 227 BCE, with some authors incorrectly dating it even earlier).
+The case became the textbook example cited by Roman jurists (via Aulus Gellius, *Noctes Atticae* IV.3) of the first "blameless" divorce and the practical origin of dowry-restitution law, although its date remains uncertain: ancient accounts place it between 234 and 227 BCE, with additional, apparently erroneous earlier dates.
 
 ## Open Questions
 
-- The precise year of the divorce is inconsistently reported by the ancient sources Marquardt collates (Plutarch, Dionysius of Halicarnassus, Gellius, Valerius Maximus, Tertullian each differ). ^[ambiguous]
+- The precise year of the divorce is inconsistently reported by Plutarch, Dionysius of Halicarnassus, Gellius, Valerius Maximus, and Tertullian. ^[ambiguous]
 - Whether this was genuinely Rome's very first divorce, or merely the first to require a dowry-restitution procedure due to being fault-free, is left unresolved. ^[ambiguous]
 
 ## Sources
-- Marquardt, Joachim (transl. Victor Henry) — La Vie Privée des Romains (Manuel des Antiquités Romaines, vol. XIV), citing Aulus Gellius, *Noctes Atticae* IV.3
+- Marquardt, Joachim (transl. Victor Henry) — La Vie Privée des Romains (Manuel des Antiquités Romaines, vol. XIV), citing Aulus Gellius, *Noctes Atticae* IV.3; Marquardt collates the conflicting dates in Plutarch, Dionysius of Halicarnassus, Gellius, Valerius Maximus, and Tertullian

@@ -29,20 +29,20 @@ The spatial turn approaches Roman spaces as settings for human activity rather t
 
 ## Daily activity and administrative space
 
-Activity-space theory, associated with Hägerstrand’s “What About People in Regional Science?” (1970, with earlier work in Swedish), examines daily activities and the places in which they occur. Its emphasis on both time and location makes it useful for considering how a built environment develops around recurring human practices.
+Activity-space theory examines daily activities and the places in which they occur. Its emphasis on both time and location makes it useful for considering how a built environment develops around recurring human practices.
 
-*Running Rome and Its Empire* adopts an explicit focus on administrative spaces while combining topographical scholarship with spatial theory. The resulting approach asks not simply where administration was located, but how administrative activity related to the organization and use of space.
+An explicit focus on administrative spaces combines topographical scholarship with spatial theory. The resulting approach asks not simply where administration was located, but how administrative activity related to the organization and use of space.
 
 ## Constraints and interdependence
 
-Hägerstrand’s space-time path follows activities through constraints: bodily limits on movement, the need to be at a place at a particular time or for a given duration, and restrictions on access. Applied to administration, this makes it possible to investigate how functions and locations depended on one another rather than treating offices as isolated points.
+A space-time path follows activities through constraints: bodily limits on movement, the need to be at a place at a particular time or for a given duration, and restrictions on access. Applied to administration, this makes it possible to investigate how functions and locations depended on one another rather than treating offices as isolated points.
 
-The spatial turn associated with Henri Lefebvre adds a different emphasis. Space is not only the container of social action; it is produced through physical arrangements and social relations and can itself shape those relations. For Roman administration this encourages attention to the interaction of public, private, civic, and religious settings.
+A complementary approach treats space not only as the container of social action, but as produced through physical arrangements and social relations and capable of shaping those relations. For Roman administration this encourages attention to the interaction of public, private, civic, and religious settings.
 
 ## Bringing disciplines together
 
-The source identifies a historical separation between topographical archaeology, which located administrative remains, and legal history, which often concentrated on institutional rules without their physical requirements. Combining these approaches can connect what an institution was authorized to do with the places, movements, and access arrangements through which its work occurred.
+Topographical archaeology and legal history have often proceeded separately: the former located administrative remains, while the latter concentrated on institutional rules without their physical requirements. Combining these approaches can connect what an institution was authorized to do with the places, movements, and access arrangements through which its work occurred.
 
 ## Sources
 
-- `_raw/Antonio Lopez Garcia_2024_Running Rome and Its Empire.epub`, section.14–section.16 on administrative topography, space-time constraints, and Lefebvre’s spatial turn (B02; original passage ID: `raw-e085a49aa18f`).
+- Antonio Lopez Garcia, `_raw/Antonio Lopez Garcia_2024_Running Rome and Its Empire.epub`, section.14–section.16 on administrative topography, space-time constraints, and the spatial turn. The activity-space and space-time path framework derives from Torsten Hägerstrand, “What About People in Regional Science?” (1970, with earlier work in Swedish); the account of socially produced space derives from Henri Lefebvre (B02; original passage ID: `raw-e085a49aa18f`).

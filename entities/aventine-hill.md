@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-25"
 tier: supporting
 created: "2026-10-25T00:30:00Z"
-updated: "2026-10-25T00:30:00Z"
+updated: "2026-10-29T22:41:25Z"
 relationships:
   - target: "[[entities/rome]]"
     type: part_of
@@ -18,7 +18,7 @@ relationships:
 
 # Aventine Hill
 
-The Aventine was a Roman hill long associated with the plebeian cause, historically outside the city's sacred boundary (*pomerium*) and host to cults and traditions distinct from the patrician-dominated center. The Vestal Licinia's unauthorized dedication of a Bona Dea shrine there — later ruled invalid by the pontifical college — is tied by [[entities/vestal-virgins]]'s sourcing material to this association.
+The Aventine was a Roman hill long associated with the plebeian cause, historically outside the city's sacred boundary (*pomerium*) and host to cults and traditions distinct from the patrician-dominated center. The Vestal Licinia's unauthorized dedication of a Bona Dea shrine there — later ruled invalid by the pontifical college — belongs to this plebeian religious setting. See [[entities/vestal-virgins]].
 
 ## Sources
 

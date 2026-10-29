@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:10:25Z"
-updated: "2026-10-24T19:10:25Z"
+updated: "2026-10-29T22:41:12Z"
 ---
 
 # The Vaga Massacre and the Court-Martial of Turpilius
@@ -38,8 +38,9 @@ Turpilius was convicted, scourged, and beheaded — a sentence inflicted "with a
 
 ## Open Questions
 
-- Greenidge notes the ambiguity over whether Turpilius's escape was due to treachery, a personal favor from a Vagan host, or mere chance; the ancient sources themselves disagreed.
+- Whether Turpilius escaped through treachery, a personal favor from a Vagan host, or mere chance remains ambiguous; the ancient sources themselves disagreed.
 
 ## Sources
 
 - Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate
+- Greenidge notes the competing ancient explanations for Turpilius's escape: treachery, a Vagan host's personal favor, or chance.

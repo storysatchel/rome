@@ -25,7 +25,7 @@ updated: "2026-10-29T21:50:41Z"
 ---
 # conquest/retaliation
 
-Roman conquest could be presented as retaliation rather than as aggression for its own sake. Susan P. Mattern interprets this connection through a value system in which victory, honour, and security reinforced one another: a perceived injury demanded a forceful answer if Roman standing was to be maintained.
+Roman conquest could be presented as retaliation rather than as aggression for its own sake. One interpretation connects this justification with a value system in which victory, honour, and security reinforced one another: a perceived injury demanded a forceful answer if Roman standing was to be maintained.
 
 ## Honour and the response to injury
 
@@ -33,7 +33,7 @@ In this analysis, the defence of *decus* extended from interpersonal relations i
 
 ## From a raid to conquest
 
-Raids on Roman or allied territory were a recurring justification for war, and the Roman response could escalate to total conquest. A military defeat inflicted on Rome could similarly become a reason for renewed warfare; Mattern points to Crassus’ defeat as a striking late Republican example.
+Raids on Roman or allied territory were a recurring justification for war, and the Roman response could escalate to total conquest. A military defeat inflicted on Rome could similarly become a reason for renewed warfare; Crassus’ defeat provides a striking late Republican example.
 
 The emphasis is on the relationship between the stated injury and the scale of the response. A campaign justified as restoring honour or security did not necessarily aim only to reverse the original loss.
 
@@ -45,8 +45,8 @@ Crassus’ Parthian campaign illustrates the logic. Ancient writers could condem
 
 ## Limits on retaliation
 
-Mattern does not treat this ideology as removing practical constraints. Campaigns still risked revolt, invasion elsewhere, civil war, and crippling expense. Her argument is that the slower rate of conquest under the Principate need not mean that Romans had abandoned conquest as a value in favour of a purely defensive outlook.
+This ideology did not remove practical constraints. Campaigns still risked revolt, invasion elsewhere, civil war, and crippling expense. The slower rate of conquest under the Principate therefore need not mean that Romans had abandoned conquest as a value in favour of a purely defensive outlook.
 
 ## Sources
 
-- `_raw/Susan P. Mattern_1999_Rome and the Enemy.epub`, section.265–section.267 on *iniuria*, Crassus, recovered standards, and revenge; section.283–section.285 on military values, fiscal constraints, and conquest (B08; original passage IDs: `raw-a7b474572008`, `raw-517f5e3a527d`).
+- Susan P. Mattern, `_raw/Susan P. Mattern_1999_Rome and the Enemy.epub`, section.265–section.267 on *iniuria*, Crassus, recovered standards, and revenge; section.283–section.285 for the interpretation connecting military values, fiscal constraints, and continuing commitment to conquest (B08; original passage IDs: `raw-a7b474572008`, `raw-517f5e3a527d`).

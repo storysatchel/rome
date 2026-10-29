@@ -25,11 +25,11 @@ updated: "2026-10-29T21:58:04Z"
 ---
 # Anne Hrychuk Kontokosta
 
-Anne Hrychuk Kontokosta’s study of the Thermae Agrippae examines the development of Agrippa’s baths within Rome’s social and political landscape. Rather than treating baths solely as facilities for hygiene, it places them among the institutions through which Romans socialized and patrons gained public support.
+Anne Hrychuk Kontokosta is an architectural historian whose research examines the development of Agrippa’s baths within Rome’s social and political landscape. Rather than treating baths solely as facilities for hygiene, it places them among the institutions through which Romans socialized and patrons gained public support.
 
 ## Reconstructing Agrippa’s baths
 
-Kontokosta stresses the limits of the surviving evidence for the original complex. Although some scholars argue that later rebuilding preserved an Agrippan plan, the physical remains establish little beyond its location. The size and layout of the late first-century BCE baths remain speculative; a later marble plan cannot securely supply the dimensions of the original building.
+Surviving archaeological evidence for the original complex is limited: while later rebuilding has sometimes been assumed to preserve the Augustan layout, physical remains securely confirm little beyond location. The exact dimensions and plan of the late first-century BCE complex remain speculative, as later marble plans cannot verify Augustan boundaries.
 
 ## From elite gardens to public leisure
 
@@ -39,7 +39,7 @@ The study situates Agrippa’s project within the Republican tradition of elite 
 
 The article, published in the *American Journal of Archaeology* in 2019, is titled “Building the Thermae Agrippae: Private Life, Public Space, and the Politics of Bathing in Early Imperial Rome.” Its argument turns on Agrippa’s bequest: a formerly private complex became publicly accessible after his death, combining large pools, sculpture-filled gardens, and impressive buildings.
 
-Kontokosta also connects this transition with architectural vocabulary. Agrippa’s baths are the earliest called *thermae* by ancient sources, a term associated with large, luxurious establishments rather than modest *balnea*. The legacy was not straightforward copying. Nero’s later baths offered similar activities in a more integrated, axial, symmetrical plan, rather than reproducing Agrippa’s open landscape of grove, pool, and channel.
+Agrippa's baths are the earliest designated as *thermae* in ancient literature, distinguishing monumental, free, state-sponsored complexes from traditional small-scale *balnea*. The legacy was not straightforward copying. Nero’s later baths offered similar activities in a more integrated, axial, symmetrical plan, rather than reproducing Agrippa’s open landscape of grove, pool, and channel.
 
 ## Related Pages
 

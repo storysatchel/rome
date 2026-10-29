@@ -3,7 +3,7 @@ title: Roman Domestic Medical Practice in Central Italy: From the Middle Republi
 category: references
 tags: [medicine, household-economy, domestic-life, slavery, gender]
 sources: ["Draycott, Jane — Roman Domestic Medical Practice in Central Italy: From the Middle Republic to the Early Empire"]
-summary: Draycott (2019) reconstructs how Roman households — house, garden, free/freed/enslaved members — acquired and transmitted health knowledge, arguing domestic medicine has been scholarly neglected.
+summary: Roman households — house, garden, and free, freed, and enslaved members — acquired and transmitted health knowledge alongside professional and folk healing.
 provenance:
   extracted: 0.7
   inferred: 0.25
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T06:48:38Z"
-updated: "2026-10-24T06:48:38Z"
+updated: "2026-10-29T22:41:11Z"
 ---
 
 # Roman Domestic Medical Practice in Central Italy: From the Middle Republic to the Early Empire
@@ -22,15 +22,15 @@ Jane Draycott, Lord Kelvin Adam Smith Research Fellow in Ancient Science and Tec
 
 ## Core Argument / Thesis
 
-Draycott argues for a "medicine from below" approach (adapting Roy Porter's historiographical framework) to Roman central Italy (predominantly Rome, Ostia, Pompeii, and Herculaneum, focusing chronologically on roughly 100 BCE–100 CE). She contends that the [[concepts/roman-household]] — comprising the house, the garden, and its free, freed, and enslaved members — functioned as an active, under-recognized site within the Roman "medical marketplace," one which existed alongside, rather than subordinate to, the professional and folk healing sectors described by medical anthropologist Arthur Kleinman.
+A "medicine from below" approach shifts attention to households in Roman central Italy, predominantly Rome, Ostia, Pompeii, and Herculaneum, roughly 100 BCE–100 CE. In this reconstruction, the [[concepts/roman-household]] — house, garden, and free, freed, and enslaved members — functioned as an active site within a "medical marketplace," alongside rather than subordinate to professional and folk healing sectors.
 
 ## Key Claims and Evidence
 
 - Epigraphic evidence from elite *columbaria* shows large numbers of household staff with specialized healthcare roles: the *familia urbana* of Livia Drusilla (Julia Augusta) included fifteen individuals with healthcare-related epitaphs — eight *medici* (including a *supra medicos* "chief physician," a *medicus ocularis*, and a *medicus chirurgicus*), two *obstetrices* (midwives), two *ad valetudinarium* (infirmarians), one *unctrix* (anointer), and two *ad unguentum* (makers of oils/unguents/perfumes).
 - Comparable patterns appear in other elite households (Statilii, Volusii, Iunii families), suggesting that aristocratic households routinely maintained internal healthcare staff rather than relying solely on an external physician.
 - Cicero's correspondence documents repeated engagement of outside physicians (e.g. Alexio, Marcus Curius, Metrodorus) to treat himself and his slave Tiro, showing that even a prominent Roman without a dedicated household physician actively navigated the medical marketplace. ^[inferred: Draycott's broader claim that this reflects a norm rather than Cicero's idiosyncrasy]
-- The book disputes the assumption that household/internal healthcare practitioners were inferior in skill to external ones, citing evidence that owners lent or hired out their household physicians to friends and even the public (e.g., after the amphitheater collapse at Fidenae in 27 CE).
-- Draycott discusses the [[scenarios/331-bce-poisoning-affair]], a mass investigation in which a slave's testimony led to roughly 190 Roman matrons being found guilty of poisoning, as a case study in the structural ambiguity of the Latin term *venenum* (covering both "remedy" and "poison").
+- Household healthcare practitioners were not necessarily inferior in skill to external ones: owners lent or hired out their household physicians to friends and even the public (e.g., after the amphitheater collapse at Fidenae in 27 CE).
+- The reported [[scenarios/331-bce-poisoning-affair]], in which a slave’s testimony led to roughly 190 Roman matrons being found guilty of poisoning, illustrates the structural ambiguity of *venenum*, covering both "remedy" and "poison"; the allegation should not be equated with proof of a historical mass poisoning.
 - The book's four chapters progress from (1) concepts of health/well-being and regimen (diet, exercise, hygiene), through (2) the house and garden as medical spaces, (3) the household's human members ([[entities/pater-familias]], [[entities/mater-familias]], estate manager, housekeeper, slaves, freedpersons) and their healthcare roles, to (4) how medical knowledge was transmitted within and beyond the household (through literature, oral communication, and lived experience/socialization).
 
 ## Structure / Scope
@@ -43,8 +43,9 @@ Draycott positions the book explicitly against two prior critiques of the field:
 
 ## Open Questions
 
-- The degree to which conclusions drawn from well-preserved elite and middle-tier urban sites (Pompeii, Herculaneum) generalize to the empire-wide or rural population is flagged by Draycott herself as a limitation rather than fully resolved. ^[ambiguous]
+- The degree to which conclusions drawn from well-preserved elite and middle-tier urban sites (Pompeii, Herculaneum) generalize to the empire-wide or rural population remains a limitation rather than a resolved question. ^[ambiguous]
 - How far the "medical marketplace" model, borrowed from early modern historiography, risks anachronism when applied to Roman antiquity is acknowledged in the introduction but not conclusively settled.
 
 ## Sources
 - Draycott, Jane — Roman Domestic Medical Practice in Central Italy: From the Middle Republic to the Early Empire
+- Framework note: Draycott adapts Roy Porter’s "medicine from below" and Arthur Kleinman’s professional, folk, and popular healing sectors. The household-as-marketplace account and extrapolation beyond Cicero are interpretive reconstructions.

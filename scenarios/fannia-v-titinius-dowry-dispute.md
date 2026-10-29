@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: peripheral
 created: "2026-10-24T19:13:14Z"
-updated: "2026-10-24T19:13:14Z"
+updated: "2026-10-29T22:41:09Z"
 relationships:
   - target: "[[entities/marius]]"
     type: mentions
@@ -22,7 +22,7 @@ relationships:
 
 # Fannia v. Titinius: A Dowry Dispute Judged by Marius (100 BC)
 
-A civil suit from the small Latin town of [[entities/minturnae|Minturnae]], over the return of a dowry after divorce, survives only because the presiding juror was the future six-time consul [[entities/marius]] — and because his verdict became a byword for a judge publicly signaling that both parties to a divorce were somewhat at fault (Alexander, case #76).
+A civil suit from the small Latin town of [[entities/minturnae|Minturnae]], over the return of a dowry after divorce, survives only because the presiding juror was the future six-time consul [[entities/marius]] — and because his verdict became a byword for a judge publicly signaling that both parties to a divorce were somewhat at fault.
 
 ## Parties & Stakes
 

@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:55Z"
-updated: "2026-10-24T19:11:55Z"
+updated: "2026-10-29"
 relationships:
   - target: "[[concepts/roman-military-organization-republic]]"
     type: related_to
@@ -31,7 +31,7 @@ After Pyrrhus of Epirus returned to southern Italy following his Sicilian campai
 
 ## What Happened
 
-Pyrrhus's 280–279 BC victories at Heraclea and Ausculum, won by his professional Hellenistic army against Roman levies, had badly shaken Roman confidence — the senate reportedly even considered a peace treaty, averted only by the hardline stance of Appius Claudius Caecus. When Pyrrhus departed for Sicily and then returned to Italy, Roman "fighting spirit evidently collapsed." Consul M'. Curius Dentatus's attempt to hold the dilectus for 275 met open resistance: the first citizen called up for enrollment refused to respond. Curius declared the man's property forfeit as punishment. Rather than "toeing the line," the man tried to challenge this verdict — and Curius responded by selling him into slavery. The source flags this harsh reported action as possibly embellished in transmission, but treats the underlying reluctance to serve as real and widespread. ^[ambiguous]
+Pyrrhus's 280–279 BC victories at Heraclea and Ausculum, won by his professional Hellenistic army against Roman levies, had badly shaken Roman confidence — the senate reportedly even considered a peace treaty, averted only by the hardline stance of Appius Claudius Caecus. When Pyrrhus departed for Sicily and then returned to Italy, Roman "fighting spirit evidently collapsed." Consul M'. Curius Dentatus's attempt to hold the dilectus for 275 met open resistance: the first citizen called up for enrollment refused to respond. Curius declared the man's property forfeit as punishment. Rather than "toeing the line," the man tried to challenge this verdict — and Curius responded by selling him into slavery. The harsh reported action may have been embellished in transmission; widespread reluctance to serve remains a plausible reconstruction of the recruitment crisis. ^[ambiguous]
 
 The broader recruitment crisis was severe enough that, for the first time, the state armed the *capite censi* — propertyless citizens normally excluded from legionary service — presumably because too few *assidui* (property-owning citizens liable for the regular levy) were presenting themselves. Curius's own political capital, built on his earlier victories and his practice of distributing conquered land to his soldiers, is credited with ultimately overcoming the recruitment crisis.
 
@@ -46,4 +46,4 @@ The specific draft-dodger lost his property and his freedom — an exemplary, de
 
 ## Sources
 
-- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Val. Max. 6.3.3–4; Livy, *Per.* 14; Gell. *NA* 16.4.5)
+- Jeremy Armstrong, Michael P. Fronda — Romans at War: Soldiers, Citizens, and Society in the Roman Republic (citing Val. Max. 6.3.3–4; Livy, *Per.* 14; Gell. *NA* 16.4.5); the modern discussion treats reluctance to serve as widespread while allowing that the reported punishment may be embellished. The reconstruction of the recruitment crisis above follows that distinction.

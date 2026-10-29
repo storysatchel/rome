@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:13:46Z"
-updated: "2026-10-24T19:13:46Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Colossus of Memnon Snubs Hadrian but Speaks for Sabina
@@ -29,7 +29,7 @@ The "[[entities/colossus-of-memnon|Colossus of Memnon]]," a pair of massive seat
 
 ## What Happened
 
-By Hadrian's reign the Colossus of Memnon had already drawn visitors for over a century, including several governors of Egypt and army officers, who left inscriptions (some in careful verse, in the style of Homer) commemorating having "heard Memnon" at dawn. During Hadrian's state visit in AD 130, his wife Sabina left an inscription stating she heard Memnon speak twice in the first hour after sunrise — an auspicious, successful result. Hadrian himself left no such inscription recording a successful hearing; the accompanying poetess Julia Balbilla's verses are read by Casson as implying, diplomatically, that the statue failed to sound for the emperor on this occasion. Hadrian's reign nonetheless marked the high point of visits to the site — multiple governors, district officials, and self-styled poets left inscriptions during his time in Egypt — and after his visit, imperial visits and the graffiti tradition tailed off, with the last dated inscription around AD 205, shortly before Septimius Severus had the statue restored (after which it reportedly stopped "speaking" altogether).
+By Hadrian's reign the Colossus of Memnon had already drawn visitors for over a century, including several governors of Egypt and army officers, who left inscriptions (some in careful verse, in the style of Homer) commemorating having "heard Memnon" at dawn. During Hadrian's state visit in AD 130, his wife Sabina left an inscription stating she heard Memnon speak twice in the first hour after sunrise — an auspicious, successful result. Hadrian himself left no such inscription recording a successful hearing; the accompanying poetess Julia Balbilla's verses can be read as diplomatically implying that the statue failed to sound for the emperor on this occasion. Hadrian's reign nonetheless marked the high point of visits to the site — multiple governors, district officials, and self-styled poets left inscriptions during his time in Egypt — and after his visit, imperial visits and the graffiti tradition tailed off, with the last dated inscription around AD 205, shortly before Septimius Severus had the statue restored (after which it reportedly stopped "speaking" altogether).
 
 ## Outcome
 
@@ -42,4 +42,4 @@ Whatever the religious or psychological significance read into the incident by c
 
 ## Sources
 
-- Casson, Lionel — Travel in the Ancient World (chapter "Sightseeing," discussing the Memnon graffiti corpus and Sabina's and Julia Balbilla's AD 130 inscriptions)
+- Casson, Lionel — Travel in the Ancient World (chapter "Sightseeing," discussing the Memnon graffiti corpus and Sabina's and Julia Balbilla's AD 130 inscriptions). The reading of Balbilla's allusive verses as implying Hadrian's unsuccessful hearing follows Casson.

@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-29"
 tier: supporting
 created: "2026-10-29T00:00:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-29T22:41:11Z"
 facets:
   domain: [legal]
   type: [reference]
@@ -32,7 +32,7 @@ This staged reference consolidates title-page, contents, introduction, and repre
 ## Sampled claims
 
 - Roman childhood and kinship were shaped not only by biological descent but also by fictive/legal kinship. ^[ambiguous]
-- Roman childhood and kinship were shaped not only by biological descent but also by fictive/legal kinship.   - The study treats childhood as a social and legal category within Roman society.   - Fictive kinship connects household practices with wider legal, political, and cultural relationships.   - The book belongs to the Law and Society in the Ancient World series, signaling interdisciplinary legal/social analysis. ^[ambiguous]
+- Roman childhood and kinship were shaped not only by biological descent but also by fictive/legal kinship.   - Childhood was a social and legal category within Roman society.   - Fictive kinship connects household practices with wider legal, political, and cultural relationships.   - The book belongs to the Law and Society in the Ancient World series, signaling interdisciplinary legal/social analysis. ^[ambiguous]
 
 ## Evidence-linked relationships
 

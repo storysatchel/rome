@@ -3,7 +3,7 @@ title: "The Roman City and its Periphery: From Rome to Gaul"
 category: references
 tags: [urbanism, periurban, roman-gaul, roman-city, archaeology]
 sources: ["Goodman, Penelope J. — The Roman City and its Periphery: From Rome to Gaul"]
-summary: Goodman argues periurban development — the zone just outside a city's formal boundary — was a widespread, functional part of Roman urbanism empire-wide, not a marginal medieval-style slum.
+summary: Periurban development — the zone just outside a city's formal boundary — may have been a widespread, functional part of Roman urbanism across the empire, not a marginal medieval-style slum.
 provenance:
   extracted: 0.75
   inferred: 0.2
@@ -13,7 +13,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T20:05:00Z"
-updated: "2026-10-24T20:05:00Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Roman City and its Periphery
@@ -22,16 +22,16 @@ Penelope J. Goodman (2007, Routledge), a Leeds lecturer specializing in Roman ur
 
 ## Core Argument / Thesis
 
-Goodman argues that developing a distinct, functioning urban periphery was a widespread and characteristic feature of Roman cities everywhere — "a far cry from the low-grade artisanal suburbs of the medieval and early modern world." The periphery was not a marginal afterthought but actively resolved a structural tension in [[concepts/roman-urban-geography|Roman urbanism]]: elite cities needed sharply bounded, prestige-marked centers for display, but that same boundary-drawing created inflexible space constraints that squeezed out ordinary economic activity (retail, storage, artisan production) by driving up central land prices. ^[extracted]
+Developing a distinct, functioning urban periphery may have been a widespread and characteristic feature of Roman cities everywhere — "a far cry from the low-grade artisanal suburbs of the medieval and early modern world." The periphery was not a marginal afterthought but actively resolved a structural tension in [[concepts/roman-urban-geography|Roman urbanism]]: elite cities needed sharply bounded, prestige-marked centers for display, but that same boundary-drawing created inflexible space constraints that squeezed out ordinary economic activity (retail, storage, artisan production) by driving up central land prices. ^[extracted]
 
 ## Key Claims and Evidence
 
 - **The periphery as safety valve:** by letting commerce, industry, and large private housing locate just outside the formal urban boundary (while still being recognized as "part of" the city), Roman urbanism let the elite, display-oriented city and the socio-economic city occupy the same space without constraining each other. Potters at Sens could sell within the city and the surrounding territory without paying central land premiums; wealthy villa owners (Saint-Romain-en-Gal, Trinquetaille, Lyon) could build larger houses than central plots allowed. ^[extracted]
 - **Amphitheatres and circuses were often deliberately periurban** — placed to be maximally visible to visitors approaching the city, using the periphery itself as a display setting rather than treating it as a lesser space. ^[extracted]
-- **Resolves a scholarly debate** between those who see the Roman city as primarily a political/administrative "artificial" elite creation (Liebeschuetz: cities existed "above all [as] a means to living a particular kind of good life") and those who see it as a "genuine" economic entity growing out of agricultural surplus (Hopkins). Goodman's periphery evidence suggests both functions coexisted spatially rather than competing — directly paralleling the primitivist/modernist divide over the ancient economy that [[references/bang-roman-bazaar|Bang's Roman Bazaar]] addresses for trade specifically. ^[inferred]
+- **Resolves a scholarly debate** between those who see the Roman city as primarily a political/administrative "artificial" elite creation (Liebeschuetz: cities existed "above all [as] a means to living a particular kind of good life") and those who see it as a "genuine" economic entity growing out of agricultural surplus (Hopkins). The periurban evidence suggests both functions coexisted spatially rather than competing — directly paralleling the primitivist/modernist divide over the ancient economy that [[references/bang-roman-bazaar|Bang's Roman Bazaar]] addresses for trade specifically. ^[inferred]
 - **Gaul as the deep case study:** more than half the administrative cities of high-empire Gaul show archaeological evidence of periurban occupation despite an imperfect record; similar patterns held at "secondary agglomerations" (smaller towns), though with different spatial organization than major administrative centers. ^[extracted]
 - **Continuity into late antiquity:** even as cities adopted more defensive, less permeable boundaries in late antiquity, the centre-periphery divide and periurban land-use patterns persisted — churches took over many of the social/religious functions earlier held by periurban public buildings, but this is read as continuity of function, not (per Février's older claim) a late-antique innovation giving the periphery a wholly new role. ^[extracted]
-- **Cross-provincial generalization:** comparison with Esmonde Cleary's survey of Roman Britain (50 of 60 towns studied show positive evidence of extra-mural development) supports Goodman's claim that the Gallic pattern reflects an empire-wide Roman urban model, not a regional quirk. ^[extracted]
+- **Cross-provincial generalization:** comparison with Esmonde Cleary's survey of Roman Britain (50 of 60 towns studied show positive evidence of extra-mural development) supports the interpretation that the Gallic pattern reflects an empire-wide Roman urban model, not a regional quirk. ^[extracted]
 
 ## Structure / Scope
 
@@ -48,3 +48,5 @@ Directly complements [[concepts/provinces-of-the-roman-empire]] (adds a provinci
 ## Sources
 
 - Goodman, Penelope J. — The Roman City and its Periphery: From Rome to Gaul
+
+- Source note: Goodman, Introduction, Chapter 7, and sampled portions of the Gaul case studies, supplies the functional-periphery interpretation and quoted contrast with medieval suburbs. Empire-wide generalization is an inference from Gaul and comparanda, including Esmonde Cleary’s Britain survey, rather than comprehensive site coverage.

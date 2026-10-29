@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:14:07Z"
-updated: "2026-10-24T19:14:07Z"
+updated: "2026-10-29"
 ---
 
 # Cato v. Lucius Furius: The Illegal Water Diversion Case
@@ -36,9 +36,9 @@ Furius's diverted water supply was shut off and he was fined, per the fragments 
 
 ## Open Questions
 
-- Furius's precise identity is unresolved; some scholars tentatively link him to L. Furius Purpurio (cos. 196), but Astin cautions against over-hasty identification. ^[ambiguous]
+- Furius’s precise identity is unresolved. Identification with L. Furius Purpurio (cos. 196) is possible but unproven. ^[ambiguous]
 - The exact size of the fine and the location of the land are not recorded in the surviving fragments.
 
 ## Sources
 
-- Astin, A.E. — Cato the Censor
+- Astin, A.E. — Cato the Censor; discusses the tentative identification with L. Furius Purpurio and cautions against treating it as established.

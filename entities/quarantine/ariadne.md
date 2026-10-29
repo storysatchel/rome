@@ -31,11 +31,11 @@ Ariadne was a late antique empress whose role in the accession of Anastasios exe
 
 The panels show a Christian empress in insignia associated with imperial power: a jeweled diadem, a cloak fastened over the right shoulder, and a globe surmounted by a cross. The Florence figure holds a sceptre; the Vienna figure has a canopied throne. Pearls, necklaces, and elaborate garments create a deliberately authoritative image rather than the restrained appearance characteristic of earlier portraits such as Livia’s.
 
-Angelova reports that structural, compositional, and stylistic arguments generally connect the panels with an imperial consulship at Constantinople in the late fifth or early sixth century. The dating and purpose are scholarly deductions, not inscriptions specifying the commission.
+Structural, compositional, and stylistic arguments connect the panels with an imperial consulship at Constantinople in the late fifth or early sixth century. The dating and purpose are scholarly deductions, not inscriptions specifying the commission.
 
 ## Shared sovereignty and Christian victory
 
-Angelova interprets this iconography as evidence of the empress’s partnership in the *imperium*. Ariadne’s involvement in Anastasios’s accession belongs among the historical cases supporting a role beyond dynastic childbearing.
+This iconography reflects the empress’s partnership in the *imperium*. Ariadne’s involvement in Anastasios’s accession belongs among the historical cases supporting a role beyond dynastic childbearing.
 
 She proposes that each surviving empress panel belonged to a separate five-part diptych paired with an emperor leaf. On that reconstruction, the complete objects expressed joint rule grounded in Christian victory. Their proposed original form remains a reconstruction; their surviving imagery supplies the firmer evidence for how female authority could be pictured.
 
@@ -45,6 +45,8 @@ She proposes that each surviving empress panel belonged to a separate five-part 
 - [[concepts/roman-law-and-trials]]
 
 ## Sources
+
+- Diliana Angelova, *Ivories of Ariadne*: stylistic analysis, diptych reconstruction, and imperial iconography.
 
 - _raw/Angelova-IvoriesAriadneIdeas-2004.pdf — p.11.1
 - _raw/Angelova-IvoriesAriadneIdeas-2004.pdf — p.1.1–p.2.1; p.10.1: identity, museum panels, dating, insignia, and succession; p.11.1: paired-diptych reconstruction.

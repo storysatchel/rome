@@ -29,13 +29,13 @@ The Aqua Virgo was an aqueduct completed by Agrippa in 19 BCE to supply the Camp
 
 ## Water for Agrippa’s baths
 
-Kontokosta suggests that planning for the aqueduct took account of the large quantities of water needed by the bath complex’s new water features. Its supply in turn helped make those features possible.
+Planning for the aqueduct coordinated with the large quantities of water required by the bath complex's new water features. Its supply in turn helped make those features possible.
 
 Most scholars support a reconstruction in which the Stagnum Agrippae received water directly from the Aqua Virgo and discharged into the Euripus. On that interpretation, the pool contained clean water suitable for swimming. The hydraulic connection is a scholarly reconstruction, not an uncontested fact established by the allocation figure alone.
 
 ## Completion and the expansion of bathing
 
-Agrippa completed the aqueduct in 19 BCE. Its route is known from extensive remains; Frontinus describes its above-ground arches extending from the eastern slopes of the Pincian Hill to a point beyond the front of the Saepta in the Campus Martius. Kontokosta connects the reliable clean-water supply with the enlargement of Agrippa’s existing sweat bath into a complex with cold, warm, and hot bathing facilities.
+Agrippa completed the aqueduct in 19 BCE. Its route is known from extensive remains; Frontinus describes its above-ground arches extending from the eastern slopes of the Pincian Hill to a point beyond the front of the Saepta in the Campus Martius. A reliable clean-water supply enabled the expansion of Agrippa's existing sweat bath into a monumental complex featuring cold, warm, and hot bathing facilities.
 
 Frontinus’s combination of a large capacity and relatively few distribution tanks suggests large deliveries to a limited number of sites. The addition of the Euripus and the Stagnum Agrippae in the same year fits that pattern. The relationship between aqueduct and recreational building was therefore one of capacity and distribution as well as proximity.
 

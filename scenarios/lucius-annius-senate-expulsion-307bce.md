@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:09:16Z"
-updated: "2026-10-24T19:09:16Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # The Expulsion of L. Annius from the Senate for an Improper Divorce (307 BCE)
 
-In 307 BCE (447 AUC), the Roman censors expelled the senator L. Annius from the [[entities/curia-hostilia|Senate]] specifically because he had repudiated his wife *nullo amicorum consilio adhibito* — "without calling in any council of friends" — a procedural norm that, while not formally codified in law, was evidently expected practice for a man of senatorial rank contemplating divorce. Marquardt cites the episode (via Valerius Maximus) as evidence that Roman divorces, even at this relatively early date and even though not requiring a specific fault-based grounds, were customarily expected to be witnessed or counseled by a circle of family friends (*amici*) acting in a quasi-judicial advisory capacity.
+In 307 BCE (447 AUC), the Roman censors expelled the senator L. Annius from the [[entities/curia-hostilia|Senate]] specifically because he had repudiated his wife *nullo amicorum consilio adhibito* — "without calling in any council of friends" — a procedural norm that, while not formally codified in law, was evidently expected practice for a man of senatorial rank contemplating divorce. The episode, preserved by Valerius Maximus, suggests that Roman divorces, even at this relatively early date and even though not requiring specific fault-based grounds, were customarily expected to be witnessed or counseled by a circle of family friends (*amici*) acting in a quasi-judicial advisory capacity.
 
 ## Parties & Stakes
 
@@ -40,4 +40,4 @@ Annius lost his senatorial status. The case became a cited exemplum (via Valeriu
 - The full text of the censorial justification beyond the "no council of friends" detail is not preserved in the source material consulted.
 
 ## Sources
-- Marquardt, Joachim (transl. Victor Henry) — La Vie Privée des Romains (Manuel des Antiquités Romaines, vol. XIV), citing Valerius Maximus
+- Marquardt, Joachim (transl. Victor Henry) — La Vie Privée des Romains (Manuel des Antiquités Romaines, vol. XIV), citing Valerius Maximus. Marquardt uses Annius's expulsion as evidence for customary consultation with *amici* in divorce even where fault-based grounds were unnecessary.

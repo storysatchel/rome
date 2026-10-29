@@ -21,7 +21,7 @@ summary: "Cicero left Rome in March 58 BC to avoid the danger of prosecution. Hi
 tags: ["domain/legal", "domain/political", "period/late-republic", "period/republic", "type/scenario"]
 tier: "supporting"
 title: "Cicero's Voluntary Exile"
-updated: "2026-10-29T21:53:47Z"
+updated: "2026-10-29"
 ---
 # Cicero's Voluntary Exile
 
@@ -29,7 +29,7 @@ In March 58 BC, Cicero left Rome and went into exile rather than face the possib
 
 ## Departure instead of punishment
 
-Elite Romans could remain to face trial and possible punishment or leave Roman territory. In the source’s account, exile was not itself a formal statutory penalty, even though it became the practical outcome of most capital convictions. The custom of allowing voluntary *exilium* helps explain why relatively few executions of Roman citizens are recorded during the Republic.
+Elite Romans could remain to face trial and possible punishment or leave Roman territory. On this legal reconstruction, exile was not itself a formal statutory penalty, even though it became the practical outcome of most capital convictions. The custom of allowing voluntary *exilium* helps explain why relatively few executions of Roman citizens are recorded during the Republic.
 
 ## Life away from Rome
 
@@ -43,7 +43,7 @@ Cicero followed advice to leave, although the sources differ over whether he had
 
 ## Making absence compulsory
 
-After Cicero left, Clodius proposed a separate interdiction carrying confiscation of his property and a prohibition on discussing his restoration. An amendment barred him from coming within four hundred miles of Rome; the measure became law in early April. The source finds no formal accusation or appointed day for Cicero to answer a charge under the earlier law. Voluntary flight and the subsequent legal prevention of return were therefore distinct steps.
+After Cicero left, Clodius proposed a separate interdiction carrying confiscation of his property and a prohibition on discussing his restoration. An amendment barred him from coming within four hundred miles of Rome; the measure became law in early April. No formal accusation or appointed day for Cicero to answer a charge under the earlier law is attested in this reconstruction. Voluntary flight and the subsequent legal prevention of return were therefore distinct steps.
 
 Cicero’s Palatine house was looted and burned, and Clodius used the confiscated site for an extension of the Portico of Catulus and a shrine to Libertas. Consecration sought to make those changes difficult to reverse. Exile thus brought the destruction and symbolic appropriation of his domestic position as well as removal from political life.
 
@@ -54,4 +54,5 @@ Cicero’s Palatine house was looted and burned, and Clodius used the confiscate
 ## Sources
 
 - `_raw/A History of Exile in the Roman Republicpdf.pdf` — p.50.1; p.51.1; p.122.1; p.123.1; p.124.1; p.125.1; earlier contextual locators retained: p.13.1; p.17.1 (terminology).
+- Reconstruction note: *A History of Exile in the Roman Republic*, p.50.1–p.51.1, distinguishes voluntary departure from statutory punishment; p.122.1–p.125.1 reconstructs Cicero’s departure and later interdiction, finding no formal accusation or appointed trial day under the earlier law. The argument from missing procedural evidence is not proof that every detail is recoverable.
 - Original citation ID: `^13d47cc2647cb780`.

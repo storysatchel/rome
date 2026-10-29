@@ -14,12 +14,12 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:30Z"
-updated: "2026-10-24T19:11:30Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Metellus's Triumph with 120 Captive Elephants
 
-This is a historical-anecdotal episode from Seneca's *On the Shortness of Life* (ch. 13), mentioned not to celebrate the event but as Seneca's prime example of trivial antiquarian learning — information he considers useless compared to philosophy.
+Metellus reportedly paraded 120 captive elephants in his triumph over Carthaginian forces defeated in Sicily. Seneca's *On the Shortness of Life* (ch. 13) preserves the spectacle not to celebrate it but as an example of trivial antiquarian learning — information he considers useless compared to philosophy.
 
 ## Parties & Stakes
 
@@ -41,4 +41,4 @@ The triumph itself is reported as an undisputed, unmatched Roman spectacle — t
 
 ## Sources
 
-- Seneca — Stoic Philosophy of Seneca
+- Seneca — Stoic Philosophy of Seneca, *On the Shortness of Life*, ch. 13, quoting an unnamed antiquarian writer.

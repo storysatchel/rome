@@ -10,7 +10,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-25"
 tier: peripheral
 created: "2026-10-25T00:00:00Z"
-updated: "2026-10-25T00:00:00Z"
+updated: "2026-10-29T22:41:25Z"
 relationships:
   - target: "[[entities/latium]]"
     type: part_of
@@ -18,7 +18,7 @@ relationships:
 
 # Bola
 
-Bola was a small Latin town whose territory Rome annexed in 415 BC. Roselaar cites this acquisition, together with the earlier taking of [[entities/labici]] in 418 BC, as one of the few additions to Roman public land in the period surrounding the [[scenarios/the-aricia-ardea-land-dispute|Aricia–Ardea arbitration]].
+Bola was a small Latin town whose territory Rome annexed in 415 BC. This acquisition, together with the earlier taking of [[entities/labici]] in 418 BC, was one of the few recorded additions to Roman public land in the period surrounding the [[scenarios/the-aricia-ardea-land-dispute|Aricia–Ardea arbitration]].
 
 ## Appears In
 

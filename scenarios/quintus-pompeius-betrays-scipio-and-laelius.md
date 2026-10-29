@@ -14,7 +14,7 @@ lifecycle: draft
 lifecycle_changed: "2026-10-24"
 tier: supporting
 created: "2026-10-24T19:11:16Z"
-updated: "2026-10-24T19:11:16Z"
+updated: "2026-10-29T22:41:09Z"
 ---
 
 # Quintus Pompeius's Betrayal of Scipio and Laelius
@@ -37,8 +37,8 @@ Scipio was outraged at the deception and permanently withdrew his friendship fro
 
 ## Open Questions
 
-- The exact year and office context (whether this was the consulship of 141 BC specifically) rests on a later commentator's footnote rather than Cicero's own text, which only alludes to the episode in passing.
+- The exact year and office context (whether this was the consulship of 141 BC specifically) are not established by Cicero's passing allusion alone.
 
 ## Sources
 
-- Cicero — De Amicitia, Scipio's Dream
+- Cicero — De Amicitia, Scipio's Dream. The specific dating and office identification derive from a later commentator's footnote rather than Cicero's own passing allusion.

@@ -185,13 +185,34 @@ def main() -> int:
     query.add_argument("query")
     query.add_argument("--db", default="_staging/_work/raw-search.sqlite3")
     query.add_argument("--limit", type=int, default=10)
+    query.add_argument("--backend", choices=("sqlite", "antfly"), default="sqlite",
+                       help="sqlite: lexical FTS5 index; antfly: hybrid semantic+keyword over the Antfly corpus")
+    query.add_argument("--work", action="append", default=[], help="antfly only: restrict to this work_id (repeatable)")
+    query.add_argument("--exclude-work", action="append", default=[], help="antfly only: drop this work_id (repeatable)")
+    query.add_argument("--exact", action="store_true", help="antfly only: keyword match only, no semantic half (names, exact terms)")
+    lookup = sub.add_parser("lookup", help="antfly: a chunk by id plus its neighbours in reading order")
+    lookup.add_argument("chunk_id")
+    lookup.add_argument("--before", type=int, default=1)
+    lookup.add_argument("--after", type=int, default=1)
     args = parser.parse_args()
+    try:
+        from antfly_search import lookup_chunks, search_antfly
+    except ImportError:
+        from .antfly_search import lookup_chunks, search_antfly
+    if args.command == "lookup":
+        print(json.dumps(lookup_chunks(args.chunk_id, args.before, args.after), ensure_ascii=False, indent=2))
+        return 0
     vault = Path(args.vault).resolve()
     db = vault / args.db
     if args.command == "index":
         print(json.dumps(build_index(vault, db, args.inventory), sort_keys=True))
     else:
-        print(json.dumps(search(db, args.query, args.limit), ensure_ascii=False, indent=2))
+        if args.backend == "antfly":
+            results = search_antfly(args.query, args.limit, works=args.work or None,
+                                    exclude_works=args.exclude_work or None, keyword_only=args.exact)
+        else:
+            results = search(db, args.query, args.limit)
+        print(json.dumps(results, ensure_ascii=False, indent=2))
     return 0
 
 

@@ -47,7 +47,7 @@ An episode involving the conspiracy of Cornelius Cinna illustrates the distance 
 
 ## Related Pages
 
-- [[entities/quarantine/tiberius]]
+- [[entities/tiberius]]
 
 ## Sources
 

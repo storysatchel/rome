@@ -23,7 +23,7 @@ The consul Ti. Sempronius Gracchus — father of the future tribunes — volunta
 
 ## Parties & Stakes
 
-- **Ti. Sempronius Gracchus** ([[entities/quarantine/tiberius-sempronius-gracchus-cos-177-163]]), cos. 163 and an augur — presided over the disputed election, initially resisted the haruspices' adverse ruling, then voluntarily reported his own error a year later.
+- **Ti. Sempronius Gracchus** ([[entities/tiberius-sempronius-gracchus-cos-177-163]]), cos. 163 and an augur — presided over the disputed election, initially resisted the haruspices' adverse ruling, then voluntarily reported his own error a year later.
 - **P. Cornelius Scipio Nasica Corculum** ([[entities/publius-cornelius-scipio-nasica-corculum]]) and **C. Marcius Figulus** ([[entities/gaius-marcius-figulus]]), cos. 162 — elected under the flawed auspices; forced to abdicate once the error was confirmed.
 - The College of Haruspices — initially consulted after an *in-religionem* incident during the election, and ruled Gracchus "not a lawful presiding officer" (*non iustus rogator*).
 - The Senate and the College of Augurs — ultimately accepted Gracchus's self-report and ordered the new consuls to step down.

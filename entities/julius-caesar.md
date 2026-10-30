@@ -27,6 +27,13 @@ Caesar built political prominence partly through oratory, alongside ancestry, we
 - One broad reconstruction places Caesar’s dictatorship between a century of escalating political violence, beginning with the Gracchi, and the one-man rule consolidated by Octavian/Augustus. The support available here for this particular narrative placement is limited to chapter organization, not a directly examined account of Caesar’s civil war. ^[ambiguous]
 - Caesar was already prominent within Cicero’s oratorical history. A broader criterion based on the projection of a coherent public narrative would enlarge the field to politicians such as Sulla, Catiline, and Clodius; it would not make Caesar’s own importance newly visible. ^[inferred]
 
+## Public architecture and clemency
+
+- In the 40s BCE Caesar relocated the Rostra to the Forum’s western end, creating a conspicuous speaker’s platform approached by six travertine steps and faced with coloured stone.
+- He ordered statues of Sulla and Pompey restored on the new platform. The gesture contrasted with Sulla’s display of opponents’ heads and made Caesar’s power to grant symbolic clemency visible.
+- Dio reports that Caesar was praised for the restoration while allowing Antony the associated glory and inscription; the architectural interpretation treats this apparent generosity as a demonstration of supremacy.
+- His wider plans included theatres and public collections of Greek and Latin books, with Varro assigned to acquire and classify them; the planned libraries should not be confused with a completed institution.
+
 ## Open Questions
 
 The material summarized here does not supply a directly sampled account of Caesar’s civil war from the narrative history cited below. Its chapter titles cannot establish detailed claims about the war’s causes or course.

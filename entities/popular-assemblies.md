@@ -47,10 +47,10 @@ In the second century BCE, procedures increasingly became subjects of legislatio
 
 ## Related Pages
 
-- [[entities/quarantine/fergus-millar]]
+- [[concepts/popular-assemblies-rome]]
+- [[concepts/contio]]
 - [[concepts/fall-of-the-roman-republic]]
 - [[concepts/roman-law-and-trials]]
-
 ## Sources
 
 - `_raw/Reconstructing the Roman Republicepub.pdf`, p.35.1–p.37.1 — voting units, agenda control, electoral proclamation, secret ballots, and campaign legislation; interpretation of legislative regulation as a response to pressure on customary rules.

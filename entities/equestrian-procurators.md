@@ -41,9 +41,10 @@ De Blois places these careers within a larger question: why original juristic sc
 
 ## Related Pages
 
+- [[entities/praefectus-vehiculorum]]
+- [[entities/cursus-publicus]]
 - [[concepts/fall-of-the-roman-republic]]
 - [[concepts/roman-law-and-trials]]
-
 ## Sources
 
 - _raw/9789004401617-13528.pdf — p.149.1

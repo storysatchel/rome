@@ -51,7 +51,7 @@ The accounts extend the conflict beyond Livia’s death: Tiberius is said to hav
 
 ## Related Pages
 
-- [[entities/quarantine/livia]]
+- [[entities/livia]]
 
 ## Sources
 

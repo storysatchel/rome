@@ -3,5 +3,6 @@
   "showFrontmatter": false,
   "defaultViewMode": "preview",
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden"
 }

@@ -48,7 +48,8 @@ Traffic conditions emerged from both infrastructure and the volume and mixture o
 ## Related Pages
 
 - [[concepts/lex-iulia-municipalis]]
-
+- [[entities/cursus-publicus]]
+- [[concepts/mansio-and-mutatio]]
 ## Sources
 
 - `_raw/Traffic and Congestion in the Roman Empireepub.pdf`, p.80.1–p.83.1, “Conclusion of chapter 1,” on network expansion, the estimate of roughly 100,000 kilometres of paved highways, road engineering, maintenance, and urban capacity (B09; original passage ID: `raw-d9299b66cda6`). The parallel edition `_raw/Traffic and Congestion in the Roman Empireepub.decrypted.epub` remains in frontmatter; page locators here refer to the PDF.

@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-29T23:09:56Z"
+updated: "2026-10-29T23:30:00Z"
 ---
 
 # Hot Cache
@@ -9,9 +9,9 @@ updated: "2026-10-29T23:09:56Z"
 
 ## Recent Activity
 
+- [2026-10-29T23:45:00Z] Reclassified former quarantine entities: promoted 37 historical Roman entities, merged Caesar into entities/julius-caesar, deleted 11 modern scholar pages, updated links and manifest/index metadata, and removed the quarantine directory.
 - [2026-10-29T23:09:56Z] Completed vault-wide attribution refactor across all articles: modern scholarly narration ("X argues", "according to Y") was converted to direct subject-focused exposition, contested historical interpretations were preserved with precise uncertainty, and specific scholarly attributions and locators were consolidated into `## Sources` notes.
 - [2026-10-29T22:01:41Z] Re-researched 87 entity, concept, and scenario articles against underlying source sections, expanding their substance and replacing extraction lists with cohesive prose and compact source notes. Direct writes are enabled; Git is the review and rollback boundary.
-- [2026-10-29T20:16:20Z] Committed 91 new focused entity, concept, and scenario articles plus 13 live-page patches. Eighty duplicate staged reference files matched existing live pages byte-for-byte and were cleared; no category page or patch remained staged. Internal `_meta/` and `_work/` control artifacts remain for audit provenance.
 
 ## Active Threads
 

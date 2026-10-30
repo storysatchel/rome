@@ -43,15 +43,14 @@ Roman mobility depended on physical infrastructure — roads, sea routes, sailin
 
 - The available evidence here is selective: sea travel, inns, the mail system, and vehicle types beyond the *lectica* require fuller treatment.
 - How the cost asymmetry between sea and land transport shaped actual vehicle use on particular journeys remains unresolved. Connecting the economic evidence with literary vehicle imagery is a synthesis rather than a demonstrated causal relationship. ^[inferred]
+## Related Pages
 
-- infrastructure, road capacity, military bases, and movement are source-scoped; no empire-wide transport claim inferred. ^[ambiguous]
-- Relationship evidence: `uses`, `implements`, `related_to` as bounded and evidenced ^[ambiguous]
-- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
-
-- infrastructure, road capacity, military bases, and movement are source-scoped; no empire-wide transport claim inferred. ^[ambiguous]
-- Relationship evidence: `uses`, `implements`, `related_to` as bounded and evidenced ^[ambiguous]
-- Coverage remains sampled/source-scoped; no full-book or empire-wide claim is added. ^[ambiguous]
-
+- [[entities/cursus-publicus]]
+- [[concepts/mansio-and-mutatio]]
+- [[concepts/angaria-and-transport-requisition]]
+- [[concepts/diploma-and-evectio]]
+- [[entities/praefectus-vehiculorum]]
+- [[concepts/roman-road-system]]
 ## Sources
 
 - [[references/hudson-rhetoric-roman-transportation]]: Introduction and *lectica* material for literary vehicle symbolism and the Gaius Gracchus anecdote transmitted by Aulus Gellius.

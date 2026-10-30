@@ -6,8 +6,8 @@
       "modified_at": "2026-10-29T05:52:11Z",
       "pages_created": [
         "concepts/codex-theodosianus-9-7-3.md",
-        "entities/quarantine/elagabalus-heliogabalus.md",
-        "entities/quarantine/nero.md",
+        "entities/elagabalus-heliogabalus.md",
+        "entities/nero.md",
         "references/nubit-amicus-same-sex-weddings-in-imperial-rome-gergo-gellerfi.md"
       ],
       "pages_updated": [
@@ -120,7 +120,6 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:46Z",
       "pages_created": [
-        "entities/quarantine/achim-lichtenberger.md",
         "references/severus-pius-augustus-studien-zur-sakralen-reprasentation-und-rezeption-der-herrschaft-des.md"
       ],
       "pages_updated": [],
@@ -133,7 +132,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:54Z",
       "pages_created": [
-        "entities/quarantine/ammianus-marcellinus.md",
+        "entities/ammianus-marcellinus.md",
         "references/frontiers-in-the-roman-world-edited-by-olivier-hekster-and-ted-kaizer.md"
       ],
       "pages_updated": [],
@@ -171,8 +170,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:23:33Z",
       "pages_created": [
-        "entities/quarantine/danielle-slootjes-michael-peachin.md",
-        "entities/quarantine/diocletians-palace-at-split.md",
+        "entities/diocletians-palace-at-split.md",
         "references/rome-and-the-worlds-beyond-its-frontiers-edited-by-danielle-slootjes-and-michael-peachin.md"
       ],
       "pages_updated": [],
@@ -225,7 +223,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:38Z",
       "pages_created": [
-        "entities/quarantine/equestrian-procurators.md",
+        "entities/equestrian-procurators.md",
         "references/administration-prosopography-and-appointment-policies-in-the-roman-empire-edited-by-lukas.md"
       ],
       "pages_updated": [],
@@ -238,11 +236,15 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:25:34Z",
       "pages_created": [
-        "entities/quarantine/cities.md",
-        "references/the-transformation-of-economic-life-under-the-roman-empire-edited-by-lukas-de-blois-and-jo.md"
+        "entities/cities.md",
+        "references/the-transformation-of-economic-life-under-the-roman-empire-edited-by-lukas-de-blois-and-jo.md",
+        "concepts/angaria-and-transport-requisition.md",
+        "concepts/mansio-and-mutatio.md",
+        "entities/praefectus-vehiculorum.md"
       ],
       "pages_updated": [
-        "concepts/roman-economy-and-trade.md"
+        "concepts/roman-economy-and-trade.md",
+        "entities/cursus-publicus.md"
       ],
       "project": null,
       "size_bytes": 29782191,
@@ -254,7 +256,7 @@
       "modified_at": "2026-10-29T05:25:29Z",
       "pages_created": [
         "concepts/auctoritas.md",
-        "entities/quarantine/imperial-cult.md",
+        "entities/imperial-cult.md",
         "references/the-representation-and-perception-of-roman-imperial-power-edited-by-lukas-de-blois-paul-er.md"
       ],
       "pages_updated": [
@@ -270,8 +272,8 @@
       "modified_at": "2026-10-29T05:25:13Z",
       "pages_created": [
         "concepts/civic-life.md",
-        "entities/quarantine/cities-municipia.md",
-        "entities/quarantine/councils-decurions.md",
+        "entities/cities-municipia.md",
+        "entities/councils-decurions.md",
         "references/roman-rule-and-civic-life-local-and-regional-perspectives-edited-by-l-de-ligt-e-a-hemelrij.md"
       ],
       "pages_updated": [],
@@ -299,7 +301,7 @@
       "modified_at": "2026-10-29T05:21:39Z",
       "pages_created": [
         "concepts/contracts-obligations.md",
-        "entities/quarantine/justinian.md",
+        "entities/justinian.md",
         "references/law-and-economic-performance-in-the-roman-world-edited-within-impact-of-empire-series-oliv.md"
       ],
       "pages_updated": [],
@@ -312,10 +314,9 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:29:27Z",
       "pages_created": [
-        "entities/quarantine/city-councils.md",
-        "entities/quarantine/coloni.md",
-        "entities/quarantine/decurions.md",
-        "entities/quarantine/dennis-p-kehoe.md",
+        "entities/city-councils.md",
+        "entities/coloni.md",
+        "entities/decurions.md",
         "references/private-property-rights-and-public-claims-on-land-in-the-roman-empire-dennis-p-kehoe.md"
       ],
       "pages_updated": [],
@@ -329,7 +330,7 @@
       "modified_at": "2026-10-29T05:20:46Z",
       "pages_created": [
         "concepts/augury-divine-legitimation.md",
-        "entities/quarantine/justinian.md",
+        "entities/justinian.md",
         "references/tradition-and-power-in-the-roman-empire-edited-by-olivier-hekster-impact-of-empire-series.md"
       ],
       "pages_updated": [],
@@ -355,8 +356,8 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:24:13Z",
       "pages_created": [
-        "entities/quarantine/elagabal.md",
-        "entities/quarantine/imperial-cult.md",
+        "entities/elagabal.md",
+        "entities/imperial-cult.md",
         "references/ritual-dynamics-and-religious-change-in-the-roman-empire-impact-of-empire-workshop-8-heide.md"
       ],
       "pages_updated": [],
@@ -434,7 +435,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:03Z",
       "pages_created": [
-        "entities/quarantine/aurelianic-wall.md",
+        "entities/aurelianic-wall.md",
         "references/ancient-rome-archaeology-eternal-city.md"
       ],
       "pages_updated": [],
@@ -464,10 +465,10 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:09:24Z",
       "pages_created": [
-        "entities/quarantine/ariadne.md",
-        "entities/quarantine/augusta-imperium.md",
-        "entities/quarantine/fausta-flaccilla.md",
-        "entities/quarantine/livia.md",
+        "entities/ariadne.md",
+        "entities/augusta-imperium.md",
+        "entities/fausta-flaccilla.md",
+        "entities/livia.md",
         "references/the-ivories-of-ariadne-and-ideas-about-female-imperial-authority-in-rome-and-early-byzanti.md"
       ],
       "pages_updated": [
@@ -495,7 +496,7 @@
       "modified_at": "2026-10-29T06:04:22Z",
       "pages_created": [
         "concepts/activity-space-spatial-turn.md",
-        "entities/quarantine/civic-archives.md",
+        "entities/civic-archives.md",
         "references/running-rome-and-its-empire.md"
       ],
       "pages_updated": [],
@@ -508,7 +509,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:00Z",
       "pages_created": [
-        "entities/quarantine/caesar.md",
+        "entities/julius-caesar.md",
         "references/architecture-and-politics-in-republican-rome-penelope-j-e-davies-cambridge-up-2017.md"
       ],
       "pages_updated": [
@@ -554,7 +555,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:52Z",
       "pages_created": [
-        "entities/quarantine/fasti-capitolini.md",
+        "entities/fasti-capitolini.md",
         "references/augustus-destruction-of-history.md"
       ],
       "pages_updated": [],
@@ -678,7 +679,7 @@
       "modified_at": "2026-10-29T05:17:08Z",
       "pages_created": [
         "concepts/divine-sanction.md",
-        "entities/quarantine/emperor-imperial-government.md",
+        "entities/emperor-imperial-government.md",
         "references/imperial-ideology-and-provincial-loyalty-in-the-roman-empire-clifford-ando-2000.md"
       ],
       "pages_updated": [],
@@ -785,8 +786,8 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:32Z",
       "pages_created": [
-        "entities/quarantine/agrippina-the-elder.md",
-        "entities/quarantine/livia.md",
+        "entities/agrippina-the-elder.md",
+        "entities/livia.md",
         "references/domina.md"
       ],
       "pages_updated": [],
@@ -799,8 +800,8 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:50Z",
       "pages_created": [
-        "entities/quarantine/agrippina-the-elder.md",
-        "entities/quarantine/livia.md",
+        "entities/agrippina-the-elder.md",
+        "entities/livia.md",
         "references/domina.md"
       ],
       "pages_updated": [
@@ -1035,7 +1036,7 @@
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
         "concepts/damnatio-memoriae.md",
-        "entities/quarantine/domitian.md",
+        "entities/domitian.md",
         "references/god-on-earth-emperor-domitian-the-re-invention-of-rome-at-the-end-of-the-1st-century-ad-ed.md"
       ],
       "pages_updated": [],
@@ -1095,12 +1096,12 @@
       "size_bytes": 3047394,
       "source_type": "document"
     },
-    "/home/user/Documents/rome/_raw/Isabel K. K\u00f6ster_2026_Stealing From the Gods.epub": {
+    "/home/user/Documents/rome/_raw/Isabel K. Köster_2026_Stealing From the Gods.epub": {
       "content_hash": "sha256:7c61ae6815852ac4a5ae60499bf260f231315f00cee985f065e1613acc95c820",
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:07:52Z",
       "pages_created": [
-        "entities/quarantine/c-verres.md",
+        "entities/c-verres.md",
         "references/stealing-from-the-gods-temple-robbery-in-the-roman-imagination-isabel-k-koster-university.md"
       ],
       "pages_updated": [],
@@ -1225,7 +1226,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:06:35Z",
       "pages_created": [
-        "entities/quarantine/batavians.md",
+        "entities/batavians.md",
         "references/provincial-soldiers-and-imperial-instability-in-the-histories-of-tacitus-jonathan-master-u.md"
       ],
       "pages_updated": [],
@@ -1297,8 +1298,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:58:56Z",
       "pages_created": [
-        "entities/quarantine/anne-hrychuk-kontokosta.md",
-        "entities/quarantine/aqua-virgo.md",
+        "entities/aqua-virgo.md",
         "references/building-the-thermae-agrippae-private-life-public-space-and-the-politics-of-bathing-in-ear.md"
       ],
       "pages_updated": [],
@@ -1315,7 +1315,7 @@
         "entities/gaius-marcius-figulus.md",
         "entities/marcus-calpurnius-bibulus.md",
         "entities/publius-cornelius-scipio-nasica-corculum.md",
-        "entities/quarantine/tiberius-sempronius-gracchus-cos-177-163.md",
+        "entities/tiberius-sempronius-gracchus-cos-177-163.md",
         "scenarios/gracchus-auspicial-flaw-162-bc.md",
         "scenarios/marcellus-abdication-215-bc.md",
         "scenarios/the-bibulus-affair-59-bc.md"
@@ -1330,8 +1330,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:54Z",
       "pages_created": [
-        "entities/quarantine/anthony-a-barrett.md",
-        "entities/quarantine/tiberius.md",
+        "entities/tiberius.md",
         "references/livia-first-lady-of-imperial-rome.md"
       ],
       "pages_updated": [],
@@ -1344,8 +1343,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:25Z",
       "pages_created": [
-        "entities/quarantine/anthony-a-barrett.md",
-        "entities/quarantine/tiberius.md",
+        "entities/tiberius.md",
         "references/livia-first-lady-of-imperial-rome.md"
       ],
       "pages_updated": [],
@@ -1370,7 +1368,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:17Z",
       "pages_created": [
-        "entities/quarantine/nero.md",
+        "entities/nero.md",
         "references/flavian-responses-to-neros-rome-edited-by-mark-heerink-and-esther-meijer-routledge-aup-202.md"
       ],
       "pages_updated": [
@@ -1691,10 +1689,10 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:52Z",
       "pages_created": [
-        "entities/quarantine/castra-praetoria.md",
-        "entities/quarantine/constantine-i.md",
-        "entities/quarantine/praetorian-guard.md",
-        "entities/quarantine/tiberius.md",
+        "entities/castra-praetoria.md",
+        "entities/constantine-i.md",
+        "entities/praetorian-guard.md",
+        "entities/tiberius.md",
         "references/praetorian.md",
         "scenarios/praetorian-guard-auction-of-empire-193-ad.md"
       ],
@@ -1708,9 +1706,9 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:16Z",
       "pages_created": [
-        "entities/quarantine/castra-praetoria.md",
-        "entities/quarantine/constantine-i.md",
-        "entities/quarantine/praetorian-guard.md",
+        "entities/castra-praetoria.md",
+        "entities/constantine-i.md",
+        "entities/praetorian-guard.md",
         "references/praetorian.md"
       ],
       "pages_updated": [],
@@ -1723,8 +1721,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:03Z",
       "pages_created": [
-        "entities/quarantine/fergus-millar.md",
-        "entities/quarantine/popular-assemblies.md",
+        "entities/popular-assemblies.md",
         "references/reconstructing-the-roman-republic.md"
       ],
       "pages_updated": [],
@@ -1737,7 +1734,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:22Z",
       "pages_created": [
-        "entities/quarantine/popular-assemblies.md",
+        "entities/popular-assemblies.md",
         "references/reconstructing-the-roman-republic.md"
       ],
       "pages_updated": [],
@@ -1750,7 +1747,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:18:51Z",
       "pages_created": [
-        "entities/quarantine/christian-clergy-bishops.md",
+        "entities/christian-clergy-bishops.md",
         "references/beyond-priesthood-richard-l-gordon-georgia-petridou-jorg-rupke-eds-walter-de-gruyter-2017.md"
       ],
       "pages_updated": [],
@@ -1769,7 +1766,7 @@
         "entities/titus-labienus.md",
         "scenarios/false-marius-impostor-and-caesars-altar.md",
         "scenarios/trial-of-rabirius-for-saturninus-killing.md",
-        "entities/quarantine/caesars-cremation-site.md",
+        "entities/caesars-cremation-site.md",
         "entities/capitoline-hill.md",
         "entities/forum-romanum.md",
         "entities/janiculum-hill.md",
@@ -1786,7 +1783,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:02Z",
       "pages_created": [
-        "entities/quarantine/agrippa-map-porticus-vipsania.md",
+        "entities/agrippa-map-porticus-vipsania.md",
         "references/roman-geographies-of-the-nile-from-the-late-republic-to-the-early-empire-andy-merrills-cam.md",
         "scenarios/agrippas-roman-geography-program.md"
       ],
@@ -1814,7 +1811,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:52Z",
       "pages_created": [
-        "entities/quarantine/praetorian-guard.md",
+        "entities/praetorian-guard.md",
         "references/romes-enemies-within.md",
         "scenarios/caesars-assassination-conspiracy.md"
       ],
@@ -1828,8 +1825,8 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:05:09Z",
       "pages_created": [
-        "entities/quarantine/curia-theatre-of-pompey.md",
-        "entities/quarantine/praetorian-guard.md",
+        "entities/curia-theatre-of-pompey.md",
+        "entities/praetorian-guard.md",
         "references/romes-enemies-within.md"
       ],
       "pages_updated": [],
@@ -1947,7 +1944,6 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:04:51Z",
       "pages_created": [
-        "entities/quarantine/amy-a-koenig.md",
         "references/the-fractured-voice-silence-and-power-in-imperial-roman-literature-amy-a-koenig.md"
       ],
       "pages_updated": [],
@@ -1960,8 +1956,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:04Z",
       "pages_created": [
-        "entities/quarantine/archaic-rome.md",
-        "entities/quarantine/john-north-hopkins.md",
+        "entities/archaic-rome.md",
         "references/genesis-of-roman-architecture.md"
       ],
       "pages_updated": [],
@@ -1974,8 +1969,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:18:28Z",
       "pages_created": [
-        "entities/quarantine/archaic-rome.md",
-        "entities/quarantine/john-north-hopkins.md",
+        "entities/archaic-rome.md",
         "references/genesis-of-roman-architecture.md"
       ],
       "pages_updated": [],
@@ -2058,8 +2052,7 @@
       "modified_at": "2026-10-29T06:04:54Z",
       "pages_created": [
         "concepts/architecture-monuments-literature.md",
-        "entities/quarantine/emperors-visibility-recognition.md",
-        "entities/quarantine/fertik.md",
+        "entities/emperors-visibility-recognition.md",
         "references/the-rulers-house.md"
       ],
       "pages_updated": [],
@@ -2102,12 +2095,16 @@
       "pages_created": [
         "concepts/lex-iulia-municipalis.md",
         "concepts/roman-road-system.md",
-        "entities/quarantine/cursus-publicus.md",
+        "entities/cursus-publicus.md",
         "references/traffic-and-congestion-in-the-roman-empire.md",
-        "scenarios/pompeii-traffic-regulation.md"
+        "scenarios/pompeii-traffic-regulation.md",
+        "concepts/angaria-and-transport-requisition.md",
+        "concepts/mansio-and-mutatio.md",
+        "concepts/diploma-and-evectio.md"
       ],
       "pages_updated": [
-        "entities/via-appia.md"
+        "entities/via-appia.md",
+        "entities/cursus-publicus.md"
       ],
       "project": null,
       "size_bytes": 3045464,
@@ -2171,7 +2168,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:10:01Z",
       "pages_created": [
-        "entities/quarantine/domitian.md",
+        "entities/domitian.md",
         "references/the-origins-of-roman-imperial-hunting-imagery-domitian-and-the-redefinition-of-virtus-unde.md"
       ],
       "pages_updated": [
@@ -2231,7 +2228,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:32Z",
       "pages_created": [
-        "entities/quarantine/trajans-column.md",
+        "entities/trajans-column.md",
         "references/war-and-society-in-imperial-rome.md"
       ],
       "pages_updated": [],
@@ -2244,7 +2241,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:50:55Z",
       "pages_created": [
-        "entities/quarantine/trajans-column.md",
+        "entities/trajans-column.md",
         "references/war-and-society-in-imperial-rome.md"
       ],
       "pages_updated": [
@@ -2287,8 +2284,6 @@
         "concepts/codex-justinianus.md",
         "concepts/codex-theodosianus.md",
         "concepts/coloni-colonus.md",
-        "entities/quarantine/a-j-b-sirks.md",
-        "entities/quarantine/battistella.md",
         "references/on-the-nature-of-roman-imperial-legislation-and-codifications-a-reaction-to-a-recent-appro.md"
       ],
       "pages_updated": [
@@ -2303,7 +2298,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:32:49Z",
       "pages_created": [
-        "entities/quarantine/justinian.md",
+        "entities/justinian.md",
         "references/quibus-permissum-est-iura-condere-some-ideas-on-the-origin-of-the-ius-respondendi-w-j-zwal.md"
       ],
       "pages_updated": [
@@ -2332,7 +2327,7 @@
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T05:55:23Z",
       "pages_created": [
-        "entities/quarantine/annona-frumentationes.md",
+        "entities/annona-frumentationes.md",
         "references/food-at-the-heart-of-the-empire-dietary-reconstruction-for-imperial-rome-inhabitants-flavi.md"
       ],
       "pages_updated": [
@@ -2345,7 +2340,7 @@
   },
   "stats": {
     "note": "total_pages counts pages_created entries across all sources; some pages (concept updates, cross-batch merges) are additionally recorded as pages_updated on individual source entries where applicable.",
-    "total_pages": 704,
+    "total_pages": 708,
     "total_sources_ingested": 134
   },
   "version": 1

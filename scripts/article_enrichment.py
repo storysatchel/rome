@@ -228,7 +228,7 @@ def main() -> int:
     parser.add_argument("--inventory", default="_staging/_work/inventory.jsonl")
     parser.add_argument("--output", default="_staging/_work/article-enrichment-packets.jsonl")
     parser.add_argument("--limit", type=int, default=8)
-    parser.add_argument("--pages", nargs="*", default=["entities/quarantine/*.md", "concepts/*.md", "scenarios/*.md"])
+    parser.add_argument("--pages", nargs="*", default=["entities/*.md", "concepts/*.md", "scenarios/*.md"])
     parser.add_argument("--hydration-output", default="")
     args = parser.parse_args()
     vault = Path(args.vault).resolve()

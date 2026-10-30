@@ -13,7 +13,7 @@ The `rome` Antfly table holds ~142k chunks (about 1,200 characters each) from th
 ## 1. Vault CLI (use this one)
 
 ```bash
-R="uv run --no-project --with antfly-sdk python scripts/raw_source_search.py"
+R="uv run --no-project --with antfly-sdk --with pypdf python scripts/raw_source_search.py"
 $R search . "how were consuls elected" --backend antfly --limit 10
 ```
 
@@ -21,9 +21,9 @@ Results: `{source, locator, text, snippet, score, index_scores, work_id, id, pre
 
 | Need | Flag |
 |---|---|
-| Names, titles, Latin terms: keyword only | `--exact` |
+| Names, titles, Latin terms: keyword only. Not a phrase match: every word is matched separately, and `index_scores` is empty | `--exact` |
 | Everything except one work (e.g. a book that floods the results) | `--exclude-work <work_id>` (repeatable) |
-| Only one work | `--work <work_id>` |
+| Only one work (searched in full, whatever its rank across the corpus) | `--work <work_id>` (an unknown id is an error) |
 | Read around a hit | `$R lookup "<id>" --before 2 --after 2` |
 
 `ANTFLY_URL`, `ANTFLY_TABLE` and `ANTFLY_INDEX` override the target. Keyword matching also tries ligature spellings (`pontiﬁcal`).

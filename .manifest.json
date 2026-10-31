@@ -1,5 +1,29 @@
 {
   "sources": {
+    "/home/user/Documents/gens-togata/content.yaml": {
+      "content_hash": "sha256:f782af8bd8f1b05547e55a99f98d5a1a8ad9db1396a3c90dd1ac53cec602f456",
+      "ingested_at": "2026-10-31T12:00:00Z",
+      "modified_at": "2026-10-31T18:24:25Z",
+      "pages_created": [
+        "concepts/patria-potestas.md",
+        "concepts/slavery-and-manumission.md",
+        "concepts/patronage-and-clientela.md",
+        "concepts/slave-testimony-and-torture.md",
+        "entities/garamantes.md",
+        "concepts/principate-and-high-empire.md",
+        "concepts/imperial-legions-and-auxiliaries.md",
+        "concepts/religious-pluralism-in-the-roman-empire.md",
+        "concepts/urban-crowds-and-metropolitan-population.md",
+        "concepts/roman-technology-and-military-equipment.md"
+      ],
+      "pages_updated": [
+        "entities/rome.md",
+        "concepts/roman-law-and-trials.md"
+      ],
+      "project": null,
+      "size_bytes": 305404,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/142624.pdf": {
       "content_hash": "sha256:6b0190ba94133bf6dc1cd1f378fe890150150a8d5d699e91d6b004f84909bc95",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1096,7 +1120,7 @@
       "size_bytes": 3047394,
       "source_type": "document"
     },
-    "/home/user/Documents/rome/_raw/Isabel K. Köster_2026_Stealing From the Gods.epub": {
+    "/home/user/Documents/rome/_raw/Isabel K. K\u00f6ster_2026_Stealing From the Gods.epub": {
       "content_hash": "sha256:7c61ae6815852ac4a5ae60499bf260f231315f00cee985f065e1613acc95c820",
       "ingested_at": "2026-10-29T21:45:56Z",
       "modified_at": "2026-10-29T06:07:52Z",
@@ -2340,8 +2364,8 @@
   },
   "stats": {
     "note": "total_pages counts pages_created entries across all sources; some pages (concept updates, cross-batch merges) are additionally recorded as pages_updated on individual source entries where applicable.",
-    "total_pages": 708,
-    "total_sources_ingested": 134
+    "total_pages": 718,
+    "total_sources_ingested": 135
   },
   "version": 1
 }

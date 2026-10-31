@@ -2,19 +2,25 @@
 title: Rome (the city)
 category: entities
 tags: [location-district, rome, latium, capital, geography]
-sources: ["Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic", "Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.", "van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic", "Cicero — De Amicitia, Scipio's Dream", "Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate", "Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny", "Mommsen, Theodor — The History of Rome (Books 1-5)", "Seneca — Stoic Philosophy of Seneca"]
-summary: The city of Rome itself, built on the Tiber's hills — political and ceremonial capital of the Republic, and the setting of the overwhelming majority of this wiki's scenarios.
+sources: ["Morstein-Marx, Robert — Mass Oratory and Political Power in the Late Roman Republic", "Pennell, Robert Franklin — Ancient Rome: From the Earliest Times Down to 476 A.D.", "van der Blom, Henriette — Oratory and Political Career in the Late Roman Republic", "Cicero — De Amicitia, Scipio's Dream", "Greenidge, A.H.J. — A History of Rome During the Later Republic and Early Principate", "Watts, Edward J. — Mortal Republic: How Rome Fell into Tyranny", "Mommsen, Theodor — The History of Rome (Books 1-5)", "Seneca — Stoic Philosophy of Seneca", "Storey, Glenn R. — The Population of Ancient Rome (1997)"]
+summary: The capital city of the Roman world, holding up to a million inhabitants in the High Empire across dense multi-story insulae, monumental fora, and public spectacles.
 provenance:
-  sources: 
-base_confidence: "0.55"
+  extracted: 0.8
+  inferred: 0.15
+  ambiguous: 0.05
+base_confidence: "0.75"
 lifecycle: draft
-lifecycle_changed: "2026-10-25"
+lifecycle_changed: "2026-10-31"
 tier: core
 created: "2026-10-25T00:30:00Z"
-updated: "2026-10-29T00:00:00Z"
+updated: "2026-10-31T12:00:00Z"
 relationships:
   - target: "[[entities/latium]]"
     type: part_of
+  - target: "[[concepts/principate-and-high-empire]]"
+    type: related_to
+  - target: "[[concepts/patronage-and-clientela]]"
+    type: related_to
 facets:
   domain: []
   type: ['location/district']
@@ -38,6 +44,15 @@ Rome, sited on hills along the Tiber in [[entities/latium]], was the Republic's 
 - [[entities/subura]] — a crowded, lower-status residential/commercial district.
 - [[entities/circus-maximus]] — the city's chariot-racing venue, in the valley between the Palatine and Aventine.
 - [[entities/janiculum]] — a hill across the Tiber where a flag signaled meetings of the centuriate assembly.
+
+## Metropolitan Population and Urban Conditions
+
+At its imperial zenith under the [[concepts/principate-and-high-empire|Principate and High Empire]] (1st–2nd centuries CE), the population of Rome is widely estimated at approximately one million residents (with demographic debate ranging from 450,000 to over 1.2 million).
+
+The urban mass was accommodated in:
+- **Multi-story *insulae*:** High-density tenement blocks rising four to six stories, often jerry-built with timber framing and concrete, presenting chronic hazards of fire and structural collapse (Juvenal, *Satires* 3.190–202). The wealthiest tenants occupied the ground-floor apartments (*cenacula*), while poorer residents and enslaved families were crowded into upper garrets (*cellae*).
+- **Neighborhood organization (*vici*):** The city was divided into 265 local neighborhoods (*vici*), averaging around 3,800 inhabitants per vicus, organized around local crossroads shrines (*compita*) and serviced by street-corner fountains fed by public aqueducts.
+- **Public sustenance and spectacles:** Over 200,000 citizen recipients received monthly grain dole allocations under the *annona civica*, while emperors maintained civic quiet through mass spectacles at the [[entities/circus-maximus|Circus Maximus]] and the Flavian Amphitheatre. Domestic authority inside every home rested with the [[concepts/patria-potestas|paterfamilias]], while street-level relationships were negotiated through [[concepts/patronage-and-clientela|clientela]] and trade [[concepts/roman-collegia-courts-and-dispute-resolution|collegia]].
 
 ## Appears In
 

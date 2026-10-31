@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-29T23:30:00Z"
+updated: "2026-10-31T12:00:00Z"
 ---
 
 # Hot Cache
@@ -9,9 +9,9 @@ updated: "2026-10-29T23:30:00Z"
 
 ## Recent Activity
 
+- [2026-10-31T12:00:00Z] Ingested and enriched 10 concept and entity articles supporting the Gens Togata setting: created patria-potestas, slavery-and-manumission, patronage-and-clientela, slave-testimony-and-torture, garamantes, principate-and-high-empire, imperial-legions-and-auxiliaries, religious-pluralism-in-the-roman-empire, urban-crowds-and-metropolitan-population, and roman-technology-and-military-equipment; updated entities/rome and concepts/roman-law-and-trials. Grounded against Mommsen, Cato, Seneca, Astin, Mouritsen, Mattingly, North, Mattern, Casson, and Sage.
 - [2026-10-29T23:45:00Z] Reclassified former quarantine entities: promoted 37 historical Roman entities, merged Caesar into entities/julius-caesar, deleted 11 modern scholar pages, updated links and manifest/index metadata, and removed the quarantine directory.
 - [2026-10-29T23:09:56Z] Completed vault-wide attribution refactor across all articles: modern scholarly narration ("X argues", "according to Y") was converted to direct subject-focused exposition, contested historical interpretations were preserved with precise uncertainty, and specific scholarly attributions and locators were consolidated into `## Sources` notes.
-- [2026-10-29T22:01:41Z] Re-researched 87 entity, concept, and scenario articles against underlying source sections, expanding their substance and replacing extraction lists with cohesive prose and compact source notes. Direct writes are enabled; Git is the review and rollback boundary.
 
 ## Active Threads
 

@@ -209,7 +209,7 @@ def search_antfly(query: str, limit: int = 10, sources: Iterable[str] | None = N
         raise ValueError("query must not be empty")
     client = _client(client)
     table = table or os.environ.get("ANTFLY_TABLE", "rome")
-    index = index or os.environ.get("ANTFLY_INDEX", "body_dense")
+    index = index or os.environ.get("ANTFLY_INDEX", "body_dense_nomic")
     overrides = load_overrides()
     arguments = {"full_text_search": {"match": keyword_query(query)}, "fields": FIELDS,
                  "limit": limit * (3 if dedupe_variants else 1)}

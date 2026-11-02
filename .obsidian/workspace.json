@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "7cbf3bf8c6e1c9f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a950c097ecdefb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb62e8c19a28978",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe5c32b4805e4240",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3ae481985fb0b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20d7550ef15519c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad13b35b19afadd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9dda6a7860b40a3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab8f3c4523570b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6de2cc24793c859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab2bc9d8298d884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "entities/amy-a-koenig.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "db47636af7a42f22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "entities/amy-a-koenig.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8cee0772ad7966b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f826f7882f75cc05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5dd1ba81bd514b08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "entities/amy-a-koenig.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cbb62e8c19a28978",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "entities/praetorian-guard.md",
+    "entities/trajans-column.md",
+    "entities/tiberius.md",
+    "entities/praetorian-guard.md",
+    "entities/popular-assemblies.md",
+    "entities/nero.md",
+    "entities/livia.md",
+    "entities/justinian.md",
+    "entities/imperial-cult.md",
+    "entities/fausta-flaccilla.md",
+    "entities/fasti-capitolini.md",
+    "entities/equestrian-procurators.md",
+    "entities/emperors-visibility-recognition.md",
+    "entities/emperor-imperial-government.md",
+    "entities/elagabalus-heliogabalus.md",
+    "entities/elagabal.md",
+    "entities/domitian.md",
+    "entities/diocletians-palace-at-split.md",
+    "entities/decurions.md",
+    "entities/cursus-publicus.md",
+    "entities/curia-theatre-of-pompey.md",
+    "entities/councils-decurions.md",
+    "entities/constantine-i.md",
+    "entities/coloni.md",
+    "entities/civic-archives.md",
+    "_staging/_work/EntityAttributionB-attribution-audit.json",
+    "_staging/_work/ScenarioSliceB-attribution-audit.json",
+    "_staging/_work/ScenarioSliceC-attribution-audit.json",
+    "_staging/_work/RefAFAttribution-attribution-audit.json",
+    "_staging/_work/RefGOAttribution-attribution-audit.json",
+    "_staging/_work/RefSZAttribution-attribution-audit.json",
+    "_staging/_work/RemainingAttribution-attribution-audit.json",
+    "_staging/_work/ReadableEntitiesA-research.jsonl",
+    "_staging/_work/ReadableConcepts-research.jsonl",
+    "_staging/_work/ReadableEntitiesB-research.jsonl"
+  ]
+}

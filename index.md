@@ -155,7 +155,14 @@ title: Wiki Index
 
 ## Entities
 
-**221** people/objects/groups, **117** locations (see Locations sub-index below).
+People, objects, groups and deities; locations appear in the sub-index below.
+
+- [[entities/janus|Janus]] — God of doorways and beginnings, whose shrine's closure became a symbol of peace through victory. ( #roman-religion #ritual)
+- [[entities/lares|Lares]] — Protective divinities of households, crossroads and the city. ( #roman-religion #household-cult)
+- [[entities/mithras|Mithras]] — God of Roman mystery associations, known principally through material evidence. ( #roman-religion #mithras)
+- [[entities/penates|Penates]] — Household gods associated with provisions and a public cult at Lavinium. ( #roman-religion #household-cult)
+- [[entities/theos-hypsistos|Theos Hypsistos]] — The Highest God in eastern Mediterranean inscriptions, with a contested relationship to Zeus and Jewish worship. ( #ancient-religion #roman-religion)
+- [[entities/vesta|Vesta]] — Goddess of the hearth and public fire tended by the Vestals. ( #roman-religion #vestal-virgins)
 
 - [[entities/acestes|Acestes]] — Trojan-descended king of Sicily who hosts Anchises's funeral games, backs Entellus in the boxing match, and wins the archery contest by a fiery omen rather than by hitting the target. ( #aeneid #funeral-games #sicily)
 - [[entities/aemilia-vestal-114-bc|Aemilia (Vestal Virgin, condemned 114 BC)]] — A Vestal Virgin tried and condemned by the pontifical college for incestum in December 114 BC, the first of that year's three-Vestal scandal. ( #vestal-virgins #incestum #roman-religion)

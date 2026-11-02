@@ -1,0 +1,6 @@
+{
+  "embedding": "nomic-embed-text:latest",
+  "embed_query_prefix": "",
+  "embed_doc_prefix": "",
+  "generator": "qwen3-coder-ud-q4kxl:latest"
+}

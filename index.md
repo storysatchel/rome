@@ -376,7 +376,7 @@ title: Wiki Index
 - [[entities/turnus|Turnus]] — King of the Rutulians and Aeneas's chief antagonist in the Italian war, who kills the young ally Pallas in Book X and is himself killed by Aeneas in the poem's final single combat. ( #aeneid #rutulians #latium)
 - [[entities/tusculum|Tusculum]] — Latin hill town southeast of Rome and birthplace of Cato the Elder, cited by Astin as the origin of a Roman citizen family of moderate wealth, not humble poverty. ( #tusculum #latin-towns #cato-the-elder)
 - [[entities/vestal-virgins|Vestal Virgins]] — Rome's order of six priestesses tending Vesta's sacred fire, whose unique liminal legal status let them act as state ritual agents and, by the late Republic, as independent political actors. ( #vestal-virgins #roman-religion #priesthoods)
-- [[entities/vibia-sabina|Vibia Sabina]] — Wife of the emperor Hadrian; left an inscription at the Colossus of Memnon in Egypt (AD 130) recording that she heard the statue "speak" twice. ( #imperial-woman #hadrian #egypt)
+- [[entities/vibia-sabina|Vibia Sabina]] — Hadrian's wife and Trajan's great-niece, whose marriage, imperial travels, coinage, and deification illuminate the public standing of an Augusta. ( #imperial-woman #hadrian #egypt)
 - [[entities/viridomarus|Viridomarus]] — King of the Insubrian Gauls killed in single combat by the consul M. Claudius Marcellus at Clastidium in 222 BC, triggering the award of the spolia opima. ( #insubrian-gauls #gallic-war #spolia-opima)
 - [[entities/volcens|Volcens]] — Rutulian cavalry commander who intercepts and kills Euryalus during the Book IX night raid, and is in turn killed by Nisus. ( #aeneid #night-raid #rutulians)
 

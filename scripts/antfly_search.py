@@ -209,7 +209,7 @@ def search_antfly(query: str, limit: int = 10, sources: Iterable[str] | None = N
         raise ValueError("query must not be empty")
     client = _client(client)
     table = table or os.environ.get("ANTFLY_TABLE", "rome")
-    index = index or os.environ.get("ANTFLY_INDEX", "body_dense_nomic")
+    index = index or os.environ.get("ANTFLY_INDEX", "body_dense_octen")
     overrides = load_overrides()
     arguments = {"full_text_search": {"match": keyword_query(query)}, "fields": FIELDS,
                  "limit": limit * (3 if dedupe_variants else 1)}
@@ -225,7 +225,13 @@ def search_antfly(query: str, limit: int = 10, sources: Iterable[str] | None = N
     elif sources:
         arguments["limit"] = min(limit * 10, 200)
     if not keyword_only:
-        arguments.update(semantic_search=query, indexes=[index])
+        sem_query = query
+        idx_low = index.lower()
+        if "octen" in idx_low and not query.lower().startswith("query:"):
+            sem_query = f"query: {query}"
+        elif "nomic" in idx_low and not query.lower().startswith("search_query:"):
+            sem_query = f"search_query: {query}"
+        arguments.update(semantic_search=sem_query, indexes=[index])
     response = client.query(table, **arguments)
     hits = response.responses[0].hits.hits
     return hits_to_results(hits, overrides, sources, limit, dedupe_variants, works, exclude_works,

@@ -13,6 +13,20 @@ uv run --no-project --with antfly-sdk --with pypdf python scripts/raw_source_sea
 
 The corpus is a local Antfly server (`rome` table, hybrid semantic + keyword search). If it is unreachable the command fails; do not substitute guesses. `--backend sqlite` is the lexical fallback and needs `raw_source_search.py index` first. Use these scripts, not the bare `antfly` CLI: the scripts default `ANTFLY_URL`, while `antfly lookup` with the variable unset prints nothing and exits 0.
 
+### Antfly LLM Model Policy
+
+Antfly agents (`retrieval`, `query-builder`) run against local Ollama models (`http://172.17.0.1:11434/v1` from Docker). The workstation uses a two-tier model policy:
+
+1. **Default interactive generator:** `bakeoff-qwen3-coder-q5kxl:latest`
+   - Use for routine searches, query-builder planning, and quick fact retrieval.
+   - `.env` records this as `ANTFLY_GENERATOR`; clients must explicitly pass it to Antfly.
+
+2. **Deep Historiographical Synthesis Engine:** `hf.co/bartowski/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF:Q4_K_S` or `Swift-Qwen3.8-27B:Q4_K_M`
+   - Use for: complex historical synthesis, reconciling conflicting secondary sources (e.g. demographic census debates), and multi-hop historiographical queries.
+   - Local benchmark results favor these models for some synthesis and tool-calling workloads; results depend on the workload and configuration.
+   - **Critical Invariant:** Always pass `"max_tokens": 4096` in the generator payload. Stock Antfly defaults to `max_tokens: 256`, which thinking models exhaust entirely on reasoning tokens, producing empty content (`""`).
+   - **Do not disable thinking:** Do not set `reasoning_effort: "none"`; thinking models require their internal trace for database schema introspection and query planning.
+
 ## Hits are leads, not evidence
 
 1. A hit is a passage found by similarity. It can miss the qualifier, negation or speaker in the neighbouring text. Read the chunk before and after (`lookup`) before using it.
@@ -41,4 +55,4 @@ One line per page you write or substantially revise. `queries` counts searches y
 - *A Place at the Altar* (corrupt PDF) is not indexed. Only chapters 6–7 are known from an earlier manual read. There is no Livy translation or Plutarch in the corpus, so ancient testimony arrives only through modern books.
 - PDF text has defects: missing spaces, `(cid:NN)` and private-use glyphs, broken accents, ligatures (`ﬁ`, `ﬂ`), footnote numbers glued to words, and text-file chunks split by printer slug lines. Search expands ligature spellings automatically; for other damage try variant wordings. If a prominent book returns nothing, suspect extraction quality before concluding it is silent.
 - EPUBs without a table of contents have no chapter breadcrumbs.
-- Combined scores are all small (about 0.015–0.032) and do not separate strong hits from weak ones. Judge relevance by reading, and use `index_scores` (`full_text`, `body_dense`) to see which half matched.
+- Combined scores are all small (about 0.015–0.032) and do not separate strong hits from weak ones. Judge relevance by reading, and use `index_scores` (`full_text`, `body_dense_octen`) to see which half matched.

@@ -25,13 +25,13 @@ updated: "2026-10-29T22:41:09Z"
 ---
 # Trajan’s Column
 
-Trajan’s Column combined several functions within a single monument: a sculpted account of the Dacian wars, a conspicuous landmark in Trajan’s Forum, an accessible building, and ultimately a repository for the emperor’s ashes. Its significance lay not only in the reliefs on its surface but also in its relation to the surrounding urban works.
+Trajan’s Column combined several functions within a single monument: a sculpted account of the [[entities/dacia|Dacian wars]], a conspicuous landmark in Trajan’s Forum, an accessible building, and ultimately a repository for the emperor’s ashes. Its significance lay not only in the reliefs on its surface but also in its relation to the surrounding urban works.
 
 ## A building and a sculpted war narrative
 
 The column had a chamber in its base and an internal spiral staircase lit by forty slit windows. Visitors reaching the top could look across Rome from a platform protected by a metal fence. An enormous statue of Trajan in military dress crowned the monument, reinforcing its association with imperial victory.
 
-Around the shaft, a continuous low-relief frieze narrated the Dacian campaigns. The sculpted band was about 200 metres long, with 155 scenes and approximately 2,600 figures. It linked the emperor's military image to a sustained representation of warfare rather than relying on a single isolated victory scene.
+Around the shaft, a continuous low-relief frieze narrated the [[entities/dacia|Dacian campaigns]]. The sculpted band was about 200 metres long, with 155 scenes and approximately 2,600 figures. It linked the emperor's military image to a sustained representation of warfare rather than relying on a single isolated victory scene.
 
 The base depicts captured Dacian weapons, and the circular plinth takes the form of a victor's laurel wreath. On the shaft, Trajan repeatedly appears addressing troops, receiving embassies, and directing operations. These repeated appearances can be read as making imperial leadership the explanation for victory. The representation of the Dacians is correspondingly unequal, emphasizing violence, defeat, captivity, and displacement.
 

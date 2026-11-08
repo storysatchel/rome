@@ -4,5 +4,6 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "readableLineLength": false
 }

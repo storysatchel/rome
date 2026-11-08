@@ -16,6 +16,7 @@ title: Wiki Index
 - [[concepts/auctoritas|auctoritas]] — A bounded account of auctoritas in Roman history. (#domain/political #material/culture #period/principate)
 - [[concepts/augury-divine-legitimation|augury and divine legitimation]] — A bounded account of augury and divine legitimation in Roman history. (#domain/political #period/principate #subject/propaganda)
 - [[concepts/augustan-marriage-law|Augustan marriage law]] — A bounded account of Augustan marriage law in Roman history. (#period/late-antiquity #period/principate #period/republic)
+- [[concepts/barbari|Barbari]] — The Roman legal, political, and ideological category of external peoples, defined by absence of civic law and contrasted with the gens togata. (#domain/legal #domain/political #period/principate)
 - [[concepts/bgu-4-1050-marriage-contract|BGU 4.1050 marriage contract]] — A bounded account of BGU 4.1050 marriage contract in Roman history. (#domain/economic #period/late-antiquity #period/principate)
 - [[concepts/caesarism-populism|Caesarism/populism]] — A bounded account of Caesarism/populism in Roman history. (#domain/political #period/late-republic #type/concept)
 - [[concepts/capita-bubula|Capita Bubula]] — A bounded account of Capita Bubula in Roman history. (#period/principate #subject/propaganda #type/concept)
@@ -174,6 +175,7 @@ title: Wiki Index
 - [[entities/aulus-manlius-vulso|Aulus Manlius Vulso]] — Consul of 178 BC whose defeat invading Histria prompted two tribunes to seek his recall and prosecution the following year — blocked by a colleague's veto. ( #consul #histria #military-defeat)
 - [[entities/aulus-postumius-albinus|A. Postumius Albinus (pr. by 111? BC)]] — Roman legate implicated in a disastrous 110 BC treaty with Jugurtha; possibly acquitted by, or possibly never formally tried before, the 109 BC Mamilian Commission. ( #jugurtha #mamilian-commission #roman-politician)
 - [[entities/bomilcar|Bomilcar]] — Jugurtha's most trusted agent, who organized the assassination of Massiva in Rome and was later put to death by Jugurtha for plotting his own betrayal. ( #numidia #assassin #jugurtha-agent)
+- [[entities/burebista|Burebista]] — King of the Getae and Dacians (c. 82–44 BC) who forged a unified theocratic kingdom with Deceneus, expanded across the Danube, and allied with Pompey against Caesar. ( #dacia #king #burebista #caesar)
 - [[entities/caligula|Caligula]] — Roman emperor (r. 37-41 CE) portrayed by Seneca as an arbitrary tyrant ("that second Phalaris") who ordered the execution of the Stoic Julius Canus. ( #roman-emperors #tyranny #julio-claudian)
 - [[entities/caracalla|Caracalla]] — Son and co-emperor of Septimius Severus, who jointly issued a legal rescript in AD 204 ruling against a group of Jewish merchants in a stolen-goods dispute. ( #emperor #severan-dynasty #legal-ruling)
 - [[entities/cato-the-elder|Marcus Porcius Cato (Cato the Elder / Cato the Censor)]] — Censor (234-149 BC): Astin and Gruen read his Hellenism/anti-Hellenism 'paradox' as calculated positioning; Marin and Hudson both use him as the paradigmatic exemplar of Roman virtus. ( #cato-the-elder #hellenism #virtus)
@@ -382,21 +384,23 @@ title: Wiki Index
 
 ### Locations (Province > Region > District > Building)
 
-#### Province (13)
+#### Province (15)
 
 - [[entities/achaea-greece|Achaea (Roman Greece)]] — Mainland Greece under Roman rule; home to Boeotia, Thermopylae, Epirus, and numerous individual city-states appearing throughout this wiki's scenarios. ( #location-province #achaea #greece)
 - [[entities/africa-province|Africa (Roman Province)]] — The Roman province organized from former Carthaginian territory after the Third Punic War (146 BC) — distinct from the neighboring independent kingdom of Numidia for most of the period. ( #location-province #africa #roman-province)
 - [[entities/asia-province|Asia (Roman Province)]] — Rome's wealthy western-Anatolian province, inherited from Pergamon's bequest in 133 BC, staging ground for the Mithridatic Wars and home to Mytilene. ( #location-province #asia #roman-province)
 - [[entities/britannia|Britannia]] — Roman province of Britain, governed in the 190s AD by Clodius Albinus, whose legions he led into Gaul to challenge Septimius Severus. ( #location-province #britannia #britain)
 - [[entities/cyrenaica|Cyrenaica]] — Roman province on the North African coast west of Egypt, home to the city of Cyrene and the philosopher-bishop Synesius. ( #location-province #cyrenaica #libya)
+- [[entities/dacia|Dacia (Roman Province & Kingdom)]] — The kingdom north of the Danube conquered by Trajan in 106 CE, organized as an imperial province for gold mining and defense, and evacuated under Aurelian c. 271–275 CE. ( #location-province #dacia #trajan #mining)
 - [[entities/egypt|Egypt (Ptolemaic/Roman)]] — The Nile kingdom of Egypt, Ptolemaic in the 2nd century BC and later a Roman province; seat of Alexandria, gateway to Red Sea and Indian Ocean trade. ( #location-province #egypt #ptolemaic-kingdom)
-- [[entities/gaul|Gaul (Gallia)]] — The broad Celtic-inhabited territory north and west of Italy, encompassing Roman Cisalpine Gaul (northern Italy), Transalpine/Narbonensis Gaul, and the independent Gallic lands Caesar later conquered. ( #location-province #gaul #gallia)
+- [[entities/gaul|Gaul (Gallia)]] — The broad Celtic territory encompassing Gallia Narbonensis and the Three Gauls (Lugdunensis, Belgica, Aquitania), transformed by Caesar's conquest into one of Rome's core urbanized and senatorial provinces. ( #location-province #gaul #gallia #lugdunum #tres-galliae)
 - [[entities/hispania|Hispania]] — The Iberian peninsula, divided into Hispania Citerior and Ulterior; site of Cato's quaestorship and Sertorius's breakaway regime and eventual assassination. ( #location-province #hispania #spain)
 - [[entities/illyria|Illyria (Illyricum)]] — The eastern Adriatic coastal region (modern Balkans), brought under Roman control through a series of Illyrian Wars and later the site of at least one recorded Roman military mutiny and trial. ( #location-province #illyria #illyricum)
 - [[entities/india|India (Ancient)]] — Destination of Eudoxus of Cyzicus's pioneering monsoon-guided sea voyages from Ptolemaic Egypt, source of the spice cargoes seized by Egyptian customs. ( #location-province #india #foreign-trade)
 - [[entities/italy|Italy]] — The Italian peninsula, Rome's home territory — the geographic unit under which Rome's own regions (Latium, Etruria, Campania, Samnium, Umbria, etc.) sit in this wiki's location hierarchy. ( #location-province #italy #homeland)
 - [[entities/macedonia|Macedonia (Roman Province)]] — The Roman province organized from the former Antigonid kingdom after the Macedonian Wars (168/146 BC), bordering and administratively linked to Roman Greece (Achaea). ( #location-province #macedonia #roman-province)
 - [[entities/sicilia|Sicilia (Roman Province)]] — Rome's first overseas province, organized after the First Punic War — site of Cato's quaestorship, Verres's governorship, Metellus's elephant triumph, and Scipio's Syracuse staging base. ( #location-province #sicily #roman-province)
+- [[entities/thracia|Thracia (Roman Province of Thrace)]] — Southeastern Balkan province annexed by Claudius in 46 CE from the client Odrysian kingdom, serving as a primary auxiliary military source and arterial transit corridor along the Via Diagonalis. ( #location-province #thracia #thrace #claudius #via-diagonalis)
 
 #### Region (16)
 

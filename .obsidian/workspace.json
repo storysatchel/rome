@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84a950c097ecdefb",
+        "id": "b715816fd7f06c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb62e8c19a28978",
+            "id": "afae7b89c0099de8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "entities/dacia.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "dacia"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ab8f3c4523570b95",
@@ -184,9 +189,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "cbb62e8c19a28978",
+  "active": "afae7b89c0099de8",
   "lastOpenFiles": [
-    "Untitled.md",
+    "entities/thracia.md",
+    "_lib/Sankey diagram (v10.3.0+)  Mermaid.md",
+    "entities/vibia-sabina.md",
+    "_lib/Gantt diagrams  Mermaid.md",
+    "_lib/Timeline Diagram  Mermaid.md",
+    "_lib/Timeline Diagram  Mermaid 1.md",
+    "_lib.md",
+    "_lib",
+    "entities/dacia.md",
+    "concepts/barbari.md",
+    "entities/burebista.md",
+    "AGENTS.md",
+    "scripts/__pycache__/raw_source_search.cpython-313.pyc",
+    "scripts/__pycache__/ingest_workflow.cpython-313.pyc",
+    "scripts/__pycache__/entity_resolution_engine.cpython-313.pyc",
+    "scripts/__pycache__/__init__.cpython-313.pyc",
+    "tests/__pycache__/test_raw_source_search.cpython-313-pytest-9.2.0.pyc",
+    "tests/__pycache__/test_ingestion_workflow.cpython-313-pytest-9.2.0.pyc",
+    "tests/__pycache__/test_antfly_search.cpython-313-pytest-9.2.0.pyc",
+    "tests/__pycache__/test_antfly_filters.cpython-313-pytest-9.2.0.pyc",
+    "scripts/__pycache__/antfly_search.cpython-313.pyc",
+    "entities/Plotina.md",
     "entities/praetorian-guard.md",
     "entities/trajans-column.md",
     "entities/tiberius.md",
@@ -200,27 +226,6 @@
     "entities/fasti-capitolini.md",
     "entities/equestrian-procurators.md",
     "entities/emperors-visibility-recognition.md",
-    "entities/emperor-imperial-government.md",
-    "entities/elagabalus-heliogabalus.md",
-    "entities/elagabal.md",
-    "entities/domitian.md",
-    "entities/diocletians-palace-at-split.md",
-    "entities/decurions.md",
-    "entities/cursus-publicus.md",
-    "entities/curia-theatre-of-pompey.md",
-    "entities/councils-decurions.md",
-    "entities/constantine-i.md",
-    "entities/coloni.md",
-    "entities/civic-archives.md",
-    "_staging/_work/EntityAttributionB-attribution-audit.json",
-    "_staging/_work/ScenarioSliceB-attribution-audit.json",
-    "_staging/_work/ScenarioSliceC-attribution-audit.json",
-    "_staging/_work/RefAFAttribution-attribution-audit.json",
-    "_staging/_work/RefGOAttribution-attribution-audit.json",
-    "_staging/_work/RefSZAttribution-attribution-audit.json",
-    "_staging/_work/RemainingAttribution-attribution-audit.json",
-    "_staging/_work/ReadableEntitiesA-research.jsonl",
-    "_staging/_work/ReadableConcepts-research.jsonl",
-    "_staging/_work/ReadableEntitiesB-research.jsonl"
+    "entities/emperor-imperial-government.md"
   ]
 }

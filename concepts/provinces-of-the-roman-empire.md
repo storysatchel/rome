@@ -50,14 +50,15 @@ Entries marked **[grounded]** draw their framing from Gargola; the specific impe
 - **Sicilia** [grounded] — Rome's first overseas *provincia* (First Punic War), a quiet senatorial grain-island under the Empire. (Gargola ch. 2.)
 - **Sardinia et Corsica** [grounded] — seized from Carthage; mountainous, with restive interior tribes (the *Barbaria*) never fully subdued; grain, minerals, exiles. (Gargola ch. 2.)
 - **Hispania** [grounded] — Rome's hardest early school of empire (the 197 BC boundary-marking "made little or no difference"); under the Empire split into Tarraconensis (imperial, a legion), rich senatorial Baetica (olive oil), and Lusitania. Silver and gold mines above all. (Gargola ch. 2.)
-- **Gallia** [grounded] — in the Republic an ill-defined ethnic/regional target; under the Empire Romanized senatorial Narbonensis ("Italy outside Italy") plus the imperial Three Gauls facing the Rhine, with the great altar at Lugdunum. (Gargola ch. 2.)
+- **[[entities/gaul|Gallia]]** [grounded] — in the Republic an ill-defined ethnic/regional target; under the Empire Romanized senatorial Narbonensis ("Italy outside Italy") plus the imperial Three Gauls facing the Rhine, with the great altar at Lugdunum. (Gargola ch. 2.)
 - **Africa** [grounded] — the land of destroyed Carthage; a rich senatorial grain-and-oil province (its single legion, in Numidia, oddly under imperial control). (Gargola ch. 2.)
 - **Asia** [grounded] — wealthy western Anatolia, willed to Rome by Pergamon in 133 BC; the plum senatorial province of glittering Greek cities (Ephesus, Pergamon, Smyrna), scarred by the memory of the *publicani* and Mithridates. (Gargola ch. 2.)
 - **Macedonia et Achaea** [grounded] — Greece: a military command that hardened into a standing province, peaceful and senatorial under the Empire, living on philosophy, the Games, and the great sanctuaries. (Gargola ch. 2.)
 - **Aegyptus** [background] — the emperor's private grain-domain under an equestrian prefect; hold its grain fleet and you can starve Rome. Alexandria, temples older than Rome.
 - **Syria** [background] — the great eastern military command facing Parthia (multiple legions — a usurper's dream), controlling the caravan trade (silk, spices, incense through Palmyra).
 - **Britannia** [background] — the wild northwestern frontier (invaded 43 CE), a three-legion island at the edge of the world; metals, prestige, and Boudica's memory; Hadrian's Wall imminent.
-- **Germania & the Rhine-Danube limes** [background] — the empire's armed edge and densest concentration of legions after Teutoburg (9 CE); the Danube provinces (Raetia, Noricum, Pannonia, Moesia, Trajan's new Dacia) face Germans and Sarmatians.
+- **Germania & the Rhine-Danube limes** [background] — the empire's armed edge and densest concentration of legions after Teutoburg (9 CE); the Danube provinces (Raetia, Noricum, Pannonia, Moesia, Trajan's new [[entities/dacia|Dacia]]) face Germans and Sarmatians.
+- **[[entities/thracia|Thracia]]** [background] — annexed by Claudius in 46 CE from the client Odrysian kingdom; arterial Balkan military transit corridor along the Via Diagonalis connecting Central Europe to Byzantium, and primary recruiting ground for auxiliary cohorts and cavalry alae.
 - **Iudaea** [background] — a small, turbulent eastern province of equestrian governors backed by Syria's legions; its monotheism baffled Rome, and the Temple fell in 70 CE.
 
 ## Provincial Urbanism: The City Exported

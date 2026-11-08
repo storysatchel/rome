@@ -1,0 +1,9 @@
+{
+  "version": "latest",
+  "source": "bundled",
+  "useObsidianTheme": true,
+  "useElk": true,
+  "useHandDrawn": true,
+  "replaceObsidianMermaid": true,
+  "cdnCache": null
+}

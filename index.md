@@ -4,7 +4,7 @@ title: Wiki Index
 
 # Wiki Index
 
-*This index is automatically maintained. Last updated: 2026-10-31T12:00:00Z*
+*This index is automatically maintained. Last updated: 2026-11-07T12:00:00Z*
 ## Recently Promoted Articles
 
 ### Concepts
@@ -84,6 +84,28 @@ title: Wiki Index
 - [[entities/praetorian-guard|Praetorian Guard]] — Source-grounded evidence for Praetorian Guard in the Roman historical record. (#domain/conspiracy #domain/military #domain/political)
 - [[entities/tiberius|Tiberius]] — Source-grounded evidence for Tiberius in the Roman historical record. (#domain/military #domain/political #period/late-republic)
 - [[entities/trajans-column|Trajan’s Column]] — Source-grounded evidence for Trajan’s Column in the Roman historical record. (#domain/military #domain/political #material/culture)
+- [[entities/centonarii|Centonarii]] — Heavy wool clothiers and fire-blanket makers serving as municipal fire brigades, one of the Tria Collegia Principalia.
+- [[entities/circus-factions|Circus Factions]] — The four commercial chariot racing syndicates (Whites, Reds, Blues, Greens) serving as the primary vehicle for mass crowd acclamation and imperial dialogue.
+- [[entities/collegia-compitalicia|Collegia Compitalicia]] — Neighborhood ward associations centered on crossroads shrines (compita), mobilized by Clodius and reformed by Augustus.
+- [[entities/collegium-augurum|Collegium Augurum]] — The college of augurs overseeing public auspices with constitutional power to halt legislation via obnuntiatio.
+- [[entities/collegium-pontificum|Collegium Pontificum]] — The supreme sacerdotal college headed by the Pontifex Maximus, overseeing sacred law, the calendar, and the Vestal Virgins.
+- [[entities/corpora-naviculariorum|Corpora Naviculariorum]] — Maritime shipping corporations transporting state grain to Rome from Ostia's Piazzale delle Corporazioni.
+- [[entities/cult-of-isis-in-rome|Cult of Isis in Rome]] — The Isiac cult at the Iseum Campense, featuring pastophoroi, Navigium Isidis, and imperial naturalization.
+- [[entities/dendrophori|Dendrophori]] — Commercial timber-haulers who doubled as sacred tree-bearers in the mysteries of Magna Mater and Attis.
+- [[entities/early-christian-tituli|Early Christian Tituli]] — Pre-Constantinian house churches (domus ecclesiae) and titular parish foundations in Rome.
+- [[entities/fabri-tignuarii|Fabri Tignuarii]] — The corporation of Roman carpenters and builders, the largest manufacturing guild in Rome and Ostia.
+- [[entities/familiae-gladiatoriae|Familiae Gladiatoriae]] — Gladiatorial troupes and imperial training schools (Ludus Magnus, Dacicus, Gallicus, Matutinus).
+- [[entities/fetiales|Fetiales]] — College of twenty priests handling international treaties and ritual declarations of just war.
+- [[entities/fratres-arvales|Fratres Arvales]] — Ancient 12-noble sodality revived by Augustus, celebrating sacrifice to Dea Dia and recording Acta Arvalia.
+- [[entities/jewish-community-of-rome|Jewish Community of Rome]] — The Jewish community in Trans-Tiberim with communal synagogues and ancestral legal privileges.
+- [[entities/mysteries-of-mithras|Mysteries of Mithras]] — The Roman mystery cult organized into all-male brotherhoods in subterranean mithraea.
+- [[entities/optimates|Optimates]] — The conservative aristocratic faction championing senatorial authority and ancestral custom (mos maiorum).
+- [[entities/populares|Populares]] — The reformist bloc leveraging the tribunate, plebeian assemblies, and agrarian laws.
+- [[entities/quindecimviri-sacris-faciundis|Quindecimviri Sacris Faciundis]] — The fifteen men for sacred rites, custodians of the Sibylline Books.
+- [[entities/salii|Salii]] — The two 12-man sodalities of leaping priests of Mars performing armed processions in archaic armor.
+- [[entities/septemviri-epulonum|Septemviri Epulonum]] — The seven organizers of public banquets (epulum Jovis) during state games.
+- [[entities/societates-publicanorum|Societates Publicanorum]] — Tax-farming corporations operated by equestrian syndicates with tradeable shares.
+- [[entities/sodalitates|Sodalitates]] — Elite electoral clubs weaponized for voter bribery, suppressed under the Lex Licinia and Caesar.
 
 ### Scenarios
 

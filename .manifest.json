@@ -484,6 +484,18 @@
       "size_bytes": 36817702,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Andrew Stephenson - Public Lands and Agrarian Laws of the Roman Republic [PG-12638].epub": {
+      "content_hash": "sha256:2d815ff93636162ce41386c1bf75bc66474ac0656d1c5a392b50c58953be13bd",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:02:34Z",
+      "pages_created": [
+        "references/stephenson-public-lands-agrarian-laws.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 204892,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Angelova-IvoriesAriadneIdeas-2004.pdf": {
       "content_hash": "sha256:f887cf85d8446330eb0266fd444c17f30fd3fb4d09bd9124012fcc08e5f2a612",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -612,6 +624,30 @@
       "size_bytes": 3235686,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Beness-TheatricalityDeathsC-2001.pdf": {
+      "content_hash": "sha256:47f7a855aeae9245302837dc537814b773748ab60edf84997eee3794aa9e1f8a",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:03:17Z",
+      "pages_created": [
+        "references/beness-hillard-theatricality-deaths-gracchus.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 959883,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/CAMERLENGHI-LearningRome-2018.pdf": {
+      "content_hash": "sha256:0c0efba2914dafb2e99dd815b422c4944c1b356c9f7b6d5d6b1c27a942df7eaa",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:17:47Z",
+      "pages_created": [
+        "references/camerlenghi-schelbert-learning-from-rome.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 1739961,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/COUSINS-ImperialImageBath-2016.pdf": {
       "content_hash": "sha256:f2c15c171a9624279bb234c9b2551cb24de429515bb7b9b424831f7ceffe5077",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -622,6 +658,19 @@
       "pages_updated": [],
       "project": null,
       "size_bytes": 3779959,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Cadoux-RomanCarcerAdjuncts-2008.pdf": {
+      "content_hash": "sha256:c17e08f2854e8e29b9741bb0b0d6da54e0d6a05c002aee5099737db039751c82",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:22:52Z",
+      "pages_created": [
+        "entities/carcer-and-tullianum.md",
+        "references/cadoux-roman-carcer-and-its-adjuncts.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 2467485,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/Campbell - The Ancient World (From the Dawn of History to the Conversion of Constantine).epub": {
@@ -835,6 +884,18 @@
       "size_bytes": 23031792,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Dufour_2011_Societates_Publicanorum.pdf": {
+      "content_hash": "sha256:6d3954f8b3a6f9bf5feaf3a473ed72f8b47ff3534238c3b4a74caa269dd527f9",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:41:52Z",
+      "pages_created": [
+        "references/dufour-societates-publicanorum.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 1004513,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/EBSCO-FullText-10_28_2026-1.pdf": {
       "content_hash": "sha256:19e8c744f55c01d9f81d15d7765044398f1d773dca46be9eb7ecd98fb8f8a1c3",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -950,6 +1011,79 @@
       "size_bytes": 16329434,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Ferguson, Adam - The history of the progress and termination of the Roman republic. Vol 1 (copy 2) [10718520bsb].pdf": {
+      "content_hash": "sha256:04cb84d6ca3a46a374f81ced0ad39a99c5477582d38402541bc05a3c929f0ffc",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:03:59Z",
+      "pages_created": [
+        "references/ferguson-history-roman-republic-vol-1.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 13753071,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Ferguson, Adam - The history of the progress and termination of the Roman republic. Vol 2 (copy 2) [10718521bsb].pdf": {
+      "content_hash": "sha256:b738af5cc5af45572a323bc22cb31fd99444ef4c7ced5abfee9f1638a9dc20fa",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:08Z",
+      "pages_created": [
+        "references/ferguson-history-roman-republic-vol-2.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 13399393,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Ferguson, Adam - The history of the progress and termination of the Roman republic. Vol 3 (copy 2) [10718522bsb].pdf": {
+      "content_hash": "sha256:62c1049b1433e9c03ae77f59e2189dbdf839e21477c2f3d12e46bcd01e120506",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:10Z",
+      "pages_created": [
+        "references/ferguson-history-roman-republic-vol-3.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 13762663,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Ferguson, Adam - The history of the progress and termination of the Roman republic. Vol 4 (copy 2) [10718523bsb].pdf": {
+      "content_hash": "sha256:4d9946894ab1629a381857f5ff96431d9d363ca970405fe69832da12d3ca20ea",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:11Z",
+      "pages_created": [
+        "references/ferguson-history-roman-republic-vol-4.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 17606378,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Ferguson, Adam - The history of the progress and termination of the Roman republic. Vol 5 (copy 2) [10718524bsb].pdf": {
+      "content_hash": "sha256:ce4589f995afefb8c0d8c02a1bb88f84f480dc288818acaf0e13d7b00090f311",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:22Z",
+      "pages_created": [
+        "entities/decimus-brutus-albinus.md",
+        "references/ferguson-history-roman-republic-vol-5.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 17159478,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Ferguson, Adam - The history of the progress and termination of the Roman republic. Vol 6 (copy 2) [10718525bsb].pdf": {
+      "content_hash": "sha256:44847d2b75a8ac204ca737248fc5a12931bd41e84f7c5aed5229af8ecd549204",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:31Z",
+      "pages_created": [
+        "references/ferguson-history-roman-republic-vol-6.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 14148652,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Fighting Hydra-like Luxurypdf.pdf": {
       "content_hash": "sha256:895c314bdb615947e3b686e01aba1b318e2c6764860eab707f83f2060d9b0e94",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1004,6 +1138,18 @@
       "size_bytes": 2537539,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Fronda, Michael P - Romans at War _ Soldiers, Citizens, and Society in the Roman Republic [DOAB-2012638].pdf": {
+      "content_hash": "sha256:a20744b80680806cc59e963f819fe8e5682641782879d883726d43db40a3ad1b",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:01:48Z",
+      "pages_created": [
+        "references/armstrong-fronda-romans-at-war-2020.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 13070478,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/GLB2024-2-03.pdf": {
       "content_hash": "sha256:c274fd17dd0a732b33c3d671f328314e37efce808aaba1b02b3b56c14b91aa95",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1028,6 +1174,18 @@
       "pages_updated": [],
       "project": null,
       "size_bytes": 1893233,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Garnsey-BackgroundGrainLaw-1985.pdf": {
+      "content_hash": "sha256:7631371a07840a6b3b079edff3c6e92a252abaa8929d45f759e1fed5b6898cbe",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:55:38Z",
+      "pages_created": [
+        "references/garnsey-rathbone-background-grain-law-gracchus.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 1414905,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/George Willis Botsford - The Roman assemblies from their origin to the end of theRepublic.epub": {
@@ -1066,6 +1224,54 @@
       "pages_updated": [],
       "project": null,
       "size_bytes": 16259700,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Go\u0142y\u017aniak, Pawe\u0142 - Engraved Gems and Propaganda in the Roman Republic and under Augustus [DOAB-2011016].pdf": {
+      "content_hash": "sha256:0ec21a750f790b38684453a1b3bd3ea9d69b931d9e109d684bf2a188c1d1f5c3",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:01:55Z",
+      "pages_created": [
+        "references/golyzniak-engraved-gems-propaganda-republic-augustus.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 45306379,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/HODGSON-AFADEDREFLECTION-2017.pdf": {
+      "content_hash": "sha256:3ce830b3627a03a8162f4d798873924541d5624ed2985b43ab6ddaa6c1e7caa5",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:03:20Z",
+      "pages_created": [
+        "references/hodgson-faded-reflection-gracchi-sulpicius.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 1593367,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Heitland, William Emerton - The Roman Republic. Vol 1 [1909romanrepubl01heituoft].pdf": {
+      "content_hash": "sha256:5c88a57d24b727368dec2f684d3be5e5cb20ddca8f20f55955a1e5573b94a650",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:46Z",
+      "pages_created": [
+        "references/heitland-roman-republic-vol-1.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 31118671,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Heitland, William Emerton - The Roman Republic. Vol 3 [1909romanrepubl03heituoft].pdf": {
+      "content_hash": "sha256:a7abe5614df9021c077854c738fffe365b0cdf110cb69f719e0ec2f33ee9e577",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:49Z",
+      "pages_created": [
+        "references/heitland-roman-republic-vol-3.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 42430419,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/Henriette van der Blom - Oratory and Political Career in the Late Roman Republic (Retail)(pdf).rar": {
@@ -1317,6 +1523,30 @@
       "size_bytes": 3504370,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Kennedy_2014_Cicero_Roman_Republicanism_Libertas.pdf": {
+      "content_hash": "sha256:4c2b541470ed836105654ddd000803ba64f4ebc89aea6a34bb0d6fb4445083f8",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:03:05Z",
+      "pages_created": [
+        "references/kennedy-cicero-republicanism-libertas.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 153021,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Killgrove_Montgomery_2016_All_Roads_Lead_to_Rome.pdf": {
+      "content_hash": "sha256:f6e0e6071c7d7ae998e9b86a326bd67ecd1cfee8dbaded0734653374a7db6721",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:17:24Z",
+      "pages_created": [
+        "references/killgrove-montgomery-migration-imperial-rome.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 4023720,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Kontokosta-BuildingThermaeAgrippae-2019.pdf": {
       "content_hash": "sha256:5073b8a9bf7de375cc8ad506d1eb5743a0fd28f212e19eeec799289ed70e7db4",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1349,6 +1579,20 @@
       "size_bytes": 1371791,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Liubimova_2021_Mother_Decimus_Brutus_Wife_Gaius_Gracchus.pdf": {
+      "content_hash": "sha256:75181eae5ca5392e244b42b8fcfb757c19ebcdaf5bf45301dc9ddd413f5dd581",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:46:38Z",
+      "pages_created": [
+        "entities/decimus-brutus-albinus.md",
+        "entities/sempronia.md",
+        "references/liubimova-mother-decimus-brutus-sempronia.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 330392,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Liviaepub.decrypted.epub": {
       "content_hash": "sha256:39bc36f557e3df9dabd09eb0c7455f10d9eefad11c2a57684ebb7c6f0fcc91b0",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1375,6 +1619,31 @@
       "size_bytes": 4903563,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Long, George - The decline of Roman Republic. Vol 2 [10432732bsb].pdf": {
+      "content_hash": "sha256:fab14a84dcc90e3ce51a4a64b80339c746870119e95c08d9836ed105dd733e8f",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:04:51Z",
+      "pages_created": [
+        "references/long-decline-roman-republic-vol-2.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 24474898,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/LopezRoman_2009_Publio_Clodio_lex_de_collegiis.pdf": {
+      "content_hash": "sha256:07336777ea25961ac879e67e93502e80423f9336d94ac54b646cfa8e402b4724",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:31:24Z",
+      "pages_created": [
+        "concepts/lex-clodia-de-collegiis.md",
+        "references/lopez-roman-clodio-lex-de-collegiis.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 143383,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Lucretius - On the Nature of Things.epub": {
       "content_hash": "sha256:4acd1d7f11ff503cc635eb83d77b27e8270b3ff58c0890d42d3c0e76c8276baf",
       "ingested_at": "2026-10-24T06:58:31Z",
@@ -1385,6 +1654,18 @@
       "pages_updated": [],
       "project": null,
       "size_bytes": 31481,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/MASCHEK-CensusDeductio-2018.pdf": {
+      "content_hash": "sha256:d60d65cd88d04c3530834e7e8f16f6316149410cd991a0ea42e2cdc470619a91",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:55:52Z",
+      "pages_created": [
+        "references/maschek-census-deductio-paris-relief.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 1301208,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/Mark Heerink, Esther_2025_Flavian Responses to Nero's Rome.epub": {
@@ -1419,6 +1700,31 @@
       "pages_updated": [],
       "project": null,
       "size_bytes": 17151297,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Marzano_2024_Marine_Salt_Production_Salinae.pdf": {
+      "content_hash": "sha256:9288b897e8f93918f93a0ba386a21241950d43ba642cf4b84c7669935e8e7541",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:42:08Z",
+      "pages_created": [
+        "concepts/salinae.md",
+        "references/marzano-marine-salt-production-salinae.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 556008,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/McCUNN-WHATSNAMEEVOLVING-2019.pdf": {
+      "content_hash": "sha256:e70949d129e55faf7e5336070a5d331f5292ed21735003b3f2ecb2e1a98bd0f2",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:02:53Z",
+      "pages_created": [
+        "references/mccunn-evolving-role-frumentarii.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 777248,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/Michael Kulikowski_2016_The Triumph of Empire.epub": {
@@ -1830,6 +2136,18 @@
       "size_bytes": 921663,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Roman Livesepub.decrypted.epub": {
+      "content_hash": "sha256:11b07528da948ec29fe827d6d64266e27552dde466bd33b1ae7b1a03a7711d46",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:00:22Z",
+      "pages_created": [
+        "references/plutarch-roman-lives-waterfield-stadter.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 3723893,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Rome's Enemies Withinepub.decrypted.epub": {
       "content_hash": "sha256:ed09f5a83e311d3dcc67a83debc3ebb96443fb1ba49b4da01bb570afc2754a6f",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1871,6 +2189,54 @@
       ],
       "project": null,
       "size_bytes": 3933635,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/RoseMarySheldon_2005_12TheRomansecretservi_IntelligenceActivitie.pdf": {
+      "content_hash": "sha256:1efd1a5b26bdb43c7169b753f67d1fbad88794322bce39fec29a8268e6e80a14",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:08:32Z",
+      "pages_created": [
+        "references/sheldon-secret-service-frumentarii.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 734573,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/RoseMarySheldon_2005_13Bigbrotheriswatchin_IntelligenceActivitie.pdf": {
+      "content_hash": "sha256:2356185c1cfd9aaac143e7f9b60396449688f98a65385153ffcb92723eef1c7d",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:10:01Z",
+      "pages_created": [
+        "references/sheldon-big-brother-agentes-in-rebus.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 957649,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/RoseMarySheldon_2005_1Trustinthegodsbutver_IntelligenceActivitie.pdf": {
+      "content_hash": "sha256:9d10f9738a6987b8db8f017e1ab9c8b13a1f9f3ebb9ea19ab822fbfc5191b4a9",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:12:38Z",
+      "pages_created": [
+        "references/sheldon-trust-gods-early-intelligence.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 1468044,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/RoseMarySheldon_2005_Introductionintellige_IntelligenceActivitie.pdf": {
+      "content_hash": "sha256:b4a09bd6f2e2e1bd10c7a6d4ee11e5e11803b2682959d77fe553a133d917f50c",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:10:54Z",
+      "pages_created": [
+        "references/sheldon-intelligence-ancient-modern.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 589861,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/Saskia Roselaar - Public Land in the Roman Republic. A Social and Economic History of Ager Publicus in Italy, 396-89 BC (Oxford Studies in Roman Society & Law)(pdf).rar": {
@@ -1935,6 +2301,18 @@
       "size_bytes": 21056610,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/SherwinWhite-LexRepetundarumPolitical-1982.pdf": {
+      "content_hash": "sha256:95d5352fed2b466a5daf1688980834e58beb2c11b1b14c34439800a382d2a9a2",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T04:59:56Z",
+      "pages_created": [
+        "references/sherwin-white-lex-repetundarum-gracchus.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 2331346,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Susan P. Mattern_1999_Rome and the Enemy.epub": {
       "content_hash": "sha256:5c628f5b5aed723a8ebca68142747b4fc3983c0935ee7f011095bf17d21d4311",
       "ingested_at": "2026-10-29T21:45:56Z",
@@ -1947,6 +2325,18 @@
       "pages_updated": [],
       "project": null,
       "size_bytes": 6093693,
+      "source_type": "document"
+    },
+    "/home/user/Documents/rome/_raw/Tenney Frank - Life and literature in the Roman republic [PG-69272].epub": {
+      "content_hash": "sha256:96a81e9384cbd7ca14cb7c4b1f738d4b5f1ee5c24032b391c15676d1325df856",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:02:36Z",
+      "pages_created": [
+        "references/tenney-frank-life-literature-roman-republic.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 339789,
       "source_type": "document"
     },
     "/home/user/Documents/rome/_raw/The Consul at Romepdf.pdf": {
@@ -2202,6 +2592,18 @@
       "size_bytes": 3829080,
       "source_type": "document"
     },
+    "/home/user/Documents/rome/_raw/Unknown - Cicero And The Fall Of The Roman Republic.djvu": {
+      "content_hash": "sha256:0a7ebda2ad050718d5d5677c80b48c76d523bfa2206d264b08de70472d927c8e",
+      "ingested_at": "2026-11-08T06:20:29Z",
+      "modified_at": "2026-11-08T05:01:00Z",
+      "pages_created": [
+        "references/strachan-davidson-cicero-fall-roman-republic.md"
+      ],
+      "pages_updated": [],
+      "project": null,
+      "size_bytes": 13556964,
+      "source_type": "document"
+    },
     "/home/user/Documents/rome/_raw/Virgil - The Aeneid.pdf": {
       "content_hash": "sha256:5ea43cce780c5d801d551d4f3926cc7cca29a08022bb84c16cf7df415ee93bb8",
       "ingested_at": "2026-10-24T23:02:16Z",
@@ -2364,8 +2766,8 @@
   },
   "stats": {
     "note": "total_pages counts pages_created entries across all sources; some pages (concept updates, cross-batch merges) are additionally recorded as pages_updated on individual source entries where applicable.",
-    "total_pages": 718,
-    "total_sources_ingested": 135
+    "total_pages": 776,
+    "total_sources_ingested": 168
   },
   "version": 1
 }

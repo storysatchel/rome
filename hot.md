@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: "2026-10-31T12:00:00Z"
+updated: "2026-11-07T22:30:00Z"
 ---
 
 # Hot Cache
@@ -9,6 +9,7 @@ updated: "2026-10-31T12:00:00Z"
 
 ## Recent Activity
 
+- [2026-11-07T22:30:00Z] Completed end-to-end staged vault ingestion workflow for 33 curated sources (B00–B03): extracted candidate blocks, staged 33 comprehensive reference pages, projected 5 focused entity and concept pages (salinae, carcer-and-tullianum, lex-clodia-de-collegiis, decimus-brutus-albinus, sempronia), passed clean audit gate (38/38 ok), promoted all 38 pages, archived 33 raw sources into _raw/_archived/ with verified SHA-256 hashes, updated .manifest.json to 168 ingested sources, and updated SQLite FTS5 search index.
 - [2026-10-31T12:00:00Z] Ingested and enriched 10 concept and entity articles supporting the Gens Togata setting: created patria-potestas, slavery-and-manumission, patronage-and-clientela, slave-testimony-and-torture, garamantes, principate-and-high-empire, imperial-legions-and-auxiliaries, religious-pluralism-in-the-roman-empire, urban-crowds-and-metropolitan-population, and roman-technology-and-military-equipment; updated entities/rome and concepts/roman-law-and-trials. Grounded against Mommsen, Cato, Seneca, Astin, Mouritsen, Mattingly, North, Mattern, Casson, and Sage.
 - [2026-10-29T23:45:00Z] Reclassified former quarantine entities: promoted 37 historical Roman entities, merged Caesar into entities/julius-caesar, deleted 11 modern scholar pages, updated links and manifest/index metadata, and removed the quarantine directory.
 - [2026-10-29T23:09:56Z] Completed vault-wide attribution refactor across all articles: modern scholarly narration ("X argues", "according to Y") was converted to direct subject-focused exposition, contested historical interpretations were preserved with precise uncertainty, and specific scholarly attributions and locators were consolidated into `## Sources` notes.

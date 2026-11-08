@@ -86,6 +86,11 @@ def extract_text(path: Path) -> str:
         return result.stdout.decode("utf-8", errors="replace")
     if suffix == ".epub":
         return _extract_epub(path)
+    if suffix == ".djvu":
+        if not shutil.which("djvutxt"):
+            raise RuntimeError("djvutxt is required to index DJVU sources")
+        result = subprocess.run(["djvutxt", str(path)], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        return result.stdout.decode("utf-8", errors="replace")
     raise ValueError(f"unsupported source type: {path}")
 
 
